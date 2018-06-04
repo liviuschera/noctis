@@ -1,7 +1,5 @@
-# Change Log
-All notable changes to the "emerald" extension will be documented in this file.
+## Noctis Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## **0.0.1** - 04 Jun 2018
 
-## [Unreleased]
-- Initial release
+*  Initial release
