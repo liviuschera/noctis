@@ -1,5 +1,8 @@
 # Noctis Theme
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/liviuschera.noctis.svg)](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
+
+
 ![Noctis Screenshot](images/noctis-dark.png)
 
 ![Noctis Screenshot](images/noctis-light.png)
