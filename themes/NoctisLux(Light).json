@@ -102,11 +102,13 @@
       "tab.activeBackground": "#f5f4eb",
       "tab.activeForeground": "#1a4b51",
       "tab.border": "#eeecdd",
-      "tab.activeBorder": "#169fb1",
+      // "tab.activeBorder": "#169fb1",
       "tab.inactiveBackground": "#e1dfd1",
       "tab.inactiveForeground": "#778688",
       "tab.unfocusedActiveForeground": "#778688",
       "tab.unfocusedInactiveForeground": "#778688",
+      "tab.activeBorderTop": "#40d4e7",
+      "tab.unfocusedActiveBorderTop": "#778688",
       // ---------------------------
       // Text Colors
       // ---------------------------
@@ -326,7 +328,9 @@
       "list.hoverBackground": "#d7e7ea",
       "list.hoverForeground": "#1a4b51",
       "list.inactiveSelectionBackground": "#cadfe3",
-      "list.inactiveSelectionForeground": "#949384"
+      "list.inactiveSelectionForeground": "#949384",
+      "list.errorForeground": "#c9481d",
+      "list.warningForeground": "#c79500"
    },
    "tokenColors": [
       {

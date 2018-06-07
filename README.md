@@ -3,9 +3,9 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/liviuschera.noctis.svg)](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
 
 
-![Noctis Screenshot](images/noctis-dark.png)
+![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis-dark.png)
 
-![Noctis Screenshot](images/noctis-light.png)
+![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis-light.png)
 
 
 ## Syntax colors
