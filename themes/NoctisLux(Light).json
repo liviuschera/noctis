@@ -288,7 +288,7 @@
       "peekViewResult.lineForeground": "#87a7ab",
       "peekViewResult.matchHighlightBackground": "#d7d5c1",
       "peekViewResult.selectionBackground": "#d7d5c1",
-      "peekViewResult.selectionForeground": "#87a7ab",
+      "peekViewResult.selectionForeground": "#6a7a7c",
       "peekViewTitle.background": "#efeee6",
       "peekViewTitleDescription.foreground": "#87a7ab",
       "peekViewTitleLabel.foreground": "#e9a149",
@@ -418,7 +418,9 @@
       },
       {
          "name": "Markup - Underline",
-         "scope": ["markup.underline"],
+         "scope": [
+            "markup.underline"
+         ],
          "settings": {
             "fontStyle": "underline",
             "foreground": "#ed6494"
@@ -426,7 +428,9 @@
       },
       {
          "name": "Markup - Strike",
-         "scope": ["markup.strike"],
+         "scope": [
+            "markup.strike"
+         ],
          "settings": {
             "fontStyle": "strike",
             "foreground": "#ed6494"
@@ -482,7 +486,9 @@
       },
       {
          "name": "Markdown - Blockquote",
-         "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
+         "scope": [
+            "markup.quote punctuation.definition.blockquote.markdown"
+         ],
          "settings": {
             "background": "#e9a149",
             "foreground": "#e9a149"
@@ -490,7 +496,9 @@
       },
       {
          "name": "Markdown - Separator",
-         "scope": ["meta.separator"],
+         "scope": [
+            "meta.separator"
+         ],
          "settings": {
             "fontStyle": "bold",
             "background": "#00000050",
@@ -526,7 +534,10 @@
       },
       {
          "name": "Markup - Bold",
-         "scope": ["markup.bold", "markup.bold string"],
+         "scope": [
+            "markup.bold",
+            "markup.bold string"
+         ],
          "settings": {
             "fontStyle": "bold",
             "foreground": "#b38300"
@@ -585,7 +596,11 @@
       },
       {
          "name": "Invalid, Exception",
-         "scope": ["invalid", "invalid.illegal", "support.type.exception"],
+         "scope": [
+            "invalid",
+            "invalid.illegal",
+            "support.type.exception"
+         ],
          "settings": {
             "foreground": "#c9481d"
          }
@@ -602,7 +617,11 @@
          }
       },
       {
-         "scope": ["storage.type", "storage.type.function", "entity.name.tag"],
+         "scope": [
+            "storage.type",
+            "storage.type.function",
+            "entity.name.tag"
+         ],
          "settings": {
             "fontStyle": "none",
             "foreground": "#cc5324"
@@ -610,7 +629,10 @@
       },
       {
          "name": "Numbers, Booleans, CSS - Units",
-         "scope": ["constant.numeric", "constant.language"],
+         "scope": [
+            "constant.numeric",
+            "constant.language"
+         ],
          "settings": {
             "foreground": "#5c49e9"
          }
@@ -657,7 +679,11 @@
       },
       {
          "name": "URL",
-         "scope": ["*url*", "*link*", "*uri*"],
+         "scope": [
+            "*url*",
+            "*link*",
+            "*uri*"
+         ],
          "settings": {
             "fontStyle": "underline"
          }
@@ -707,7 +733,9 @@
       },
       {
          "name": "Bolds",
-         "scope": ["keyword"],
+         "scope": [
+            "keyword"
+         ],
          "settings": {
             "fontStyle": "bold"
          }

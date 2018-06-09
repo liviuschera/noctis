@@ -1,5 +1,9 @@
 ## Noctis Changelog
 
+## **0.2.1** - 09 Jun 2018
+
+**Change** - Adjustments to Noctis Lux theme Peak View Colors
+
 ## **0.2.0** - 08 Jun 2018
 
 **Change** - Adjusted terminal colors
@@ -15,7 +19,7 @@
 
 ## **0.0.2** - 06 Jun 2018
 
-**Add** - version badge in README
+**New** - version badge in README
 
 ## **0.0.1** - 04 Jun 2018
 
