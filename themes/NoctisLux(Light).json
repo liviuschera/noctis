@@ -6,7 +6,7 @@
       // ---------------------------
       // Editor Base Colors
       // ---------------------------
-      "selection.background": "#40d4e77a",
+      "selection.background": "#ade2eb88",
       "descriptionForeground": "#929ea0",
       "errorForeground": "#ff4000",
       "widget.shadow": "#00000055",
