@@ -330,7 +330,7 @@
       "list.inactiveSelectionBackground": "#cadfe3",
       "list.inactiveSelectionForeground": "#949384",
       "list.errorForeground": "#c9481d",
-      "list.warningForeground": "#b38300"
+      "list.warningForeground": "#ff9166"
    },
    "tokenColors": [
       {

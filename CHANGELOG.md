@@ -1,5 +1,9 @@
 ## Noctis Changelog
 
+## **0.2.3** - 12 Jun 2018
+
+**Change** - Noctis Lux' (Light) `list.warningForeground` color.
+
 ## **0.2.2** - 10 Jun 2018
 
 **Change** - Noctis Lux' (Light) `selection.background` color.
@@ -15,11 +19,12 @@
 
 ## **0.1.0** - 07 Jun 2018
 
- **New** - Added new theme colors :
-   -  `tab.activeBorderTop`: Border to the top of an active tab.
-   -  `tab.unfocusedActiveBorderTop`: Border to the top of an active tab in an unfocused group.
-   -  `list.errorForeground`: The color of items in the Explorer with errors.
-   -  `list.warningForeground`: The color of items in the Explorer with warnings.
+**New** - Added new theme colors :
+
+-  `tab.activeBorderTop`: Border to the top of an active tab.
+-  `tab.unfocusedActiveBorderTop`: Border to the top of an active tab in an unfocused group.
+-  `list.errorForeground`: The color of items in the Explorer with errors.
+-  `list.warningForeground`: The color of items in the Explorer with warnings.
 
 ## **0.0.2** - 06 Jun 2018
 
@@ -27,4 +32,4 @@
 
 ## **0.0.1** - 04 Jun 2018
 
- Initial release.
+Initial release.
