@@ -1,5 +1,9 @@
 ## Noctis Changelog
 
+## **0.2.4** - 14 Jun 2018
+
+**Fix** - syntax highlighting in .ejs files
+
 ## **0.2.3** - 12 Jun 2018
 
 **Change** - Noctis Lux' (Light) `list.warningForeground` color.

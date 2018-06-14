@@ -358,6 +358,7 @@
             "text.html.markdown",
             "markup.quote.markdown meta.paragraph.markdown",
             "punctuation.definition.list_item.markdown",
+            "keyword.begin.tag.ejs",
             "support.function.dom"
          ],
          "settings": {
@@ -712,7 +713,7 @@
          }
       },
       {
-         "name": "Italics",
+         "name": "Italic",
          "scope": [
             "modifier",
             "this",
@@ -731,12 +732,21 @@
          }
       },
       {
-         "name": "Bolds",
+         "name": "Bold",
          "scope": [
             "keyword"
          ],
          "settings": {
             "fontStyle": "bold"
+         }
+      },
+      {
+         "name": "Normal",
+         "scope": [
+            "keyword.begin.tag.ejs"
+         ],
+         "settings": {
+            "fontStyle": "none"
          }
       }
    ]
