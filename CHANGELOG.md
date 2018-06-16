@@ -1,5 +1,9 @@
 ## Noctis Changelog
 
+## **0.3.0** - 16 Jun 2018
+
+**Change** - Reworked Noctis Lux (Light) theme for better contrast
+
 ## **0.2.4** - 14 Jun 2018
 
 **Fix** - syntax highlighting in .ejs files
