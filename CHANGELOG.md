@@ -1,5 +1,9 @@
 ## Noctis Changelog
 
+## **0.3.1** - 18 Jun 2018
+
+**Change** - Tweaked Noctis Lux (Light) theme colors
+
 ## **0.3.0** - 16 Jun 2018
 
 **Change** - Reworked Noctis Lux (Light) theme for better contrast
