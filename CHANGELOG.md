@@ -1,4 +1,15 @@
-## Noctis Changelog
+#Change Log
+
+All notable changes to the Noctis theme are documented in this file.
+___
+
+## **0.4.0** - 19 Jun 2018
+**Change** - `editor.wordHighlightStrongBackground` styling
+**New** - Add `editor.wordHighlightStrongBorder` styling
+**New** - Add `editor.findRangeHighlightBorder` styling
+**New** - Add `editor.wordHighlightBorder` styling
+**New** - Add `editor.wordHighlightBackground` styling
+**New** - Add `editor.findMatchHighlightBorder` styling
 
 ## **0.3.1** - 18 Jun 2018
 
@@ -14,11 +25,11 @@
 
 ## **0.2.3** - 12 Jun 2018
 
-**Change** - Noctis Lux' (Light) `list.warningForeground` color.
+**Change** - Noctis Lux' (Light) `list.warningForeground` styling.
 
 ## **0.2.2** - 10 Jun 2018
 
-**Change** - Noctis Lux' (Light) `selection.background` color.
+**Change** - Noctis Lux' (Light) `selection.background` styling.
 
 ## **0.2.1** - 09 Jun 2018
 
@@ -31,7 +42,7 @@
 
 ## **0.1.0** - 07 Jun 2018
 
-**New** - Added new theme colors :
+**New** - Added new theme styling :
 
 -  `tab.activeBorderTop`: Border to the top of an active tab.
 -  `tab.unfocusedActiveBorderTop`: Border to the top of an active tab in an unfocused group.
