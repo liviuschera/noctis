@@ -617,7 +617,7 @@
             "variable.parameter.function.language.special.self.python"
          ],
          "settings": {
-            "foreground": "#d16e47"
+            "foreground": "#e97749"
          }
       },
       {
@@ -628,7 +628,7 @@
          ],
          "settings": {
             "fontStyle": "none",
-            "foreground": "#d16e47"
+            "foreground": "#e97749"
          }
       },
       {

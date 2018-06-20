@@ -21,7 +21,7 @@ _The color names were matched to one of the following main color hues: Red, Yell
 | Turcoise        | Blue   | ![#49d6e9](https://placehold.it/19/49d6e9/000000?text=+) `#49d6e9` | normal     | Support            |
 | Dodger Blue     | Blue   | ![#4181F5](https://placehold.it/19/4181F5/000000?text=+) `#4181F5` | normal     | Number & Boolean   |
 | Pale Violet Red | Red    | ![#df769b](https://placehold.it/19/df769b/000000?text=+) `#df769b` | __bold__   | Keyword & Operator |
-| Raw Sienna      | Brown  | ![#d16e47](https://placehold.it/19/d16e47/000000?text=+) `#d16e47` | normal     | Tag & Storage      |
+| Burnt Sienna    | Brown  | ![#e97749](https://placehold.it/19/e97749/000000?text=+) `#e97749` | normal     | Tag & Storage      |
 | Buddha Gold     | Yellow | ![#cc9900](https://placehold.it/19/cc9900/000000?text=+) `#cc9900` | _italic_   | Attribute          |
 | Maize           | Yellow | ![#e4b781](https://placehold.it/19/e4b781/000000?text=+) `#e4b781` | normal     | Variable           |
 
