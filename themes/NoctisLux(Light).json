@@ -102,7 +102,6 @@
       // ---------------------------
       "tab.activeBackground": "#fffcf5",
       "tab.activeForeground": "#1a4b51",
-      // "tab.border": "#eee9dd",
       "tab.border": "#f0e7d1",
       // "tab.activeBorder": "#169fb1",
       "tab.inactiveBackground": "#f6f1e4",
@@ -175,7 +174,7 @@
       "editorGutter.background": "#fffcf5",
       "editorGutter.addedBackground": "#8ce99a",
       "editorGutter.deletedBackground": "#ff4000",
-      "editorGutter.modifiedBackground": "#14b832",
+      "editorGutter.modifiedBackground": "#e4b781",
       // ---------------------------
       // Selelction Colors
       // ---------------------------
@@ -198,7 +197,7 @@
       "editor.lineHighlightBorder": "#d1ebef",
       "editor.rangeHighlightBackground": "#9fd6dfa1",
       "editorLink.activeForeground": "#14a5ff",
-      "editorWhitespace.foreground": "#d0dfe1",
+      "editorWhitespace.foreground": "#d0dfe1ee",
       "editorIndentGuide.background": "#d0dfe1",
       "editorIndentGuide.activeBackground": "#83a9af",
       "editorBracketMatch.background": "#169fb120",
