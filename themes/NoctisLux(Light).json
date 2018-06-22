@@ -283,10 +283,10 @@
       // Peek View Colors
       // ---------------------------
       "peekView.border": "#169fb1",
-      "peekViewEditor.background": "#fffcf5",
-      "peekViewEditor.matchHighlightBackground": "#ffa58744",
-      "peekViewEditor.matchHighlightBorder": "#ffa587ad",
-      "peekViewEditorGutter.background": "#fffcf5",
+      "peekViewEditor.background": "#fff7e5",
+      "peekViewEditor.matchHighlightBackground": "#148f9f33",
+      "peekViewEditor.matchHighlightBorder": "#148f9f79",
+      "peekViewEditorGutter.background": "#fff7e5",
       "peekViewResult.background": "#f9f5ec",
       "peekViewResult.fileForeground": "#e9a149",
       "peekViewResult.lineForeground": "#87a7ab",

@@ -2,6 +2,13 @@
 
 ---
 
+## **0.4.3** - 22 Jun 2018
+
+**Change** - Adsjusted `peekViewEditor.background` <br>
+**Change** - Adsjusted `peekViewEditor.matchHighlightBackground` <br>
+**Change** - Adsjusted `peekViewEditor.matchHighlightBorder` <br>
+**Change** - Adsjusted `peekViewEditorGutter.background` <br>
+
 ## **0.4.2** - 21 Jun 2018
 
 **Change** - Modified light theme's `editorGutter.modifiedBackground` to bring it in line with the one from the dark theme
