@@ -174,7 +174,7 @@
       "editorGutter.background": "#fffcf5",
       "editorGutter.addedBackground": "#8ce99a",
       "editorGutter.deletedBackground": "#ff4000",
-      "editorGutter.modifiedBackground": "#e4b781",
+      "editorGutter.modifiedBackground": "#e9a149",
       // ---------------------------
       // Selelction Colors
       // ---------------------------
@@ -184,8 +184,8 @@
       "editor.inactiveSelectionBackground": "#ade2eb55",
       "editor.wordHighlightStrongBackground": "#d16e4733",
       "editor.wordHighlightStrongBorder": "#d16e4766",
-      "editor.wordHighlightBackground": "#e4b78144",
-      "editor.wordHighlightBorder": "#e4b78166",
+      "editor.wordHighlightBackground": "#e9a14944",
+      "editor.wordHighlightBorder": "#e9a14966",
       "editor.findMatchBackground": "#169fb121",
       "editor.findMatchBorder": "#8ce99a65",
       "editor.findMatchHighlightBackground": "#148f9f33",
@@ -392,9 +392,6 @@
       {
          "scope": [
             "punctuation.accessor",
-            "source.python punctuation.section.function",
-            "source.python punctuation.separator.period",
-            "source.python punctuation.separator.period",
             "keyword.control",
             "constant.other.color",
             "keyword.other.template",
@@ -520,7 +517,10 @@
             "support.variable.property.dom",
             "punctuation.definition.template-expression",
             "constant.character.entity",
-            "support.function.dom"
+            "support.function.dom",
+            "constant.character.format.placeholder.other.python",
+            "support.variable.magic.python",
+            "constant.character.escape.python"
          ],
          "settings": {
             "foreground": "#b38300"
@@ -592,7 +592,8 @@
             "source.cs entity.name.type",
             "support",
             "support.other.variable",
-            "string.other.link"
+            "string.other.link",
+            "source.python meta.function-call.generic.python"
          ],
          "settings": {
             "foreground": "#00899e",
@@ -607,7 +608,7 @@
             "support.type.exception"
          ],
          "settings": {
-            "foreground": "#c9481d"
+            "foreground": "#e34e1c"
          }
       },
       {
@@ -618,7 +619,7 @@
             "variable.parameter.function.language.special.self.python"
          ],
          "settings": {
-            "foreground": "#ff5b1a"
+            "foreground": "#e97749"
          }
       },
       {
@@ -629,7 +630,7 @@
          ],
          "settings": {
             "fontStyle": "none",
-            "foreground": "#ff5b1a"
+            "foreground": "#e97749"
          }
       },
       {
@@ -679,7 +680,6 @@
             "support.function.construct"
          ],
          "settings": {
-            // "foreground": "#00c9db"
             "foreground": "#00b6c7"
          }
       },
@@ -709,7 +709,7 @@
       {
          "scope": "token.error-token",
          "settings": {
-            "foreground": "#c9481d"
+            "foreground": "#e34e1c"
          }
       },
       {
@@ -719,7 +719,7 @@
          }
       },
       {
-         "name": "Italics",
+         "name": "Italic",
          "scope": [
             "modifier",
             "this",
@@ -731,14 +731,16 @@
             "variable.language",
             "support.type.vendored",
             "support.constant.vendored",
-            "source.cs keyword.other.this"
+            "source.cs keyword.other.this",
+            "variable.parameter.function.language.special.self.python",
+            "source.python support.type.python"
          ],
          "settings": {
             "fontStyle": "italic"
          }
       },
       {
-         "name": "Bolds",
+         "name": "Bold",
          "scope": [
             "keyword"
          ],
@@ -749,7 +751,8 @@
       {
          "name": "Normal",
          "scope": [
-            "keyword.begin.tag.ejs"
+            "keyword.begin.tag.ejs",
+            "source.python meta.function.decorator.python support.type.python"
          ],
          "settings": {
             "fontStyle": "none"

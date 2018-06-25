@@ -1,6 +1,8 @@
 # Change Log
 
----
+## **0.5.0** - 25 Jun 2018
+
+**New** - Added support for Python
 
 ## **0.4.3** - 22 Jun 2018
 
