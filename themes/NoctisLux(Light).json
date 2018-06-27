@@ -363,8 +363,7 @@
             "text.html.markdown",
             "markup.quote.markdown meta.paragraph.markdown",
             "punctuation.definition.list_item.markdown",
-            "keyword.begin.tag.ejs",
-            "support.function.dom"
+            "keyword.begin.tag.ejs"
          ],
          "settings": {
             "foreground": "#1a4b51"
@@ -519,8 +518,7 @@
             "constant.character.entity",
             "support.function.dom",
             "constant.character.format.placeholder.other.python",
-            "support.variable.magic.python",
-            "constant.character.escape.python"
+            "support.variable.magic.python"
          ],
          "settings": {
             "foreground": "#b38300"
@@ -637,7 +635,8 @@
          "name": "Numbers, Booleans, CSS - Units",
          "scope": [
             "constant.numeric",
-            "constant.language"
+            "constant.language",
+            "constant.character.escape"
          ],
          "settings": {
             "foreground": "#5c49e9"
