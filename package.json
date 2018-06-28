@@ -22,7 +22,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Noctis - Lux (Light)",
+				"label": "Noctis Lux (Light)",
 				"uiTheme": "vs",
 				"path": "./themes/NoctisLux(Light).json"
 			},

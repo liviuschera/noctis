@@ -1,5 +1,9 @@
 # Change Log
 
+## **0.5.2** - 28 Jun 2018
+
+**Change** - Inherited class in JavaScript is now highlighted in Turcoise
+
 ## **0.5.1** - 27 Jun 2018
 
 **New** - Added higligting for escape characters in Python and JavaScript

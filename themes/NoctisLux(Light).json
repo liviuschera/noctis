@@ -1,6 +1,6 @@
 {
    "$schema": "vscode://schemas/color-theme",
-   "name": "Noctis - Lux (Light)",
+   "name": "Noctis Lux (Light)",
    "type": "light",
    "colors": {
       // ---------------------------
@@ -676,7 +676,8 @@
             "meta.array support.variable.property",
             "meta.objectliteral support.variable.property",
             "source.js punctuation.section.embedded",
-            "support.function.construct"
+            "support.function.construct",
+            "entity.other.inherited-class"
          ],
          "settings": {
             "foreground": "#00b6c7"

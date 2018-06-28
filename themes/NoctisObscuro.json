@@ -674,7 +674,8 @@
             "meta.array support.variable.property",
             "meta.objectliteral support.variable.property",
             "source.js punctuation.section.embedded",
-            "support.function.construct"
+            "support.function.construct",
+            "entity.other.inherited-class"
          ],
          "settings": {
             "foreground": "#49d6e9"
