@@ -11,6 +11,7 @@
       "errorForeground": "#e34e1c",
       "widget.shadow": "#00000044",
       "editor.background": "#052529",
+      // "editor.background": "#051b29",
       "editor.foreground": "#bbc3c4",
       "editorLineNumber.foreground": "#5f6b6d",
       "editorLineNumber.activeForeground": "#929ea0",
@@ -350,7 +351,8 @@
             "punctuation.definition.tag"
          ],
          "settings": {
-            "foreground": "#647e82"
+            // "foreground": "#647e82"
+            "foreground": "#5b848b"
          }
       },
       {
@@ -731,7 +733,8 @@
             "support.constant.vendored",
             "source.cs keyword.other.this",
             "variable.parameter.function.language.special.self.python",
-            "source.python support.type.python"
+            "source.python support.type.python",
+            "support.function.dom"
          ],
          "settings": {
             "fontStyle": "italic"

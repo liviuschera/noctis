@@ -1,5 +1,9 @@
 # Change Log
 
+## **0.5.3** - 28 Jun 2018
+
+**Change** Some tweaks to JavaScript highlighting.
+
 ## **0.5.2** - 28 Jun 2018
 
 **Change** - Inherited class in JavaScript is now highlighted in Turcoise

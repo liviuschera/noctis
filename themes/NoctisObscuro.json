@@ -731,7 +731,8 @@
             "support.constant.vendored",
             "source.cs keyword.other.this",
             "variable.parameter.function.language.special.self.python",
-            "source.python support.type.python"
+            "source.python support.type.python",
+            "support.function.dom"
          ],
          "settings": {
             "fontStyle": "italic"
