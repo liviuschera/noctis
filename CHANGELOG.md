@@ -1,8 +1,12 @@
 # Change Log
 
-## **0.5.3** - 28 Jun 2018
+## **0.5.4** - 1 Jul 2018
 
-**Change** Some tweaks to JavaScript highlighting.
+**Change** - Tweaked editor text selection colors.
+
+## **0.5.3** - 29 Jun 2018
+
+**Change** - Some tweaks to JavaScript highlighting.
 
 ## **0.5.2** - 28 Jun 2018
 
