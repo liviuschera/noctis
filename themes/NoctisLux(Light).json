@@ -586,8 +586,6 @@
       {
          "scope": [
             "entity.name.function",
-            "entity.name.type",
-            "source.cs entity.name.type",
             "support",
             "support.other.variable",
             "string.other.link",
@@ -663,7 +661,6 @@
          "name": "Class, Support, Annotations",
          "scope": [
             "entity.name",
-            "entity.name.type",
             "support.orther.namespace.use.php",
             "meta.use.php",
             "support.other.namespace.php",
@@ -724,7 +721,7 @@
             "modifier",
             "this",
             "comment",
-            "storage.modifier.js",
+            "storage.modifier",
             "storage.type.function",
             "punctuation.definition.comment",
             "entity.other.attribute-name",
@@ -734,6 +731,7 @@
             "source.cs keyword.other.this",
             "variable.parameter.function.language.special.self.python",
             "source.python support.type.python",
+            "entity.other.inherited-class",
             "support.function.dom"
          ],
          "settings": {

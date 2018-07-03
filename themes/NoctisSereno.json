@@ -418,9 +418,7 @@
       },
       {
          "name": "Markup - Underline",
-         "scope": [
-            "markup.underline"
-         ],
+         "scope": ["markup.underline"],
          "settings": {
             "fontStyle": "underline",
             "foreground": "#df769b"
@@ -428,9 +426,7 @@
       },
       {
          "name": "Markup - Strike",
-         "scope": [
-            "markup.strike"
-         ],
+         "scope": ["markup.strike"],
          "settings": {
             "fontStyle": "strike",
             "foreground": "#df769b"
@@ -486,9 +482,7 @@
       },
       {
          "name": "Markdown - Blockquote",
-         "scope": [
-            "markup.quote punctuation.definition.blockquote.markdown"
-         ],
+         "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
          "settings": {
             "background": "#e4b781",
             "foreground": "#e4b781"
@@ -496,9 +490,7 @@
       },
       {
          "name": "Markdown - Separator",
-         "scope": [
-            "meta.separator"
-         ],
+         "scope": ["meta.separator"],
          "settings": {
             "fontStyle": "bold",
             "background": "#00000050",
@@ -536,10 +528,7 @@
       },
       {
          "name": "Markup - Bold",
-         "scope": [
-            "markup.bold",
-            "markup.bold string"
-         ],
+         "scope": ["markup.bold", "markup.bold string"],
          "settings": {
             "fontStyle": "bold",
             "foreground": "#cc9900"
@@ -585,8 +574,6 @@
       {
          "scope": [
             "entity.name.function",
-            "entity.name.type",
-            "source.cs entity.name.type",
             "support",
             "support.other.variable",
             "string.other.link",
@@ -599,11 +586,7 @@
       },
       {
          "name": "Invalid, Exception",
-         "scope": [
-            "invalid",
-            "invalid.illegal",
-            "support.type.exception"
-         ],
+         "scope": ["invalid", "invalid.illegal", "support.type.exception"],
          "settings": {
             "foreground": "#e34e1c"
          }
@@ -620,11 +603,7 @@
          }
       },
       {
-         "scope": [
-            "storage.type",
-            "storage.type.function",
-            "entity.name.tag"
-         ],
+         "scope": ["storage.type", "storage.type.function", "entity.name.tag"],
          "settings": {
             "fontStyle": "none",
             "foreground": "#e97749"
@@ -661,7 +640,6 @@
          "name": "Class, Support, Annotations",
          "scope": [
             "entity.name",
-            "entity.name.type",
             "support.orther.namespace.use.php",
             "meta.use.php",
             "support.other.namespace.php",
@@ -683,11 +661,7 @@
       },
       {
          "name": "URL",
-         "scope": [
-            "*url*",
-            "*link*",
-            "*uri*"
-         ],
+         "scope": ["*url*", "*link*", "*uri*"],
          "settings": {
             "fontStyle": "underline"
          }
@@ -722,7 +696,7 @@
             "modifier",
             "this",
             "comment",
-            "storage.modifier.js",
+            "storage.modifier",
             "storage.type.function",
             "punctuation.definition.comment",
             "entity.other.attribute-name",
@@ -732,6 +706,7 @@
             "source.cs keyword.other.this",
             "variable.parameter.function.language.special.self.python",
             "source.python support.type.python",
+            "entity.other.inherited-class",
             "support.function.dom"
          ],
          "settings": {
@@ -740,9 +715,7 @@
       },
       {
          "name": "Bold",
-         "scope": [
-            "keyword"
-         ],
+         "scope": ["keyword"],
          "settings": {
             "fontStyle": "bold"
          }

@@ -1,5 +1,10 @@
 # Change Log
 
+## **0.5.5** - 2 Jul 2018
+
+**Change** - Italicized `entity.other.inherited-class`<br>
+**Fix** - Removed redundant scope selectors
+
 ## **0.5.4** - 1 Jul 2018
 
 **Change** - Tweaked editor text selection colors.
