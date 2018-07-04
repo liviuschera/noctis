@@ -11,7 +11,7 @@
       "errorForeground": "#ff4000",
       "widget.shadow": "#00000055",
       "editor.background": "#fffcf5",
-      "editor.foreground": "#1a4b51",
+      "editor.foreground": "#2c6972",
       "editorLineNumber.foreground": "#929ea0",
       "editorLineNumber.activeForeground": "#169fb1",
       "editorCursor.foreground": "#0092a8",
@@ -66,7 +66,7 @@
       // ---------------------------
       "dropdown.background": "#d7d5c1",
       "dropdown.border": "#d7d5c1",
-      "dropdown.foreground": "#1a4b51",
+      "dropdown.foreground": "#2c6972",
       // ---------------------------
       // Editor Marker Navigation
       // ---------------------------
@@ -88,7 +88,6 @@
       // Editor Groups and Tabs
       // ---------------------------
       "editorGroup.background": "#5f6b6d33",
-      // "editorGroup.border": "#eee9dd",
       "editorGroup.border": "#f0e7d1",
       "editorGroup.dropBackground": "#5f6b6d33",
       // ---------------------------
@@ -96,12 +95,12 @@
       // ---------------------------
       "editorGroupHeader.noTabsBackground": "#f6f1e4",
       "editorGroupHeader.tabsBackground": "#f6f1e4",
-      "editorGroupHeader.tabsBorder": "#f0e7d1",
+      "editorGroupHeader.tabsBorder": "#f6f1e4",
       // ---------------------------
       // Editor Tabs
       // ---------------------------
       "tab.activeBackground": "#fffcf5",
-      "tab.activeForeground": "#1a4b51",
+      "tab.activeForeground": "#2c6972",
       "tab.border": "#f0e7d1",
       // "tab.activeBorder": "#169fb1",
       "tab.inactiveBackground": "#f6f1e4",
@@ -125,7 +124,7 @@
       // Note: These colors are currently only supported on macOS.
       // ---------------------------
       "titleBar.activeBackground": "#f9f5ec",
-      "titleBar.activeForeground": "#1a4b51",
+      "titleBar.activeForeground": "#2c6972",
       "titleBar.inactiveBackground": "#f9f5ec",
       "titleBar.inactiveForeground": "#778688",
       // ---------------------------
@@ -205,7 +204,7 @@
       // ---------------------------
       // Code Lens
       // ---------------------------
-      "editorCodeLens.foreground": "#88c5c5",
+      "editorCodeLens.foreground": "#699bba",
       // ---------------------------
       // Integrated Terminal Colors
       // ---------------------------
@@ -226,9 +225,9 @@
       "terminal.ansiBrightCyan": "#00c9db",
       "terminal.ansiBrightWhite": "#cfffff",
       "terminal.background": "#fffcf5",
-      "terminal.foreground": "#1a4b51",
+      "terminal.foreground": "#2c6972",
       "terminalCursor.background": "#f9f5ec",
-      "terminalCursor.foreground": "#1a4b51",
+      "terminalCursor.foreground": "#2c6972",
       // ---------------------------
       // Merge
       // ---------------------------
@@ -243,13 +242,13 @@
       // Notification Colors
       // ---------------------------
       "notificationCenter.border": "#d7d5c1",
-      "notificationCenterHeader.foreground": "#1a4b51",
+      "notificationCenterHeader.foreground": "#2c6972",
       "notificationCenterHeader.background": "#d7d5c1",
       "notificationToast.border": "#d7d5c1",
-      "notifications.foreground": "#1a4b51",
+      "notifications.foreground": "#2c6972",
       "notifications.background": "#d7d5c1",
       "notifications.border": "#d7d5c1",
-      "notificationLink.foreground": "#1a4b51",
+      "notificationLink.foreground": "#2c6972",
       // ---------------------------
       // Diff
       // ---------------------------
@@ -270,7 +269,7 @@
       "extensionButton.prominentForeground": "#e5f5f5",
       "extensionButton.prominentHoverBackground": "#0cc",
       "focusBorder": "#d7d5c1",
-      "foreground": "#1a4b51",
+      "foreground": "#2c6972",
       // ---------------------------
       // Panel
       // ---------------------------
@@ -324,13 +323,13 @@
       // Lists and Trees
       // ---------------------------
       "list.activeSelectionBackground": "#bcd7dc",
-      "list.activeSelectionForeground": "#1a4b51",
+      "list.activeSelectionForeground": "#2c6972",
       "list.dropBackground": "#cdcbb2",
       "list.focusBackground": "#abcdd3",
-      "list.focusForeground": "#1a4b51",
+      "list.focusForeground": "#2c6972",
       "list.highlightForeground": "#40d4e7",
       "list.hoverBackground": "#d7e7ea",
-      "list.hoverForeground": "#1a4b51",
+      "list.hoverForeground": "#2c6972",
       "list.inactiveSelectionBackground": "#cadfe3",
       "list.inactiveSelectionForeground": "#949384",
       "list.errorForeground": "#c9481d",
@@ -351,7 +350,8 @@
             "punctuation.definition.tag"
          ],
          "settings": {
-            "foreground": "#8ca4a6"
+            // "foreground": "#7aa3a8"
+            "foreground": "#8db4b4"
          }
       },
       {
@@ -366,7 +366,7 @@
             "keyword.begin.tag.ejs"
          ],
          "settings": {
-            "foreground": "#1a4b51"
+            "foreground": "#2c6972"
          }
       },
       {
@@ -460,7 +460,8 @@
             "markup.heading.markdown punctuation.definition.heading.markdown"
          ],
          "settings": {
-            "foreground": "#e9a149"
+            // "foreground": "#e9qa149"
+            "foreground": "#eaa857"
          }
       },
       {
@@ -470,7 +471,7 @@
          ],
          "settings": {
             "fontStyle": "italic",
-            "foreground": "#e9a149"
+            "foreground": "#eaa857"
          }
       },
       {
@@ -481,7 +482,7 @@
             "markup.heading.setext.2.markdown"
          ],
          "settings": {
-            "foreground": "#e9a149",
+            "foreground": "#eaa857",
             "fontStyle": "bold"
          }
       },
@@ -491,8 +492,8 @@
             "markup.quote punctuation.definition.blockquote.markdown"
          ],
          "settings": {
-            "background": "#e9a149",
-            "foreground": "#e9a149"
+            "background": "#eaa857",
+            "foreground": "#eaa857"
          }
       },
       {
@@ -503,7 +504,7 @@
          "settings": {
             "fontStyle": "bold",
             "background": "#00000050",
-            "foreground": "#e9a149"
+            "foreground": "#eaa857"
          }
       },
       {
@@ -580,7 +581,9 @@
             "keyword.other.unit"
          ],
          "settings": {
-            "foreground": "#00899e"
+            // "foreground": "#00899e"
+            // "foreground": "#00969e"
+            "foreground": "#009e9e"
          }
       },
       {
@@ -592,7 +595,8 @@
             "source.python meta.function-call.generic.python"
          ],
          "settings": {
-            "foreground": "#00899e",
+            // "foreground": "#00969e",
+            "foreground": "#009e9e",
             "fontStyle": "none"
          }
       },
@@ -615,7 +619,8 @@
             "variable.parameter.function.language.special.self.python"
          ],
          "settings": {
-            "foreground": "#e97749"
+            // "foreground": "#e97749"
+            "foreground": "#ca4916"
          }
       },
       {
@@ -626,7 +631,7 @@
          ],
          "settings": {
             "fontStyle": "none",
-            "foreground": "#e97749"
+            "foreground": "#ca4916"
          }
       },
       {
@@ -677,7 +682,9 @@
             "entity.other.inherited-class"
          ],
          "settings": {
-            "foreground": "#00b6c7"
+            // "foreground": "#00b6c7"
+            // "foreground": "#00bdc7"
+            "foreground": "#00c7c7"
          }
       },
       {
