@@ -2,7 +2,7 @@
    /* Dark Syntax Colors */
    color: #df769b;
    color: #7060eb;
-   color: #d16e47;
+   color: #e97749;
    color: #e4b781;
    color: #cc9900;
    color: #58cc6d;
@@ -10,17 +10,36 @@
    color: #49d6e9;
    color: #647e82;
    color: #bbc3c4;
+   /* Dark Vivid Syntax Colors */
+   color: #ff80ac;
+   color: #748ffc;
+   color: #ff7842;
+   color: #ffc180;
+   color: #ccad00;
+   color: #60eb7a;
+   color: #00c2cc;
+   color: #1af4ff;
+   color: #507b95;
+   color: #becfda;
+
    /* Light Syntax Colors */
-   color: #ed6494;
+   color: #ec6594;
    color: #5c49e9;
-   color: #cc5324;
-   color: #dba057;
-   color: #b38600;
-   color: #14b832;
-   color: #00899e;
-   color: #00c9db;
-   color: #8ca4a6;
-   color: #1a4b51;
+   color: #ca4916;
+   color: #e5902a;
+   color: #b39800;
+   color: #00c724;
+   color: #009e9e;
+   color: #00c7c7;
+   color: #8db4b4;
+   color: #2c6972;
+
+   /* Extra colors */
+   color: #00cc25;
+   color: #00bfff;
+   color: #00a81f;
+   color: #009dff;
+   /* ----- */
 
    /* lighter #40d4e7 */
    /* darker  #169fb1 */

@@ -87,7 +87,7 @@
       // ---------------------------
       // Editor Groups and Tabs
       // ---------------------------
-      "editorGroup.background": "#5f6b6d33",
+      "editorGroup.emptyBackground": "#5f6b6d33",
       "editorGroup.border": "#0f1415",
       "editorGroup.dropBackground": "#5f6b6d33",
       // ---------------------------
@@ -160,14 +160,6 @@
       "editorSuggestWidget.highlightForeground": "#40d4e7",
       "editorSuggestWidget.selectedBackground": "#0e6671",
       // ---------------------------
-      // Ruler
-      // ---------------------------
-      "editorRuler.foreground": "#87FFE1",
-      "editorOverviewRuler.border": "#062e32",
-      "editorOverviewRuler.currentContentForeground": "#87FFE1",
-      "editorOverviewRuler.incomingContentForeground": "#87FFE1",
-      "editorOverviewRuler.commonContentForeground": "#87FFE1",
-      // ---------------------------
       // Gutter
       // ---------------------------
       "editorGutter.background": "#062e32",
@@ -201,6 +193,7 @@
       "editorIndentGuide.activeBackground": "#47686c",
       "editorBracketMatch.background": "#169fb122",
       "editorBracketMatch.border": "#169fb1",
+      "editorRuler.foreground": "#87FFE1",
       // ---------------------------
       // Code Lens
       // ---------------------------
@@ -228,16 +221,20 @@
       "terminal.foreground": "#bbc3c4",
       "terminalCursor.background": "#041d20",
       "terminalCursor.foreground": "#bbc3c4",
-      // // ---------------------------
-      // // Merge Conflicts
-      // // ---------------------------
-      // "merge.border": "#e4b78155",
-      // "merge.commonContentBackground": "#e4b78155",
-      // "merge.commonHeaderBackground": "#e4b78155",
-      // "merge.currentContentBackground": "#e4b78155",
-      // "merge.currentHeaderBackground": "#e4b78155",
-      // "merge.incomingContentBackground": "#e4b78155",
-      // "merge.incomingHeaderBackground": "#e4b78155",
+      // ---------------------------
+      // Merge Conflicts
+      // ---------------------------
+      "merge.border": "#062e32",
+      "merge.currentContentBackground": "#85f1ff22",
+      "merge.currentHeaderBackground": "#85f1ff44",
+      "merge.incomingContentBackground": "#9d92f222",
+      "merge.incomingHeaderBackground": "#9d92f244",
+      "merge.commonContentBackground": "#ffc18022",
+      "merge.commonHeaderBackground": "#ffc18044",
+      "editorOverviewRuler.currentContentForeground": "#85f1ff44",
+      "editorOverviewRuler.incomingContentForeground": "#9d92f244",
+      "editorOverviewRuler.commonContentForeground": "#ffc18044",
+      "editorOverviewRuler.border": "#062e32",
       // ---------------------------
       // Notification Colors
       // ---------------------------
@@ -668,25 +665,12 @@
             "support.class",
             "support.variable",
             "support.function",
-            "meta.array support.variable.property",
-            "meta.objectliteral support.variable.property",
             "source.js punctuation.section.embedded",
             "support.function.construct",
             "entity.other.inherited-class"
          ],
          "settings": {
             "foreground": "#49d6e9"
-         }
-      },
-      {
-         "name": "URL",
-         "scope": [
-            "*url*",
-            "*link*",
-            "*uri*"
-         ],
-         "settings": {
-            "fontStyle": "underline"
          }
       },
       {

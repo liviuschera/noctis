@@ -2,11 +2,11 @@
 	"name": "noctis",
 	"displayName": "Noctis",
 	"description": "Noctis is a colection of light & dark themes with a well balanced blend of warm and cold colors",
-	"version": "0.5.5",
+	"version": "0.6.0",
 	"publisher": "liviuschera",
 	"icon": "images/logo.png",
 	"engines": {
-		"vscode": "^1.23.0"
+		"vscode": "^1.25.0"
 	},
 	"galleryBanner": {
 		"color": "#052529",
@@ -17,7 +17,14 @@
 		"url": "https://github.com/liviuschera/noctis"
 	},
 	"categories": [
-		"Themes"
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Noctis",
+		"Light Theme"
 	],
 	"contributes": {
 		"themes": [
