@@ -714,7 +714,8 @@
             "variable.parameter.function.language.special.self.python",
             "source.python support.type.python",
             "support.function.dom",
-            "entity.other.inherited-class"
+            "entity.other.inherited-class",
+            "support.type.primitive"
          ],
          "settings": {
             "fontStyle": "italic"

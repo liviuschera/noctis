@@ -1,5 +1,9 @@
 # Change Log
 
+## **0.6.2**
+
+-  Italicized type annotations in TypeScript.
+
 ## **0.6.1**
 
 -  Tweaked Noctis Light theme to improve contrast.
