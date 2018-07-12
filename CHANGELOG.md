@@ -1,5 +1,10 @@
 # Change Log
 
+## **0.7.0**
+
+-  Reworked the light theme to improve contrast.
+-  Removed unnecessary scope selectors.
+
 ## **0.6.2**
 
 -  Italicized type annotations in TypeScript.

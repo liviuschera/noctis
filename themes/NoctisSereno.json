@@ -424,16 +424,6 @@
          }
       },
       {
-         "name": "Markup - Strike",
-         "scope": [
-            "markup.strike"
-         ],
-         "settings": {
-            "fontStyle": "strike",
-            "foreground": "#df769b"
-         }
-      },
-      {
          "name": "Variables, Entity Name",
          "scope": [
             "variable",
@@ -479,27 +469,6 @@
          "settings": {
             "foreground": "#e4b781",
             "fontStyle": "bold"
-         }
-      },
-      {
-         "name": "Markdown - Blockquote",
-         "scope": [
-            "markup.quote punctuation.definition.blockquote.markdown"
-         ],
-         "settings": {
-            "background": "#e4b781",
-            "foreground": "#e4b781"
-         }
-      },
-      {
-         "name": "Markdown - Separator",
-         "scope": [
-            "meta.separator"
-         ],
-         "settings": {
-            "fontStyle": "bold",
-            "background": "#00000050",
-            "foreground": "#e4b781"
          }
       },
       {
