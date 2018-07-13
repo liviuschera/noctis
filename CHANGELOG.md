@@ -1,5 +1,9 @@
 # Change Log
 
+## **0.7.1**
+
+-  Fixed contrast of `list.highlightForeground` for the dark themes.
+
 ## **0.7.0**
 
 -  Reworked the light theme to improve contrast.
