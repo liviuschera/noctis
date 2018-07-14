@@ -577,6 +577,7 @@
         "variable.language",
         "source.cs keyword.other.this",
         "markup.italic.markdown",
+        "variable.parameter.function.language.special.cls.python",
         "variable.parameter.function.language.special.self.python"
       ],
       "settings": {
@@ -682,9 +683,10 @@
         "support.constant.vendored",
         "source.cs keyword.other.this",
         "variable.parameter.function.language.special.self.python",
+        "variable.parameter.function.language.special.cls.python",
         "source.python support.type.python",
-        "entity.other.inherited-class",
         "support.function.dom",
+        "entity.other.inherited-class",
         "support.type.primitive"
       ],
       "settings": {
@@ -703,6 +705,7 @@
     {
       "name": "Normal",
       "scope": [
+        "storage.type.function.python",
         "keyword.begin.tag.ejs",
         "source.python meta.function.decorator.python support.type.python"
       ],

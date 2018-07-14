@@ -1,5 +1,11 @@
 # Change Log
 
+## **0.7.2**
+
+-  Changes and fixes in Python:
+   -  _`self`_ and _`cls`_ are properly highlighted and italicized
+   -  `def` is no longer italicized in Python.
+
 ## **0.7.1**
 
 -  Fixed contrast of `list.highlightForeground` for the dark themes.

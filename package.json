@@ -21,10 +21,11 @@
 		"Other"
 	],
 	"keywords": [
-		"Theme",
-		"Dark Theme",
-		"Noctis",
-		"Light Theme"
+		"theme",
+		"other",
+		"dark",
+		"noctis",
+		"light"
 	],
 	"contributes": {
 		"themes": [
