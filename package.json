@@ -25,19 +25,25 @@
 		"other",
 		"dark",
 		"noctis",
-		"light"
+		"light",
+		"blue"
 	],
 	"contributes": {
 		"themes": [
 			{
-				"label": "Noctis Lux (Light)",
+				"label": "Noctis Lux",
 				"uiTheme": "vs",
-				"path": "./themes/NoctisLux(Light).json"
+				"path": "./themes/NoctisLux.json"
 			},
 			{
 				"label": "Noctis",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Noctis.json"
+			},
+			{
+				"label": "Noctis Azureus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NoctisAzureus.json"
 			},
 			{
 				"label": "Noctis Obscuro",

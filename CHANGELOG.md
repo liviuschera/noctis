@@ -1,5 +1,16 @@
 # Change Log
 
+## **1.0.0**
+
+-  Major rework of all themes:
+   -  Added two colors (La Palma and Dodger Blue)
+      -  La Palma is used exclusively for string template literals
+      -  Dodger Blue for important keywords that need to stand out (like `console`, built in objects, etc.)
+   -  Active tabs are now higlighted in cyan or deep blue depending on the active theme.
+   -  DOM objects are now hoghlighted in Buddha Gold
+   -  Various other tweaks
+-  **NEW** deep blue theme: _Noctis Azureus_
+
 ## **0.7.2**
 
 -  Changes and fixes in Python:
