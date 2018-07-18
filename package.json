@@ -1,65 +1,64 @@
 {
-	"name": "noctis",
-	"displayName": "Noctis",
-	"description": "Noctis is a colection of light & dark themes with a well balanced blend of warm and cold colors",
-	"version": "1.0.0",
-	"publisher": "liviuschera",
-	"icon": "images/logo.png",
-	"engines": {
-		"vscode": "^1.25.0"
-	},
-	"galleryBanner": {
-		"color": "#052529",
-		"theme": "dark"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/liviuschera/noctis"
-	},
-	"categories": [
-		"Themes",
-		"Other"
-	],
-	"keywords": [
-		"theme",
-		"other",
-		"dark",
-		"noctis",
-		"light",
-		"blue"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Noctis Lux",
-				"uiTheme": "vs",
-				"path": "./themes/NoctisLux.json"
-			},
-			{
-				"label": "Noctis",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noctis.json"
-			},
-			{
-				"label": "Noctis Azureus",
-				"uiTheme": "vs-dark",
-				"path": "./themes/NoctisAzureus.json"
-			},
-			{
-				"label": "Noctis Obscuro",
-				"uiTheme": "vs-dark",
-				"path": "./themes/NoctisObscuro.json"
-			},
-			{
-				"label": "Noctis Sereno",
-				"uiTheme": "vs-dark",
-				"path": "./themes/NoctisSereno.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813",
-		"publisherId": "676e5383-8870-48a9-80bb-67ae23e9228c",
-		"publisherDisplayName": "Liviu Schera"
-	}
+   "name": "noctis",
+   "displayName": "Noctis",
+   "description": "Noctis is a colection of light & dark themes with a well balanced blend of warm and cold colors",
+   "version": "1.0.0",
+   "publisher": "liviuschera",
+   "icon": "images/logo.png",
+   "engines": {
+      "vscode": "^1.25.0"
+   },
+   "galleryBanner": {
+      "color": "#052529",
+      "theme": "dark"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/liviuschera/noctis"
+   },
+   "categories": [
+      "Themes",
+      "Other"
+   ],
+   "keywords": [
+      "theme",
+      "noctis",
+      "dark",
+      "light",
+      "blue"
+   ],
+   "contributes": {
+      "themes": [
+         {
+            "label": "Noctis Lux",
+            "uiTheme": "vs",
+            "path": "./themes/NoctisLux.json"
+         },
+         {
+            "label": "Noctis",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Noctis.json"
+         },
+         {
+            "label": "Noctis Azureus",
+            "uiTheme": "vs-dark",
+            "path": "./themes/NoctisAzureus.json"
+         },
+         {
+            "label": "Noctis Obscuro",
+            "uiTheme": "vs-dark",
+            "path": "./themes/NoctisObscuro.json"
+         },
+         {
+            "label": "Noctis Sereno",
+            "uiTheme": "vs-dark",
+            "path": "./themes/NoctisSereno.json"
+         }
+      ]
+   },
+   "__metadata": {
+      "id": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813",
+      "publisherId": "676e5383-8870-48a9-80bb-67ae23e9228c",
+      "publisherDisplayName": "Liviu Schera"
+   }
 }
