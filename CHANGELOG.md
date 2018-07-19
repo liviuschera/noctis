@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.1.1**
+
+-  Improved Python support
+
 ## **1.1.0**
 
 -  Improved support for `Markdown` files.

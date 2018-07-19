@@ -447,7 +447,8 @@
         "punctuation.definition.bold",
         "storage.type",
         "storage.type.function",
-        "entity.name.tag"
+        "entity.name.tag",
+        "source.python meta.function-call.python support.type.python"
       ],
       "settings": {
         "foreground": "#d13b00"
@@ -502,8 +503,7 @@
         "entity.name.function",
         "string.other.link",
         "support.type.vendored",
-        "support.other.variable",
-        "source.python meta.function-call.generic.python"
+        "support.other.variable"
       ],
       "settings": {
         "foreground": "#0095a8"
@@ -539,7 +539,10 @@
         "punctuation.definition.template-expression",
         "support.class",
         "source.js support.constant",
-        "entity.name.type"
+        "entity.name.type",
+        "storage.type.string.python",
+        "constant.character.format.placeholder.other.python",
+        "source.python support.type.python"
       ],
       "settings": {
         "foreground": "#0094f0"
