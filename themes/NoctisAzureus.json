@@ -348,7 +348,7 @@
             "punctuation.definition.tag"
          ],
          "settings": {
-            "foreground": "#5b858b"
+            "foreground": "#507b95"
          }
       },
       {
@@ -362,7 +362,7 @@
             "keyword.begin.tag.ejs"
          ],
          "settings": {
-            "foreground": "#b2cacd"
+            "foreground": "#becfda"
          }
       },
       {
@@ -467,7 +467,6 @@
             "markup.inline.raw.string.markdown"
          ],
          "settings": {
-            "fontStyle": "none",
             "foreground": "#57db6f"
          }
       },

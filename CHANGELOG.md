@@ -1,5 +1,10 @@
 # Change Log
 
+## **1.1.2**
+
+-  Fixed comments and default text colors in Noctis Azureus.
+-  Fixed italics rendering in Markdown.
+
 ## **1.1.1**
 
 -  Improved Python support

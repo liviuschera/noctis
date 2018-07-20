@@ -466,7 +466,6 @@
             "markup.inline.raw.string.markdown"
          ],
          "settings": {
-            "fontStyle": "none",
             "foreground": "#57db6f"
          }
       },
