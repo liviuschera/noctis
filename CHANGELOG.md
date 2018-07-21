@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.2.0**
+
+-  Improved PHP support
+
 ## **1.1.2**
 
 -  Fixed comments and default text colors in Noctis Azureus.
@@ -11,7 +15,7 @@
 
 ## **1.1.0**
 
--  Improved support for `Markdown` files.
+-  Improved Markdown support.
 -  Refactored theme's code.
 
 ## **1.0.0**

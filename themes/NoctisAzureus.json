@@ -410,7 +410,8 @@
             "meta.function-call.arguments",
             "meta.toc-list.id.html",
             "source.json meta.structure.dictionary.json support.type.property-name.json",
-            "markup.list"
+            "markup.list",
+            "variable.other punctuation.definition.variable.php"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -449,7 +450,8 @@
             "storage.type",
             "storage.type.function",
             "entity.name.tag",
-            "source.python meta.function-call.python support.type.python"
+            "source.python meta.function-call.python support.type.python",
+            "variable.language punctuation.definition.variable.php"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -526,7 +528,8 @@
             "markup.changed.git_gutter",
             "markup.underline.link.markdown",
             "markup.underline.link.image.markdown",
-            "markup.underline"
+            "markup.underline",
+            "meta.embedded.block meta.function storage.type.php"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -584,7 +587,8 @@
             "entity.other.attribute-name.pseudo-class",
             "entity.other.attribute-name.pseudo-element",
             "tag.decorator.js entity.name.tag.js",
-            "tag.decorator.js punctuation.definition.tag.js"
+            "tag.decorator.js punctuation.definition.tag.js",
+            "storage.type.php"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -620,7 +624,8 @@
             "markup.quote markup.bold.markdown",
             "markup.bold.markdown markup.italic.markdown string",
             "markup.italic markup.bold string",
-            "markup.quote markup.bold.markdown string"
+            "markup.quote markup.bold.markdown string",
+            "text.html punctuation.section.embedded"
          ],
          "settings": {
             "fontStyle": "bold italic"
