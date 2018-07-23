@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.2.1**
+
+-  Changed `panelTitle.activeForeground` color: #169fb1 ➡ #40d4e7
+
 ## **1.2.0**
 
 -  Improved PHP support
@@ -103,7 +107,7 @@
 
 ## **0.4.1**
 
--  replaced #d16e47 with #e97749
+-  changed color: #d16e47 ➡ #e97749
 -  updated `README`
 
 ## **0.4.0**
