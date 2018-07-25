@@ -402,7 +402,6 @@
             "support",
             "string constant.other.placeholder",
             "source.css.scss variable",
-            "variable.other.object",
             "source.cs entity.name.variable",
             "entity.name.module",
             "variable.import.parameter",

@@ -1,5 +1,10 @@
 # Change Log
 
+## **1.2.3**
+
+-  Removed unnecessary scope selectors.
+-  Increased Noctis' Lux `input.placeholderForeground` contrast: #c0c8c9 ➡ #9fabad
+
 ## **1.2.1**
 
 -  Changed `panelTitle.activeForeground` color: #169fb1 ➡ #40d4e7
