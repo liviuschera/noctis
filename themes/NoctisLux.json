@@ -358,7 +358,8 @@
         "constant.escape",
         "text.html.markdown",
         "punctuation.definition.list_item.markdown",
-        "keyword.begin.tag.ejs"
+        "keyword.begin.tag.ejs",
+        "constant.name.attribute.tag.pug"
       ],
       "settings": {
         "foreground": "#18393e"
@@ -386,7 +387,10 @@
         "entity.other.attribute-name.pseudo-class",
         "entity.other.attribute-name.pseudo-element",
         "tag.decorator.js entity.name.tag.js",
-        "tag.decorator.js punctuation.definition.tag.js"
+        "tag.decorator.js punctuation.definition.tag.js",
+        "storage.type.function.pug",
+        "text.pug storage.type",
+        "text.pug meta.tag.other"
       ],
       "settings": {
         "foreground": "#ff5792"
@@ -543,7 +547,8 @@
         "entity.name.type",
         "storage.type.string.python",
         "constant.character.format.placeholder.other.python",
-        "source.python support.type.python"
+        "source.python support.type.python",
+        "string.interpolated.pug"
       ],
       "settings": {
         "foreground": "#0094f0"
@@ -608,7 +613,8 @@
         "markdown.heading",
         "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
         "markup.heading | markup.heading entity.name",
-        "markup.heading.markdown punctuation.definition.heading.markdown"
+        "markup.heading.markdown punctuation.definition.heading.markdown",
+        "storage.type.function.pug"
       ],
       "settings": {
         "fontStyle": "bold"

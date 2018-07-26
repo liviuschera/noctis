@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.3.0**
+
+-  Added **Pug/Jade** support.
+
 ## **1.2.3**
 
 -  Removed unnecessary scope selectors.
@@ -11,20 +15,20 @@
 
 ## **1.2.0**
 
--  Improved PHP support
+-  Improved **PHP** support
 
 ## **1.1.2**
 
 -  Fixed comments and default text colors in Noctis Azureus.
--  Fixed italics rendering in Markdown.
+-  Fixed italics rendering in **Markdown**.
 
 ## **1.1.1**
 
--  Improved Python support
+-  Improved **Python** support
 
 ## **1.1.0**
 
--  Improved Markdown support.
+-  Improved **Markdown** support.
 -  Refactored theme's code.
 
 ## **1.0.0**
@@ -42,9 +46,9 @@
 
 ## **0.7.2**
 
--  Changes and fixes in Python:
+-  Changes and fixes in **Python**:
    -  _`self`_ and _`cls`_ are properly highlighted and italicized
-   -  `def` is no longer italicized in Python.
+   -  `def` is no longer italicized in **Python**.
 
 ## **0.7.1**
 
@@ -57,7 +61,7 @@
 
 ## **0.6.2**
 
--  Italicized type annotations in TypeScript.
+-  Italicized type annotations in **TypeScript**.
 
 ## **0.6.1**
 
@@ -85,19 +89,19 @@
 
 ## **0.5.3**
 
--  Tweaked JavaScript highlighting.
+-  Tweaked **JavaScript** highlighting.
 
 ## **0.5.2**
 
--  Inherited class in JavaScript is now highlighted in Turcoise
+-  Inherited class in **JavaScript** is now highlighted in Turcoise
 
 ## **0.5.1**
 
--  Added higligting for escape characters in Python and JavaScript
+-  Added higligting for escape characters in **Python** and **JavaScript**
 
 ## **0.5.0**
 
--  Added support for Python
+-  Added support for **Python**
 
 ## **0.4.3**
 
@@ -134,7 +138,7 @@
 
 ## **0.2.4**
 
--  Improved syntax highlighting in `.ejs` files
+-  Improved **EJS** support.
 
 ## **0.2.3**
 
