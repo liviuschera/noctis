@@ -100,7 +100,6 @@
       // Editor Tabs
       // ---------------------------
       "tab.activeBackground": "#07273b",
-      // "tab.activeForeground": "#ebf7ff",
       "tab.activeForeground": "#49ace9",
       "tab.border": "#0f1315",
       // "tab.activeBorder": "#49ace9",
@@ -425,14 +424,11 @@
             "constant",
             "variable.other.constant",
             "source.js support.constant",
-            "entity.other.attribute-name.class",
             "punctuation.definition.entity",
             "support.variable.property.dom",
             "constant.character.entity",
             "constant.character.format.placeholder.other.python",
             "support.variable.magic.python",
-            "text.html.basic entity.other.attribute-name.html",
-            "text.html.basic entity.other.attribute-name",
             "entity.other.attribute-name",
             "support.variable.dom",
             "markup.quote"
@@ -549,7 +545,8 @@
             "storage.type.string.python",
             "constant.character.format.placeholder.other.python",
             "source.python support.type.python",
-            "string.interpolated.pug"
+            "string.interpolated.pug",
+            "support.constant.handlebars"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -582,14 +579,10 @@
             "source.python support.type.python",
             "variable.parameter.function.language.special",
             "support.type.primitive",
-            "text.html.basic entity.other.attribute-name.html",
-            "text.html.basic entity.other.attribute-name",
             "entity.other.attribute-name",
             "support.variable.dom",
             "markup.quote",
             "markup.italic",
-            "entity.other.attribute-name.pseudo-class",
-            "entity.other.attribute-name.pseudo-element",
             "tag.decorator.js entity.name.tag.js",
             "tag.decorator.js punctuation.definition.tag.js",
             "storage.type.php"

@@ -1,5 +1,10 @@
 # Change Log
 
+## **1.3.2**
+
+-  Code refactoring
+-  Improved **Handlebars** support
+
 ## **1.3.0**
 
 -  Added **Pug/Jade** support.
