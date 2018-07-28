@@ -1,5 +1,10 @@
 # Change Log
 
+## **1.4.0**
+
+-  Added **Clojure** support
+-  Updated README
+
 ## **1.3.2**
 
 -  Code refactoring
@@ -12,11 +17,11 @@
 ## **1.2.3**
 
 -  Removed unnecessary scope selectors.
--  Increased Noctis' Lux `input.placeholderForeground` contrast: #c0c8c9 ➡ #9fabad
+-  Increased Noctis' Lux `input.placeholderForeground` contrast: #c0c8c9 &rarr; #9fabad
 
 ## **1.2.1**
 
--  Changed `panelTitle.activeForeground` color: #169fb1 ➡ #40d4e7
+-  Changed `panelTitle.activeForeground` color: #169fb1 &rarr; #40d4e7
 
 ## **1.2.0**
 
@@ -121,7 +126,7 @@
 
 ## **0.4.1**
 
--  changed color: #d16e47 ➡ #e97749
+-  changed color: #d16e47 &rarr; #e97749
 -  updated `README`
 
 ## **0.4.0**

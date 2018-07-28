@@ -359,7 +359,8 @@
             "text.html.markdown",
             "punctuation.definition.list_item.markdown",
             "keyword.begin.tag.ejs",
-            "constant.name.attribute.tag.pug"
+            "constant.name.attribute.tag.pug",
+            "source.clojure meta.symbol"
          ],
          "settings": {
             "foreground": "#b2cacd"
@@ -390,7 +391,9 @@
             "tag.decorator.js punctuation.definition.tag.js",
             "storage.type.function.pug",
             "text.pug storage.type",
-            "text.pug meta.tag.other"
+            "text.pug meta.tag.other",
+            "source.clojure storage.control",
+            "meta.expression.clojure"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -413,7 +416,8 @@
             "meta.toc-list.id.html",
             "source.json meta.structure.dictionary.json support.type.property-name.json",
             "markup.list",
-            "variable.other punctuation.definition.variable.php"
+            "variable.other punctuation.definition.variable.php",
+            "meta.var.clojure"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -450,7 +454,8 @@
             "storage.type.function",
             "entity.name.tag",
             "source.python meta.function-call.python support.type.python",
-            "variable.language punctuation.definition.variable.php"
+            "variable.language punctuation.definition.variable.php",
+            "keyword.control.clojure"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -504,7 +509,7 @@
             "entity.name.function",
             "string.other.link",
             "support.type.vendored",
-            "support.other.variable"
+            "support.other.variable",
          ],
          "settings": {
             "foreground": "#16a3b6"
@@ -528,7 +533,8 @@
             "markup.underline.link.markdown",
             "markup.underline.link.image.markdown",
             "markup.underline",
-            "meta.embedded.block meta.function storage.type.php"
+            "meta.embedded.block meta.function storage.type.php",
+            "meta.symbol.namespace.clojure"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -546,7 +552,10 @@
             "constant.character.format.placeholder.other.python",
             "source.python support.type.python",
             "string.interpolated.pug",
-            "support.constant.handlebars"
+            "support.constant.handlebars",
+            "source.clojure punctuation.section.set",
+            "source.clojure punctuation.section.metadata",
+            "entity.global.clojure"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -585,7 +594,9 @@
             "markup.italic",
             "tag.decorator.js entity.name.tag.js",
             "tag.decorator.js punctuation.definition.tag.js",
-            "storage.type.php"
+            "storage.type.php",
+            "keyword.control.clojure",
+            "source.clojure meta.symbol.dynamic"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -637,7 +648,7 @@
             "storage.type.function.python"
          ],
          "settings": {
-            "fontStyle": "none"
+            "fontStyle": ""
          }
       }
    ]
