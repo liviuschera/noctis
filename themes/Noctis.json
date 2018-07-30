@@ -340,7 +340,6 @@
          }
       },
       {
-         "name": "Comment",
          "scope": [
             "comment",
             "punctuation.definition.comment",
@@ -509,7 +508,7 @@
             "entity.name.function",
             "string.other.link",
             "support.type.vendored",
-            "support.other.variable",
+            "support.other.variable"
          ],
          "settings": {
             "foreground": "#16a3b6"
@@ -574,8 +573,6 @@
       {
          "name": "Italic",
          "scope": [
-            "modifier",
-            "this",
             "comment",
             "storage.modifier",
             "storage.type.function",

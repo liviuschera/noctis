@@ -340,7 +340,6 @@
          }
       },
       {
-         "name": "Comment",
          "scope": [
             "comment",
             "punctuation.definition.comment",
@@ -360,7 +359,8 @@
             "punctuation.definition.list_item.markdown",
             "keyword.begin.tag.ejs",
             "constant.name.attribute.tag.pug",
-            "source.clojure meta.symbol"
+            "source.clojure meta.symbol",
+            "text.html.markdown punctuation.definition.string"
          ],
          "settings": {
             "foreground": "#becfda"
@@ -574,8 +574,6 @@
       {
          "name": "Italic",
          "scope": [
-            "modifier",
-            "this",
             "comment",
             "storage.modifier",
             "storage.type.function",

@@ -1,5 +1,10 @@
 # Change Log
 
+## **1.4.1**
+
+-  Improved **Markdown** support
+-  Removed redundant code
+
 ## **1.4.0**
 
 -  Added **Clojure** support
