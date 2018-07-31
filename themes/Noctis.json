@@ -359,7 +359,9 @@
             "punctuation.definition.list_item.markdown",
             "keyword.begin.tag.ejs",
             "constant.name.attribute.tag.pug",
-            "source.clojure meta.symbol"
+            "source.clojure meta.symbol",
+            "text.html.markdown punctuation.definition.string",
+            "meta.function-call.arguments.python"
          ],
          "settings": {
             "foreground": "#b2cacd"
@@ -392,7 +394,8 @@
             "text.pug storage.type",
             "text.pug meta.tag.other",
             "source.clojure storage.control",
-            "meta.expression.clojure"
+            "meta.expression.clojure",
+            "punctuation.separator.slice.python"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -411,7 +414,6 @@
             "entity.name.module",
             "variable.import.parameter",
             "variable.other.class",
-            "meta.function-call.arguments",
             "meta.toc-list.id.html",
             "source.json meta.structure.dictionary.json support.type.property-name.json",
             "markup.list",
@@ -430,11 +432,11 @@
             "punctuation.definition.entity",
             "support.variable.property.dom",
             "constant.character.entity",
-            "constant.character.format.placeholder.other.python",
-            "support.variable.magic.python",
+            "support.variable.magic",
             "entity.other.attribute-name",
             "support.variable.dom",
-            "markup.quote"
+            "markup.quote",
+            "source.python support.type.python"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -450,11 +452,11 @@
             "punctuation.definition.italic",
             "punctuation.definition.bold",
             "storage.type",
-            "storage.type.function",
             "entity.name.tag",
-            "source.python meta.function-call.python support.type.python",
             "variable.language punctuation.definition.variable.php",
-            "keyword.control.clojure"
+            "keyword.control.clojure",
+            "storage.type.function.python",
+            "support.type.exception.python"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -508,7 +510,8 @@
             "entity.name.function",
             "string.other.link",
             "support.type.vendored",
-            "support.other.variable"
+            "support.other.variable",
+            "meta.function-call.generic.python"
          ],
          "settings": {
             "foreground": "#16a3b6"
@@ -548,26 +551,26 @@
             "source.js support.constant",
             "entity.name.type",
             "storage.type.string.python",
-            "constant.character.format.placeholder.other.python",
-            "source.python support.type.python",
             "string.interpolated.pug",
             "support.constant.handlebars",
             "source.clojure punctuation.section.set",
             "source.clojure punctuation.section.metadata",
-            "entity.global.clojure"
+            "entity.global.clojure",
+            "source.python meta.function-call.python support.type.python",
+            "constant.character.format.placeholder.other.python",
+            "entity.other.inherited-class.python"
          ],
          "settings": {
             "foreground": "#49ace9"
          }
       },
       {
-         "name": "Invalid, Exception",
          "scope": [
             "invalid",
             "invalid.illegal"
          ],
          "settings": {
-            "foreground": "#e34e1c"
+            "foreground": "#e3541c"
          }
       },
       {
@@ -616,7 +619,8 @@
             "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
             "markup.heading | markup.heading entity.name",
             "markup.heading.markdown punctuation.definition.heading.markdown",
-            "storage.type.function.pug"
+            "storage.type.function.pug",
+            "storage.type.function.python"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -641,8 +645,7 @@
          "name": "Normal",
          "scope": [
             "keyword.begin.tag.ejs",
-            "source.python meta.function.decorator.python support.type.python",
-            "storage.type.function.python"
+            "source.python meta.function.decorator.python support.type.python"
          ],
          "settings": {
             "fontStyle": ""

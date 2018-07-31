@@ -1,5 +1,10 @@
 # Change Log
 
+## **1.4.2**
+
+-  Improved **Python** support
+-  Code refactoring
+
 ## **1.4.1**
 
 -  Improved **Markdown** support
@@ -17,7 +22,7 @@
 
 ## **1.3.0**
 
--  Added **Pug/Jade** support.
+-  Added **Pug/Jade** support
 
 ## **1.2.3**
 
