@@ -2,6 +2,10 @@
 
 ## **1.4.2**
 
+-  Tweaked Noctis Lux theme
+
+## **1.4.2**
+
 -  Improved **Python** support
 -  Code refactoring
 

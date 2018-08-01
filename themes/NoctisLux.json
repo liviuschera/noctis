@@ -10,7 +10,7 @@
     "descriptionForeground": "#929ea0",
     "errorForeground": "#ff4000",
     "widget.shadow": "#00000055",
-    "editor.background": "#fff8eb",
+    "editor.background": "#fef8ec",
     "editor.foreground": "#005661",
     "editorLineNumber.foreground": "#a0abac",
     "editorLineNumber.activeForeground": "#0099ad",
@@ -19,25 +19,24 @@
     // Badge
     // ---------------------------
     "badge.background": "#0099ad",
-    "badge.foreground": "#fff8eb",
+    "badge.foreground": "#fef8ec",
     // ---------------------------
     // Activity Bar
     // ---------------------------
-    "activityBar.background": "#fff8eb",
+    "activityBar.background": "#fef8ec",
     "activityBar.dropBackground": "#0099ad65",
     "activityBar.foreground": "#0099ad",
     "activityBar.border": "#ece2c600",
     "activityBarBadge.background": "#0099ad",
-    "activityBarBadge.foreground": "#fff8eb",
+    "activityBarBadge.foreground": "#fef8ec",
     // ---------------------------
     // Sidebar
     // ---------------------------
-    "sideBar.background": "#f9f0dc",
+    "sideBar.background": "#f8efdd",
     "sideBar.foreground": "#888477",
     "sideBar.border": "#ece2c600",
-    "sideBar.dropBackground": "#f9f0dc",
+    "sideBar.dropBackground": "#f8efdd",
     "sideBarTitle.foreground": "#888477",
-    // "sideBarSectionHeader.background": "#f1e9d5",
     "sideBarSectionHeader.background": "#f0e3c2",
     "sideBarSectionHeader.foreground": "#888477",
     // ---------------------------
@@ -46,15 +45,15 @@
     "statusBar.background": "#ebe4d1",
     "statusBar.foreground": "#0099ad",
     "statusBar.border": "#ece2c600",
-    "statusBar.debuggingBackground": "#f9f0dc",
+    "statusBar.debuggingBackground": "#f8efdd",
     "statusBar.debuggingForeground": "#e9498150",
     "statusBar.debuggingBorder": "#e94981af",
     "statusBar.noFolderForeground": "#87a7ab",
-    "statusBar.noFolderBackground": "#f9f0dc",
-    "statusBar.noFolderBorder": "#f9f0dc",
+    "statusBar.noFolderBackground": "#f8efdd",
+    "statusBar.noFolderBorder": "#f8efdd",
     "statusBarItem.activeBackground": "#c3bfa2",
     "statusBarItem.hoverBackground": "#d3d0bb",
-    "statusBarItem.prominentBackground": "#f9f0dc",
+    "statusBarItem.prominentBackground": "#f8efdd",
     "statusBarItem.prominentHoverBackground": "#00c6e0",
     // ---------------------------
     // Button
@@ -77,11 +76,11 @@
     // ---------------------------
     // Errors and warnings
     // ---------------------------
-    "editorError.border": "#fff8eb",
+    "editorError.border": "#fef8ec",
     "editorError.foreground": "#ff4000",
-    "editorWarning.border": "#fff8eb",
+    "editorWarning.border": "#fef8ec",
     "editorWarning.foreground": "#e69533",
-    "editorInfo.border": "#fff8eb",
+    "editorInfo.border": "#fef8ec",
     "editorInfo.foreground": "#00c6e0",
     "editorHint.border": "#58cc6d80",
     "editorHint.foreground": "#58cc6d",
@@ -100,7 +99,7 @@
     // ---------------------------
     // Editor Tabs
     // ---------------------------
-    "tab.activeBackground": "#fff8eb",
+    "tab.activeBackground": "#fef8ec",
     "tab.activeForeground": "#0099ad",
     "tab.border": "#e6d7b2",
     // "tab.activeBorder": "#0099ad",
@@ -113,31 +112,31 @@
     // ---------------------------
     // Text Colors
     // ---------------------------
-    "textBlockQuote.background": "#f9f0dc",
+    "textBlockQuote.background": "#f8efdd",
     "textBlockQuote.border": "#00899e",
-    "textCodeBlock.background": "#f9f0dc",
+    "textCodeBlock.background": "#f8efdd",
     "textLink.activeForeground": "#00c6e0",
     "textLink.foreground": "#00c6e0",
     "textPreformat.foreground": "#e9a149",
-    "textSeparator.foreground": "#f9f0dc",
+    "textSeparator.foreground": "#f8efdd",
     // ---------------------------
     // Title bar
     // Note: These colors are currently only supported on macOS.
     // ---------------------------
-    "titleBar.activeBackground": "#f9f0dc",
+    "titleBar.activeBackground": "#f8efdd",
     "titleBar.activeForeground": "#005661",
-    "titleBar.inactiveBackground": "#f9f0dc",
+    "titleBar.inactiveBackground": "#f8efdd",
     "titleBar.inactiveForeground": "#888477",
     // ---------------------------
     // Welcome Page
     // ---------------------------
-    "walkThrough.embeddedEditorBackground": "#f9f0dc",
-    "welcomePage.buttonBackground": "#f9f0dc",
+    "walkThrough.embeddedEditorBackground": "#f8efdd",
+    "welcomePage.buttonBackground": "#f8efdd",
     "welcomePage.buttonHoverBackground": "#e1e0d0",
     // ---------------------------
     // Input Control
     // ---------------------------
-    "input.background": "#fff8eb",
+    "input.background": "#fef8ec",
     "input.border": "#f2edde",
     "input.foreground": "#6a7a7c",
     "input.placeholderForeground": "#9fabad",
@@ -163,7 +162,7 @@
     // ---------------------------
     // Gutter
     // ---------------------------
-    "editorGutter.background": "#fff8eb",
+    "editorGutter.background": "#fef8ec",
     "editorGutter.addedBackground": "#8ce99a",
     "editorGutter.deletedBackground": "#ff4000",
     "editorGutter.modifiedBackground": "#e9a149",
@@ -218,14 +217,14 @@
     "terminal.ansiBrightMagenta": "#ff337a",
     "terminal.ansiBrightCyan": "#00c9db",
     "terminal.ansiBrightWhite": "#cfffff",
-    "terminal.background": "#fff8eb",
+    "terminal.background": "#fef8ec",
     "terminal.foreground": "#005661",
-    "terminalCursor.background": "#fff8eb",
+    "terminalCursor.background": "#fef8ec",
     "terminalCursor.foreground": "#005661",
     // ---------------------------
     // Merge
     // ---------------------------
-    "merge.border": "#fff8eb",
+    "merge.border": "#fef8ec",
     "merge.currentContentBackground": "#33e7ff33",
     "merge.currentHeaderBackground": "#33e7ff55",
     "merge.incomingContentBackground": "#9d92f233",
@@ -235,7 +234,7 @@
     "editorOverviewRuler.currentContentForeground": "#33e7ff55",
     "editorOverviewRuler.incomingContentForeground": "#9d92f255",
     "editorOverviewRuler.commonContentForeground": "#ffc18055",
-    "editorOverviewRuler.border": "#fff8eb",
+    "editorOverviewRuler.border": "#fef8ec",
     // ---------------------------
     // Notification Colors
     // ---------------------------
@@ -257,8 +256,8 @@
     // ---------------------------
     // Debug
     // ---------------------------
-    "debugToolBar.background": "#f9f0dc",
-    "debugExceptionWidget.background": "#f9f0dc",
+    "debugToolBar.background": "#f8efdd",
+    "debugExceptionWidget.background": "#f8efdd",
     "debugExceptionWidget.border": "#00899e",
     // ---------------------------
     // Extensions
@@ -271,7 +270,7 @@
     // ---------------------------
     // Panel
     // ---------------------------
-    "panel.background": "#fff8eb",
+    "panel.background": "#fef8ec",
     "panel.border": "#00c6e0",
     "panelTitle.activeBorder": "#00c6e0",
     "panelTitle.activeForeground": "#0099ad",
@@ -284,13 +283,13 @@
     "peekViewEditor.matchHighlightBackground": "#148f9f33",
     "peekViewEditor.matchHighlightBorder": "#148f9f79",
     "peekViewEditorGutter.background": "#fff7e5",
-    "peekViewResult.background": "#f9f0dc",
+    "peekViewResult.background": "#f8efdd",
     "peekViewResult.fileForeground": "#e9a149",
     "peekViewResult.lineForeground": "#87a7ab",
     "peekViewResult.matchHighlightBackground": "#f2edde",
     "peekViewResult.selectionBackground": "#f2edde",
     "peekViewResult.selectionForeground": "#6a7a7c",
-    "peekViewTitle.background": "#f9f0dc",
+    "peekViewTitle.background": "#f8efdd",
     "peekViewTitleDescription.foreground": "#87a7ab",
     "peekViewTitleLabel.foreground": "#e9a149",
     // ---------------------------
@@ -347,7 +346,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#84aeae"
+        "foreground": "#8ca6a6"
       }
     },
     {
@@ -365,7 +364,7 @@
         "meta.function-call.arguments.python"
       ],
       "settings": {
-        "foreground": "#005661"
+        "foreground": "#004d57"
       }
     },
     {
@@ -422,7 +421,7 @@
         "meta.var.clojure"
       ],
       "settings": {
-        "foreground": "#e67e00"
+        "foreground": "#ee962b"
       }
     },
     {
@@ -440,7 +439,7 @@
         "source.python support.type.python"
       ],
       "settings": {
-        "foreground": "#cc9900"
+        "foreground": "#b38600"
       }
     },
     {
