@@ -5,7 +5,8 @@
 
 ## Supported Languages
 
-- Clojure &larr; **NEW**
+- C#  &larr; **NEW**
+- Clojure
 - CSS
    - Sass/SCSS
 - HTML

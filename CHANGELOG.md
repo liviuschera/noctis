@@ -1,5 +1,9 @@
 # Change Log
 
+## **1.5.0**
+
+-  Added **C#** support.
+
 ## **1.4.2**
 
 -  Tweaked Noctis Lux theme

@@ -361,7 +361,8 @@
         "constant.name.attribute.tag.pug",
         "source.clojure meta.symbol",
         "text.html.markdown punctuation.definition.string",
-        "meta.function-call.arguments.python"
+        "meta.function-call.arguments.python",
+        "entity.name.tag.localname.cs"
       ],
       "settings": {
         "foreground": "#004d57"
@@ -410,7 +411,6 @@
         "support",
         "string constant.other.placeholder",
         "source.css.scss variable",
-        "source.cs entity.name.variable",
         "entity.name.module",
         "variable.import.parameter",
         "variable.other.class",
@@ -418,7 +418,10 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json",
         "markup.list",
         "variable.other punctuation.definition.variable.php",
-        "meta.var.clojure"
+        "meta.var.clojure",
+        "source.cs entity.name.variable",
+        "entity.name.type.namespace.cs",
+        "entity.name.variable.parameter.cs"
       ],
       "settings": {
         "foreground": "#ee962b"
@@ -436,7 +439,9 @@
         "entity.other.attribute-name",
         "support.variable.dom",
         "markup.quote",
-        "source.python support.type.python"
+        "source.python support.type.python",
+        "keyword.type.cs",
+        "keyword.other.var.cs"
       ],
       "settings": {
         "foreground": "#b38600"
@@ -445,7 +450,6 @@
     {
       "scope": [
         "variable.language",
-        "source.cs keyword.other.this",
         "variable.parameter.function.language.special",
         "markup.bold",
         "markup.italic",
@@ -536,7 +540,8 @@
         "markup.underline.link.image.markdown",
         "markup.underline",
         "meta.embedded.block meta.function storage.type.php",
-        "meta.symbol.namespace.clojure"
+        "meta.symbol.namespace.clojure",
+        "storage.type.cs"
       ],
       "settings": {
         "foreground": "#00bdd6"
@@ -558,7 +563,8 @@
         "entity.global.clojure",
         "source.python meta.function-call.python support.type.python",
         "constant.character.format.placeholder.other.python",
-        "entity.other.inherited-class.python"
+        "entity.other.inherited-class.python",
+        "source.cs punctuation.definition.interpolation"
       ],
       "settings": {
         "foreground": "#0094f0"
@@ -584,7 +590,6 @@
         "variable.language",
         "support.type.vendored",
         "support.constant.vendored",
-        "source.cs keyword.other.this",
         "source.python support.type.python",
         "variable.parameter.function.language.special",
         "support.type.primitive",
@@ -596,7 +601,10 @@
         "tag.decorator.js punctuation.definition.tag.js",
         "storage.type.php",
         "keyword.control.clojure",
-        "source.clojure meta.symbol.dynamic"
+        "source.clojure meta.symbol.dynamic",
+        "entity.name.variable.parameter.cs",
+        "keyword.type.cs",
+        "keyword.other.var.cs"
       ],
       "settings": {
         "fontStyle": "italic"
@@ -645,7 +653,8 @@
       "name": "Normal",
       "scope": [
         "keyword.begin.tag.ejs",
-        "source.python meta.function.decorator.python support.type.python"
+        "source.python meta.function.decorator.python support.type.python",
+        "source.cs keyword.other"
       ],
       "settings": {
         "fontStyle": ""
