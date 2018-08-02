@@ -1,8 +1,12 @@
 # Change Log
 
-## **1.5.0**
+## **2.0.1**
 
--  Added **C#** support.
+-  Changed style and color of `this` and `base` in **C#**
+
+## **2.0.0**
+
+-  Added **C#** support
 
 ## **1.4.2**
 

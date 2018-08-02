@@ -460,7 +460,9 @@
             "variable.language punctuation.definition.variable.php",
             "keyword.control.clojure",
             "storage.type.function.python",
-            "support.type.exception.python"
+            "support.type.exception.python",
+            "keyword.other.this.cs",
+            "keyword.other.base.cs"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -604,7 +606,9 @@
             "source.clojure meta.symbol.dynamic",
             "entity.name.variable.parameter.cs",
             "keyword.type.cs",
-            "keyword.other.var.cs"
+            "keyword.other.var.cs",
+            "keyword.other.this.cs",
+            "keyword.other.base.cs"
          ],
          "settings": {
             "fontStyle": "italic"
