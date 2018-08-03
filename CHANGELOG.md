@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.0.2**
+
+-  Changed style and color of `var` in **C#**
+
 ## **2.0.1**
 
 -  Changed style and color of `this` and `base` in **C#**

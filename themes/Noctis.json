@@ -440,8 +440,7 @@
             "support.variable.dom",
             "markup.quote",
             "source.python support.type.python",
-            "keyword.type.cs",
-            "keyword.other.var.cs"
+            "keyword.type.cs"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -462,7 +461,8 @@
             "storage.type.function.python",
             "support.type.exception.python",
             "keyword.other.this.cs",
-            "keyword.other.base.cs"
+            "keyword.other.base.cs",
+            "keyword.other.var.cs"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -606,7 +606,6 @@
             "source.clojure meta.symbol.dynamic",
             "entity.name.variable.parameter.cs",
             "keyword.type.cs",
-            "keyword.other.var.cs",
             "keyword.other.this.cs",
             "keyword.other.base.cs"
          ],
@@ -659,6 +658,7 @@
             "keyword.begin.tag.ejs",
             "source.python meta.function.decorator.python support.type.python",
             "source.cs keyword.other",
+            "keyword.other.var.cs"
          ],
          "settings": {
             "fontStyle": ""
