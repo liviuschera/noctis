@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.0.3**
+
+-  Changed f-string's color in **Python**
+-  Updated README
+
 ## **2.0.2**
 
 -  Changed style and color of `var` in **C#**

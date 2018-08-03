@@ -486,7 +486,8 @@
       {
          "scope": [
             "string.template",
-            "punctuation.definition.string.template"
+            "punctuation.definition.string.template",
+            "string.interpolated.python string.quoted.single.python"
          ],
          "settings": {
             "foreground": "#15ac31"

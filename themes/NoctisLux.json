@@ -484,7 +484,11 @@
          }
       },
       {
-         "scope": ["string.template", "punctuation.definition.string.template"],
+         "scope": [
+            "string.template",
+            "punctuation.definition.string.template",
+            "string.interpolated.python string.quoted.single.python"
+         ],
          "settings": {
             "foreground": "#00991c"
          }
@@ -570,7 +574,10 @@
          }
       },
       {
-         "scope": ["invalid", "invalid.illegal"],
+         "scope": [
+            "invalid",
+            "invalid.illegal"
+         ],
          "settings": {
             "foreground": "#ff530f"
          }
