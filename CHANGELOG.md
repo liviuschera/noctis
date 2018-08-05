@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.0.4**
+
+-  Improved **TypeScript** support
+-  Updated README
+
 ## **2.0.3**
 
 -  Changed f-string's color in **Python**

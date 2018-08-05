@@ -440,7 +440,11 @@
             "support.variable.dom",
             "markup.quote",
             "source.python support.type.python",
-            "keyword.type.cs"
+            "keyword.type.cs",
+            "support.type.primitive.ts",
+            "meta.type.parameters.ts entity.name.type.ts",
+            "meta.type.annotation.ts entity.name.type.ts",
+            "source.ts punctuation.definition.typeparameters",
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -525,7 +529,6 @@
          }
       },
       {
-         "name": "Class, Support, Annotations",
          "scope": [
             "entity.name",
             "entity.other",
@@ -595,7 +598,6 @@
             "support.constant.vendored",
             "source.python support.type.python",
             "variable.parameter.function.language.special",
-            "support.type.primitive",
             "entity.other.attribute-name",
             "support.variable.dom",
             "markup.quote",
@@ -608,7 +610,8 @@
             "entity.name.variable.parameter.cs",
             "keyword.type.cs",
             "keyword.other.this.cs",
-            "keyword.other.base.cs"
+            "keyword.other.base.cs",
+            "meta.type.annotation.ts entity.name.type.ts",
          ],
          "settings": {
             "fontStyle": "italic"
@@ -632,7 +635,8 @@
             "markup.heading | markup.heading entity.name",
             "markup.heading.markdown punctuation.definition.heading.markdown",
             "storage.type.function.pug",
-            "storage.type.function.python"
+            "storage.type.function.python",
+            "source.ts punctuation.definition.typeparameters"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -647,7 +651,8 @@
             "markup.bold.markdown markup.italic.markdown string",
             "markup.italic markup.bold string",
             "markup.quote markup.bold.markdown string",
-            "text.html punctuation.section.embedded"
+            "text.html punctuation.section.embedded",
+            "support.type.primitive.ts",
          ],
          "settings": {
             "fontStyle": "bold italic"

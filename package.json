@@ -25,7 +25,9 @@
       "noctis",
       "dark",
       "light",
-      "blue"
+      "blue",
+      "italic",
+      "bold"
    ],
    "contributes": {
       "themes": [
@@ -60,5 +62,6 @@
       "id": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813",
       "publisherId": "676e5383-8870-48a9-80bb-67ae23e9228c",
       "publisherDisplayName": "Liviu Schera"
-   }
+   },
+   "dependencies": {}
 }

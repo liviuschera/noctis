@@ -64,7 +64,7 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Horizon         | Blue   | ![#5b858b](https://placehold.it/15/5b858b/000000?text=+) `#5b858b` | _italic_   | Comments                                       |
 | Eastern Blue    | Blue   | ![#16a3b6](https://placehold.it/15/16a3b6/000000?text=+) `#16a3b6` | normal     | Function Calls                                 |
 | Turcoise        | Blue   | ![#49d6e9](https://placehold.it/15/49d6e9/000000?text=+) `#49d6e9` | normal     | Method Calls                                   |
-| Dodger Blue     | Blue   | ![#33b1ff](https://placehold.it/15/33b1ff/000000?text=+) `#33b1ff` | normal     | Pieces of code that needs to stand out         |
+| Dodger Blue     | Blue   | ![#33b1ff](https://placehold.it/15/33b1ff/000000?text=+) `#33b1ff` | normal     | Code that needs to stand out                   |
 | Cornflower Blue | Blue   | ![#7060eb](https://placehold.it/15/7060eb/000000?text=+) `#7060eb` | normal     | Number & Boolean                               |
 | Pale Violet Red | Red    | ![#df769b](https://placehold.it/15/df769b/000000?text=+) `#df769b` | __bold__   | Keywords & Operators                           |
 | Burnt Sienna    | Brown  | ![#e97749](https://placehold.it/15/e97749/000000?text=+) `#e97749` | mixed      | Function & Variable Declaration, Tags & `this` |
