@@ -441,10 +441,11 @@
             "markup.quote",
             "source.python support.type.python",
             "keyword.type.cs",
-            "support.type.primitive.ts",
-            "meta.type.parameters.ts entity.name.type.ts",
-            "meta.type.annotation.ts entity.name.type.ts",
-            "source.ts punctuation.definition.typeparameters",
+            "support.type.primitive",
+            "meta.type.parameters entity.name.type",
+            "meta.type.annotation entity.name.type",
+            "punctuation.definition.typeparameters",
+            "entity.name.type.type-parameter.cs"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -570,7 +571,7 @@
             "source.python meta.function-call.python support.type.python",
             "constant.character.format.placeholder.other.python",
             "entity.other.inherited-class.python",
-            "source.cs punctuation.definition.interpolation"
+            "punctuation.definition.interpolation"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -608,10 +609,9 @@
             "keyword.control.clojure",
             "source.clojure meta.symbol.dynamic",
             "entity.name.variable.parameter.cs",
-            "keyword.type.cs",
             "keyword.other.this.cs",
             "keyword.other.base.cs",
-            "meta.type.annotation.ts entity.name.type.ts",
+            "meta.type.annotation entity.name.type",
          ],
          "settings": {
             "fontStyle": "italic"
@@ -636,7 +636,7 @@
             "markup.heading.markdown punctuation.definition.heading.markdown",
             "storage.type.function.pug",
             "storage.type.function.python",
-            "source.ts punctuation.definition.typeparameters"
+            "punctuation.definition.typeparameters"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -652,7 +652,8 @@
             "markup.italic markup.bold string",
             "markup.quote markup.bold.markdown string",
             "text.html punctuation.section.embedded",
-            "support.type.primitive.ts",
+            "support.type.primitive",
+            "keyword.type.cs",
          ],
          "settings": {
             "fontStyle": "bold italic"

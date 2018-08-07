@@ -1,5 +1,11 @@
 # Change Log
 
+## **2.1.0**
+
+-  Added `.tsx` support
+-  Improved **C#** support
+-  Updated README
+
 ## **2.0.4**
 
 -  Improved **TypeScript** support

@@ -16,7 +16,7 @@
 - JavaScript
    - JSON
    - React/JSX
-   - Typescript
+   - Typescript/TSX
 - Markdown
 - PHP
 - Python
