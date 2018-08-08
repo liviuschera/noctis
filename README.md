@@ -5,7 +5,7 @@
 
 ## Supported Languages
 
-- C#  &larr; **NEW**
+- C#
 - Clojure
 - CSS
    - Sass/SCSS
@@ -13,6 +13,7 @@
    - EJS
    - Handlebars
    - Pug/Jade
+- Java  &larr; **NEW**
 - JavaScript
    - JSON
    - React/JSX

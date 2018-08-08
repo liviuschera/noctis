@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.2.0**
+
+-  Added **Java** support
+-  Updated README
+
 ## **2.1.0**
 
 -  Added `.tsx` support

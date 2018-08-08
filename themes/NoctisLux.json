@@ -421,7 +421,9 @@
             "meta.var.clojure",
             "source.cs entity.name.variable",
             "entity.name.type.namespace.cs",
-            "entity.name.variable.parameter.cs"
+            "entity.name.variable.parameter.cs",
+            "storage.modifier.import.java",
+            "source.java meta.class.body.java"
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -445,7 +447,13 @@
             "meta.type.parameters entity.name.type",
             "meta.type.annotation entity.name.type",
             "punctuation.definition.typeparameters",
-            "entity.name.type.type-parameter.cs"
+            "entity.name.type.type-parameter.cs",
+            "storage.type.primitive",
+            "source.java storage.type",
+            "storage.type.annotation",
+            "punctuation.definition.annotation",
+            "punctuation.bracket.angle",
+            "storage.type.generic.java",
          ],
          "settings": {
             "foreground": "#b38600"
@@ -612,6 +620,7 @@
             "keyword.other.this.cs",
             "keyword.other.base.cs",
             "meta.type.annotation entity.name.type",
+            "storage.type.generic.java",
          ],
          "settings": {
             "fontStyle": "italic"
@@ -636,7 +645,9 @@
             "markup.heading.markdown punctuation.definition.heading.markdown",
             "storage.type.function.pug",
             "storage.type.function.python",
-            "punctuation.definition.typeparameters"
+            "punctuation.definition.typeparameters",
+            "storage.type.annotation",
+            "punctuation.bracket.angle",
          ],
          "settings": {
             "fontStyle": "bold"
@@ -654,6 +665,7 @@
             "text.html punctuation.section.embedded",
             "support.type.primitive",
             "keyword.type.cs",
+            "storage.type.primitive"
          ],
          "settings": {
             "fontStyle": "bold italic"
@@ -665,7 +677,8 @@
             "keyword.begin.tag.ejs",
             "source.python meta.function.decorator.python support.type.python",
             "source.cs keyword.other",
-            "keyword.other.var.cs"
+            "keyword.other.var.cs",
+            "storage.modifier.import.java"
          ],
          "settings": {
             "fontStyle": ""
