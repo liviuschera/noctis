@@ -1,5 +1,11 @@
 # Change Log
 
+## **2.2.1**
+
+-  **C#**
+   -  Fixed null-conditional operator
+   -  Made bold `new` keyword.
+
 ## **2.2.0**
 
 -  Added **Java** support

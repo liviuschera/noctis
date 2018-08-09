@@ -396,7 +396,8 @@
             "text.pug meta.tag.other",
             "source.clojure storage.control",
             "meta.expression.clojure",
-            "punctuation.separator.slice.python"
+            "punctuation.separator.slice.python",
+            "punctuation.separator.question-mark.cs",
          ],
          "settings": {
             "foreground": "#df769b"
@@ -510,7 +511,7 @@
          "scope": [
             "constant.numeric",
             "constant.language",
-            "constant.character.escape"
+            "constant.character.escape",
          ],
          "settings": {
             "foreground": "#7060eb"
@@ -648,6 +649,8 @@
             "punctuation.definition.typeparameters",
             "storage.type.annotation",
             "punctuation.bracket.angle",
+            "keyword.other.new",
+            "punctuation.separator.question-mark.cs",
          ],
          "settings": {
             "fontStyle": "bold"
@@ -665,7 +668,7 @@
             "text.html punctuation.section.embedded",
             "support.type.primitive",
             "keyword.type.cs",
-            "storage.type.primitive"
+            "storage.type.primitive",
          ],
          "settings": {
             "fontStyle": "bold italic"
@@ -678,7 +681,7 @@
             "source.python meta.function.decorator.python support.type.python",
             "source.cs keyword.other",
             "keyword.other.var.cs",
-            "storage.modifier.import.java"
+            "storage.modifier.import.java",
          ],
          "settings": {
             "fontStyle": ""

@@ -21,13 +21,11 @@
       "Other"
    ],
    "keywords": [
-      "theme",
       "noctis",
-      "dark",
-      "light",
       "blue",
       "italic",
-      "bold"
+      "bold",
+      "semantic"
    ],
    "contributes": {
       "themes": [
