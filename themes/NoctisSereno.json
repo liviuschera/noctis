@@ -397,7 +397,7 @@
             "source.clojure storage.control",
             "meta.expression.clojure",
             "punctuation.separator.slice.python",
-            "punctuation.separator.question-mark.cs",
+            "punctuation.separator.question-mark.cs"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -454,7 +454,7 @@
             "storage.type.annotation",
             "punctuation.definition.annotation",
             "punctuation.bracket.angle",
-            "storage.type.generic.java",
+            "storage.type.generic.java"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -477,6 +477,7 @@
             "keyword.other.this.cs",
             "keyword.other.base.cs",
             "keyword.other.var.cs",
+            "storage.modifier.super"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -511,7 +512,7 @@
          "scope": [
             "constant.numeric",
             "constant.language",
-            "constant.character.escape",
+            "constant.character.escape"
          ],
          "settings": {
             "foreground": "#7060eb"
@@ -587,10 +588,7 @@
          }
       },
       {
-         "scope": [
-            "invalid",
-            "invalid.illegal"
-         ],
+         "scope": ["invalid", "invalid.illegal"],
          "settings": {
             "foreground": "#e3541c"
          }
@@ -621,7 +619,7 @@
             "keyword.other.this.cs",
             "keyword.other.base.cs",
             "meta.type.annotation entity.name.type",
-            "storage.type.generic.java",
+            "storage.type.generic.java"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -650,7 +648,7 @@
             "storage.type.annotation",
             "punctuation.bracket.angle",
             "keyword.other.new",
-            "punctuation.separator.question-mark.cs",
+            "punctuation.separator.question-mark.cs"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -668,7 +666,7 @@
             "text.html punctuation.section.embedded",
             "support.type.primitive",
             "keyword.type.cs",
-            "storage.type.primitive",
+            "storage.type.primitive"
          ],
          "settings": {
             "fontStyle": "bold italic"
@@ -681,7 +679,7 @@
             "source.python meta.function.decorator.python support.type.python",
             "source.cs keyword.other",
             "keyword.other.var.cs",
-            "storage.modifier.import.java",
+            "storage.modifier.import.java"
          ],
          "settings": {
             "fontStyle": ""

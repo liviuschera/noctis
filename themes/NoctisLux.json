@@ -397,7 +397,7 @@
             "source.clojure storage.control",
             "meta.expression.clojure",
             "punctuation.separator.slice.python",
-            "punctuation.separator.question-mark.cs",
+            "punctuation.separator.question-mark.cs"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -454,7 +454,7 @@
             "storage.type.annotation",
             "punctuation.definition.annotation",
             "punctuation.bracket.angle",
-            "storage.type.generic.java",
+            "storage.type.generic.java"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -476,7 +476,8 @@
             "support.type.exception.python",
             "keyword.other.this.cs",
             "keyword.other.base.cs",
-            "keyword.other.var.cs"
+            "keyword.other.var.cs",
+            "storage.modifier.super"
          ],
          "settings": {
             "foreground": "#d13b00"
@@ -587,10 +588,7 @@
          }
       },
       {
-         "scope": [
-            "invalid",
-            "invalid.illegal"
-         ],
+         "scope": ["invalid", "invalid.illegal"],
          "settings": {
             "foreground": "#ff530f"
          }
@@ -621,7 +619,7 @@
             "keyword.other.this.cs",
             "keyword.other.base.cs",
             "meta.type.annotation entity.name.type",
-            "storage.type.generic.java",
+            "storage.type.generic.java"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -650,7 +648,7 @@
             "storage.type.annotation",
             "punctuation.bracket.angle",
             "keyword.other.new",
-            "punctuation.separator.question-mark.cs",
+            "punctuation.separator.question-mark.cs"
          ],
          "settings": {
             "fontStyle": "bold"

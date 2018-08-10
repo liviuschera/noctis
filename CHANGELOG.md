@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.2.2**
+
+-  **Java** &rarr; Fixed `super` highlighting.
+
 ## **2.2.1**
 
 -  **C#**
