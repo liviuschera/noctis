@@ -1,14 +1,19 @@
 # Change Log
 
+## **2.2.3**
+
+-  **Java**
+   -  Fixed wildcard and elipsis higligting
+
 ## **2.2.2**
 
--  **Java** &rarr; Fixed `super` highlighting.
+-  **Java** &rarr; Fixed `super` highlighting
 
 ## **2.2.1**
 
 -  **C#**
    -  Fixed null-conditional operator
-   -  Made bold `new` keyword.
+   -  Made bold `new` keyword
 
 ## **2.2.0**
 

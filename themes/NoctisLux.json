@@ -397,7 +397,8 @@
             "source.clojure storage.control",
             "meta.expression.clojure",
             "punctuation.separator.slice.python",
-            "punctuation.separator.question-mark.cs"
+            "punctuation.separator.question-mark.cs",
+            "punctuation.definition.parameters.varargs"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -648,7 +649,8 @@
             "storage.type.annotation",
             "punctuation.bracket.angle",
             "keyword.other.new",
-            "punctuation.separator.question-mark.cs"
+            "punctuation.separator.question-mark.cs",
+            "storage.type.generic.wildcard"
          ],
          "settings": {
             "fontStyle": "bold"
