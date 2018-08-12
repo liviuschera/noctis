@@ -455,7 +455,8 @@
             "storage.type.annotation",
             "punctuation.definition.annotation",
             "punctuation.bracket.angle",
-            "storage.type.generic.java"
+            "storage.type.generic.java",
+            "source.php meta.function.parameter.typehinted.php storage.type.php"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -668,7 +669,8 @@
             "text.html punctuation.section.embedded",
             "support.type.primitive",
             "keyword.type.cs",
-            "storage.type.primitive"
+            "storage.type.primitive",
+            "source.php meta.function.parameter.typehinted.php storage.type.php"
          ],
          "settings": {
             "fontStyle": "bold italic"
