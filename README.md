@@ -9,11 +9,12 @@
 - Clojure
 - CSS
    - Sass/SCSS
+- Go &larr; **NEW**
 - HTML
    - EJS
    - Handlebars
    - Pug/Jade
-- Java  &larr; **NEW**
+- Java
 - JavaScript
    - JSON
    - React/JSX

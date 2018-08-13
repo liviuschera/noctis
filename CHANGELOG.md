@@ -3,6 +3,7 @@
 ## **2.3.0**
 
 -  Added **Go** support
+-  Updated README
 
 ## **2.2.4**
 
