@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.3.0**
+
+-  Added **Go** support
+
 ## **2.2.4**
 
 -  Improved **PHP** type declarations higligting

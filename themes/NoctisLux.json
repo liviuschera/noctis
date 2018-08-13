@@ -398,7 +398,8 @@
             "meta.expression.clojure",
             "punctuation.separator.slice.python",
             "punctuation.separator.question-mark.cs",
-            "punctuation.definition.parameters.varargs"
+            "punctuation.definition.parameters.varargs",
+            "source.go keyword.operator"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -425,7 +426,8 @@
             "entity.name.type.namespace.cs",
             "entity.name.variable.parameter.cs",
             "storage.modifier.import.java",
-            "source.java meta.class.body.java"
+            "source.java meta.class.body.java",
+            "entity.name.package.go"
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -456,7 +458,8 @@
             "punctuation.definition.annotation",
             "punctuation.bracket.angle",
             "storage.type.generic.java",
-            "source.php meta.function.parameter.typehinted.php storage.type.php"
+            "source.php meta.function.parameter.typehinted.php storage.type.php",
+            "source.go storage.type"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -479,7 +482,9 @@
             "keyword.other.this.cs",
             "keyword.other.base.cs",
             "keyword.other.var.cs",
-            "storage.modifier.super"
+            "storage.modifier.super",
+            "source.go keyword",
+            "keyword.function.go"
          ],
          "settings": {
             "foreground": "#d13b00"
@@ -494,7 +499,8 @@
             "punctuation.definition.string",
             "source.css support.constant",
             "markup.raw.block",
-            "markup.inline.raw.string.markdown"
+            "markup.inline.raw.string.markdown",
+            "entity.name.import.go"
          ],
          "settings": {
             "foreground": "#00bd23"
@@ -583,7 +589,7 @@
             "source.python meta.function-call.python support.type.python",
             "constant.character.format.placeholder.other.python",
             "entity.other.inherited-class.python",
-            "source.cs punctuation.definition.interpolation"
+            "punctuation.definition.interpolation"
          ],
          "settings": {
             "foreground": "#0094f0"
@@ -651,7 +657,8 @@
             "punctuation.bracket.angle",
             "keyword.other.new",
             "punctuation.separator.question-mark.cs",
-            "storage.type.generic.wildcard"
+            "storage.type.generic.wildcard",
+            "source.go keyword.operator"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -670,7 +677,8 @@
             "support.type.primitive",
             "keyword.type.cs",
             "storage.type.primitive",
-            "source.php meta.function.parameter.typehinted.php storage.type.php"
+            "source.php meta.function.parameter.typehinted.php storage.type.php",
+            "keyword.function.go"
          ],
          "settings": {
             "fontStyle": "bold italic"
@@ -683,7 +691,8 @@
             "source.python meta.function.decorator.python support.type.python",
             "source.cs keyword.other",
             "keyword.other.var.cs",
-            "storage.modifier.import.java"
+            "storage.modifier.import.java",
+            "source.go keyword"
          ],
          "settings": {
             "fontStyle": ""
