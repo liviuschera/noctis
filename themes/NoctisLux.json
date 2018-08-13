@@ -484,7 +484,8 @@
             "keyword.other.var.cs",
             "storage.modifier.super",
             "source.go keyword",
-            "keyword.function.go"
+            "keyword.function.go",
+            "keyword.operator.address.go"
          ],
          "settings": {
             "foreground": "#d13b00"

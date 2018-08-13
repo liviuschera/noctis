@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.3.1**
+
+-  **Go** pointer operators are now highlighted
+
 ## **2.3.0**
 
 -  Added **Go** support
