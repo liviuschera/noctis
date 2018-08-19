@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.3.2**
+
+-  **Go** - improved string placeholder highlighting
+
 ## **2.3.1**
 
 -  **Go** pointer operators are now highlighted

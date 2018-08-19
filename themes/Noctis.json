@@ -590,7 +590,8 @@
             "source.python meta.function-call.python support.type.python",
             "constant.character.format.placeholder.other.python",
             "entity.other.inherited-class.python",
-            "punctuation.definition.interpolation"
+            "punctuation.definition.interpolation",
+            "constant.other.placeholder.go"
          ],
          "settings": {
             "foreground": "#49ace9"
