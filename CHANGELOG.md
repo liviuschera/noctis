@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.4.0**
+
+-  Added theme colors for the breadcrumbs and for the new edditor Settings
+
 ## **2.3.2**
 
 -  **Go** - improved string placeholder highlighting

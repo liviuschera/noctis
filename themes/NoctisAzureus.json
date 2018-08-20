@@ -330,7 +330,32 @@
       "list.inactiveSelectionBackground": "#09334e",
       "list.inactiveSelectionForeground": "#becfda",
       "list.errorForeground": "#e34e1c",
-      "list.warningForeground": "#ffa857"
+      "list.warningForeground": "#ffa857",
+      // ---------------------------
+      // Settings Editor Colors
+      // ---------------------------
+      "settings.headerForeground": "#becfda",
+      "settings.modifiedItemForeground": "#3ae95a",
+      "settings.inactiveSelectedItemBorder": "#49ace9",
+      "settings.dropdownBackground": "#09334e",
+      "settings.dropdownForeground": "#0ac",
+      "settings.dropdownBorder": "#09334e",
+      "settings.checkboxBackground": "#09334e",
+      "settings.checkboxForeground": "#0ac",
+      "settings.checkboxBorder": "#09334e",
+      "settings.textInputBackground": "#09334e",
+      "settings.textInputForeground": "#0ac",
+      "settings.textInputBorder": "#09334e",
+      "settings.numberInputBackground": "#051b29",
+      "settings.numberInputForeground": "#7060eb",
+      "settings.numberInputBorder": "#051b29",
+      // ---------------------------
+      // Breadcrumbs
+      // ---------------------------
+      "breadcrumb.foreground": "#9fb6c6",
+      "breadcrumb.focusForeground": "#49ace9",
+      "breadcrumb.activeSelectionForeground": "#ebf7ff",
+      "breadcrumbPicker.background": "#09334e"
    },
    "tokenColors": [
       {
