@@ -464,7 +464,6 @@
             "variable.other.constant",
             "source.js support.constant",
             "punctuation.definition.entity",
-            "support.variable.property.dom",
             "constant.character.entity",
             "support.variable.magic",
             "entity.other.attribute-name",
@@ -654,7 +653,8 @@
             "keyword.other.this.cs",
             "keyword.other.base.cs",
             "meta.type.annotation entity.name.type",
-            "storage.type.generic.java"
+            "storage.type.generic.java",
+            "support.variable.property.dom"
          ],
          "settings": {
             "fontStyle": "italic"

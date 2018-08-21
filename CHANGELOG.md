@@ -1,34 +1,37 @@
 # Change Log
 
+## **2.4.1**
+
+-  **JavaScript** &rarr; improved DOM properties and constants highlighting
+
 ## **2.4.0**
 
 -  Added theme colors for the breadcrumbs and for the new edditor Settings
 
 ## **2.3.2**
 
--  **Go** - improved string placeholder highlighting
+-  **Go** &rarr; improved string placeholder highlighting
 
 ## **2.3.1**
 
--  **Go** pointer operators are now highlighted
+-  **Go** &rarr; improved pointer operators highlighting
 
 ## **2.3.0**
 
--  Added **Go** support
+-  **Go** &rarr; added support
 -  Updated README
 
 ## **2.2.4**
 
--  Improved **PHP** type declarations higligting
+-  **PHP** &rarr; improved type declarations higligting
 
 ## **2.2.3**
 
--  **Java**
-   -  Fixed wildcard and elipsis higligting
+-  **Java** &rarr; fixed wildcard and elipsis higligting
 
 ## **2.2.2**
 
--  **Java** &rarr; Fixed `super` highlighting
+-  **Java** &rarr; fixed `super` highlighting
 
 ## **2.2.1**
 
@@ -38,28 +41,28 @@
 
 ## **2.2.0**
 
--  Added **Java** support
+-  **Java** &rarr; added support
 -  Updated README
 
 ## **2.1.0**
 
--  Added `.tsx` support
--  Improved **C#** support
+-  **`.tsx`** &rarr; added support
+-  **C#** &rarr; improved support
 -  Updated README
 
 ## **2.0.4**
 
--  Improved **TypeScript** support
+-  **TypeScript** &rarr; improved support
 -  Updated README
 
 ## **2.0.3**
 
--  Changed f-string's color in **Python**
+-  **Python** &rarr; changed f-string's color
 -  Updated README
 
 ## **2.0.2**
 
--  Changed style and color of `var` in **C#**
+-  **C#** &rarr; changed style and color of `var`
 
 ## **2.0.1**
 
@@ -67,40 +70,40 @@
 
 ## **2.0.0**
 
--  Added **C#** support
+-  **C#** &rarr; added support
 
 ## **1.4.2**
 
--  Tweaked Noctis Lux theme
+-  _Noctis Lux_ theme &rarr; tweaked
 
 ## **1.4.2**
 
--  Improved **Python** support
+-  **Python** &rarr; improved support
 -  Code refactoring
 
 ## **1.4.1**
 
--  Improved **Markdown** support
+-  **Markdown** &rarr; improved support
 -  Removed redundant code
 
 ## **1.4.0**
 
--  Added **Clojure** support
+-  **Clojure** &rarr; added support
 -  Updated README
 
 ## **1.3.2**
 
 -  Code refactoring
--  Improved **Handlebars** support
+-  **Handlebars** &rarr; improved support
 
 ## **1.3.0**
 
--  Added **Pug/Jade** support
+-  **Pug/Jade** &rarr; added support
 
 ## **1.2.3**
 
 -  Removed unnecessary scope selectors.
--  Increased Noctis' Lux `input.placeholderForeground` contrast: #c0c8c9 &rarr; #9fabad
+-  _Noctis Lux_ &rarr; increased `input.placeholderForeground` contrast: #c0c8c9 &rarr; #9fabad
 
 ## **1.2.1**
 
@@ -108,21 +111,21 @@
 
 ## **1.2.0**
 
--  Improved **PHP** support
+-  **PHP** &rarr; improved support
 
 ## **1.1.2**
 
--  Fixed comments and default text colors in Noctis Azureus.
--  Fixed italics rendering in **Markdown**.
+-  _Noctis Azureus_ &rarr; fixed comments and default text colors in
+-  **Markdown** &rarr; fixed italics rendering
 
 ## **1.1.1**
 
--  Improved **Python** support
+-  **Python** &rarr; improved support
 
 ## **1.1.0**
 
--  Improved **Markdown** support.
--  Refactored theme's code.
+-  **Markdown** &rarr; improved support
+-  Code refactoring
 
 ## **1.0.0**
 
@@ -141,7 +144,7 @@
 
 -  Changes and fixes in **Python**:
    -  _`self`_ and _`cls`_ are properly highlighted and italicized
-   -  `def` is no longer italicized in **Python**.
+   -  `def` is no longer italicized
 
 ## **0.7.1**
 
@@ -154,11 +157,11 @@
 
 ## **0.6.2**
 
--  Italicized type annotations in **TypeScript**.
+-  **TypeScript** &rarr; italicized type annotations
 
 ## **0.6.1**
 
--  Tweaked Noctis Light theme to improve contrast.
+-  Tweaked _Noctis Light_ theme to improve contrast.
 -  The theme color `editorGroup.emptyBackground` replaced `editorGroup.background` which is no longer supported with the introduction of the grid editor layout feature in VSCode 1.25
 
 ## **0.6.0**
