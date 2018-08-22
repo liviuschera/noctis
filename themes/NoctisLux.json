@@ -424,7 +424,9 @@
             "punctuation.separator.slice.python",
             "punctuation.separator.question-mark.cs",
             "punctuation.definition.parameters.varargs",
-            "source.go keyword.operator"
+            "source.go keyword.operator",
+            "punctuation.definition.directive.c",
+            "punctuation.separator.pointer-access"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -452,7 +454,9 @@
             "entity.name.variable.parameter.cs",
             "storage.modifier.import.java",
             "source.java meta.class.body.java",
-            "entity.name.package.go"
+            "entity.name.package.go",
+            "source.c",
+            "source.cpp"
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -483,7 +487,9 @@
             "punctuation.bracket.angle",
             "storage.type.generic.java",
             "source.php meta.function.parameter.typehinted.php storage.type.php",
-            "source.go storage.type"
+            "source.go storage.type",
+            "storage.type.c",
+            "entity.name.function.preprocessor.c"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -509,7 +515,8 @@
             "storage.modifier.super",
             "source.go keyword",
             "keyword.function.go",
-            "keyword.operator.address.go"
+            "keyword.operator.address.go",
+            "storage.modifier.c"
          ],
          "settings": {
             "foreground": "#d13b00"
@@ -615,7 +622,8 @@
             "constant.character.format.placeholder.other.python",
             "entity.other.inherited-class.python",
             "punctuation.definition.interpolation",
-            "constant.other.placeholder.go"
+            "constant.other.placeholder.go",
+            "constant.other.placeholder.c"
          ],
          "settings": {
             "foreground": "#0094f0"
@@ -654,7 +662,8 @@
             "keyword.other.base.cs",
             "meta.type.annotation entity.name.type",
             "storage.type.generic.java",
-            "support.variable.property.dom"
+            "support.variable.property.dom",
+            "variable.other.member.c"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -705,7 +714,8 @@
             "keyword.type.cs",
             "storage.type.primitive",
             "source.php meta.function.parameter.typehinted.php storage.type.php",
-            "keyword.function.go"
+            "keyword.function.go",
+            "variable.other.c"
          ],
          "settings": {
             "fontStyle": "bold italic"
@@ -719,7 +729,8 @@
             "source.cs keyword.other",
             "keyword.other.var.cs",
             "storage.modifier.import.java",
-            "source.go keyword"
+            "source.go keyword",
+            "storage.modifier.c"
          ],
          "settings": {
             "fontStyle": ""

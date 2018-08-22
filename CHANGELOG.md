@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.5.0**
+
+-  **C/C++** &rarr; added support
+-  Updated README
+
 ## **2.4.1**
 
 -  **JavaScript** &rarr; improved DOM properties and constants highlighting

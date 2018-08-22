@@ -5,11 +5,12 @@
 
 ## Supported Languages
 
+- C/C++ &larr; **NEW**
 - C#
 - Clojure
 - CSS
    - Sass/SCSS
-- Go &larr; **NEW**
+- Go
 - HTML
    - EJS
    - Handlebars
