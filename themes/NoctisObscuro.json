@@ -456,7 +456,8 @@
             "source.java meta.class.body.java",
             "entity.name.package.go",
             "source.c",
-            "source.cpp"
+            "source.cpp",
+            "source.go"
          ],
          "settings": {
             "foreground": "#e4b781"

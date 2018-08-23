@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.5.1**
+
+-  **Go** &rarr; base text color is now Gold Sand
+
 ## **2.5.0**
 
 -  **C/C++** &rarr; added support
