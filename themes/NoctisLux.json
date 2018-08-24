@@ -457,7 +457,9 @@
             "entity.name.package.go",
             "source.c",
             "source.cpp",
-            "source.go"
+            "source.go",
+            "source.python",
+            "meta.function-call.arguments.python"
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -665,7 +667,8 @@
             "meta.type.annotation entity.name.type",
             "storage.type.generic.java",
             "support.variable.property.dom",
-            "variable.other.member.c"
+            "variable.other.member.c",
+            "variable.parameter.function"
          ],
          "settings": {
             "fontStyle": "italic"

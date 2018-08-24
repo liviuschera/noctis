@@ -1,8 +1,14 @@
 # Change Log
 
+## **2.5.3**
+
+-  **Python**
+   -  base text color is now Gold Sand
+   -  parameters are italicized
+
 ## **2.5.2**
 
--  **C++** &rarr; higlighted scope resolution operator
+-  **C++** &rarr; highlighted scope resolution operator
 
 ## **2.5.1**
 
