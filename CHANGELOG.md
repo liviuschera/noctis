@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.5.2**
+
+-  **C++** &rarr; higlighted scope resolution operator
+
 ## **2.5.1**
 
 -  **Go** &rarr; base text color is now Gold Sand

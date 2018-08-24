@@ -517,7 +517,8 @@
             "source.go keyword",
             "keyword.function.go",
             "keyword.operator.address.go",
-            "storage.modifier.c"
+            "storage.modifier.c",
+            "punctuation.separator.namespace"
          ],
          "settings": {
             "foreground": "#d13b00"
