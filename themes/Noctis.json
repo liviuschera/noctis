@@ -119,14 +119,7 @@
       "textLink.foreground": "#40d4e7",
       "textPreformat.foreground": "#e4b781",
       "textSeparator.foreground": "#041d20",
-      // ---------------------------
-      // Title bar
-      // Note: These colors are currently only supported on macOS.
-      // ---------------------------
-      "titleBar.activeBackground": "#041d20",
-      "titleBar.activeForeground": "#b2cacd",
-      "titleBar.inactiveBackground": "#041d20",
-      "titleBar.inactiveForeground": "#87a7ab",
+
       // ---------------------------
       // Welcome Page
       // ---------------------------
@@ -167,7 +160,7 @@
       "editorGutter.deletedBackground": "#e34e1c",
       "editorGutter.modifiedBackground": "#e0c184",
       // ---------------------------
-      // Selelction Colors
+      // Selection Colors
       // ---------------------------
       "editor.selectionBackground": "#169fb144",
       "editor.selectionHighlightBackground": "#929ea03b",
@@ -189,8 +182,8 @@
       "editor.rangeHighlightBackground": "#083d44a1",
       "editorLink.activeForeground": "#14a5ff",
       "editorWhitespace.foreground": "#ffffff21",
-      "editorIndentGuide.background": "#26383b",
-      "editorIndentGuide.activeBackground": "#47686c",
+      "editorIndentGuide.background": "#223b3f",
+      "editorIndentGuide.activeBackground": "#3e6f74",
       "editorBracketMatch.background": "#169fb122",
       "editorBracketMatch.border": "#169fb1",
       "editorRuler.foreground": "#87FFE1",
@@ -355,7 +348,27 @@
       "breadcrumb.foreground": "#87a7ab",
       "breadcrumb.focusForeground": "#40d4e7",
       "breadcrumb.activeSelectionForeground": "#ebfdff",
-      "breadcrumbPicker.background": "#073940"
+      "breadcrumbPicker.background": "#073940",
+      // ---------------------------
+      // Title bar
+      // Note: These colors are currently only supported on macOS.
+      // ---------------------------
+      "titleBar.activeBackground": "#041d20",
+      "titleBar.activeForeground": "#b2cacd",
+      "titleBar.inactiveBackground": "#041d20",
+      "titleBar.inactiveForeground": "#87a7ab",
+      // ---------------------------
+      // Custom title bar and menus
+      // Note: These colors are currently only supported on Windows and Linux.
+      // ---------------------------
+      "menu.background": "#073940",
+      "menu.foreground": "#87a7ab",
+      "menu.selectionBackground": "#0b515b",
+      "menu.selectionForeground": "#40d4e7",
+      "menu.selectionBorder": "#0b515b",
+      "menubar.selectionBackground": "#0b515b",
+      "menubar.selectionForeground": "#40d4e7",
+      "menubar.selectionBorder": "#0b515b"
    },
    "tokenColors": [
       {

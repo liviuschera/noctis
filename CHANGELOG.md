@@ -1,5 +1,11 @@
 # Change Log
 
+## **2.6.0**
+
+-  **All theme variants**
+   -  improved custom title bar and menus for Windows/Linux . While still in preview, you can try it out by setting `window.titleBarStyle` to `custom` in your `settings.json`
+   -  improved `editorIndentGuide` contrast
+
 ## **2.5.3**
 
 -  **Python**

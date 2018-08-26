@@ -120,14 +120,6 @@
       "textPreformat.foreground": "#ffc180",
       "textSeparator.foreground": "#07273b",
       // ---------------------------
-      // Title bar
-      // Note: These colors are currently only supported on macOS.
-      // ---------------------------
-      "titleBar.activeBackground": "#07273b",
-      "titleBar.activeForeground": "#becfda",
-      "titleBar.inactiveBackground": "#07273b",
-      "titleBar.inactiveForeground": "#9fb6c6",
-      // ---------------------------
       // Welcome Page
       // ---------------------------
       "walkThrough.embeddedEditorBackground": "#07273b",
@@ -167,7 +159,7 @@
       "editorGutter.deletedBackground": "#e34e1c",
       "editorGutter.modifiedBackground": "#ffc180",
       // ---------------------------
-      // Selelction Colors
+      // Selection Colors
       // ---------------------------
       "editor.selectionBackground": "#1679b655",
       "editor.selectionHighlightBackground": "#00c2cc22",
@@ -355,7 +347,27 @@
       "breadcrumb.foreground": "#9fb6c6",
       "breadcrumb.focusForeground": "#49ace9",
       "breadcrumb.activeSelectionForeground": "#ebf7ff",
-      "breadcrumbPicker.background": "#09334e"
+      "breadcrumbPicker.background": "#09334e",
+      // ---------------------------
+      // Title bar
+      // Note: These colors are currently only supported on macOS.
+      // ---------------------------
+      "titleBar.activeBackground": "#07273b",
+      "titleBar.activeForeground": "#becfda",
+      "titleBar.inactiveBackground": "#07273b",
+      "titleBar.inactiveForeground": "#9fb6c6",
+      // ---------------------------
+      // Custom title bar and menus
+      // Note: These colors are currently only supported on Windows and Linux.
+      // ---------------------------
+      "menu.background": "#09334e",
+      "menu.foreground": "#9fb6c6",
+      "menu.selectionBackground": "#0b3c5b",
+      "menu.selectionForeground": "#49ace9",
+      "menu.selectionBorder": "#0b3c5b",
+      "menubar.selectionBackground": "#0b3c5b",
+      "menubar.selectionForeground": "#49ace9",
+      "menubar.selectionBorder": "#0b3c5b"
    },
    "tokenColors": [
       {
