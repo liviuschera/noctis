@@ -733,7 +733,9 @@
             "storage.type.primitive",
             "source.php meta.function.parameter.typehinted.php storage.type.php",
             "keyword.function.go",
-            "variable.other.c"
+            "variable.other.c",
+            "meta.function.constructor.cpp entity.name.function.cpp",
+            "meta.function.destructor.cpp entity.name.function.cpp"
          ],
          "settings": {
             "fontStyle": "bold italic"

@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.6.1**
+
+-  **C++** &rarr; changed font style of constructors and destructors
+
 ## **2.6.0**
 
 -  **All theme variants**
