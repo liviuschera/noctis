@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.7.0**
+
+-  **Ruby** &rarr; added support
+-  updated README.
+
 ## **2.6.1**
 
 -  **C++** &rarr; changed font style of constructors and destructors

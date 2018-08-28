@@ -5,7 +5,7 @@
 
 ## Supported Languages
 
-- C/C++ &larr; **NEW**
+- C/C++
 - C#
 - Clojure
 - CSS
@@ -23,6 +23,7 @@
 - Markdown
 - PHP
 - Python
+- Ruby &larr;  **NEW**
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 
