@@ -399,7 +399,8 @@
             "source.clojure meta.symbol",
             "text.html.markdown punctuation.definition.string",
             "meta.function-call.arguments.python",
-            "entity.name.tag.localname.cs"
+            "entity.name.tag.localname.cs",
+            "constant.other.symbol.ruby"
          ],
          "settings": {
             "foreground": "#becfda"
@@ -438,7 +439,9 @@
             "punctuation.definition.parameters.varargs",
             "source.go keyword.operator",
             "punctuation.definition.directive.c",
-            "punctuation.separator.pointer-access"
+            "punctuation.separator.pointer-access",
+            "punctuation.separator.other.ruby",
+            "source.ruby punctuation.separator.key-value"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -471,7 +474,9 @@
             "source.cpp",
             "source.go",
             "source.python",
-            "meta.function-call.arguments.python"
+            "meta.function-call.arguments.python",
+            "source.ruby",
+            "punctuation.definition.variable.ruby"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -532,7 +537,9 @@
             "keyword.function.go",
             "keyword.operator.address.go",
             "storage.modifier.c",
-            "punctuation.separator.namespace"
+            "punctuation.separator.namespace",
+            "constant.other.symbol.hashkey.ruby",
+            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -639,7 +646,9 @@
             "entity.other.inherited-class.python",
             "punctuation.definition.interpolation",
             "constant.other.placeholder.go",
-            "constant.other.placeholder.c"
+            "constant.other.placeholder.c",
+            "punctuation.section.embedded.begin.ruby",
+            "punctuation.section.embedded.end.ruby source.ruby"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -680,7 +689,10 @@
             "storage.type.generic.java",
             "support.variable.property.dom",
             "variable.other.member.c",
-            "variable.parameter.function"
+            "variable.parameter.function",
+            "keyword.control.pseudo-method.ruby",
+            "keyword.other.special-method.ruby",
+            "source.ruby variable.other.readwrite"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -711,7 +723,9 @@
             "keyword.other.new",
             "punctuation.separator.question-mark.cs",
             "storage.type.generic.wildcard",
-            "source.go keyword.operator"
+            "source.go keyword.operator",
+            "punctuation.separator.namespace",
+            "constant.other.symbol.ruby punctuation.definition.constant.ruby"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -734,7 +748,8 @@
             "keyword.function.go",
             "variable.other.c",
             "meta.function.constructor.cpp entity.name.function.cpp",
-            "meta.function.destructor.cpp entity.name.function.cpp"
+            "meta.function.destructor.cpp entity.name.function.cpp",
+            "punctuation.definition.variable.ruby"
          ],
          "settings": {
             "fontStyle": "bold italic"
@@ -749,7 +764,8 @@
             "keyword.other.var.cs",
             "storage.modifier.import.java",
             "source.go keyword",
-            "storage.modifier.c"
+            "storage.modifier.c",
+            "keyword.control.pseudo-method"
          ],
          "settings": {
             "fontStyle": ""
