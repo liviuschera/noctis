@@ -399,7 +399,6 @@
             "source.clojure meta.symbol",
             "text.html.markdown punctuation.definition.string",
             "meta.function-call.arguments.python",
-            "entity.name.tag.localname.cs",
             "constant.other.symbol.ruby"
          ],
          "settings": {

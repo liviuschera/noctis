@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.7.1**
+
+-  **C#** &rarr; tags are now highlighted in Burnt Sienna
+
 ## **2.7.0**
 
 -  **Ruby** &rarr; added support
