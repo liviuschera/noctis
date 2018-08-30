@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.7.2**
+
+-  **Go** &rarr `import` and `package` are now highlighted in Pale Violet Red
+
 ## **2.7.1**
 
 -  **C#** &rarr; tags are now highlighted in Burnt Sienna

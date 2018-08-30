@@ -441,7 +441,9 @@
             "punctuation.definition.directive.c",
             "punctuation.separator.pointer-access",
             "punctuation.separator.other.ruby",
-            "source.ruby punctuation.separator.key-value"
+            "source.ruby punctuation.separator.key-value",
+            "keyword.package.go",
+            "keyword.import.go"
          ],
          "settings": {
             "foreground": "#df769b"
