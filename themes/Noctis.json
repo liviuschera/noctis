@@ -511,7 +511,11 @@
             "source.php meta.function.parameter.typehinted.php storage.type.php",
             "source.go storage.type",
             "storage.type.c",
-            "entity.name.function.preprocessor.c"
+            "entity.name.function.preprocessor.c",
+            "storage.type.core.rust",
+            "storage.class.std.rust",
+            "storage.modifier.lifetime.rust",
+            "storage.modifier.lifetime.rust entity.name.lifetime.rust"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -541,7 +545,11 @@
             "storage.modifier.c",
             "punctuation.separator.namespace",
             "constant.other.symbol.hashkey.ruby",
-            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby"
+            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
+            "keyword.other.rust",
+            "keyword.other.fn.rust",
+            "storage.modifier.const.rust",
+            "storage.modifier.static.rust"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -694,7 +702,8 @@
             "variable.parameter.function",
             "keyword.control.pseudo-method.ruby",
             "keyword.other.special-method.ruby",
-            "source.ruby variable.other.readwrite"
+            "source.ruby variable.other.readwrite",
+            "storage.class.std.rust"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -751,7 +760,10 @@
             "variable.other.c",
             "meta.function.constructor.cpp entity.name.function.cpp",
             "meta.function.destructor.cpp entity.name.function.cpp",
-            "punctuation.definition.variable.ruby"
+            "punctuation.definition.variable.ruby",
+            "keyword.other.fn.rust",
+            "storage.modifier.lifetime.rust",
+            "storage.modifier.lifetime.rust entity.name.lifetime.rust"
          ],
          "settings": {
             "fontStyle": "bold italic"
@@ -767,7 +779,10 @@
             "storage.modifier.import.java",
             "source.go keyword",
             "storage.modifier.c",
-            "keyword.control.pseudo-method"
+            "keyword.control.pseudo-method",
+            "keyword.other.rust",
+            "storage.modifier.const.rust",
+            "storage.modifier.static.rust"
          ],
          "settings": {
             "fontStyle": ""

@@ -1,8 +1,13 @@
 # Change Log
 
+## **2.8.0**
+
+-  **Rust** &rarr; added support
+-  updated README.
+
 ## **2.7.2**
 
--  **Go** &rarr `import` and `package` are now highlighted in Pale Violet Red
+-  **Go** &rarr; `import` and `package` are now highlighted in Pale Violet Red
 
 ## **2.7.1**
 
