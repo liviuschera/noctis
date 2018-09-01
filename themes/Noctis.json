@@ -763,7 +763,8 @@
             "punctuation.definition.variable.ruby",
             "keyword.other.fn.rust",
             "storage.modifier.lifetime.rust",
-            "storage.modifier.lifetime.rust entity.name.lifetime.rust"
+            "storage.modifier.lifetime.rust entity.name.lifetime.rust",
+            "source.rust meta.attribute.rust"
          ],
          "settings": {
             "fontStyle": "bold italic"

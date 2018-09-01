@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.8.1**
+
+-  **Rust** &rarr; changed font style of the meta attributes
+
 ## **2.8.0**
 
 -  **Rust** &rarr; added support
