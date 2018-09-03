@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.8.2**
+
+-  **Rust** &rarr; core traits are now italicized
+
 ## **2.8.1**
 
 -  **Rust** &rarr; changed font style of the meta attributes

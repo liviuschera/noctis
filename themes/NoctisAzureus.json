@@ -702,7 +702,8 @@
             "keyword.control.pseudo-method.ruby",
             "keyword.other.special-method.ruby",
             "source.ruby variable.other.readwrite",
-            "storage.class.std.rust"
+            "storage.class.std.rust",
+            "support.type.core.rust"
          ],
          "settings": {
             "fontStyle": "italic"
