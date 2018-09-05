@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.8.3**
+
+-  **JavaScript** &rarr; parameters are now italicized.
+-  Removed redundant scopes
+
 ## **2.8.2**
 
 -  **Rust** &rarr; core traits are now italicized

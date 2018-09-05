@@ -682,7 +682,6 @@
             "support.type.vendored",
             "support.constant.vendored",
             "source.python support.type.python",
-            "variable.parameter.function.language.special",
             "entity.other.attribute-name",
             "support.variable.dom",
             "markup.quote",
@@ -699,12 +698,12 @@
             "storage.type.generic.java",
             "support.variable.property.dom",
             "variable.other.member.c",
-            "variable.parameter.function",
             "keyword.control.pseudo-method.ruby",
             "keyword.other.special-method.ruby",
             "source.ruby variable.other.readwrite",
             "storage.class.std.rust",
-            "support.type.core.rust"
+            "support.type.core.rust",
+            "variable.parameter"
          ],
          "settings": {
             "fontStyle": "italic"
