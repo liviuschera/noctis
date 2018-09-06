@@ -328,8 +328,8 @@
       // Settings Editor Colors
       // ---------------------------
       "settings.headerForeground": "#b2cacd",
-      "settings.modifiedItemForeground": "#3ae95a",
-      "settings.inactiveSelectedItemBorder": "#40d4e7",
+      "settings.modifiedItemIndicator": "#15ac31",
+      "settings.dropdownListBorder": "#0e657188",
       "settings.dropdownBackground": "#073940",
       "settings.dropdownForeground": "#0cc",
       "settings.dropdownBorder": "#073940",
