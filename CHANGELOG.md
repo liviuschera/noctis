@@ -1,5 +1,12 @@
 # Change Log
 
+## **2.9.0**
+
+-  **All theme variants**
+   -  Added new theme colors:
+      -  `settings.dropdownListBorder`: Border color of the new dropdown control.
+      -  `settings.modifiedItemIndicator`: The color of the line that indicates a modified setting.
+
 ## **2.8.3**
 
 -  **JavaScript** &rarr; parameters are now italicized.

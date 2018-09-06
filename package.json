@@ -6,7 +6,7 @@
    "publisher": "liviuschera",
    "icon": "images/logo.png",
    "engines": {
-      "vscode": "^1.26.0"
+      "vscode": "^1.27.0"
    },
    "galleryBanner": {
       "color": "#052529",
