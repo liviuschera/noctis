@@ -1,11 +1,14 @@
 # Change Log
 
+## **2.9.2**
+
+-  Added color for breadcrumb background
+
 ## **2.9.0**
 
--  **All theme variants**
-   -  Added new theme colors:
-      -  `settings.dropdownListBorder`: Border color of the new dropdown control.
-      -  `settings.modifiedItemIndicator`: The color of the line that indicates a modified setting.
+-  Added new theme colors:
+   -  `settings.dropdownListBorder`: Border color of the new dropdown control.
+   -  `settings.modifiedItemIndicator`: The color of the line that indicates a modified setting.
 
 ## **2.8.3**
 

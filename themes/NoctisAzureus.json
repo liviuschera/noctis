@@ -345,6 +345,7 @@
       // Breadcrumbs
       // ---------------------------
       "breadcrumb.foreground": "#9fb6c6",
+      "breadcrumb.background": "#07273b",
       "breadcrumb.focusForeground": "#49ace9",
       "breadcrumb.activeSelectionForeground": "#ebf7ff",
       "breadcrumbPicker.background": "#09334e",
