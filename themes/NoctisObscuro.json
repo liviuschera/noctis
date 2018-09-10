@@ -444,7 +444,8 @@
             "punctuation.separator.other.ruby",
             "source.ruby punctuation.separator.key-value",
             "keyword.package.go",
-            "keyword.import.go"
+            "keyword.import.go",
+            "punctuation.definition.keyword"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -620,7 +621,6 @@
             "support.orther.namespace.use.php",
             "meta.use.php",
             "support.other.namespace.php",
-            "source.css support.function",
             "support.type",
             "support.class",
             "punctuation.definition.parameters",

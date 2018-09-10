@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.9.3**
+
+-  **CSS** &rarr; punctuation keyword is now Pale Violet Red
+-  Removed redundant scope selectors
+
 ## **2.9.2**
 
 -  Added color for breadcrumb background
