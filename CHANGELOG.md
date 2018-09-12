@@ -1,5 +1,10 @@
 # Change Log
 
+## **2.9.4**
+
+-  **JavaScript** &rarr; fixed constants highlighting
+-  Removed redundant scope selectors
+
 ## **2.9.3**
 
 -  **CSS** &rarr; punctuation keyword is now Pale Violet Red

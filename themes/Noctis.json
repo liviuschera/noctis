@@ -490,7 +490,7 @@
          "scope": [
             "constant",
             "variable.other.constant",
-            "source.js support.constant",
+            "support.constant",
             "punctuation.definition.entity",
             "constant.character.entity",
             "support.variable.magic",
@@ -644,7 +644,6 @@
             "source.js punctuation.section.embedded",
             "punctuation.definition.template-expression",
             "support.class",
-            "source.js support.constant",
             "entity.name.type",
             "storage.type.string.python",
             "string.interpolated.pug",
