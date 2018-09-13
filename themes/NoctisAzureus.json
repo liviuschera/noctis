@@ -657,7 +657,8 @@
            "constant.other.placeholder.go",
            "constant.other.placeholder.c",
            "punctuation.section.embedded.begin.ruby",
-           "punctuation.section.embedded.end.ruby source.ruby"
+           "punctuation.section.embedded.end.ruby source.ruby",
+           "support.constant.math"
         ],
         "settings": {
            "foreground": "#49ace9"
@@ -702,7 +703,6 @@
            "source.ruby variable.other.readwrite",
            "storage.class.std.rust",
            "support.type.core.rust",
-           "variable.parameter"
         ],
         "settings": {
            "fontStyle": "italic"
@@ -735,7 +735,8 @@
            "storage.type.generic.wildcard",
            "source.go keyword.operator",
            "punctuation.separator.namespace",
-           "constant.other.symbol.ruby punctuation.definition.constant.ruby"
+           "constant.other.symbol.ruby punctuation.definition.constant.ruby",
+           "variable.parameter"
         ],
         "settings": {
            "fontStyle": "bold"

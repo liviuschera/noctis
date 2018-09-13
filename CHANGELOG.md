@@ -1,5 +1,12 @@
 # Change Log
 
+## **2.9.5**
+
+-  **JavaScript**
+    - fixed `Math` object highlighting
+    - made parameters bold
+
+
 ## **2.9.4**
 
 -  **JavaScript** &rarr; fixed constants highlighting
