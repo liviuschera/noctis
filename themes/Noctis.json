@@ -587,7 +587,7 @@
          "scope": [
             "constant.numeric",
             "constant.language",
-            "constant.character.escape"
+            "constant.character.escape",
          ],
          "settings": {
             "foreground": "#7060eb"
@@ -737,7 +737,9 @@
             "source.go keyword.operator",
             "punctuation.separator.namespace",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
-            "variable.parameter"
+            "variable.parameter",
+            "support.constant.core.rust",
+            "support.function.builtin.rust"
          ],
          "settings": {
             "fontStyle": "bold"

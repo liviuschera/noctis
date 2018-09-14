@@ -737,7 +737,9 @@
            "source.go keyword.operator",
            "punctuation.separator.namespace",
            "constant.other.symbol.ruby punctuation.definition.constant.ruby",
-           "variable.parameter"
+           "variable.parameter",
+           "support.constant.core.rust",
+            "support.function.builtin.rust"
         ],
         "settings": {
            "fontStyle": "bold"

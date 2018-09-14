@@ -1,11 +1,17 @@
 # Change Log
 
+## **2.9.6**
+
+-  updated README
+-  **Rust**
+   -  made core type variants bold
+   -  made built-in macros bold
+
 ## **2.9.5**
 
 -  **JavaScript**
-    - fixed `Math` object highlighting
-    - made parameters bold
-
+   -  fixed `Math` object highlighting
+   -  made parameters bold
 
 ## **2.9.4**
 
