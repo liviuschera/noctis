@@ -587,7 +587,7 @@
          "scope": [
             "constant.numeric",
             "constant.language",
-            "constant.character.escape",
+            "constant.character.escape"
          ],
          "settings": {
             "foreground": "#7060eb"
@@ -704,6 +704,8 @@
             "source.ruby variable.other.readwrite",
             "storage.class.std.rust",
             "support.type.core.rust",
+            "variable.other.object.property",
+            "variable.other.property"
          ],
          "settings": {
             "fontStyle": "italic"

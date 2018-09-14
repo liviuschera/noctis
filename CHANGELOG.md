@@ -1,5 +1,9 @@
 # Change Log
 
+## **2.9.7**
+
+-  **JavaScript** &rarr; made italic object properties
+
 ## **2.9.6**
 
 -  updated README
