@@ -1,7 +1,33 @@
-# Noctis Theme
+<div align="center">
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/liviuschera.noctis.svg)](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
+## Noctis
 
+![Noctis Screenshot](/images/noctis.png)
+
+
+## Noctis Azureus
+
+![Noctis Screenshot](/images/noctisAzureus.png)
+
+
+## Noctis Lux
+
+![Noctis Screenshot](/images/noctisLux.png)
+
+</div>
+
+
+Noctis is a colection of light & dark themes with a well balanced blend of warm and cold medium contrast colors.
+
+The theme is designed to:
+-  be easy on the eyes thus reducing the eye strain
+-  give semantic meaning to theme's colors
+
+Noctis comes in five versions. Four are dark and one is light.
+
+The background of the three dark variants is a very saturated very dark cold bluish cyan. The background of the fourth version is a very saturated very dark cold azure. Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.
+
+The light's theme background is a very saturated very light warm orange. Orange can increase oxygen supply to the brain to produce an invigorating effect.
 
 ## Supported Languages
 
@@ -27,35 +53,6 @@
 - Rust &larr; **NEW**
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
-
-______
-
-Noctis is a colection of light & dark themes with a well balanced blend of warm and cold medium contrast colors.
-
-The theme is designed to:
--  be easy on the eyes thus reducing the eye strain
--  give semantic meaning to theme's colors
-
-Noctis comes in five versions. Four are dark and one is light.
-
-The background of the three dark variants is a very saturated very dark cold bluish cyan. The background of the fourth version is a very saturated very dark cold azure. Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.
-
-The light's theme background is a very saturated very light warm orange. Orange can increase oxygen supply to the brain to produce an invigorating effect.
-
-
-
-## Noctis
-
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/./images/noctis.png)
-
-## Noctis Azureus
-
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/./images/noctisAzureus.png)
-
-## Noctis Lux
-
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/./images/noctisLux.png)
-
 
 ## Syntax colors
 
@@ -83,4 +80,4 @@ Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ 
 
 ## Credits
 
-This theme was inspired by the themes VS Dark+, Solarized, Vue, Cobalt2 and One Dark.
+This theme was inspired by the themes VS Dark+, Solarized, Vue, Cobalt2, One Dark, Dracula and many others.

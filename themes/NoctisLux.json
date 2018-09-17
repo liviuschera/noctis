@@ -381,7 +381,8 @@
          "scope": [
             "comment",
             "punctuation.definition.comment",
-            "punctuation.definition.tag"
+            "punctuation.definition.tag",
+            "comment.block.documentation punctuation.definition.bracket"
          ],
          "settings": {
             "foreground": "#8ca6a6"
@@ -400,7 +401,8 @@
             "source.clojure meta.symbol",
             "text.html.markdown punctuation.definition.string",
             "meta.function-call.arguments.python",
-            "constant.other.symbol.ruby"
+            "constant.other.symbol.ruby",
+            "constant.other.description.jsdoc"
          ],
          "settings": {
             "foreground": "#004d57"
@@ -444,7 +446,8 @@
             "source.ruby punctuation.separator.key-value",
             "keyword.package.go",
             "keyword.import.go",
-            "punctuation.definition.keyword"
+            "punctuation.definition.keyword",
+            "comment.block.documentation punctuation.definition.block.tag"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -516,7 +519,8 @@
             "storage.type.core.rust",
             "storage.class.std.rust",
             "storage.modifier.lifetime.rust",
-            "storage.modifier.lifetime.rust entity.name.lifetime.rust"
+            "storage.modifier.lifetime.rust entity.name.lifetime.rust",
+            "comment.block.documentation entity.name.type"
          ],
          "settings": {
             "foreground": "#b38600"

@@ -1,8 +1,14 @@
 # Change Log
 
+## **3.0.0**
+
+-  **JSDoc** &rarr; added support
+-  updated the screenshots
+-  updated README
+
 ## **2.9.7**
 
--  **JavaScript** &rarr; made italic object properties
+-  **JavaScript** &rarr; made object properties italic
 
 ## **2.9.6**
 
