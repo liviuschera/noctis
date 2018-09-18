@@ -482,7 +482,9 @@
             "source.python",
             "meta.function-call.arguments.python",
             "source.ruby",
-            "punctuation.definition.variable.ruby"
+            "punctuation.definition.variable.ruby",
+            "source.coffee.embedded.source",
+            "source.coffee"
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -662,7 +664,8 @@
             "constant.other.placeholder.c",
             "punctuation.section.embedded.begin.ruby",
             "punctuation.section.embedded.end.ruby source.ruby",
-            "support.constant.math"
+            "support.constant.math",
+            "punctuation.section.embedded"
          ],
          "settings": {
             "foreground": "#0094f0"
@@ -744,7 +747,8 @@
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "variable.parameter",
             "support.constant.core.rust",
-            "support.function.builtin.rust"
+            "support.function.builtin.rust",
+            "storage.type.function.coffee"
          ],
          "settings": {
             "fontStyle": "bold"
