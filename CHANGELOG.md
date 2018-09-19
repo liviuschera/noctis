@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.2.0**
+
+-  **R** &rarr; added support
+-  updated README
+
 ## **3.1.0**
 
 -  **CoffeeScript** &rarr; added support

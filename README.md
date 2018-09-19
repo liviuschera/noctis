@@ -34,7 +34,7 @@ The light's theme background is a very saturated very light warm orange. Orange 
 - C/C++
 - C#
 - Clojure
-- CoffeeScript &larr; **NEW**
+- CoffeeScript
 - CSS
    - Sass/SCSS
 - Go
@@ -50,6 +50,7 @@ The light's theme background is a very saturated very light warm orange. Orange 
 - Markdown
 - PHP
 - Python
+- R &larr; **NEW**
 - Ruby
 - Rust
 
