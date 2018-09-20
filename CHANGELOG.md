@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.3.0**
+
+-  Reworked Noctis, Noctis Azureus and Noctis Obscuro to improve visual separation of sidebar and terminal areas to the background. [#1](https://github.com/liviuschera/noctis/issues/1)
+
 ## **3.2.0**
 
 -  **R** &rarr; added support

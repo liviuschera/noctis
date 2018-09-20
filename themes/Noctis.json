@@ -210,9 +210,9 @@
       "terminal.ansiBrightMagenta": "#ff4d8b",
       "terminal.ansiBrightCyan": "#33e4ff",
       "terminal.ansiBrightWhite": "#ccffff",
-      "terminal.background": "#041d20",
+      "terminal.background": "#03191b",
       "terminal.foreground": "#b2cacd",
-      "terminalCursor.background": "#041d20",
+      "terminalCursor.background": "#03191b",
       "terminalCursor.foreground": "#b2cacd",
       // ---------------------------
       // Merge Conflicts
@@ -263,7 +263,7 @@
       // ---------------------------
       // Panel
       // ---------------------------
-      "panel.background": "#041d20",
+      "panel.background": "#03191b",
       "panel.border": "#0e6671",
       "panelTitle.activeBorder": "#0e6671",
       "panelTitle.activeForeground": "#40d4e7",
@@ -523,7 +523,7 @@
             "storage.class.std.rust",
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
-            "comment.block.documentation entity.name.type",
+            "comment.block.documentation entity.name.type"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -667,7 +667,7 @@
             "punctuation.section.embedded.begin.ruby",
             "punctuation.section.embedded.end.ruby source.ruby",
             "support.constant.math",
-            "punctuation.section.embedded",
+            "punctuation.section.embedded"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -716,7 +716,7 @@
             "variable.other.property",
             "source.r meta.function.r keyword.control.r",
             "comment.line.roxygen.r keyword",
-            "comment.line.roxygen.r variable.parameter.r",
+            "comment.line.roxygen.r variable.parameter.r"
          ],
          "settings": {
             "fontStyle": "italic"
