@@ -64,8 +64,8 @@
       // ---------------------------
       // Dropdown
       // ---------------------------
-      "dropdown.background": "#f2edde",
-      "dropdown.border": "#f2edde",
+      "dropdown.background": "#fef8ec",
+      "dropdown.border": "#fef8ec",
       "dropdown.foreground": "#005661",
       // ---------------------------
       // Editor Marker Navigation
@@ -209,9 +209,10 @@
       "terminal.ansiBrightMagenta": "#ff337a",
       "terminal.ansiBrightCyan": "#00c9db",
       "terminal.ansiBrightWhite": "#cfffff",
-      "terminal.background": "#fef8ec",
+    //   "terminal.background": "#f4ead7",
+      "terminal.background": "#f6ebd5",
       "terminal.foreground": "#005661",
-      "terminalCursor.background": "#fef8ec",
+      "terminalCursor.background": "#f6ebd5",
       "terminalCursor.foreground": "#005661",
       // ---------------------------
       // Merge
@@ -262,7 +263,7 @@
       // ---------------------------
       // Panel
       // ---------------------------
-      "panel.background": "#fef8ec",
+      "panel.background": "#f6ebd5",
       "panel.border": "#00c6e0",
       "panelTitle.activeBorder": "#00c6e0",
       "panelTitle.activeForeground": "#0099ad",

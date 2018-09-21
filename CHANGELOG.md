@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.3.1**
+
+-  Noctis Lux &rarr; changed terminal area color to keep it consistent with the rest of variants [#1](https://github.com/liviuschera/noctis/issues/1)
+-  Noctis Obscuro &rarr; tweaked terminal and sidebar area colors
+
 ## **3.3.0**
 
 -  Reworked Noctis, Noctis Azureus and Noctis Obscuro to improve visual separation of sidebar and terminal areas to the background. [#1](https://github.com/liviuschera/noctis/issues/1)

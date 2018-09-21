@@ -32,7 +32,7 @@
       // ---------------------------
       // Sidebar
       // ---------------------------
-      "sideBar.background": "#042124",
+      "sideBar.background": "#052629",
       "sideBar.dropBackground": "#042124",
       "sideBar.border": "#0f1415",
       "sideBar.foreground": "#a5b5b5",
@@ -64,8 +64,8 @@
       // ---------------------------
       // Dropdown
       // ---------------------------
-      "dropdown.background": "#062e32",
-      "dropdown.border": "#062e32",
+      "dropdown.background": "#041d20",
+      "dropdown.border": "#041d20",
       "dropdown.foreground": "#87a7ab",
       // ---------------------------
       // Editor Marker Navigation
@@ -210,9 +210,9 @@
       "terminal.ansiBrightMagenta": "#ff4d8b",
       "terminal.ansiBrightCyan": "#33e4ff",
       "terminal.ansiBrightWhite": "#ccffff",
-      "terminal.background": "#052529",
+      "terminal.background": "#052a2e",
       "terminal.foreground": "#b2cacd",
-      "terminalCursor.background": "#052529",
+      "terminalCursor.background": "#052a2e",
       "terminalCursor.foreground": "#b2cacd",
       // ---------------------------
       // Merge Conflicts
@@ -263,7 +263,7 @@
       // ---------------------------
       // Panel
       // ---------------------------
-      "panel.background": "#052529",
+      "panel.background": "#052a2e",
       "panel.border": "#0e6671",
       "panelTitle.activeBorder": "#0e6671",
       "panelTitle.activeForeground": "#40d4e7",
