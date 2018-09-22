@@ -584,7 +584,8 @@
          "scope": [
             "string.template",
             "punctuation.definition.string.template",
-            "string.interpolated.python string.quoted.single.python"
+            "string.interpolated.python string.quoted.single.python",
+            "string.quoted.double.heredoc"
          ],
          "settings": {
             "foreground": "#15ac31"
@@ -716,7 +717,8 @@
             "variable.other.property",
             "source.r meta.function.r keyword.control.r",
             "comment.line.roxygen.r keyword",
-            "comment.line.roxygen.r variable.parameter.r"
+            "comment.line.roxygen.r variable.parameter.r",
+            "keyword.control.inheritance.coffee"
          ],
          "settings": {
             "fontStyle": "italic"

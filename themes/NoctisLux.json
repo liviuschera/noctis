@@ -209,7 +209,7 @@
       "terminal.ansiBrightMagenta": "#ff337a",
       "terminal.ansiBrightCyan": "#00c9db",
       "terminal.ansiBrightWhite": "#cfffff",
-    //   "terminal.background": "#f4ead7",
+      //   "terminal.background": "#f4ead7",
       "terminal.background": "#f6ebd5",
       "terminal.foreground": "#005661",
       "terminalCursor.background": "#f6ebd5",
@@ -584,7 +584,8 @@
          "scope": [
             "string.template",
             "punctuation.definition.string.template",
-            "string.interpolated.python string.quoted.single.python"
+            "string.interpolated.python string.quoted.single.python",
+            "string.quoted.double.heredoc"
          ],
          "settings": {
             "foreground": "#00991c"
@@ -717,6 +718,7 @@
             "source.r meta.function.r keyword.control.r",
             "comment.line.roxygen.r keyword",
             "comment.line.roxygen.r variable.parameter.r",
+            "keyword.control.inheritance.coffee"
          ],
          "settings": {
             "fontStyle": "italic"

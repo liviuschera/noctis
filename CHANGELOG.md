@@ -2,6 +2,12 @@
 
 ## **3.3.1**
 
+-  **CoffeeScript**
+   -  doc text uses La Palma color
+   -  made `extends` keyword italic
+
+## **3.3.1**
+
 -  Noctis Lux &rarr; changed terminal area color to keep it consistent with the rest of variants [#1](https://github.com/liviuschera/noctis/issues/1)
 -  Noctis Obscuro &rarr; tweaked terminal and sidebar area colors
 
