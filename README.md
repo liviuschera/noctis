@@ -49,6 +49,7 @@ The light's theme background is a very saturated very light warm orange. Orange 
    - Typescript/TSX
 - Markdown
 - PHP
+  - Laravel Blade
 - Python
 - R &larr; **NEW**
 - Ruby

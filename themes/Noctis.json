@@ -403,7 +403,8 @@
             "text.html.markdown punctuation.definition.string",
             "meta.function-call.arguments.python",
             "constant.other.symbol.ruby",
-            "constant.other.description.jsdoc"
+            "constant.other.description.jsdoc",
+            "keyword.other.array.phpdoc.php"
          ],
          "settings": {
             "foreground": "#b2cacd"
@@ -515,7 +516,6 @@
             "punctuation.definition.annotation",
             "punctuation.bracket.angle",
             "storage.type.generic.java",
-            "source.php meta.function.parameter.typehinted.php storage.type.php",
             "source.go storage.type",
             "storage.type.c",
             "entity.name.function.preprocessor.c",
@@ -523,7 +523,9 @@
             "storage.class.std.rust",
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
-            "comment.block.documentation entity.name.type"
+            "comment.block.documentation entity.name.type",
+            "storage.type.php",
+            "comment.block.documentation.phpdoc.php keyword.other.type.php"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -638,7 +640,6 @@
             "markup.underline.link.markdown",
             "markup.underline.link.image.markdown",
             "markup.underline",
-            "meta.embedded.block meta.function storage.type.php",
             "meta.symbol.namespace.clojure",
             "storage.type.cs"
          ],
@@ -668,7 +669,7 @@
             "punctuation.section.embedded.begin.ruby",
             "punctuation.section.embedded.end.ruby source.ruby",
             "support.constant.math",
-            "punctuation.section.embedded"
+            "punctuation.section.embedded.coffee"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -718,7 +719,9 @@
             "source.r meta.function.r keyword.control.r",
             "comment.line.roxygen.r keyword",
             "comment.line.roxygen.r variable.parameter.r",
-            "keyword.control.inheritance.coffee"
+            "keyword.control.inheritance.coffee",
+            "comment.block.documentation.phpdoc.php keyword",
+            "keyword.other.array.phpdoc.php"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -774,7 +777,6 @@
             "support.type.primitive",
             "keyword.type.cs",
             "storage.type.primitive",
-            "source.php meta.function.parameter.typehinted.php storage.type.php",
             "keyword.function.go",
             "variable.other.c",
             "meta.function.constructor.cpp entity.name.function.cpp",
@@ -783,7 +785,9 @@
             "keyword.other.fn.rust",
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
-            "source.rust meta.attribute.rust"
+            "source.rust meta.attribute.rust",
+            "storage.type.php",
+            "comment.block.documentation.phpdoc.php keyword.other.type.php"
          ],
          "settings": {
             "fontStyle": "bold italic"

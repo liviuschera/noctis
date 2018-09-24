@@ -1,5 +1,13 @@
 # Change Log
 
+## **3.4.0**
+
+-  **PHP**
+   -  _PHPDoc_ &rarr; added support
+   -  fixed scalar and return type declarations highlighting
+   -  fixed `php` tags higlighting
+   -  updated README
+
 ## **3.3.2**
 
 -  **CoffeeScript**
