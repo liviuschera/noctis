@@ -449,7 +449,8 @@
             "keyword.package.go",
             "keyword.import.go",
             "punctuation.definition.keyword",
-            "comment.block.documentation punctuation.definition.block.tag"
+            "comment.block.documentation punctuation.definition.block.tag",
+            "storage.type.modifier.cpp"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -510,22 +511,16 @@
             "meta.type.annotation entity.name.type",
             "punctuation.definition.typeparameters",
             "entity.name.type.type-parameter.cs",
-            "storage.type.primitive",
-            "source.java storage.type",
             "storage.type.annotation",
             "punctuation.definition.annotation",
             "punctuation.bracket.angle",
-            "storage.type.generic.java",
-            "source.go storage.type",
-            "storage.type.c",
             "entity.name.function.preprocessor.c",
-            "storage.type.core.rust",
             "storage.class.std.rust",
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "comment.block.documentation entity.name.type",
-            "storage.type.php",
-            "comment.block.documentation.phpdoc.php keyword.other.type.php"
+            "comment.block.documentation.phpdoc.php keyword.other.type.php",
+            "storage.type"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -539,11 +534,9 @@
             "markup.italic",
             "punctuation.definition.italic",
             "punctuation.definition.bold",
-            "storage.type",
             "entity.name.tag",
             "variable.language punctuation.definition.variable.php",
             "keyword.control.clojure",
-            "storage.type.function.python",
             "support.type.exception.python",
             "keyword.other.this.cs",
             "keyword.other.base.cs",
@@ -560,7 +553,11 @@
             "keyword.other.fn.rust",
             "storage.modifier.const.rust",
             "storage.modifier.static.rust",
-            "source.r meta.function.r keyword.control.r"
+            "source.r meta.function.r keyword.control.r",
+            "storage.type.js",
+            "storage.type.function",
+            "storage.type.rust",
+            "source.cpp storage.type"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -721,7 +718,9 @@
             "comment.line.roxygen.r variable.parameter.r",
             "keyword.control.inheritance.coffee",
             "comment.block.documentation.phpdoc.php keyword",
-            "keyword.other.array.phpdoc.php"
+            "keyword.other.array.phpdoc.php",
+            "storage.type.c",
+            "storage.type.modifier"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -807,7 +806,8 @@
             "keyword.other.rust",
             "storage.modifier.const.rust",
             "storage.modifier.static.rust",
-            "variable.parameter.r"
+            "variable.parameter.r",
+            "variable.parameter.handlebars"
          ],
          "settings": {
             "fontStyle": ""

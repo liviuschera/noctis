@@ -1,5 +1,11 @@
 # Change Log
 
+## **3.4.1**
+
+-  **Handlebars** &rarr; fixed variable higlighting
+-  **C/C++** &rarr; made storage type italic
+-  code refactoring
+
 ## **3.4.0**
 
 -  **PHP**

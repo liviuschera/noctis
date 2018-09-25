@@ -449,7 +449,8 @@
             "keyword.package.go",
             "keyword.import.go",
             "punctuation.definition.keyword",
-            "comment.block.documentation punctuation.definition.block.tag"
+            "comment.block.documentation punctuation.definition.block.tag",
+            "storage.type.modifier.cpp"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -510,22 +511,16 @@
             "meta.type.annotation entity.name.type",
             "punctuation.definition.typeparameters",
             "entity.name.type.type-parameter.cs",
-            "storage.type.primitive",
-            "source.java storage.type",
             "storage.type.annotation",
             "punctuation.definition.annotation",
             "punctuation.bracket.angle",
-            "storage.type.generic.java",
-            "source.go storage.type",
-            "storage.type.c",
             "entity.name.function.preprocessor.c",
-            "storage.type.core.rust",
             "storage.class.std.rust",
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "comment.block.documentation entity.name.type",
-            "storage.type.php",
-            "comment.block.documentation.phpdoc.php keyword.other.type.php"
+            "comment.block.documentation.phpdoc.php keyword.other.type.php",
+            "storage.type"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -539,11 +534,9 @@
             "markup.italic",
             "punctuation.definition.italic",
             "punctuation.definition.bold",
-            "storage.type",
             "entity.name.tag",
             "variable.language punctuation.definition.variable.php",
             "keyword.control.clojure",
-            "storage.type.function.python",
             "support.type.exception.python",
             "keyword.other.this.cs",
             "keyword.other.base.cs",
@@ -560,7 +553,11 @@
             "keyword.other.fn.rust",
             "storage.modifier.const.rust",
             "storage.modifier.static.rust",
-            "source.r meta.function.r keyword.control.r"
+            "source.r meta.function.r keyword.control.r",
+            "storage.type.js",
+            "storage.type.function",
+            "storage.type.rust",
+            "source.cpp storage.type"
          ],
          "settings": {
             "foreground": "#d13b00"
@@ -682,136 +679,139 @@
          }
       },
       {
-        "name": "Italic",
-        "scope": [
-           "comment",
-           "storage.modifier",
-           "storage.type.function",
-           "punctuation.definition.comment",
-           "entity.other",
-           "variable.language",
-           "support.type.vendored",
-           "support.constant.vendored",
-           "source.python support.type.python",
-           "entity.other.attribute-name",
-           "support.variable.dom",
-           "markup.quote",
-           "markup.italic",
-           "tag.decorator.js entity.name.tag.js",
-           "tag.decorator.js punctuation.definition.tag.js",
-           "storage.type.php",
-           "keyword.control.clojure",
-           "source.clojure meta.symbol.dynamic",
-           "entity.name.variable.parameter.cs",
-           "keyword.other.this.cs",
-           "keyword.other.base.cs",
-           "meta.type.annotation entity.name.type",
-           "storage.type.generic.java",
-           "support.variable.property.dom",
-           "variable.other.member.c",
-           "keyword.control.pseudo-method.ruby",
-           "keyword.other.special-method.ruby",
-           "source.ruby variable.other.readwrite",
-           "storage.class.std.rust",
-           "support.type.core.rust",
-           "variable.other.object.property",
-           "variable.other.property",
-           "source.r meta.function.r keyword.control.r",
-           "comment.line.roxygen.r keyword",
-           "comment.line.roxygen.r variable.parameter.r",
-           "keyword.control.inheritance.coffee",
-           "comment.block.documentation.phpdoc.php keyword",
-           "keyword.other.array.phpdoc.php"
-        ],
-        "settings": {
-           "fontStyle": "italic"
-        }
-     },
-     {
-        "name": "Bold",
-        "scope": [
-           "keyword",
-           "keyword.control",
-           "keyword.other.template",
-           "keyword.other.substitution",
-           "storage.type.function.arrow",
-           "constant.other.color",
-           "punctuation.accessor",
-           "entity.name.section.markdown",
-           "markup.bold",
-           "markup.bold string",
-           "markdown.heading",
-           "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
-           "markup.heading | markup.heading entity.name",
-           "markup.heading.markdown punctuation.definition.heading.markdown",
-           "storage.type.function.pug",
-           "storage.type.function.python",
-           "punctuation.definition.typeparameters",
-           "storage.type.annotation",
-           "punctuation.bracket.angle",
-           "keyword.other.new",
-           "punctuation.separator.question-mark.cs",
-           "storage.type.generic.wildcard",
-           "source.go keyword.operator",
-           "punctuation.separator.namespace",
-           "constant.other.symbol.ruby punctuation.definition.constant.ruby",
-           "variable.parameter",
-           "support.constant.core.rust",
-           "support.function.builtin.rust",
-           "storage.type.function.coffee"
-        ],
-        "settings": {
-           "fontStyle": "bold"
-        }
-     },
-     {
-        "name": "Bold-Italic",
-        "scope": [
-           "markup.bold.markdown markup.italic.markdown",
-           "markup.italic.markdown markup.bold.markdown",
-           "markup.quote markup.bold.markdown",
-           "markup.bold.markdown markup.italic.markdown string",
-           "markup.italic markup.bold string",
-           "markup.quote markup.bold.markdown string",
-           "text.html punctuation.section.embedded",
-           "support.type.primitive",
-           "keyword.type.cs",
-           "storage.type.primitive",
-           "keyword.function.go",
-           "variable.other.c",
-           "meta.function.constructor.cpp entity.name.function.cpp",
-           "meta.function.destructor.cpp entity.name.function.cpp",
-           "punctuation.definition.variable.ruby",
-           "keyword.other.fn.rust",
-           "storage.modifier.lifetime.rust",
-           "storage.modifier.lifetime.rust entity.name.lifetime.rust",
-           "source.rust meta.attribute.rust",
-           "storage.type.php",
-           "comment.block.documentation.phpdoc.php keyword.other.type.php"
-        ],
-        "settings": {
-           "fontStyle": "bold italic"
-        }
-     },
-     {
-        "name": "Normal",
-        "scope": [
-           "keyword.begin.tag.ejs",
-           "source.python meta.function.decorator.python support.type.python",
-           "source.cs keyword.other",
-           "keyword.other.var.cs",
-           "storage.modifier.import.java",
-           "source.go keyword",
-           "storage.modifier.c",
-           "keyword.control.pseudo-method",
-           "keyword.other.rust",
-           "storage.modifier.const.rust",
-           "storage.modifier.static.rust",
-           "variable.parameter.r"
-        ],
-        "settings": {
-           "fontStyle": ""
-        }
-     }
-  ]
+         "name": "Italic",
+         "scope": [
+            "comment",
+            "storage.modifier",
+            "storage.type.function",
+            "punctuation.definition.comment",
+            "entity.other",
+            "variable.language",
+            "support.type.vendored",
+            "support.constant.vendored",
+            "source.python support.type.python",
+            "entity.other.attribute-name",
+            "support.variable.dom",
+            "markup.quote",
+            "markup.italic",
+            "tag.decorator.js entity.name.tag.js",
+            "tag.decorator.js punctuation.definition.tag.js",
+            "storage.type.php",
+            "keyword.control.clojure",
+            "source.clojure meta.symbol.dynamic",
+            "entity.name.variable.parameter.cs",
+            "keyword.other.this.cs",
+            "keyword.other.base.cs",
+            "meta.type.annotation entity.name.type",
+            "storage.type.generic.java",
+            "support.variable.property.dom",
+            "variable.other.member.c",
+            "keyword.control.pseudo-method.ruby",
+            "keyword.other.special-method.ruby",
+            "source.ruby variable.other.readwrite",
+            "storage.class.std.rust",
+            "support.type.core.rust",
+            "variable.other.object.property",
+            "variable.other.property",
+            "source.r meta.function.r keyword.control.r",
+            "comment.line.roxygen.r keyword",
+            "comment.line.roxygen.r variable.parameter.r",
+            "keyword.control.inheritance.coffee",
+            "comment.block.documentation.phpdoc.php keyword",
+            "keyword.other.array.phpdoc.php",
+            "storage.type.c",
+            "storage.type.modifier"
+         ],
+         "settings": {
+            "fontStyle": "italic"
+         }
+      },
+      {
+         "name": "Bold",
+         "scope": [
+            "keyword",
+            "keyword.control",
+            "keyword.other.template",
+            "keyword.other.substitution",
+            "storage.type.function.arrow",
+            "constant.other.color",
+            "punctuation.accessor",
+            "entity.name.section.markdown",
+            "markup.bold",
+            "markup.bold string",
+            "markdown.heading",
+            "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
+            "markup.heading | markup.heading entity.name",
+            "markup.heading.markdown punctuation.definition.heading.markdown",
+            "storage.type.function.pug",
+            "storage.type.function.python",
+            "punctuation.definition.typeparameters",
+            "storage.type.annotation",
+            "punctuation.bracket.angle",
+            "keyword.other.new",
+            "punctuation.separator.question-mark.cs",
+            "storage.type.generic.wildcard",
+            "source.go keyword.operator",
+            "punctuation.separator.namespace",
+            "constant.other.symbol.ruby punctuation.definition.constant.ruby",
+            "variable.parameter",
+            "support.constant.core.rust",
+            "support.function.builtin.rust",
+            "storage.type.function.coffee"
+         ],
+         "settings": {
+            "fontStyle": "bold"
+         }
+      },
+      {
+         "name": "Bold-Italic",
+         "scope": [
+            "markup.bold.markdown markup.italic.markdown",
+            "markup.italic.markdown markup.bold.markdown",
+            "markup.quote markup.bold.markdown",
+            "markup.bold.markdown markup.italic.markdown string",
+            "markup.italic markup.bold string",
+            "markup.quote markup.bold.markdown string",
+            "text.html punctuation.section.embedded",
+            "support.type.primitive",
+            "keyword.type.cs",
+            "storage.type.primitive",
+            "keyword.function.go",
+            "variable.other.c",
+            "meta.function.constructor.cpp entity.name.function.cpp",
+            "meta.function.destructor.cpp entity.name.function.cpp",
+            "punctuation.definition.variable.ruby",
+            "keyword.other.fn.rust",
+            "storage.modifier.lifetime.rust",
+            "storage.modifier.lifetime.rust entity.name.lifetime.rust",
+            "source.rust meta.attribute.rust",
+            "storage.type.php",
+            "comment.block.documentation.phpdoc.php keyword.other.type.php"
+         ],
+         "settings": {
+            "fontStyle": "bold italic"
+         }
+      },
+      {
+         "name": "Normal",
+         "scope": [
+            "keyword.begin.tag.ejs",
+            "source.python meta.function.decorator.python support.type.python",
+            "source.cs keyword.other",
+            "keyword.other.var.cs",
+            "storage.modifier.import.java",
+            "source.go keyword",
+            "storage.modifier.c",
+            "keyword.control.pseudo-method",
+            "keyword.other.rust",
+            "storage.modifier.const.rust",
+            "storage.modifier.static.rust",
+            "variable.parameter.r",
+            "variable.parameter.handlebars"
+         ],
+         "settings": {
+            "fontStyle": ""
+         }
+      }
+   ]
 }
