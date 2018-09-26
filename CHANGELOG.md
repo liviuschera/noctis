@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.4.2**
+
+-  **Typescript** &rarr; fixed `constructor` keyword higlighting
+-  **R** &rarr; made package namespace Dodger Blue
+
 ## **3.4.1**
 
 -  **Handlebars** &rarr; fixed variable higlighting

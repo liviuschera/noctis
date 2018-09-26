@@ -556,7 +556,8 @@
             "storage.type.js",
             "storage.type.function",
             "storage.type.rust",
-            "source.cpp storage.type"
+            "source.cpp storage.type",
+            "storage.type.ts",
          ],
          "settings": {
             "foreground": "#e97749"
@@ -665,7 +666,8 @@
             "punctuation.section.embedded.begin.ruby",
             "punctuation.section.embedded.end.ruby source.ruby",
             "support.constant.math",
-            "punctuation.section.embedded.coffee"
+            "punctuation.section.embedded.coffee",
+            "entity.namespace.r"
          ],
          "settings": {
             "foreground": "#49ace9"
