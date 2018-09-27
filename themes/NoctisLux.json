@@ -476,7 +476,6 @@
             "source.cs entity.name.variable",
             "entity.name.type.namespace.cs",
             "entity.name.variable.parameter.cs",
-            "storage.modifier.import.java",
             "source.java meta.class.body.java",
             "entity.name.package.go",
             "source.c",
@@ -487,7 +486,11 @@
             "source.ruby",
             "punctuation.definition.variable.ruby",
             "source.coffee.embedded.source",
-            "source.coffee"
+            "source.coffee",
+            "storage.modifier.import",
+            "storage.modifier.package",
+            "storage.type.annotation",
+            "punctuation.definition.annotation",
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -511,8 +514,6 @@
             "meta.type.annotation entity.name.type",
             "punctuation.definition.typeparameters",
             "entity.name.type.type-parameter.cs",
-            "storage.type.annotation",
-            "punctuation.definition.annotation",
             "punctuation.bracket.angle",
             "entity.name.function.preprocessor.c",
             "storage.class.std.rust",
@@ -520,7 +521,9 @@
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "comment.block.documentation entity.name.type",
             "comment.block.documentation.phpdoc.php keyword.other.type.php",
-            "storage.type"
+            "storage.type",
+            "meta.class.body.groovy meta.definition.variable.groovy storage.type.groovy",
+            "meta.class.body.groovy meta.method.parameter.groovy storage.type.groovy"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -559,6 +562,8 @@
             "storage.type.rust",
             "source.cpp storage.type",
             "storage.type.ts",
+            "storage.type.def",
+            "meta.class.identifier storage.modifier",
          ],
          "settings": {
             "foreground": "#d13b00"
@@ -616,7 +621,9 @@
             "string.other.link",
             "support.type.vendored",
             "support.other.variable",
-            "meta.function-call.generic.python"
+            "meta.function-call.generic.python",
+            "meta.method-call.groovy meta.method.groovy",
+            "meta.class.body.groovy meta.method.body.java storage.type.groovy",
          ],
          "settings": {
             "foreground": "#0095a8"
@@ -668,7 +675,8 @@
             "punctuation.section.embedded.end.ruby source.ruby",
             "support.constant.math",
             "punctuation.section.embedded.coffee",
-            "entity.namespace.r"
+            "entity.namespace.r",
+            "meta.method-call.groovy storage.type.groovy",
          ],
          "settings": {
             "foreground": "#0094f0"
@@ -801,7 +809,6 @@
             "source.python meta.function.decorator.python support.type.python",
             "source.cs keyword.other",
             "keyword.other.var.cs",
-            "storage.modifier.import.java",
             "source.go keyword",
             "storage.modifier.c",
             "keyword.control.pseudo-method",
@@ -809,7 +816,10 @@
             "storage.modifier.const.rust",
             "storage.modifier.static.rust",
             "variable.parameter.r",
-            "variable.parameter.handlebars"
+            "variable.parameter.handlebars",
+            "storage.modifier.import",
+            "storage.modifier.package",
+            "meta.class.identifier storage.modifier"
          ],
          "settings": {
             "fontStyle": ""

@@ -1,5 +1,13 @@
 # Change Log
 
+## **3.5.0**
+
+-  **Groovy** &rarr; added support
+-  **Java** 
+    - annotation type made Gold Sand
+    - made `class`, `enum` and `interface` keywords Burnt Sienna
+-  updated README
+
 ## **3.4.2**
 
 -  **Typescript** &rarr; fixed `constructor` keyword higlighting

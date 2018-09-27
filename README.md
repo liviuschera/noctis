@@ -38,6 +38,7 @@ The light's theme background is a very saturated very light warm orange. Orange 
 - CSS
    - Sass/SCSS
 - Go
+- Groovy &larr; **NEW**
 - HTML
    - EJS
    - Handlebars
@@ -51,11 +52,16 @@ The light's theme background is a very saturated very light warm orange. Orange 
 - PHP
   - Laravel Blade
 - Python
-- R &larr; **NEW**
+- R
 - Ruby
 - Rust
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
+
+## Fonts
+
+The font in the screenshots are actually 2 fonts glued together with [Custom CSS](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css). For normal style I used [Hasklig](https://github.com/i-tu/Hasklig)  and for italics [Cartograph Mono CF](http://connary.com/cartograph.html).
+I think there is a beautiful synergy between the two fonts and they intertwine naturally together.
 
 ## Syntax colors
 
