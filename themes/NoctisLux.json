@@ -491,6 +491,7 @@
             "storage.modifier.package",
             "storage.type.annotation",
             "punctuation.definition.annotation",
+            "source.groovy.embedded.source"
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -677,6 +678,7 @@
             "punctuation.section.embedded.coffee",
             "entity.namespace.r",
             "meta.method-call.groovy storage.type.groovy",
+            "punctuation.section.embedded.groovy"
          ],
          "settings": {
             "foreground": "#0094f0"

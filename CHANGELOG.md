@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.5.1**
+
+-  **Groovy** &rarr; fixed string interpolation
+
 ## **3.5.0**
 
 -  **Groovy** &rarr; added support
