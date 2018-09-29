@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.5.2**
+
+- **Java** &rarr; fixed javadoc higlighting
+- code refactoring
+
 ## **3.5.1**
 
 -  **Groovy** &rarr; fixed string interpolation

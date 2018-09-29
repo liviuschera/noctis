@@ -471,7 +471,6 @@
            "meta.toc-list.id.html",
            "source.json meta.structure.dictionary.json support.type.property-name.json",
            "markup.list",
-           "variable.other punctuation.definition.variable.php",
            "meta.var.clojure",
            "source.cs entity.name.variable",
            "entity.name.type.namespace.cs",
@@ -484,14 +483,14 @@
            "source.python",
            "meta.function-call.arguments.python",
            "source.ruby",
-           "punctuation.definition.variable.ruby",
            "source.coffee.embedded.source",
            "source.coffee",
            "storage.modifier.import",
            "storage.modifier.package",
            "storage.type.annotation",
            "punctuation.definition.annotation",
-           "source.groovy.embedded.source"
+           "source.groovy.embedded.source",
+           "punctuation.definition.variable",
         ],
         "settings": {
            "foreground": "#e4b781"
@@ -733,6 +732,8 @@
            "keyword.other.array.phpdoc.php",
            "storage.type.c",
            "storage.type.modifier",
+           "comment.block.javadoc.java keyword",
+           "comment.block.javadoc.java variable.parameter.java"
         ],
         "settings": {
            "fontStyle": "italic"
