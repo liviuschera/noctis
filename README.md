@@ -38,7 +38,7 @@ The light's theme background is a very saturated very light warm orange. Orange 
 - CSS
    - Sass/SCSS
 - Go
-- Groovy &larr; **NEW**
+- Groovy
 - HTML
    - EJS
    - Handlebars
@@ -51,6 +51,7 @@ The light's theme background is a very saturated very light warm orange. Orange 
 - Markdown
 - PHP
   - Laravel Blade
+- PowerShell &larr; **NEW**
 - Python
 - R
 - Ruby

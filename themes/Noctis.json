@@ -404,7 +404,8 @@
             "meta.function-call.arguments.python",
             "constant.other.symbol.ruby",
             "constant.other.description.jsdoc",
-            "keyword.other.array.phpdoc.php"
+            "keyword.other.array.phpdoc.php",
+            "keyword.operator.other.powershell"
          ],
          "settings": {
             "foreground": "#b2cacd"
@@ -471,7 +472,6 @@
             "meta.toc-list.id.html",
             "source.json meta.structure.dictionary.json support.type.property-name.json",
             "markup.list",
-            // "variable.other punctuation.definition.variable.php",
             "meta.var.clojure",
             "source.cs entity.name.variable",
             "entity.name.type.namespace.cs",
@@ -492,6 +492,7 @@
             "punctuation.definition.annotation",
             "source.groovy.embedded.source",
             "punctuation.definition.variable",
+            "source.powershell"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -565,6 +566,7 @@
             "storage.type.ts",
             "storage.type.def",
             "meta.class.identifier storage.modifier",
+            "meta.function.powershell storage.type.powershell"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -734,7 +736,8 @@
             "storage.type.c",
             "storage.type.modifier",
             "comment.block.javadoc.java keyword",
-            "comment.block.javadoc.java variable.parameter.java"
+            "comment.block.javadoc.java variable.parameter.java",
+            "keyword.operator.documentation.powershell",
          ],
          "settings": {
             "fontStyle": "italic"
@@ -823,7 +826,8 @@
             "variable.parameter.handlebars",
             "storage.modifier.import",
             "storage.modifier.package",
-            "meta.class.identifier storage.modifier"
+            "meta.class.identifier storage.modifier",
+            "keyword.operator.other.powershell"
          ],
          "settings": {
             "fontStyle": ""

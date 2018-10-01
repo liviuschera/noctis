@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.6.0**
+
+- **PowerShell** &rarr; added support
+- updated README
+
 ## **3.5.2**
 
 - **Java** &rarr; fixed javadoc higlighting
