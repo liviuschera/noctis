@@ -525,7 +525,7 @@
             "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "storage.type",
             "meta.class.body.groovy meta.definition.variable.groovy storage.type.groovy",
-            "meta.class.body.groovy meta.method.parameter.groovy storage.type.groovy"
+            "meta.class.body.groovy meta.method.parameter.groovy storage.type.groovy",
          ],
          "settings": {
             "foreground": "#b38600"
@@ -680,7 +680,8 @@
             "punctuation.section.embedded.coffee",
             "entity.namespace.r",
             "meta.method-call.groovy storage.type.groovy",
-            "punctuation.section.embedded.groovy"
+            "punctuation.section.embedded.groovy",
+            "entity.name.function-table.lua"
          ],
          "settings": {
             "foreground": "#0094f0"
@@ -738,6 +739,7 @@
             "comment.block.javadoc.java keyword",
             "comment.block.javadoc.java variable.parameter.java",
             "keyword.operator.documentation.powershell",
+            "variable.other.table.property.lua"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -827,7 +829,7 @@
             "storage.modifier.import",
             "storage.modifier.package",
             "meta.class.identifier storage.modifier",
-            "keyword.operator.other.powershell"
+            "keyword.operator.other.powershell",
          ],
          "settings": {
             "fontStyle": ""

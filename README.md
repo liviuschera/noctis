@@ -48,10 +48,11 @@ The light's theme background is a very saturated very light warm orange. Orange 
    - JSON
    - React/JSX
    - Typescript/TSX
+- Lua ([Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension required) &larr; **NEW**
 - Markdown
 - PHP
   - Laravel Blade
-- PowerShell &larr; **NEW**
+- PowerShell
 - Python
 - R
 - Ruby

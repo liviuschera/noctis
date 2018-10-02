@@ -524,7 +524,7 @@
            "comment.block.documentation.phpdoc.php keyword.other.type.php",
            "storage.type",
            "meta.class.body.groovy meta.definition.variable.groovy storage.type.groovy",
-           "meta.class.body.groovy meta.method.parameter.groovy storage.type.groovy"
+           "meta.class.body.groovy meta.method.parameter.groovy storage.type.groovy",
         ],
         "settings": {
            "foreground": "#cc9900"
@@ -565,7 +565,7 @@
            "storage.type.ts",
            "storage.type.def",
            "meta.class.identifier storage.modifier",
-           "meta.function.powershell storage.type.powershell"
+           "meta.function.powershell storage.type.powershell",
         ],
         "settings": {
            "foreground": "#e97749"
@@ -679,7 +679,8 @@
            "punctuation.section.embedded.coffee",
            "entity.namespace.r",
            "meta.method-call.groovy storage.type.groovy",
-           "punctuation.section.embedded.groovy"
+           "punctuation.section.embedded.groovy",
+           "entity.name.function-table.lua"
         ],
         "settings": {
            "foreground": "#49ace9"
@@ -737,6 +738,7 @@
            "comment.block.javadoc.java keyword",
            "comment.block.javadoc.java variable.parameter.java",
            "keyword.operator.documentation.powershell",
+           "variable.other.table.property.lua"
         ],
         "settings": {
            "fontStyle": "italic"
@@ -802,7 +804,7 @@
            "storage.modifier.lifetime.rust entity.name.lifetime.rust",
            "source.rust meta.attribute.rust",
            "storage.type.php",
-           "comment.block.documentation.phpdoc.php keyword.other.type.php"
+           "comment.block.documentation.phpdoc.php keyword.other.type.php",
         ],
         "settings": {
            "fontStyle": "bold italic"
@@ -826,7 +828,7 @@
            "storage.modifier.import",
            "storage.modifier.package",
            "meta.class.identifier storage.modifier",
-           "keyword.operator.other.powershell"
+           "keyword.operator.other.powershell",
         ],
         "settings": {
            "fontStyle": ""

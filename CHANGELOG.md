@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.7.0**
+
+- **Lua** &rarr; added support ([Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension required)
+- updated README
+
 ## **3.6.0**
 
 - **PowerShell** &rarr; added support
