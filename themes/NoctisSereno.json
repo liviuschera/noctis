@@ -526,6 +526,7 @@
          "storage.type",
          "meta.class.body.groovy meta.definition.variable.groovy storage.type.groovy",
          "meta.class.body.groovy meta.method.parameter.groovy storage.type.groovy",
+         "support.variable.lua"
       ],
       "settings": {
          "foreground": "#cc9900"
