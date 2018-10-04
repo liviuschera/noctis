@@ -526,7 +526,8 @@
             "storage.type",
             "meta.class.body.groovy meta.definition.variable.groovy storage.type.groovy",
             "meta.class.body.groovy meta.method.parameter.groovy storage.type.groovy",
-            "support.variable.lua"
+            "support.variable.lua",
+            "support.type.vb"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -567,7 +568,8 @@
             "storage.type.ts",
             "storage.type.def",
             "meta.class.identifier storage.modifier",
-            "meta.function.powershell storage.type.powershell"
+            "meta.function.powershell storage.type.powershell",
+            "storage.type.asp"
          ],
          "settings": {
             "foreground": "#d13b00"

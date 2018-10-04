@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.8.0**
+
+- **Visual Basic** &rarr; added support
+- updated README
+
 ## **3.7.1**
 
 - **Lua** &rarr; made library names Buddha Gold
