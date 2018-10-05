@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.8.1**
+
+- **Lua** &rarr; normal font style for the `function` keyword 
+
 ## **3.8.0**
 
 - **Visual Basic** &rarr; added support

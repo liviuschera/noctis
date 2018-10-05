@@ -833,6 +833,7 @@
             "storage.modifier.package",
             "meta.class.identifier storage.modifier",
             "keyword.operator.other.powershell",
+            "source.lua storage.type.function"
          ],
          "settings": {
             "fontStyle": ""
