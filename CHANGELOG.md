@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.8.2**
+
+- **PHP** &rarr; made decimal period separator Cornflower Blue
+
 ## **3.8.1**
 
 - **Lua** &rarr; normal font style for the `function` keyword 

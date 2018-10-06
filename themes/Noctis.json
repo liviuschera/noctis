@@ -606,7 +606,8 @@
           "scope": [
              "constant.numeric",
              "constant.language",
-             "constant.character.escape"
+             "constant.character.escape",
+             "punctuation.separator.decimal.period.php"
           ],
           "settings": {
              "foreground": "#7060eb"
