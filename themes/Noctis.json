@@ -527,7 +527,8 @@
              "meta.class.body.groovy meta.definition.variable.groovy storage.type.groovy",
              "meta.class.body.groovy meta.method.parameter.groovy storage.type.groovy",
              "support.variable.lua",
-             "support.type.vb"
+             "support.type.vb",
+             "source.scala entity.name.class"
           ],
           "settings": {
              "foreground": "#cc9900"
@@ -535,41 +536,42 @@
        },
        {
           "scope": [
-             "variable.language",
-             "variable.parameter.function.language.special",
-             "markup.bold",
-             "markup.italic",
-             "punctuation.definition.italic",
-             "punctuation.definition.bold",
-             "entity.name.tag",
-             "variable.language punctuation.definition.variable.php",
-             "keyword.control.clojure",
-             "support.type.exception.python",
-             "keyword.other.this.cs",
-             "keyword.other.base.cs",
-             "keyword.other.var.cs",
-             "storage.modifier.super",
-             "source.go keyword",
-             "keyword.function.go",
-             "keyword.operator.address.go",
-             "storage.modifier.c",
-             "punctuation.separator.namespace",
-             "constant.other.symbol.hashkey.ruby",
-             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-             "keyword.other.rust",
-             "keyword.other.fn.rust",
-             "storage.modifier.const.rust",
-             "storage.modifier.static.rust",
-             "source.r meta.function.r keyword.control.r",
-             "storage.type.js",
-             "storage.type.function",
-             "storage.type.rust",
-             "source.cpp storage.type",
-             "storage.type.ts",
-             "storage.type.def",
-             "meta.class.identifier storage.modifier",
-             "meta.function.powershell storage.type.powershell",
-             "storage.type.asp"
+            "variable.language",
+            "variable.parameter.function.language.special",
+            "markup.bold",
+            "markup.italic",
+            "punctuation.definition.italic",
+            "punctuation.definition.bold",
+            "entity.name.tag",
+            "variable.language punctuation.definition.variable.php",
+            "keyword.control.clojure",
+            "support.type.exception.python",
+            "keyword.other.this.cs",
+            "keyword.other.base.cs",
+            "keyword.other.var.cs",
+            "storage.modifier.super",
+            "source.go keyword",
+            "keyword.function.go",
+            "keyword.operator.address.go",
+            "storage.modifier.c",
+            "punctuation.separator.namespace",
+            "constant.other.symbol.hashkey.ruby",
+            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
+            "keyword.other.rust",
+            "keyword.other.fn.rust",
+            "storage.modifier.const.rust",
+            "storage.modifier.static.rust",
+            "source.r meta.function.r keyword.control.r",
+            "storage.type.js",
+            "storage.type.function",
+            "storage.type.rust",
+            "source.cpp storage.type",
+            "storage.type.ts",
+            "storage.type.def",
+            "meta.class.identifier storage.modifier",
+            "meta.function.powershell storage.type.powershell",
+            "storage.type.asp",
+            "source.scala keyword.declaration"
           ],
           "settings": {
              "foreground": "#e97749"
@@ -686,6 +688,7 @@
              "meta.method-call.groovy storage.type.groovy",
              "punctuation.section.embedded.groovy",
              "entity.name.function-table.lua",
+             "source.scala entity.name.class.declaration"
           ],
           "settings": {
              "foreground": "#49ace9"
@@ -743,7 +746,8 @@
              "comment.block.javadoc.java keyword",
              "comment.block.javadoc.java variable.parameter.java",
              "keyword.operator.documentation.powershell",
-             "variable.other.table.property.lua"            
+             "variable.other.table.property.lua",
+             "storage.type.scala"          
           ],
           "settings": {
              "fontStyle": "italic"
@@ -834,7 +838,8 @@
              "storage.modifier.package",
              "meta.class.identifier storage.modifier",
              "keyword.operator.other.powershell",
-             "source.lua storage.type.function"
+             "source.lua storage.type.function",
+             "source.scala keyword.declaration"
           ],
           "settings": {
              "fontStyle": ""

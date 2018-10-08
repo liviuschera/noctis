@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.9.0**
+
+- **Scala** &rarr; added support (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
+- updated README
+
 ## **3.8.2**
 
 - **PHP** &rarr; made decimal period separator Cornflower Blue
@@ -19,7 +24,7 @@
 
 ## **3.7.0**
 
-- **Lua** &rarr; added support ([Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension required)
+- **Lua** &rarr; added support (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus)) extension)
 - updated README
 
 ## **3.6.0**

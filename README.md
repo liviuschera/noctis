@@ -48,7 +48,7 @@ The light's theme background is a very saturated very light warm orange. Orange 
    - JSON
    - React/JSX
    - Typescript/TSX
-- Lua ([Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension required)
+- Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
 - Markdown
 - PHP
   - Laravel Blade
@@ -57,7 +57,8 @@ The light's theme background is a very saturated very light warm orange. Orange 
 - R
 - Ruby
 - Rust
-- Visual Basic &larr; **NEW**
+- Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension) &larr; **NEW**
+- Visual Basic
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 
