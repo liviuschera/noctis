@@ -1,41 +1,49 @@
 # Change Log
 
+## **3.10.0**
+
+-  code refactoring
+-  **C/C++** &rarr; various changes
+-  **PowerShell** &rarr; made `function` italic
+-  **Python** &rarr; made `self` italic when is parameter
+-  **TypeScript** &rarr; syntax highlighting fixes
+
 ## **3.9.0**
 
-- **Scala** &rarr; added support (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
-- updated README
+-  **Scala** &rarr; added support (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
+-  updated README
 
 ## **3.8.2**
 
-- **PHP** &rarr; made decimal period separator Cornflower Blue
+-  **PHP** &rarr; made decimal period separator Cornflower Blue
 
 ## **3.8.1**
 
-- **Lua** &rarr; normal font style for the `function` keyword 
+-  **Lua** &rarr; normal font style for the `function` keyword
 
 ## **3.8.0**
 
-- **Visual Basic** &rarr; added support
-- updated README
+-  **Visual Basic** &rarr; added support
+-  updated README
 
 ## **3.7.1**
 
-- **Lua** &rarr; made library names Buddha Gold
+-  **Lua** &rarr; made library names Buddha Gold
 
 ## **3.7.0**
 
-- **Lua** &rarr; added support (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus)) extension)
-- updated README
+-  **Lua** &rarr; added support (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus)) extension)
+-  updated README
 
 ## **3.6.0**
 
-- **PowerShell** &rarr; added support
-- updated README
+-  **PowerShell** &rarr; added support
+-  updated README
 
 ## **3.5.2**
 
-- **Java** &rarr; fixed javadoc higlighting
-- code refactoring
+-  **Java** &rarr; fixed javadoc higlighting
+-  code refactoring
 
 ## **3.5.1**
 
@@ -44,9 +52,9 @@
 ## **3.5.0**
 
 -  **Groovy** &rarr; added support
--  **Java** 
-    - annotation type made Gold Sand
-    - made `class`, `enum` and `interface` keywords Burnt Sienna
+-  **Java**
+   -  annotation type made Gold Sand
+   -  made `class`, `enum` and `interface` keywords Burnt Sienna
 -  updated README
 
 ## **3.4.2**
