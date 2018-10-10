@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.10.1**
+
+-  escape character are now Dodger Blue
+
 ## **3.10.0**
 
 -  code refactoring

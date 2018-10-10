@@ -603,7 +603,6 @@
          "scope": [
             "constant.numeric",
             "constant.language",
-            "constant.character.escape",
             "punctuation.separator.decimal.period.php"
          ],
          "settings": {
@@ -683,7 +682,8 @@
             "meta.method-call.groovy storage.type.groovy",
             "punctuation.section.embedded.groovy",
             "entity.name.function-table.lua",
-            "source.scala entity.name.class.declaration"
+            "source.scala entity.name.class.declaration",
+            "constant.character.escape",
          ],
          "settings": {
             "foreground": "#49ace9"
