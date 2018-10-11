@@ -531,7 +531,8 @@
             "source.java storage.type",
             "source.groovy storage.type",
             "storage.type.php",
-            "storage.type.scala"
+            "storage.type.scala",
+            "storage.type.cs"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -650,7 +651,6 @@
             "markup.underline.link.image.markdown",
             "markup.underline",
             "meta.symbol.namespace.clojure",
-            "storage.type.cs"
          ],
          "settings": {
             "foreground": "#00bdd6"

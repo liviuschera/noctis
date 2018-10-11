@@ -1,8 +1,12 @@
 # Change Log
 
+## **3.10.2**
+
+-  **C#** &rarr; type parameters are now Buddha Gold
+
 ## **3.10.1**
 
--  escape character are now Dodger Blue
+-  escape characters are now Dodger Blue
 
 ## **3.10.0**
 
