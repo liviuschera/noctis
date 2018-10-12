@@ -498,6 +498,15 @@
          }
       },
       {
+        "scope": [
+           "support.variable.dom",
+           "support.variable.property.dom",
+        ],
+        "settings": {
+           "foreground": "#edc9af"
+        }
+     },
+      {
          "scope": [
             "constant",
             "variable.other.constant",
@@ -506,7 +515,6 @@
             "constant.character.entity",
             "support.variable.magic",
             "entity.other.attribute-name",
-            "support.variable.dom",
             "markup.quote",
             "source.python support.type.python",
             "keyword.type.cs",
@@ -709,7 +717,6 @@
             "support.constant.vendored",
             "source.python support.type.python",
             "entity.other.attribute-name",
-            "support.variable.dom",
             "markup.quote",
             "markup.italic",
             "tag.decorator.js entity.name.tag.js",

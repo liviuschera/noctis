@@ -1,31 +1,33 @@
 * {
    /* Dark Syntax Colors */
-   color: #df769b;
-   color: #7060eb;
-   color: #e97749;
-   color: #e4b781;
-   color: #cc9900;
-   color: #57db6f;
-   color: #15ac31;
-   color: #16a3b6;
-   color: #49d6e9;
    color: #5b858b;
-   color: #507b95;
    color: #b2cacd;
    color: #becfda;
+   color: #507b95;
+   color: #df769b;
+   color: #edc9af;
+   color: #e4b781;
+   color: #cc9900;
+   color: #e97749;
+   color: #57db6f;
+   color: #15ac31;
+   color: #7060eb;
+   color: #16a3b6;
+   color: #49d6e9;
    color: #49ace9;
 
    /* Light Syntax Colors */
+   color: #8db4b4;
+   color: #18393e;
    color: #ff5792;
    color: #5842ff;
-   color: #d13b00;
    color: #e67e00;
-   color: #b58900;
+   color: #a36538;
+   color: #bd8a00;
+   color: #e64100;
    color: #00bd23;
    color: #00991c;
    color: #0095a8;
    color: #00bdd6;
-   color: #8db4b4;
-   color: #18393e;
    color: #0094f0;
 }

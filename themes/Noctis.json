@@ -491,10 +491,16 @@
             "punctuation.definition.annotation",
             "source.groovy.embedded.source",
             "punctuation.definition.variable",
-            "source.powershell",
+            "source.powershell"
          ],
          "settings": {
             "foreground": "#e4b781"
+         }
+      },
+      {
+         "scope": ["support.variable.dom", "support.variable.property.dom"],
+         "settings": {
+            "foreground": "#edc9af"
          }
       },
       {
@@ -506,7 +512,6 @@
             "constant.character.entity",
             "support.variable.magic",
             "entity.other.attribute-name",
-            "support.variable.dom",
             "markup.quote",
             "source.python support.type.python",
             "keyword.type.cs",
@@ -650,7 +655,7 @@
             "markup.underline.link.markdown",
             "markup.underline.link.image.markdown",
             "markup.underline",
-            "meta.symbol.namespace.clojure",
+            "meta.symbol.namespace.clojure"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -684,7 +689,7 @@
             "punctuation.section.embedded.groovy",
             "entity.name.function-table.lua",
             "source.scala entity.name.class.declaration",
-            "constant.character.escape",
+            "constant.character.escape"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -709,7 +714,6 @@
             "support.constant.vendored",
             "source.python support.type.python",
             "entity.other.attribute-name",
-            "support.variable.dom",
             "markup.quote",
             "markup.italic",
             "tag.decorator.js entity.name.tag.js",

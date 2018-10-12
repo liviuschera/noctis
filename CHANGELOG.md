@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.11.0**
+
+-  Dark themes &rarr; added a new color (Desert Sand) for DOM object higlighting
+
 ## **3.10.3**
 
 -  **Scala** &rarr; fixed scaladoc higlighting

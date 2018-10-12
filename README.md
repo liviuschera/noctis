@@ -80,11 +80,12 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Eastern Blue    | Blue   | ![#16a3b6](https://placehold.it/15/16a3b6/000000?text=+) `#16a3b6` | Function Calls                                 |
 | Turcoise        | Blue   | ![#49d6e9](https://placehold.it/15/49d6e9/000000?text=+) `#49d6e9` | Method Calls                                   |
 | Dodger Blue     | Blue   | ![#33b1ff](https://placehold.it/15/33b1ff/000000?text=+) `#33b1ff` | Code that needs to stand out                   |
-| Cornflower Blue | Blue   | ![#7060eb](https://placehold.it/15/7060eb/000000?text=+) `#7060eb` | Number & Boolean                               |
+| Cornflower Blue | Blue   | ![#7060eb](https://placehold.it/15/7060eb/000000?text=+) `#7060eb` | Numbers & Booleans                             |
 | Pale Violet Red | Red    | ![#df769b](https://placehold.it/15/df769b/000000?text=+) `#df769b` | Keywords & Operators                           |
 | Burnt Sienna    | Brown  | ![#e97749](https://placehold.it/15/e97749/000000?text=+) `#e97749` | Function & Variable Declaration, Tags & `this` |
 | Buddha Gold     | Yellow | ![#cc9900](https://placehold.it/15/cc9900/000000?text=+) `#cc9900` | Attributes, Constants & Type annotations       |
 | Gold Sand       | Yellow | ![#e4b781](https://placehold.it/15/e4b781/000000?text=+) `#e4b781` | Variables & Parameters                         |
+| Desert Sand     | Brown  | ![#edc9af](https://placehold.it/15/edc9af/000000?text=+) `#edc9af` | DOM Objects                                    |
 
 
 ## Installation

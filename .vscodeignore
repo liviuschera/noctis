@@ -1,5 +1,5 @@
 .vscode/**
 .vscode-test/**
 .gitignore
-vsc-extension-quickstart.md
 palette.css
+JavaScript.js
