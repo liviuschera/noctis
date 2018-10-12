@@ -742,7 +742,9 @@
             "variable.other.table.property.lua",
             "storage.type.scala",
             "meta.function.powershell storage.type.powershell",
-            "variable.parameter.function.language.special"
+            "variable.parameter.function.language.special",
+            "comment.block.documentation.scala keyword",
+            "comment.block.documentation.scala variable.parameter"
          ],
          "settings": {
             "fontStyle": "italic"

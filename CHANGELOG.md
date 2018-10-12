@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.10.3**
+
+-  **Scala** &rarr; fixed scaladoc higlighting
+
 ## **3.10.2**
 
 -  **C#** &rarr; type parameters are now Buddha Gold
