@@ -1,8 +1,12 @@
 # Change Log
 
+## **3.12.0**
+
+-  Noctis Lux &rarr; added a new color for DOM objects higlighting
+
 ## **3.11.0**
 
--  Dark themes &rarr; added a new color (Desert Sand) for DOM object higlighting
+-  Dark themes &rarr; added a new color (Desert Sand) for DOM objects higlighting
 
 ## **3.10.3**
 

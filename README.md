@@ -4,11 +4,9 @@
 
 ![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
 
-
 ## Noctis Azureus
 
 ![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
-
 
 ## Noctis Lux
 
@@ -16,10 +14,10 @@
 
 </div>
 
-
 Noctis is a colection of light & dark themes with a well balanced blend of warm and cold medium contrast colors.
 
 The theme is designed to:
+
 -  be easy on the eyes thus reducing the eye strain
 -  give semantic meaning to theme's colors
 
@@ -31,46 +29,45 @@ The light's theme background is a very saturated very light warm orange. Orange 
 
 ## Supported Languages
 
-- C/C++
-- C#
-- Clojure
-- CoffeeScript
-- CSS
-   - Sass/SCSS
-- Go
-- Groovy
-- HTML
-   - EJS
-   - Handlebars
-   - Pug/Jade
-- Java
-- JavaScript
-   - JSON
-   - React/JSX
-   - Typescript/TSX
-- Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
-- Markdown
-- PHP
-  - Laravel Blade
-- PowerShell
-- Python
-- R
-- Ruby
-- Rust
-- Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension) &larr; **NEW**
-- Visual Basic
+-  C/C++
+-  C#
+-  Clojure
+-  CoffeeScript
+-  CSS
+   -  Sass/SCSS
+-  Go
+-  Groovy
+-  HTML
+   -  EJS
+   -  Handlebars
+   -  Pug/Jade
+-  Java
+-  JavaScript
+   -  JSON
+   -  React/JSX
+   -  Typescript/TSX
+-  Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
+-  Markdown
+-  PHP
+   -  Laravel Blade
+-  PowerShell
+-  Python
+-  R
+-  Ruby
+-  Rust
+-  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension) &larr; **NEW**
+-  Visual Basic
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 
-## Fonts
+## **Font** used in the screenshots
 
-The font in the screenshots are actually 2 fonts glued together with [Custom CSS](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css). For normal style I used [Hasklig](https://github.com/i-tu/Hasklig)  and for italics [Cartograph Mono CF](http://connary.com/cartograph.html).
+The font in the screenshots are actually 2 fonts glued together with [Custom CSS](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css). For normal style I used [Hasklig](https://github.com/i-tu/Hasklig) and for italics [Cartograph Mono CF](http://connary.com/cartograph.html).
 I think there is a beautiful synergy between the two fonts and they intertwine naturally together.
 
 ## Syntax colors
 
 The color names were matched to one of the following main color hues: Red, Yellow, Green, Blue, Brown and Grey using the excelent online tools [Color Name & Hue](http://www.color-blindness.com/color-name-hue/) and [Name that Color](http://chir.ag/projects/name-that-color).
-
 
 | Color           | Hue    | Hex Code                                                           | Used for:                                      |
 | --------------- | ------ | ------------------------------------------------------------------ | ---------------------------------------------- |
@@ -86,7 +83,6 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Buddha Gold     | Yellow | ![#cc9900](https://placehold.it/15/cc9900/000000?text=+) `#cc9900` | Attributes, Constants & Type annotations       |
 | Gold Sand       | Yellow | ![#e4b781](https://placehold.it/15/e4b781/000000?text=+) `#e4b781` | Variables & Parameters                         |
 | Desert Sand     | Brown  | ![#edc9af](https://placehold.it/15/edc9af/000000?text=+) `#edc9af` | DOM Objects                                    |
-
 
 ## Installation
 
