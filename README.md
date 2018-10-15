@@ -71,8 +71,8 @@ The color names were matched to one of the following main color hues: Red, Yello
 
 | Color           | Hue    | Hex Code                                                           | Used for:                                      |
 | --------------- | ------ | ------------------------------------------------------------------ | ---------------------------------------------- |
-| Pastel Green    | Green  | ![#57db6f](https://placehold.it/15/57db6f/000000?text=+) `#57db6f` | Strings                                        |
-| La Palma        | Green  | ![#15ac31](https://placehold.it/15/15ac31/000000?text=+) `#15ac31` | Interpolated Strings                           |
+| Eucalyptus      | Green  | ![#49e9a6](https://placehold.it/15/49e9a6/000000?text=+) `#49e9a6` | Strings                                        |
+| Mountain Meadow | Green  | ![#16b673](https://placehold.it/15/16b673/000000?text=+) `#16b673` | Interpolated Strings                           |
 | Horizon         | Blue   | ![#5b858b](https://placehold.it/15/5b858b/000000?text=+) `#5b858b` | Comments                                       |
 | Eastern Blue    | Blue   | ![#16a3b6](https://placehold.it/15/16a3b6/000000?text=+) `#16a3b6` | Function Calls                                 |
 | Turcoise        | Blue   | ![#49d6e9](https://placehold.it/15/49d6e9/000000?text=+) `#49d6e9` | Method Calls                                   |

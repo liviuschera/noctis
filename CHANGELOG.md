@@ -1,12 +1,18 @@
 # Change Log
 
+## **3.13.0**
+
+-  dark themes &rarr; changed the hue for the strings:
+   -  replaced Pastel Green color with Eucalyptus
+   -  replaced La Palma color with Mountain Meadow
+
 ## **3.12.0**
 
 -  Noctis Lux &rarr; added a new color for DOM objects higlighting
 
 ## **3.11.0**
 
--  Dark themes &rarr; added a new color (Desert Sand) for DOM objects higlighting
+-  dark themes &rarr; added a new color (Desert Sand) for DOM objects higlighting
 
 ## **3.10.3**
 

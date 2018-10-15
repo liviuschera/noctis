@@ -498,14 +498,11 @@
          }
       },
       {
-        "scope": [
-           "support.variable.dom",
-           "support.variable.property.dom",
-        ],
-        "settings": {
-           "foreground": "#edc9af"
-        }
-     },
+         "scope": ["support.variable.dom", "support.variable.property.dom"],
+         "settings": {
+            "foreground": "#edc9af"
+         }
+      },
       {
          "scope": [
             "constant",
@@ -595,7 +592,7 @@
             "entity.name.import.go"
          ],
          "settings": {
-            "foreground": "#57db6f"
+            "foreground": "#49e9a6"
          }
       },
       {
@@ -606,7 +603,7 @@
             "string.quoted.double.heredoc"
          ],
          "settings": {
-            "foreground": "#15ac31"
+            "foreground": "#16b673"
          }
       },
       {
@@ -658,7 +655,7 @@
             "markup.underline.link.markdown",
             "markup.underline.link.image.markdown",
             "markup.underline",
-            "meta.symbol.namespace.clojure",
+            "meta.symbol.namespace.clojure"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -692,7 +689,7 @@
             "punctuation.section.embedded.groovy",
             "entity.name.function-table.lua",
             "source.scala entity.name.class.declaration",
-            "constant.character.escape",
+            "constant.character.escape"
          ],
          "settings": {
             "foreground": "#49ace9"

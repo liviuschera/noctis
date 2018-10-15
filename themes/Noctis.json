@@ -592,7 +592,7 @@
             "entity.name.import.go"
          ],
          "settings": {
-            "foreground": "#57db6f"
+            "foreground": "#49e9a6"
          }
       },
       {
@@ -603,7 +603,7 @@
             "string.quoted.double.heredoc"
          ],
          "settings": {
-            "foreground": "#15ac31"
+            "foreground": "#16b673"
          }
       },
       {
