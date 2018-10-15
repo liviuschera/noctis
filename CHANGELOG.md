@@ -5,6 +5,7 @@
 -  dark themes &rarr; changed the hue for the strings:
    -  replaced Pastel Green color with Eucalyptus
    -  replaced La Palma color with Mountain Meadow
+-  updated README
 
 ## **3.12.0**
 
