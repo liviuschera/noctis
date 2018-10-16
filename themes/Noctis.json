@@ -417,7 +417,6 @@
             "keyword.other.template",
             "keyword.other.substitution",
             "storage.modifier",
-            "storage.type.class",
             "meta.tag.sgml",
             "text.html.markdown markup.inline.raw.markdown",
             "punctuation.accessor",
@@ -449,7 +448,6 @@
             "keyword.package.go",
             "keyword.import.go",
             "punctuation.definition.keyword",
-            "comment.block.documentation punctuation.definition.block.tag",
             "storage.type.modifier.cpp"
          ],
          "settings": {
@@ -573,7 +571,8 @@
             "storage.type.def",
             "meta.class.identifier storage.modifier",
             "source.scala keyword.declaration",
-            "storage.type"
+            "storage.type",
+            "comment.block.documentation punctuation.definition.block.tag",
          ],
          "settings": {
             "foreground": "#e97749"

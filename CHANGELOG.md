@@ -1,11 +1,16 @@
 # Change Log
 
+## **3.14.0**
+
+-  **JavaScript/TypeScript** &rarr; all `storage.type` scopes are now higlighted with Burnt Sienna.
+-  new screenshots
+-  updated README
+
 ## **3.13.0**
 
 -  dark themes &rarr; changed the hue for the strings:
    -  replaced Pastel Green color with Eucalyptus
    -  replaced La Palma color with Mountain Meadow
--  updated README
 
 ## **3.12.0**
 
@@ -439,7 +444,7 @@
 
 ## **0.4.2**
 
--  Modified light theme's `editorGutter.modifiedBackground` to bring it in line with the one from the dark theme
+-  Modified light theme's `editorGutter.modifiedBackground` to bring it into line with the one from the dark theme
 
 ## **0.4.1**
 

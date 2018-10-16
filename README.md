@@ -2,15 +2,15 @@
 
 ## Noctis
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
+![Noctis Screenshot](.\images\noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
+![Noctis Screenshot](.\images\noctisAzureus.png)
 
 ## Noctis Lux
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
+![Noctis Screenshot](.\images\noctisLux.png)
 
 </div>
 
