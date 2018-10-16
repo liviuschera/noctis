@@ -2,15 +2,15 @@
 
 ## Noctis
 
-![Noctis Screenshot](.\images\noctis.png)
+![Noctis Screenshot](images\noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Screenshot](.\images\noctisAzureus.png)
+![Noctis Screenshot](images\noctisAzureus.png)
 
 ## Noctis Lux
 
-![Noctis Screenshot](.\images\noctisLux.png)
+![Noctis Screenshot](images\noctisLux.png)
 
 </div>
 
