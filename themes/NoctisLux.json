@@ -367,6 +367,7 @@
       "menu.selectionBackground": "#d2f3f9",
       "menu.selectionForeground": "#0099ad",
       "menu.selectionBorder": "#d2f3f9",
+      "menu.separatorBackground": "#0099ad",
       "menubar.selectionBackground": "#d2f3f9",
       "menubar.selectionForeground": "#0099ad",
       "menubar.selectionBorder": "#d2f3f9"

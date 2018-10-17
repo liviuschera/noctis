@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.15.0**
+
+-  added new color for `menu.separatorBackground`
+
 ## **3.14.0**
 
 -  **JavaScript/TypeScript** &rarr; all `storage.type` scopes are now higlighted with Burnt Sienna.
