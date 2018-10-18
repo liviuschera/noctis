@@ -535,7 +535,8 @@
            "source.groovy storage.type",
            "storage.type.php",
            "storage.type.scala",
-           "storage.type.cs"
+           "storage.type.cs",
+           "source.go storage.type"
         ],
         "settings": {
            "foreground": "#cc9900"
@@ -559,7 +560,6 @@
            "storage.modifier.super",
            "source.go keyword",
            "keyword.function.go",
-           "keyword.operator.address.go",
            "punctuation.separator.namespace",
            "constant.other.symbol.hashkey.ruby",
            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
@@ -784,7 +784,8 @@
            "variable.parameter",
            "support.constant.core.rust",
            "support.function.builtin.rust",
-           "storage.type.function.coffee"
+           "storage.type.function.coffee",
+           "constant.other.rune"
         ],
         "settings": {
            "fontStyle": "bold"

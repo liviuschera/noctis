@@ -1,12 +1,19 @@
 # Change Log
 
+## **3.16.0**
+
+-  **Go** 
+   -  fixed types highlighting
+   -  runes are now bold
+   -  all operators are now Pale Violet Red
+
 ## **3.15.0**
 
 -  added new color for `menu.separatorBackground`
 
 ## **3.14.0**
 
--  **JavaScript/TypeScript** &rarr; all `storage.type` scopes are now higlighted with Burnt Sienna.
+-  **JavaScript/TypeScript** &rarr; all `storage.type` scopes are now highlighted with Burnt Sienna.
 -  new screenshots
 -  updated README
 
@@ -18,15 +25,15 @@
 
 ## **3.12.0**
 
--  Noctis Lux &rarr; added a new color for DOM objects higlighting
+-  Noctis Lux &rarr; added a new color for DOM objects highlighting
 
 ## **3.11.0**
 
--  dark themes &rarr; added a new color (Desert Sand) for DOM objects higlighting
+-  dark themes &rarr; added a new color (Desert Sand) for DOM objects highlighting
 
 ## **3.10.3**
 
--  **Scala** &rarr; fixed scaladoc higlighting
+-  **Scala** &rarr; fixed scaladoc highlighting
 
 ## **3.10.2**
 
@@ -78,7 +85,7 @@
 
 ## **3.5.2**
 
--  **Java** &rarr; fixed javadoc higlighting
+-  **Java** &rarr; fixed javadoc highlighting
 -  code refactoring
 
 ## **3.5.1**
@@ -95,12 +102,12 @@
 
 ## **3.4.2**
 
--  **Typescript** &rarr; fixed `constructor` keyword higlighting
+-  **Typescript** &rarr; fixed `constructor` keyword highlighting
 -  **R** &rarr; made package namespace Dodger Blue
 
 ## **3.4.1**
 
--  **Handlebars** &rarr; fixed variable higlighting
+-  **Handlebars** &rarr; fixed variable highlighting
 -  **C/C++** &rarr; made storage type italic
 -  code refactoring
 
@@ -109,7 +116,7 @@
 -  **PHP**
    -  _PHPDoc_ &rarr; added support
    -  fixed scalar and return type declarations highlighting
-   -  fixed `php` tags higlighting
+   -  fixed `php` tags highlighting
    -  updated README
 
 ## **3.3.2**
@@ -374,7 +381,7 @@
    -  Added two colors (La Palma and Dodger Blue)
       -  La Palma is used exclusively for string template literals
       -  Dodger Blue for important keywords that need to stand out (like `console`, built in objects, etc.)
-   -  Active tabs are now higlighted in cyan or deep blue depending on the selected active theme.
+   -  Active tabs are now highlighted in cyan or deep blue depending on the selected active theme.
    -  DOM objects are now highlighted in Buddha Gold
    -  Various other tweaks
 -  Updated the screenshots
