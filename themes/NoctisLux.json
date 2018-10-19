@@ -473,7 +473,6 @@
             "meta.var.clojure",
             "source.cs entity.name.variable",
             "entity.name.type.namespace.cs",
-            "entity.name.variable.parameter.cs",
             "source.java meta.class.body.java",
             "entity.name.package.go",
             "source.c",
@@ -720,7 +719,6 @@
             "tag.decorator.js punctuation.definition.tag.js",
             "keyword.control.clojure",
             "source.clojure meta.symbol.dynamic",
-            "entity.name.variable.parameter.cs",
             "keyword.other.this.cs",
             "keyword.other.base.cs",
             "meta.type.annotation entity.name.type",
@@ -786,7 +784,8 @@
             "support.constant.core.rust",
             "support.function.builtin.rust",
             "storage.type.function.coffee",
-            "constant.other.rune"
+            "constant.other.rune",
+            "source.cs entity.name.variable.parameter",
         ],
          "settings": {
             "fontStyle": "bold"

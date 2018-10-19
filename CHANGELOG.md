@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.16.1**
+
+-  **C#** &rarr; parameters are now bold
+
 ## **3.16.0**
 
 -  **Go** 
