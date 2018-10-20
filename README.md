@@ -10,7 +10,7 @@
 
 ## Noctis Lux
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
+![Noctis Screenshot](images/noctisLux.png)
 
 </div>
 

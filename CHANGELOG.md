@@ -1,12 +1,18 @@
 # Change Log
 
+## **3.17.0**
+
+-  Noctis Lux &rarr; reworked the theme for better contrast
+-  Noctis lux &rarr; new screenshot
+-  updated README
+
 ## **3.16.1**
 
 -  **C#** &rarr; parameters are now bold
 
 ## **3.16.0**
 
--  **Go** 
+-  **Go**
    -  fixed types highlighting
    -  runes are now bold
    -  all operators are now Pale Violet Red

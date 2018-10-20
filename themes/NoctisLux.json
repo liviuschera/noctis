@@ -10,7 +10,7 @@
       "descriptionForeground": "#929ea0",
       "errorForeground": "#ff4000",
       "widget.shadow": "#00000055",
-      "editor.background": "#fef8ec",
+      "editor.background": "#fefaf0",
       "editor.foreground": "#005661",
       "editorLineNumber.foreground": "#a0abac",
       "editorLineNumber.activeForeground": "#0099ad",
@@ -19,25 +19,25 @@
       // Badge
       // ---------------------------
       "badge.background": "#0099ad",
-      "badge.foreground": "#fef8ec",
+      "badge.foreground": "#fefaf0",
       // ---------------------------
       // Activity Bar
       // ---------------------------
-      "activityBar.background": "#fef8ec",
+      "activityBar.background": "#fefaf0",
       "activityBar.dropBackground": "#0099ad65",
       "activityBar.foreground": "#0099ad",
       "activityBar.border": "#ece2c600",
       "activityBarBadge.background": "#0099ad",
-      "activityBarBadge.foreground": "#fef8ec",
+      "activityBarBadge.foreground": "#fefaf0",
       // ---------------------------
       // Sidebar
       // ---------------------------
-      "sideBar.background": "#f8efdd",
+      "sideBar.background": "#faf3e6",
       "sideBar.foreground": "#888477",
       "sideBar.border": "#ece2c600",
-      "sideBar.dropBackground": "#f8efdd",
+      "sideBar.dropBackground": "#faf3e6",
       "sideBarTitle.foreground": "#888477",
-      "sideBarSectionHeader.background": "#f0e3c2",
+      "sideBarSectionHeader.background": "#f4ebd2",
       "sideBarSectionHeader.foreground": "#888477",
       // ---------------------------
       // Status Bar
@@ -45,15 +45,15 @@
       "statusBar.background": "#ebe4d1",
       "statusBar.foreground": "#0099ad",
       "statusBar.border": "#ece2c600",
-      "statusBar.debuggingBackground": "#f8efdd",
+      "statusBar.debuggingBackground": "#faf3e6",
       "statusBar.debuggingForeground": "#e9498150",
       "statusBar.debuggingBorder": "#e94981af",
       "statusBar.noFolderForeground": "#87a7ab",
-      "statusBar.noFolderBackground": "#f8efdd",
-      "statusBar.noFolderBorder": "#f8efdd",
+      "statusBar.noFolderBackground": "#faf3e6",
+      "statusBar.noFolderBorder": "#faf3e6",
       "statusBarItem.activeBackground": "#c3bfa2",
       "statusBarItem.hoverBackground": "#d3d0bb",
-      "statusBarItem.prominentBackground": "#f8efdd",
+      "statusBarItem.prominentBackground": "#faf3e6",
       "statusBarItem.prominentHoverBackground": "#00c6e0",
       // ---------------------------
       // Button
@@ -64,8 +64,8 @@
       // ---------------------------
       // Dropdown
       // ---------------------------
-      "dropdown.background": "#fef8ec",
-      "dropdown.border": "#fef8ec",
+      "dropdown.background": "#fefaf0",
+      "dropdown.border": "#fefaf0",
       "dropdown.foreground": "#005661",
       // ---------------------------
       // Editor Marker Navigation
@@ -76,11 +76,11 @@
       // ---------------------------
       // Errors and warnings
       // ---------------------------
-      "editorError.border": "#fef8ec",
+      "editorError.border": "#fefaf0",
       "editorError.foreground": "#ff4000",
-      "editorWarning.border": "#fef8ec",
+      "editorWarning.border": "#fefaf0",
       "editorWarning.foreground": "#e69533",
-      "editorInfo.border": "#fef8ec",
+      "editorInfo.border": "#fefaf0",
       "editorInfo.foreground": "#00c6e0",
       "editorHint.border": "#58cc6d80",
       "editorHint.foreground": "#58cc6d",
@@ -93,17 +93,19 @@
       // ---------------------------
       // Editor Group Header
       // ---------------------------
-      "editorGroupHeader.noTabsBackground": "#ebe4d1",
-      "editorGroupHeader.tabsBackground": "#ebe4d1",
+      "editorGroupHeader.noTabsBackground": "#eee8d8",
+      "editorGroupHeader.tabsBackground": "#eee8d8",
+      // "editorGroupHeader.noTabsBackground": "#ebe4d1",
+      // "editorGroupHeader.tabsBackground": "#ebe4d1",
       "editorGroupHeader.tabsBorder": "#ebe4d100",
       // ---------------------------
       // Editor Tabs
       // ---------------------------
-      "tab.activeBackground": "#fef8ec",
+      "tab.activeBackground": "#fefaf0",
       "tab.activeForeground": "#0099ad",
       "tab.border": "#e6d7b2",
       // "tab.activeBorder": "#0099ad",
-      "tab.inactiveBackground": "#ebe4d1",
+      "tab.inactiveBackground": "#eee8d8",
       "tab.inactiveForeground": "#888477",
       "tab.unfocusedActiveForeground": "#888477",
       "tab.unfocusedInactiveForeground": "#888477",
@@ -112,23 +114,23 @@
       // ---------------------------
       // Text Colors
       // ---------------------------
-      "textBlockQuote.background": "#f8efdd",
+      "textBlockQuote.background": "#faf3e6",
       "textBlockQuote.border": "#00899e",
-      "textCodeBlock.background": "#f8efdd",
+      "textCodeBlock.background": "#faf3e6",
       "textLink.activeForeground": "#00c6e0",
       "textLink.foreground": "#00c6e0",
       "textPreformat.foreground": "#e9a149",
-      "textSeparator.foreground": "#f8efdd",
+      "textSeparator.foreground": "#faf3e6",
       // ---------------------------
       // Welcome Page
       // ---------------------------
-      "walkThrough.embeddedEditorBackground": "#f8efdd",
-      "welcomePage.buttonBackground": "#f8efdd",
+      "walkThrough.embeddedEditorBackground": "#faf3e6",
+      "welcomePage.buttonBackground": "#faf3e6",
       "welcomePage.buttonHoverBackground": "#e1e0d0",
       // ---------------------------
       // Input Control
       // ---------------------------
-      "input.background": "#fef8ec",
+      "input.background": "#fefaf0",
       "input.border": "#f2edde",
       "input.foreground": "#6a7a7c",
       "input.placeholderForeground": "#9fabad",
@@ -154,7 +156,7 @@
       // ---------------------------
       // Gutter
       // ---------------------------
-      "editorGutter.background": "#fef8ec",
+      "editorGutter.background": "#fefaf0",
       "editorGutter.addedBackground": "#8ce99a",
       "editorGutter.deletedBackground": "#ff4000",
       "editorGutter.modifiedBackground": "#e9a149",
@@ -209,15 +211,14 @@
       "terminal.ansiBrightMagenta": "#ff337a",
       "terminal.ansiBrightCyan": "#00c9db",
       "terminal.ansiBrightWhite": "#cfffff",
-      //   "terminal.background": "#f4ead7",
-      "terminal.background": "#f6ebd5",
+      "terminal.background": "#f5ecdb",
       "terminal.foreground": "#005661",
-      "terminalCursor.background": "#f6ebd5",
+      "terminalCursor.background": "#f5ecdb",
       "terminalCursor.foreground": "#005661",
       // ---------------------------
       // Merge
       // ---------------------------
-      "merge.border": "#fef8ec",
+      "merge.border": "#fefaf0",
       "merge.currentContentBackground": "#33e7ff33",
       "merge.currentHeaderBackground": "#33e7ff55",
       "merge.incomingContentBackground": "#9d92f233",
@@ -227,7 +228,7 @@
       "editorOverviewRuler.currentContentForeground": "#33e7ff55",
       "editorOverviewRuler.incomingContentForeground": "#9d92f255",
       "editorOverviewRuler.commonContentForeground": "#ffc18055",
-      "editorOverviewRuler.border": "#fef8ec",
+      "editorOverviewRuler.border": "#fefaf0",
       // ---------------------------
       // Notification Colors
       // ---------------------------
@@ -249,8 +250,8 @@
       // ---------------------------
       // Debug
       // ---------------------------
-      "debugToolBar.background": "#f8efdd",
-      "debugExceptionWidget.background": "#f8efdd",
+      "debugToolBar.background": "#faf3e6",
+      "debugExceptionWidget.background": "#faf3e6",
       "debugExceptionWidget.border": "#00899e",
       // ---------------------------
       // Extensions
@@ -263,7 +264,7 @@
       // ---------------------------
       // Panel
       // ---------------------------
-      "panel.background": "#f6ebd5",
+      "panel.background": "#f5ecdb",
       "panel.border": "#00c6e0",
       "panelTitle.activeBorder": "#00c6e0",
       "panelTitle.activeForeground": "#0099ad",
@@ -276,13 +277,13 @@
       "peekViewEditor.matchHighlightBackground": "#148f9f33",
       "peekViewEditor.matchHighlightBorder": "#148f9f79",
       "peekViewEditorGutter.background": "#fff7e5",
-      "peekViewResult.background": "#f8efdd",
+      "peekViewResult.background": "#faf3e6",
       "peekViewResult.fileForeground": "#e9a149",
       "peekViewResult.lineForeground": "#87a7ab",
       "peekViewResult.matchHighlightBackground": "#f2edde",
       "peekViewResult.selectionBackground": "#f2edde",
       "peekViewResult.selectionForeground": "#6a7a7c",
-      "peekViewTitle.background": "#f8efdd",
+      "peekViewTitle.background": "#faf3e6",
       "peekViewTitleDescription.foreground": "#87a7ab",
       "peekViewTitleLabel.foreground": "#e9a149",
       // ---------------------------
@@ -346,7 +347,7 @@
       // Breadcrumbs
       // ---------------------------
       "breadcrumb.foreground": "#888477",
-      "breadcrumb.background": "#fef8ec",
+      "breadcrumb.background": "#fefaf0",
       "breadcrumb.focusForeground": "#0099ad",
       "breadcrumb.activeSelectionForeground": "#005661",
       "breadcrumbPicker.background": "#f2edde",
@@ -354,9 +355,9 @@
       // Title bar
       // Note: These colors are currently only supported on macOS.
       // ---------------------------
-      "titleBar.activeBackground": "#f8efdd",
+      "titleBar.activeBackground": "#faf3e6",
       "titleBar.activeForeground": "#005661",
-      "titleBar.inactiveBackground": "#f8efdd",
+      "titleBar.inactiveBackground": "#faf3e6",
       "titleBar.inactiveForeground": "#888477",
       // ---------------------------
       // Custom title bar and menus
@@ -492,7 +493,7 @@
             "source.powershell"
          ],
          "settings": {
-            "foreground": "#ee962b"
+            "foreground": "#f28f18"
          }
       },
       {
@@ -572,10 +573,10 @@
             "meta.class.identifier storage.modifier",
             "source.scala keyword.declaration",
             "storage.type",
-            "comment.block.documentation punctuation.definition.block.tag",
+            "comment.block.documentation punctuation.definition.block.tag"
          ],
          "settings": {
-            "foreground": "#d13b00"
+            "foreground": "#e64100"
          }
       },
       {
@@ -591,7 +592,7 @@
             "entity.name.import.go"
          ],
          "settings": {
-            "foreground": "#00bd23"
+            "foreground": "#00b359"
          }
       },
       {
@@ -602,7 +603,7 @@
             "string.quoted.double.heredoc"
          ],
          "settings": {
-            "foreground": "#00991c"
+            "foreground": "#00994d"
          }
       },
       {
@@ -785,8 +786,8 @@
             "support.function.builtin.rust",
             "storage.type.function.coffee",
             "constant.other.rune",
-            "source.cs entity.name.variable.parameter",
-        ],
+            "source.cs entity.name.variable.parameter"
+         ],
          "settings": {
             "fontStyle": "bold"
          }
