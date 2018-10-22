@@ -421,7 +421,6 @@
            "text.html.markdown markup.inline.raw.markdown",
            "punctuation.accessor",
            "constant.other.color",
-           "storage.type.function.arrow",
            "entity.name.section.markdown",
            "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
            "markdown.heading",

@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.17.1**
+
+-  **JavaScript/TypeScript** &rarr; arrow function is now highlighted in Burnt Sienna.
+
 ## **3.17.0**
 
 -  Noctis Lux &rarr; reworked the theme for better contrast
@@ -23,15 +27,15 @@
 
 ## **3.14.0**
 
--  **JavaScript/TypeScript** &rarr; all `storage.type` scopes are now highlighted with Burnt Sienna.
+-  **JavaScript/TypeScript** &rarr; all `storage.type` scopes are now highlighted in Burnt Sienna.
 -  new screenshots
 -  updated README
 
 ## **3.13.0**
 
 -  dark themes &rarr; changed the hue for the strings:
-   -  replaced Pastel Green color with Eucalyptus
-   -  replaced La Palma color with Mountain Meadow
+   -  replaced Pastel Green color in Eucalyptus
+   -  replaced La Palma color in Mountain Meadow
 
 ## **3.12.0**
 
