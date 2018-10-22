@@ -2,7 +2,7 @@
 
 ## **3.17.1**
 
--  **JavaScript/TypeScript** &rarr; arrow function is now highlighted in Burnt Sienna.
+-  **JavaScript/TypeScript** &rarr; arrow function is now highlighted in Burnt Sienna
 
 ## **3.17.0**
 
