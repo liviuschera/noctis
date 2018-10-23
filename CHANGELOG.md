@@ -1,8 +1,16 @@
 # Change Log
 
+## **3.18.0**
+
+-  added new colors for:
+   -  `inputValidation.infoForeground`: Input validation foreground color for information severity.
+   -  `inputValidation.warningForeground`: Input validation foreground color for warning severity.
+   -  `inputValidation.errorForeground`: Input validation foreground color for error severity.
+   -  adjusted the rest of input validation colors for better visibility
+
 ## **3.17.1**
 
--  **JavaScript/TypeScript** &rarr; arrow function is now highlighted in Burnt Sienna
+-  **JavaScript/TypeScript** &rarr; arrow function is now highlighted in Burnt Sienna.
 
 ## **3.17.0**
 

@@ -133,12 +133,15 @@
       "input.foreground": "#CDD3DE",
       "input.placeholderForeground": "#879dab",
       "inputOption.activeBorder": "#1679b6",
-      "inputValidation.errorBackground": "#5c1002cc",
-      "inputValidation.errorBorder": "#e34e1c",
-      "inputValidation.infoBackground": "#49ace9cc",
-      "inputValidation.infoBorder": "#49ace9",
-      "inputValidation.warningBackground": "#ffa857cc",
-      "inputValidation.warningBorder": "#ffa857",
+      "inputValidation.errorForeground": "#ff4000",
+      "inputValidation.errorBackground": "#501502ee",
+      "inputValidation.errorBorder": "#691c02",
+      "inputValidation.infoForeground": "#40d4e7",
+      "inputValidation.infoBackground": "#0f6e7bee",
+      "inputValidation.infoBorder": "#148f9f",
+      "inputValidation.warningForeground": "#e69533",
+      "inputValidation.warningBackground": "#82694acc",
+      "inputValidation.warningBorder": "#a88457",
       // ---------------------------
       // Editor Widgets
       // ---------------------------
