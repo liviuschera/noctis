@@ -450,7 +450,8 @@
            "keyword.package.go",
            "keyword.import.go",
            "punctuation.definition.keyword",
-           "storage.type.modifier.cpp"
+           "storage.type.modifier.cpp",
+           "punctuation.separator.hash.cs"
         ],
         "settings": {
            "foreground": "#df769b"
@@ -473,7 +474,6 @@
            "markup.list",
            "meta.var.clojure",
            "source.cs entity.name.variable",
-           "entity.name.type.namespace.cs",
            "source.java meta.class.body.java",
            "entity.name.package.go",
            "source.c",
@@ -655,7 +655,8 @@
            "markup.underline.link.markdown",
            "markup.underline.link.image.markdown",
            "markup.underline",
-           "meta.symbol.namespace.clojure"
+           "meta.symbol.namespace.clojure",
+           "entity.name.type.namespace.cs",
         ],
         "settings": {
            "foreground": "#49d6e9"
@@ -787,6 +788,7 @@
            "storage.type.function.coffee",
            "constant.other.rune",
            "source.cs entity.name.variable.parameter",
+           "punctuation.separator.hash.cs"
         ],
         "settings": {
            "fontStyle": "bold"

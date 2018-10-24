@@ -1,12 +1,17 @@
 # Change Log
 
+## **3.18.1**
+
+-  **C#** &rarr; fixed `#` highlighting
+-  **C#** &rarr; namespaces are now highlighting in Turcoise
+
 ## **3.18.0**
 
 -  added new colors for:
    -  `inputValidation.infoForeground`: Input validation foreground color for information severity.
    -  `inputValidation.warningForeground`: Input validation foreground color for warning severity.
    -  `inputValidation.errorForeground`: Input validation foreground color for error severity.
-   -  adjusted the rest of input validation colors for better visibility
+   -  tweaked the rest of validation colors for better visibility
 
 ## **3.17.1**
 
