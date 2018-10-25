@@ -374,7 +374,14 @@
       "menu.separatorBackground": "#0099ad",
       "menubar.selectionBackground": "#d2f3f9",
       "menubar.selectionForeground": "#0099ad",
-      "menubar.selectionBorder": "#d2f3f9"
+      "menubar.selectionBorder": "#d2f3f9",
+      // ---------------------------
+      // Snippets
+      // ---------------------------
+      "editor.snippetTabstopHighlightBackground": "#e2e9e9",
+      "editor.snippetTabstopHighlightBorder": "#d9e3e3",
+      "editor.snippetFinalTabstopHighlightBackground": "#d9e3e3",
+      "editor.snippetFinalTabstopHighlightBorder": "#d9e3e3"
    },
    "tokenColors": [
       {
@@ -658,7 +665,7 @@
             "markup.underline.link.image.markdown",
             "markup.underline",
             "meta.symbol.namespace.clojure",
-            "entity.name.type.namespace.cs",
+            "entity.name.type.namespace.cs"
          ],
          "settings": {
             "foreground": "#00bdd6"

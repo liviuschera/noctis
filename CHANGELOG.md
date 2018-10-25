@@ -1,5 +1,13 @@
 # Change Log
 
+## **3.19.0**
+
+-  added new colors for:
+-  `editor.snippetTabstopHighlightBackground`: Highlight background color of a snippet tabstop.
+-  `editor.snippetTabstopHighlightBorder`: Highlight border color of a snippet tabstop.
+-  `editor.snippetFinalTabstopHighlightBackground`: Highlight background color of the final tabstop of a snippet.
+-  `editor.snippetFinalTabstopHighlightBorder`: Highlight border color of the final tabstop of a snippet.
+
 ## **3.18.1**
 
 -  **C#** &rarr; fixed `#` highlighting
