@@ -757,7 +757,8 @@
             "meta.function.powershell storage.type.powershell",
             "variable.parameter.function.language.special",
             "comment.block.documentation.scala keyword",
-            "comment.block.documentation.scala variable.parameter"
+            "comment.block.documentation.scala variable.parameter",
+            "support.function.builtin.go"
          ],
          "settings": {
             "fontStyle": "italic"

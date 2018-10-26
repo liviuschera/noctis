@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.19.1**
+
+-  **Go** &rarr; italicized builtin functions
+
 ## **3.19.0**
 
 -  added new colors for:
@@ -19,7 +23,7 @@
    -  `inputValidation.infoForeground`: Input validation foreground color for information severity.
    -  `inputValidation.warningForeground`: Input validation foreground color for warning severity.
    -  `inputValidation.errorForeground`: Input validation foreground color for error severity.
-   -  tweaked the rest of validation colors for better visibility
+   -  tweaked the rest of input validation colors for better visibility
 
 ## **3.17.1**
 
