@@ -2,7 +2,7 @@
 
 ## **3.19.2**
 
--  **JavaScript** &rarr; partial fix for DOM properties higlighting
+-  **JavaScript** &rarr; partial fix for DOM properties higlighting [#4](https://github.com/liviuschera/noctis/issues/4)
 
 ## **3.19.1**
 
