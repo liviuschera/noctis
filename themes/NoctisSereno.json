@@ -505,7 +505,16 @@
          }
       },
       {
-         "scope": ["support.variable.dom", "support.variable.property.dom"],
+         "scope": [
+            "support.variable.dom",
+            "meta.var.expr support.variable.property.dom",
+            "meta.function.expression support.variable.property.dom",
+            "meta.function-call support.variable.property.dom",
+            "switch-expression.expr support.variable.property.dom",
+            "meta.field.declaration support.variable.property.dom",
+            "meta.method.declaration meta.block meta.block support.variable.property.dom",
+            "meta.embedded.expression support.variable.property.dom"
+         ],
          "settings": {
             "foreground": "#edc9af"
          }

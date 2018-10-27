@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.19.2**
+
+-  **JavaScript** &rarr; partial fix for DOM properties higlighting
+
 ## **3.19.1**
 
 -  **Go** &rarr; italicized builtin functions
