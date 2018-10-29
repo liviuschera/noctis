@@ -1,5 +1,11 @@
 # Change Log
 
+## **3.20.0**
+
+-  added new colors for:
+  -  `sideBarSectionHeader.border`: Side bar section header border color
+  -  `activityBar.inactiveForeground`: Activity bar item foreground color when it is inactive
+
 ## **3.19.2**
 
 -  **JavaScript** &rarr; partial fix for DOM properties higlighting [#4](https://github.com/liviuschera/noctis/issues/4)
@@ -11,10 +17,10 @@
 ## **3.19.0**
 
 -  added new colors for:
--  `editor.snippetTabstopHighlightBackground`: Highlight background color of a snippet tabstop.
--  `editor.snippetTabstopHighlightBorder`: Highlight border color of a snippet tabstop.
--  `editor.snippetFinalTabstopHighlightBackground`: Highlight background color of the final tabstop of a snippet.
--  `editor.snippetFinalTabstopHighlightBorder`: Highlight border color of the final tabstop of a snippet.
+  -  `editor.snippetTabstopHighlightBackground`: Highlight background color of a snippet tabstop.
+  -  `editor.snippetTabstopHighlightBorder`: Highlight border color of a snippet tabstop.
+  -  `editor.snippetFinalTabstopHighlightBackground`: Highlight background color of the final tabstop of a snippet.
+  -  `editor.snippetFinalTabstopHighlightBorder`: Highlight border color of the final tabstop of a snippet.
 
 ## **3.18.1**
 

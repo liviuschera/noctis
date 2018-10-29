@@ -26,6 +26,7 @@
       "activityBar.background": "#fefaf0",
       "activityBar.dropBackground": "#0099ad65",
       "activityBar.foreground": "#0099ad",
+      "activityBar.inactiveForeground": "#0099ad77",
       "activityBar.border": "#ece2c600",
       "activityBarBadge.background": "#0099ad",
       "activityBarBadge.foreground": "#fefaf0",
@@ -39,6 +40,7 @@
       "sideBarTitle.foreground": "#888477",
       "sideBarSectionHeader.background": "#f4ebd2",
       "sideBarSectionHeader.foreground": "#888477",
+      "sideBarSectionHeader.border": "#e6d7b2",
       // ---------------------------
       // Status Bar
       // ---------------------------
