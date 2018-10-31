@@ -97,8 +97,6 @@
       // ---------------------------
       "editorGroupHeader.noTabsBackground": "#eee8d8",
       "editorGroupHeader.tabsBackground": "#eee8d8",
-      // "editorGroupHeader.noTabsBackground": "#ebe4d1",
-      // "editorGroupHeader.tabsBackground": "#ebe4d1",
       "editorGroupHeader.tabsBorder": "#ebe4d100",
       // ---------------------------
       // Editor Tabs
@@ -630,7 +628,9 @@
          "scope": [
             "constant.numeric",
             "constant.language",
-            "punctuation.separator.decimal.period.php"
+            "punctuation.separator.decimal.period.php",
+            "keyword.operator.null-conditional.cs",
+            "punctuation.separator.question-mark.cs"
          ],
          "settings": {
             "foreground": "#5842ff"

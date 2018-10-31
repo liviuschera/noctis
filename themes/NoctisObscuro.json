@@ -73,14 +73,14 @@
       // ---------------------------
       "editorMarkerNavigation.background": "#3a3a5e29",
       "editorMarkerNavigationError.background": "#e34e1c",
-      "editorMarkerNavigationWarning.background": "#e0c184",
+      "editorMarkerNavigationWarning.background": "#e69533",
       // ---------------------------
       // Errors and warnings
       // ---------------------------
       "editorError.border": "#041d20",
       "editorError.foreground": "#e34e1c",
       "editorWarning.border": "#041d20",
-      "editorWarning.foreground": "#e0c184",
+      "editorWarning.foreground": "#e69533",
       "editorInfo.border": "#041d20",
       "editorInfo.foreground": "#40d4e7",
       "editorHint.border": "#58cc6d80",
@@ -628,7 +628,9 @@
          "scope": [
             "constant.numeric",
             "constant.language",
-            "punctuation.separator.decimal.period.php"
+            "punctuation.separator.decimal.period.php",
+            "keyword.operator.null-conditional.cs",
+            "punctuation.separator.question-mark.cs"
          ],
          "settings": {
             "foreground": "#7060eb"
