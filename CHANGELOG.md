@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.23.0**
+
+-  dark themes &rarr; adjusted editor's selection colors
+
 ## **3.22.0**
 
 -  **C#** &rarr; null conditional operators are now Cornflower Blue
