@@ -1,5 +1,10 @@
 # Change Log
 
+## **3.24.0**
+
+-  Noctis Lux &rarr; adjusted editor's selection colors
+
+
 ## **3.23.0**
 
 -  dark themes &rarr; adjusted editor's selection colors
