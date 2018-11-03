@@ -1,9 +1,12 @@
 # Change Log
 
+## **3.25.0**
+
+-  all themes &rarr; reworked integrated terminal colors
+
 ## **3.24.0**
 
 -  Noctis Lux &rarr; adjusted editor's selection colors
-
 
 ## **3.23.0**
 
