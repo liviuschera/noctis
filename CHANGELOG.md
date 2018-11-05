@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.26.0**
+
+-  dark themes &rarr; adjusted editor hint color and git modified resources color
+
 ## **3.25.0**
 
 -  all themes &rarr; reworked integrated terminal colors

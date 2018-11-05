@@ -84,8 +84,8 @@
       "editorWarning.foreground": "#e69533",
       "editorInfo.border": "#052529",
       "editorInfo.foreground": "#40d4e7",
-      "editorHint.border": "#58cc6d80",
-      "editorHint.foreground": "#58cc6d",
+      "editorHint.border": "#49e9a680",
+      "editorHint.foreground": "#49e9a6",
       // ---------------------------
       // Editor Groups and Tabs
       // ---------------------------
@@ -304,7 +304,7 @@
       // ---------------------------
       // Git status colors in File Explorer
       // ---------------------------
-      "gitDecoration.modifiedResourceForeground": "#58cc6d",
+      "gitDecoration.modifiedResourceForeground": "#49e9a6",
       "gitDecoration.deletedResourceForeground": "#e34e1c",
       "gitDecoration.untrackedResourceForeground": "#40d4e7",
       "gitDecoration.ignoredResourceForeground": "#5b858b",
