@@ -461,7 +461,8 @@
             "keyword.import.go",
             "punctuation.definition.keyword",
             "storage.type.modifier.cpp",
-            "punctuation.separator.hash.cs"
+            "punctuation.separator.hash.cs",
+            "variable.parameter.rest.lua"
          ],
          "settings": {
             "foreground": "#df769b"

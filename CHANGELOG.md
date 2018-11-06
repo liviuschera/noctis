@@ -1,8 +1,12 @@
 # Change Log
 
+## **3.26.1**
+
+-  **Lua** &rarr; rest variable parameter is now Pale Violet Red
+
 ## **3.26.0**
 
--  dark themes &rarr; adjusted editor hint color and git modified resources color
+-  dark themes &rarr; adjusted editor hint color and git modified resoureces color
 
 ## **3.25.0**
 
