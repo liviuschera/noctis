@@ -865,7 +865,8 @@
             "meta.class.identifier storage.modifier",
             "keyword.operator.other.powershell",
             "source.lua storage.type.function",
-            "source.scala keyword.declaration"
+            "source.scala keyword.declaration",
+            "source.css variable.parameter"
          ],
          "settings": {
             "fontStyle": ""

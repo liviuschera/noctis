@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.26.2**
+
+-  **CSS** &rarr; font style for variable parameter is now normal
+
 ## **3.26.1**
 
 -  **Lua** &rarr; rest variable parameter is now Pale Violet Red
