@@ -413,7 +413,6 @@
             "constant.name.attribute.tag.pug",
             "source.clojure meta.symbol",
             "text.html.markdown punctuation.definition.string",
-            "constant.other.symbol.ruby",
             "constant.other.description.jsdoc",
             "keyword.other.array.phpdoc.php",
             "keyword.operator.other.powershell"
@@ -500,7 +499,8 @@
             "punctuation.definition.annotation",
             "source.groovy.embedded.source",
             "punctuation.definition.variable",
-            "source.powershell"
+            "source.powershell",
+            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -515,7 +515,11 @@
             "switch-expression.expr support.variable.property.dom",
             "meta.field.declaration support.variable.property.dom",
             "meta.method.declaration meta.block meta.block support.variable.property.dom",
-            "meta.embedded.expression support.variable.property.dom"
+            "meta.embedded.expression support.variable.property.dom",
+            "constant.other.symbol.hashkey.ruby",
+            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
+            "source.ruby variable.other.readwrite",
+            "punctuation.definition.variable.ruby"
          ],
          "settings": {
             "foreground": "#edc9af"
@@ -556,7 +560,9 @@
             "storage.type.php",
             "storage.type.scala",
             "storage.type.cs",
-            "source.go storage.type"
+            "source.go storage.type",
+            "constant.other.symbol.ruby",
+            "constant.other.symbol.ruby punctuation.definition.constant.ruby"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -581,8 +587,6 @@
             "source.go keyword",
             "keyword.function.go",
             "punctuation.separator.namespace",
-            "constant.other.symbol.hashkey.ruby",
-            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "keyword.other.rust",
             "keyword.other.fn.rust",
             "storage.modifier.const.rust",
@@ -640,7 +644,6 @@
       {
          "scope": [
             "variable.function",
-            "keyword.other.special-method",
             "source.css support.type.property-name",
             "source.sass support.type.property-name",
             "source.scss support.type.property-name",
@@ -748,8 +751,6 @@
             "support.variable.property.dom",
             "variable.other.member.c",
             "keyword.control.pseudo-method.ruby",
-            "keyword.other.special-method.ruby",
-            "source.ruby variable.other.readwrite",
             "storage.class.std.rust",
             "support.type.core.rust",
             "variable.other.object.property",
@@ -770,7 +771,10 @@
             "variable.parameter.function.language.special",
             "comment.block.documentation.scala keyword",
             "comment.block.documentation.scala variable.parameter",
-            "support.function.builtin.go"
+            "support.function.builtin.go",
+            "constant.other.symbol.hashkey.ruby",
+            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
+            "constant.other.symbol.ruby"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -810,7 +814,9 @@
             "storage.type.function.coffee",
             "constant.other.rune",
             "source.cs entity.name.variable.parameter",
-            "punctuation.separator.hash.cs"
+            "punctuation.separator.hash.cs",
+            "constant.other.symbol.ruby punctuation.definition.constant.ruby",
+            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -833,13 +839,15 @@
             "variable.other.c",
             "meta.function.constructor.cpp entity.name.function.cpp",
             "meta.function.destructor.cpp entity.name.function.cpp",
-            "punctuation.definition.variable.ruby",
             "keyword.other.fn.rust",
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "source.rust meta.attribute.rust",
             "storage.type.php",
-            "comment.block.documentation.phpdoc.php keyword.other.type.php"
+            "comment.block.documentation.phpdoc.php keyword.other.type.php",
+            "keyword.other.special-method.ruby",
+            "variable.other.readwrite.global.ruby",
+            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
          ],
          "settings": {
             "fontStyle": "bold italic"

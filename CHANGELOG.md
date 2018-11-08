@@ -1,5 +1,9 @@
 # Change Log
 
+## **3.27.0**
+
+-  **Ruby** &rarr; reworked syntax;
+
 ## **3.26.2**
 
 -  **CSS** &rarr; font style for variable parameter is now normal
