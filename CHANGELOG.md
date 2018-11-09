@@ -1,5 +1,11 @@
 # Change Log
 
+## **3.28.0**
+
+-  **CSS** &rarr; id is now highlighted in Desert Sand
+-  **CSS** &rarr; colon before pseudo element/class is now Pale Violet Red
+-  removed unnecessary scope selectors
+
 ## **3.27.0**
 
 -  **Ruby** &rarr; reworked syntax;

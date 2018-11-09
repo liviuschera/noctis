@@ -448,7 +448,9 @@
             "punctuation.definition.keyword",
             "storage.type.modifier.cpp",
             "punctuation.separator.hash.cs",
-            "variable.parameter.rest.lua"
+            "variable.parameter.rest.lua",
+            "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
+            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -507,7 +509,9 @@
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "source.ruby variable.other.readwrite",
-            "punctuation.definition.variable.ruby"
+            "punctuation.definition.variable.ruby",
+            "entity.other.attribute-name.id.css",
+            "entity.other.attribute-name.id.css punctuation.definition.entity.css",
          ],
          "settings": {
             "foreground": "#a86615"
@@ -725,7 +729,6 @@
             "support.type.vendored",
             "support.constant.vendored",
             "source.python support.type.python",
-            "entity.other.attribute-name",
             "markup.quote",
             "markup.italic",
             "tag.decorator.js entity.name.tag.js",
