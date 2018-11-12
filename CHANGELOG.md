@@ -1,5 +1,11 @@
 # Change Log
 
+## **4.0.0**
+
+-  **NEW** theme variant &rarr; **_Noctis Uva_**
+-  changed galery banner color to the new theme background
+-  updated README with the screenshot for the new theme
+
 ## **3.28.0**
 
 -  **CSS** &rarr; id is now highlighted in Desert Sand

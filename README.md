@@ -1,5 +1,9 @@
 <div align="center">
 
+## Noctis Uva &larr; **NEW**
+
+![Noctis Screenshot](images/noctisUva.png)
+
 ## Noctis
 
 ![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
@@ -14,18 +18,18 @@
 
 </div>
 
-Noctis is a colection of light & dark themes with a well balanced blend of warm and cold medium contrast colors.
+Noctis is a colection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
 
 The theme is designed to:
 
 -  be easy on the eyes thus reducing the eye strain
 -  give semantic meaning to theme's colors
 
-Noctis comes in five versions. Four are dark and one is light.
+Noctis comes in six versions. Five are dark and one is light.
 
-The background of the three dark variants is a very saturated very dark cold bluish cyan. The background of the fourth version is a very saturated very dark cold azure. Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.
+The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very saturated very dark cold bluish cyan, **Noctis Azureus'** is a very saturated very dark cold azure and **Noctis Uva's** is a unsaturated dark cold blue.<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.
 
-The light's theme background is a very saturated very light warm orange. Orange can increase oxygen supply to the brain to produce an invigorating effect.
+The **Noctis Lux** light theme's background is a very saturated very light warm orange.<br>Orange can increase oxygen supply to the brain to produce an invigorating effect.
 
 ## Supported Languages
 
@@ -55,7 +59,7 @@ The light's theme background is a very saturated very light warm orange. Orange 
 -  R
 -  Ruby
 -  Rust
--  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension) &larr; **NEW**
+-  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
 -  Visual Basic
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
