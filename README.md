@@ -2,7 +2,7 @@
 
 ## Noctis Uva &larr; **NEW**
 
-![Noctis Screenshot](images/noctisUva.png)
+![Noctis Uva Screenshot](images/noctisUva.png)
 
 ## Noctis
 
@@ -10,11 +10,11 @@
 
 ## Noctis Azureus
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
+![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
 
 ## Noctis Lux
 
-![Noctis Screenshot](images/noctisLux.png)
+![Noctis Lux Screenshot](images/noctisLux.png)
 
 </div>
 
