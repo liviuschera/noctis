@@ -2,7 +2,6 @@
 
 ## Noctis Uva &larr; **NEW**
 
-
 ![Noctis Uva Screenshot](images/NoctisUva.png)
 
 ## Noctis
@@ -95,4 +94,4 @@ Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ 
 
 ## Credits
 
-This theme was inspired by the themes VS Dark+, Solarized, Vue, Cobalt2, One Dark, Dracula and many others.
+This theme was inspired by the themes VS Dark+, Solarized, Vue, Cobalt2, One Dark, Dracula, Pure Syntax and many others.
