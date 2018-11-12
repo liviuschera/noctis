@@ -2,7 +2,8 @@
 
 ## Noctis Uva &larr; **NEW**
 
-![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/blob/master/images/NoctisUva.png)
+
+![Noctis Uva Screenshot](images/NoctisUva.png)
 
 ## Noctis
 
