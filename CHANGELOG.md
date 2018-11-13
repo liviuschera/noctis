@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.1.0**
+
+- _Noctis Uva_  &rarr; improved scrollbar controls
+
 ## **4.0.0**
 
 -  **NEW** theme variant &rarr; **_Noctis Uva_**

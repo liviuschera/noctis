@@ -294,7 +294,7 @@
       // ---------------------------
       "progressBar.background": "#49ace9",
       // ---------------------------
-      // Scroll Bar
+      // Scrollbar
       // ---------------------------
       "scrollbar.shadow": "#00000044",
       "scrollbarSlider.activeBackground": "#008ee677",

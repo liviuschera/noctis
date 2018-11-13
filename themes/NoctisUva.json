@@ -294,12 +294,12 @@
       // ---------------------------
       "progressBar.background": "#998ef1",
       // ---------------------------
-      // Scroll Bar
+      // Scrollbar
       // ---------------------------
       "scrollbar.shadow": "#00000044",
-      "scrollbarSlider.activeBackground": "#008ee677",
-      "scrollbarSlider.background": "#008ee633",
-      "scrollbarSlider.hoverBackground": "#008ee655",
+      "scrollbarSlider.activeBackground": "#7060eb77",
+      "scrollbarSlider.background": "#7060eb33",
+      "scrollbarSlider.hoverBackground": "#7060eb55",
       // ---------------------------
       // Git status colors in File Explorer
       // ---------------------------
