@@ -2,6 +2,7 @@
 you can comment out this part if you don't want to change the default font for the UI
 */
 .monaco-shell {
+   font-feature-settings: "ss01";
    font-family: "Cartograph Mono CF", monospace;
 }
 
