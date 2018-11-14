@@ -7,11 +7,11 @@ you can comment out this part if you don't want to change the default font for t
 }
 
 /* /// REQUIRED ///
-scope selectors for italics
+classes for italics
 */
 .mtk1.mtki,
-.mtk4.mtki,
 .mtk3.mtki,
+.mtk4.mtki,
 .mtk5.mtki,
 .mtk6.mtki,
 .mtk8.mtki,
@@ -20,6 +20,7 @@ scope selectors for italics
 .mtk11.mtki,
 .mtk12.mtki,
 .mtk13.mtki,
+.mtk14.mtki,
 .mtk16.mtki,
 .mtk18.mtki {
    font-feature-settings: "ss01";

@@ -104,13 +104,12 @@
       "tab.activeBackground": "#07273b",
       "tab.activeForeground": "#49ace9",
       "tab.border": "#0f1315",
-      // "tab.activeBorder": "#49ace9",
       "tab.inactiveBackground": "#09334e",
       "tab.inactiveForeground": "#9fb6c6",
       "tab.unfocusedActiveForeground": "#9fb6c6",
       "tab.unfocusedInactiveForeground": "#9fb6c6",
       "tab.activeBorderTop": "#49ace9",
-      "tab.unfocusedActiveBorderTop": "#9fb6c6",
+      "tab.activeModifiedBorder": "#49e9a6",
       // ---------------------------
       // Text Colors
       // ---------------------------

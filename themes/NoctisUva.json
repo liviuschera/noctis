@@ -110,7 +110,7 @@
       "tab.unfocusedActiveForeground": "#a9a5c0",
       "tab.unfocusedInactiveForeground": "#a9a5c0",
       "tab.activeBorderTop": "#998ef1",
-      "tab.unfocusedActiveBorderTop": "#a9a5c0",
+      "tab.activeModifiedBorder": "#49e9a6",
       // ---------------------------
       // Text Colors
       // ---------------------------
@@ -155,7 +155,7 @@
       "editorSuggestWidget.border": "#171523",
       "editorSuggestWidget.foreground": "#a9a5c0",
       "editorSuggestWidget.highlightForeground": "#998ef1",
-      "editorSuggestWidget.selectedBackground": "#332e5c",
+      "editorSuggestWidget.selectedBackground": "#453f73",
       // ---------------------------
       // Gutter
       // ---------------------------

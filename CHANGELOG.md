@@ -1,8 +1,16 @@
 # Change Log
 
+## **4.2.0**
+
+-  fixed [#5](https://github.com/liviuschera/noctis/issues/5)
+-  added new colors for the border on the top of modified (dirty) active/inactive/unfocused active/unfocused inactive tabs in an active/inactive/unfocused active/unfocused inactive group.
+-  changed editor's tab inactive top border to match the active border
+-  removed unnecessary color settings
+-  updated README with how to install the fonts I use in the screenshots
+
 ## **4.1.0**
 
-- _Noctis Uva_  &rarr; improved scrollbar controls
+-  _Noctis Uva_ &rarr; improved scrollbar controls
 
 ## **4.0.0**
 
