@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.4.0**
+
+-  _Noctis Uva_ &rarr; improved peek view colors
+
 ## **4.2.0**
 
 -  fixed [#5](https://github.com/liviuschera/noctis/issues/5)
