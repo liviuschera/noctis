@@ -2,19 +2,19 @@
 
 ## Noctis Uva &larr; **NEW**
 
-![Noctis Uva Screenshot](images/NoctisUva.png)
+![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
 
 ## Noctis
 
-![Noctis Screenshot](images/noctis.png)
+![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](images/noctisAzureus.png)
+![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
 
 ## Noctis Lux
 
-![Noctis Lux Screenshot](images/noctisLux.png)
+![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
 
 </div>
 
@@ -39,6 +39,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  CoffeeScript
 -  CSS
    -  Sass/SCSS
+- Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension) &larr; **NEW**
 -  Go
 -  Groovy
 -  HTML

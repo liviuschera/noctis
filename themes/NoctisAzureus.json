@@ -565,7 +565,7 @@
             "storage.type.cs",
             "source.go storage.type",
             "constant.other.symbol.ruby",
-            "constant.other.symbol.ruby punctuation.definition.constant.ruby"
+            "constant.other.symbol.ruby punctuation.definition.constant.ruby",
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -599,7 +599,7 @@
             "meta.class.identifier storage.modifier",
             "source.scala keyword.declaration",
             "storage.type",
-            "comment.block.documentation punctuation.definition.block.tag"
+            "comment.block.documentation punctuation.definition.block.tag",
          ],
          "settings": {
             "foreground": "#e97749"
@@ -683,7 +683,8 @@
             "markup.underline.link.image.markdown",
             "markup.underline",
             "meta.symbol.namespace.clojure",
-            "entity.name.type.namespace.cs"
+            "entity.name.type.namespace.cs",
+            "support.class.dart"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -776,7 +777,7 @@
             "support.function.builtin.go",
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-            "constant.other.symbol.ruby"
+            "constant.other.symbol.ruby",
          ],
          "settings": {
             "fontStyle": "italic"
@@ -849,7 +850,7 @@
             "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "keyword.other.special-method.ruby",
             "variable.other.readwrite.global.ruby",
-            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
+            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
          ],
          "settings": {
             "fontStyle": "bold italic"
@@ -875,7 +876,9 @@
             "keyword.operator.other.powershell",
             "source.lua storage.type.function",
             "source.scala keyword.declaration",
-            "source.css variable.parameter"
+            "source.css variable.parameter",
+            "storage.type.primitive.dart",
+            "string.interpolated variable.parameter"
          ],
          "settings": {
             "fontStyle": ""

@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.5.0**
+
+-  **Dart** &rarr; added support (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
+-  updated README
+
 ## **4.4.0**
 
 -  _Noctis Uva_ &rarr; improved peek view colors
