@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.6.0**
+
+-  Noctis Uva &rarr; adjusted color of `editorCodeLens.foreground`
+-  removed unnecesary code from all themes
+
 ## **4.5.0**
 
 -  **Dart** &rarr; added support (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)

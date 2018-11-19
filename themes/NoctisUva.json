@@ -104,7 +104,6 @@
       "tab.activeBackground": "#292640",
       "tab.activeForeground": "#998ef1",
       "tab.border": "#171523",
-      // "tab.activeBorder": "#998ef1",
       "tab.inactiveBackground": "#2f2c49",
       "tab.inactiveForeground": "#a9a5c0",
       "tab.unfocusedActiveForeground": "#a9a5c0",
@@ -168,18 +167,12 @@
       // ---------------------------
       "editor.selectionBackground": "#6e67a855",
       "editor.selectionHighlightBackground": "#49ace933",
-      // "editor.selectionHighlightBorder": "#00c2cc99",
       "editor.inactiveSelectionBackground": "#6e67a833",
       "editor.wordHighlightStrongBackground": "#cc990033",
-      // "editor.wordHighlightStrongBorder": "#ccad0055",
       "editor.wordHighlightBackground": "#e4b78133",
-      // "editor.wordHighlightBorder": "#ffc18055",
       "editor.findMatchBackground": "#49e9a655",
-      // "editor.findMatchBorder": "#8ce99a65",
       "editor.findMatchHighlightBackground": "#0e667179",
-      // "editor.findMatchHighlightBorder": "#005b94",
       "editor.findRangeHighlightBackground": "#49e9a622",
-      // "editor.findRangeHighlightBorder": "#49e9a644",
       "editor.hoverHighlightBackground": "#6e67a83f",
       "editor.lineHighlightBackground": "#35305aee",
       "editor.lineHighlightBorder": "#35305a",
@@ -194,7 +187,7 @@
       // ---------------------------
       // Code Lens
       // ---------------------------
-      "editorCodeLens.foreground": "#5b858b",
+      "editorCodeLens.foreground": "#776284",
       // ---------------------------
       // Integrated Terminal Colors
       // ---------------------------
