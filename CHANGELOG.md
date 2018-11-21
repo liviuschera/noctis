@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.7.0**
+
+-  **Julia** &rarr; added support (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
+-  updated README
+
 ## **4.6.0**
 
 -  Noctis Uva &rarr; adjusted color of `editorCodeLens.foreground`

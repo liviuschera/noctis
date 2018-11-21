@@ -496,7 +496,7 @@
             "source.groovy.embedded.source",
             "punctuation.definition.variable",
             "source.powershell",
-            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
+            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -561,6 +561,7 @@
             "source.go storage.type",
             "constant.other.symbol.ruby",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
+            "support.type.julia"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -713,7 +714,8 @@
             "punctuation.section.embedded.groovy",
             "entity.name.function-table.lua",
             "source.scala entity.name.class.declaration",
-            "constant.character.escape"
+            "constant.character.escape",
+            "support.function.macro.julia"
          ],
          "settings": {
             "foreground": "#49ace9"

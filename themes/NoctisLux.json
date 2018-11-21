@@ -552,7 +552,8 @@
             "storage.type.cs",
             "source.go storage.type",
             "constant.other.symbol.ruby",
-            "constant.other.symbol.ruby punctuation.definition.constant.ruby"
+            "constant.other.symbol.ruby punctuation.definition.constant.ruby",
+            "support.type.julia"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -705,7 +706,8 @@
             "punctuation.section.embedded.groovy",
             "entity.name.function-table.lua",
             "source.scala entity.name.class.declaration",
-            "constant.character.escape"
+            "constant.character.escape",
+            "support.function.macro.julia"
          ],
          "settings": {
             "foreground": "#0094f0"

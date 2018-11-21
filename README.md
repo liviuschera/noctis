@@ -39,7 +39,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  CoffeeScript
 -  CSS
    -  Sass/SCSS
-- Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension) &larr; **NEW**
+- Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
 -  Go
 -  Groovy
 -  HTML
@@ -51,6 +51,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
    -  JSON
    -  React/JSX
    -  Typescript/TSX
+-  Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension) &larr; **NEW**
 -  Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
 -  Markdown
 -  PHP
