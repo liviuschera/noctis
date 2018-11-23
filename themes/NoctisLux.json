@@ -509,7 +509,7 @@
             "source.ruby variable.other.readwrite",
             "punctuation.definition.variable.ruby",
             "entity.other.attribute-name.id.css",
-            "entity.other.attribute-name.id.css punctuation.definition.entity.css",
+            "entity.other.attribute-name.id.css punctuation.definition.entity.css"
          ],
          "settings": {
             "foreground": "#a86615"
@@ -808,7 +808,8 @@
             "source.cs entity.name.variable.parameter",
             "punctuation.separator.hash.cs",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
-            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby"
+            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
+            "meta.function.parameters.php"
          ],
          "settings": {
             "fontStyle": "bold"

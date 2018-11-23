@@ -496,7 +496,7 @@
             "source.groovy.embedded.source",
             "punctuation.definition.variable",
             "source.powershell",
-            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
+            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -517,7 +517,7 @@
             "source.ruby variable.other.readwrite",
             "punctuation.definition.variable.ruby",
             "entity.other.attribute-name.id.css",
-            "entity.other.attribute-name.id.css punctuation.definition.entity.css",
+            "entity.other.attribute-name.id.css punctuation.definition.entity.css"
          ],
          "settings": {
             "foreground": "#edc9af"
@@ -595,7 +595,7 @@
             "meta.class.identifier storage.modifier",
             "source.scala keyword.declaration",
             "storage.type",
-            "comment.block.documentation punctuation.definition.block.tag",
+            "comment.block.documentation punctuation.definition.block.tag"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -774,7 +774,7 @@
             "support.function.builtin.go",
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-            "constant.other.symbol.ruby",
+            "constant.other.symbol.ruby"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -816,7 +816,8 @@
             "source.cs entity.name.variable.parameter",
             "punctuation.separator.hash.cs",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
-            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby"
+            "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
+            "meta.function.parameters.php"
          ],
          "settings": {
             "fontStyle": "bold"

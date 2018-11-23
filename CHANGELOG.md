@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.8.0**
+
+-  **PHP** &rarr; parameters are now bold
+
 ## **4.7.0**
 
 -  **Julia** &rarr; added support (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
