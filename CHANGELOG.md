@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.9.0**
+
+-  **Vala** &rarr; added support (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
+-  updated README
+
 ## **4.8.0**
 
 -  **PHP** &rarr; parameters are now bold

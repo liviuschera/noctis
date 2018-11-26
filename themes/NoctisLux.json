@@ -488,7 +488,8 @@
             "source.groovy.embedded.source",
             "punctuation.definition.variable",
             "source.powershell",
-            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
+            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
+            "string.quoted.interpolated.vala constant.character.escape.vala"
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -553,7 +554,8 @@
             "source.go storage.type",
             "constant.other.symbol.ruby",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
-            "support.type.julia"
+            "support.type.julia",
+            "storage.type.generic.vala"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -614,7 +616,9 @@
             "string.template",
             "punctuation.definition.string.template",
             "string.interpolated.python string.quoted.single.python",
-            "string.quoted.double.heredoc"
+            "string.quoted.double.heredoc",
+            "string.quoted.interpolated.vala",
+            "string.quoted.interpolated.vala punctuation.definition.string"
          ],
          "settings": {
             "foreground": "#009456"
@@ -707,7 +711,8 @@
             "entity.name.function-table.lua",
             "source.scala entity.name.class.declaration",
             "constant.character.escape",
-            "support.function.macro.julia"
+            "support.function.macro.julia",
+            "storage.type.vala"    
          ],
          "settings": {
             "foreground": "#0094f0"

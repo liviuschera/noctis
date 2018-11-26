@@ -495,7 +495,8 @@
             "source.groovy.embedded.source",
             "punctuation.definition.variable",
             "source.powershell",
-            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
+            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
+            "string.quoted.interpolated.vala constant.character.escape.vala"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -516,7 +517,7 @@
             "source.ruby variable.other.readwrite",
             "punctuation.definition.variable.ruby",
             "entity.other.attribute-name.id.css",
-            "entity.other.attribute-name.id.css punctuation.definition.entity.css"
+            "entity.other.attribute-name.id.css punctuation.definition.entity.css",
          ],
          "settings": {
             "foreground": "#edc9af"
@@ -560,7 +561,8 @@
             "source.go storage.type",
             "constant.other.symbol.ruby",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
-            "support.type.julia"
+            "support.type.julia",
+            "storage.type.generic.vala"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -621,7 +623,9 @@
             "string.template",
             "punctuation.definition.string.template",
             "string.interpolated.python string.quoted.single.python",
-            "string.quoted.double.heredoc"
+            "string.quoted.double.heredoc",
+            "string.quoted.interpolated.vala",
+            "string.quoted.interpolated.vala punctuation.definition.string"
          ],
          "settings": {
             "foreground": "#16b673"
@@ -714,7 +718,8 @@
             "entity.name.function-table.lua",
             "source.scala entity.name.class.declaration",
             "constant.character.escape",
-            "support.function.macro.julia"
+            "support.function.macro.julia",
+            "storage.type.vala"            
          ],
          "settings": {
             "foreground": "#49ace9"

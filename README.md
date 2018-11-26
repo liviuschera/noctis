@@ -51,7 +51,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
    -  JSON
    -  React/JSX
    -  Typescript/TSX
--  Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension) &larr; **NEW**
+-  Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
 -  Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
 -  Markdown
 -  PHP
@@ -62,6 +62,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Ruby
 -  Rust
 -  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
+-  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension) &larr; **NEW**
 -  Visual Basic
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
