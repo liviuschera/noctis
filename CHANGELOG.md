@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.10.0**
+
+-  **Apache Conf** &rarr; added support (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
+-  updated README
+
 ## **4.9.0**
 
 -  **Vala** &rarr; added support (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)

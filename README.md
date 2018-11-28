@@ -39,7 +39,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  CoffeeScript
 -  CSS
    -  Sass/SCSS
-- Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
+-  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
 -  Go
 -  Groovy
 -  HTML
@@ -62,8 +62,10 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Ruby
 -  Rust
 -  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
--  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension) &larr; **NEW**
+-  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
 -  Visual Basic
+-  **Other**
+   -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension) &larr; **NEW**
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 

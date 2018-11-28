@@ -489,7 +489,8 @@
             "punctuation.definition.variable",
             "source.powershell",
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
-            "string.quoted.interpolated.vala constant.character.escape.vala"
+            "string.quoted.interpolated.vala constant.character.escape.vala",
+            "source.apacheconf"
          ],
          "settings": {
             "foreground": "#ee962b"
@@ -555,7 +556,8 @@
             "constant.other.symbol.ruby",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "support.type.julia",
-            "storage.type.generic.vala"
+            "storage.type.generic.vala",
+            "entity.helper.apacheconf"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -589,7 +591,8 @@
             "meta.class.identifier storage.modifier",
             "source.scala keyword.declaration",
             "storage.type",
-            "comment.block.documentation punctuation.definition.block.tag"
+            "comment.block.documentation punctuation.definition.block.tag",
+            "entity.tag.apacheconf"
          ],
          "settings": {
             "foreground": "#d13b00"
@@ -618,7 +621,8 @@
             "string.interpolated.python string.quoted.single.python",
             "string.quoted.double.heredoc",
             "string.quoted.interpolated.vala",
-            "string.quoted.interpolated.vala punctuation.definition.string"
+            "string.quoted.interpolated.vala punctuation.definition.string",
+            "string.regexp.apacheconf"
          ],
          "settings": {
             "foreground": "#009456"
@@ -630,7 +634,8 @@
             "constant.language",
             "punctuation.separator.decimal.period.php",
             "keyword.operator.null-conditional.cs",
-            "punctuation.separator.question-mark.cs"
+            "punctuation.separator.question-mark.cs",
+            "constant.integer.apacheconf"
          ],
          "settings": {
             "foreground": "#5842ff"
@@ -676,7 +681,8 @@
             "markup.underline",
             "meta.symbol.namespace.clojure",
             "entity.name.type.namespace.cs",
-            "support.class.dart"
+            "support.class.dart",
+            "entity.mime-type.apacheconf"
          ],
          "settings": {
             "foreground": "#00bdd6"
@@ -712,7 +718,8 @@
             "source.scala entity.name.class.declaration",
             "constant.character.escape",
             "support.function.macro.julia",
-            "storage.type.vala"    
+            "storage.type.vala",
+            "string.replacement.apacheconf"
          ],
          "settings": {
             "foreground": "#0094f0"
@@ -873,7 +880,8 @@
             "source.scala keyword.declaration",
             "source.css variable.parameter",
             "storage.type.primitive.dart",
-            "string.interpolated variable.parameter"
+            "string.interpolated variable.parameter",
+            "source.apacheconf keyword"
          ],
          "settings": {
             "fontStyle": ""
