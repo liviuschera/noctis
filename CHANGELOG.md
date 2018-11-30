@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.11.0**
+
+-  **PHP** &rarr; magic constants are now Buddha Gold
+
 ## **4.10.0**
 
 -  **Apache Conf** &rarr; added support (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)

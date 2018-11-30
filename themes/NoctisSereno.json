@@ -565,7 +565,8 @@
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "support.type.julia",
             "storage.type.generic.vala",
-            "entity.helper.apacheconf"
+            "entity.helper.apacheconf",
+            "constant.language.php"
          ],
          "settings": {
             "foreground": "#cc9900"
