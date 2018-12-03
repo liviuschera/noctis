@@ -367,7 +367,14 @@
       "menu.selectionBorder": "#d2f3f9",
       "menubar.selectionBackground": "#d2f3f9",
       "menubar.selectionForeground": "#0099ad",
-      "menubar.selectionBorder": "#d2f3f9"
+      "menubar.selectionBorder": "#d2f3f9",
+      // ---------------------------
+      // Snippets
+      // ---------------------------
+      "editor.snippetTabstopHighlightBackground": "#fdefd3",
+      "editor.snippetTabstopHighlightBorder": "#fdf3dd",
+      "editor.snippetFinalTabstopHighlightBackground": "#fdefd3",
+      "editor.snippetFinalTabstopHighlightBorder": "#fdf3dd",
    },
    "tokenColors": [
       {
@@ -558,7 +565,6 @@
             "support.type.julia",
             "storage.type.generic.vala",
             "entity.helper.apacheconf",
-            "constant.language.php"
          ],
          "settings": {
             "foreground": "#b38600"

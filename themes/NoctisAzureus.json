@@ -371,10 +371,10 @@
       // ---------------------------
       // Snippets
       // ---------------------------
-      "editor.snippetTabstopHighlightBackground": "#093049",
-      "editor.snippetTabstopHighlightBorder": "#0a3652",
-      "editor.snippetFinalTabstopHighlightBackground": "#0a3652",
-      "editor.snippetFinalTabstopHighlightBorder": "#0a3652"
+      "editor.snippetTabstopHighlightBackground": "#051b29",
+      "editor.snippetTabstopHighlightBorder": "#062132",
+      "editor.snippetFinalTabstopHighlightBackground": "#051b29",
+      "editor.snippetFinalTabstopHighlightBorder": "#062132"
    },
    "tokenColors": [
       {
@@ -565,7 +565,6 @@
             "support.type.julia",
             "storage.type.generic.vala",
             "entity.helper.apacheconf",
-            "constant.language.php"
          ],
          "settings": {
             "foreground": "#cc9900"

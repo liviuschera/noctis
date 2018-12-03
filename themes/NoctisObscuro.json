@@ -374,7 +374,7 @@
       // ---------------------------
       "editor.snippetTabstopHighlightBackground": "#06292d",
       "editor.snippetTabstopHighlightBorder": "#073136",
-      "editor.snippetFinalTabstopHighlightBackground": "#073136",
+      "editor.snippetFinalTabstopHighlightBackground": "#06292d",
       "editor.snippetFinalTabstopHighlightBorder": "#073136"
    },
    "tokenColors": [
@@ -565,8 +565,7 @@
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "support.type.julia",
             "storage.type.generic.vala",
-            "entity.helper.apacheconf",
-            "constant.language.php"
+            "entity.helper.apacheconf"
          ],
          "settings": {
             "foreground": "#cc9900"

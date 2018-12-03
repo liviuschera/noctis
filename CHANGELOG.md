@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.12.0**
+-  Noctis Lux &rarr; added snippets highlighting
+-  improved snippets highlighting for dark themes
+-  **PHP** &rarr; reverted magic constants highlighting to initial color
+
 ## **4.11.0**
 
 -  **PHP** &rarr; magic constants are now Buddha Gold
