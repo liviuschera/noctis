@@ -592,6 +592,7 @@
             "keyword.function.go",
             "punctuation.separator.namespace",
             "keyword.other.rust",
+            "meta.separator",
             "keyword.other.fn.rust",
             "storage.modifier.const.rust",
             "storage.modifier.static.rust",
