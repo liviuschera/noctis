@@ -662,6 +662,7 @@
             "keyword.other.unit",
             "entity.name.function",
             "string.other.link",
+            "markup.link",
             "support.type.vendored",
             "support.other.variable",
             "meta.function-call.generic.python",
