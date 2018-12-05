@@ -406,10 +406,10 @@
             "keyword.begin.tag.ejs",
             "constant.name.attribute.tag.pug",
             "source.clojure meta.symbol",
-            "text.html.markdown punctuation.definition.string",
             "constant.other.description.jsdoc",
             "keyword.other.array.phpdoc.php",
-            "keyword.operator.other.powershell"
+            "keyword.operator.other.powershell",
+            "meta.link.inline punctuation.definition.string"
          ],
          "settings": {
             "foreground": "#b2cacd"
@@ -427,10 +427,9 @@
             "punctuation.accessor",
             "constant.other.color",
             "entity.name.section",
-            "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
             "markdown.heading",
             "markup.deleted.git_gutter",
-            "markup.heading | markup.heading entity.name",
+            "markup.heading markup.heading entity.name",
             "markup.heading punctuation.definition.heading",
             "markup.heading",
             "entity.other.attribute-name.pseudo-class",
@@ -566,7 +565,7 @@
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "support.type.julia",
             "storage.type.generic.vala",
-            "entity.helper.apacheconf",
+            "entity.helper.apacheconf"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -617,7 +616,6 @@
             "punctuation.definition.string",
             "source.css support.constant",
             "markup.raw.block",
-            "markup.inline.raw.string",
             "entity.name.import.go"
          ],
          "settings": {
@@ -632,7 +630,9 @@
             "string.quoted.double.heredoc",
             "string.quoted.interpolated.vala",
             "string.quoted.interpolated.vala punctuation.definition.string",
-            "string.regexp.apacheconf"
+            "string.regexp.apacheconf",
+            "markup.inline.raw.string",
+            "markup.inline.raw punctuation.definition.raw"
          ],
          "settings": {
             "foreground": "#16b673"
@@ -808,8 +808,8 @@
             "markup.bold",
             "markup.bold string",
             "markdown.heading",
-            "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
-            "markup.heading | markup.heading entity.name",
+            "markup.inline.raw punctuation.definition.raw",
+            "markup.heading markup.heading entity.name",
             "markup.heading punctuation.definition.heading",
             "markup.heading",
             "storage.type.function.pug",

@@ -1,6 +1,13 @@
 # Change Log
 
+## **4.13.0**
+
+-  **Markup/Markdown**
+   -  improvements [#6](https://github.com/liviuschera/noctis/pull/6)
+   -  improved strings highlighting
+
 ## **4.12.0**
+
 -  Noctis Lux &rarr; added snippets highlighting
 -  improved snippets highlighting for dark themes
 -  **PHP** &rarr; reverted magic constants highlighting to initial color
