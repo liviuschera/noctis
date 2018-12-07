@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.14.0**
+
+-  **Markup/Markdown**
+   -  improvements [#7](https://github.com/liviuschera/noctis/pull/7). Thanks Mateo!
+
 ## **4.13.0**
 
 -  **Markup/Markdown**
