@@ -599,7 +599,9 @@
             "source.scala keyword.declaration",
             "storage.type",
             "comment.block.documentation punctuation.definition.block.tag",
-            "entity.tag.apacheconf"
+            "entity.tag.apacheconf",
+            "keyword.other.julia",
+            "source.julia storage.modifier"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -891,7 +893,8 @@
             "source.css variable.parameter",
             "storage.type.primitive.dart",
             "string.interpolated variable.parameter",
-            "source.apacheconf keyword"
+            "source.apacheconf keyword",
+            "keyword.other.julia"
          ],
          "settings": {
             "fontStyle": ""

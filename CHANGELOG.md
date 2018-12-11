@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.15.0**
+
+-  Julia &rarr; various improvements
+
 ## **4.14.0**
 
 -  **Markup/Markdown**
