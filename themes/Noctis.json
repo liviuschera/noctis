@@ -647,7 +647,8 @@
             "punctuation.separator.decimal.period.php",
             "keyword.operator.null-conditional.cs",
             "punctuation.separator.question-mark.cs",
-            "constant.integer.apacheconf"
+            "constant.integer.apacheconf",
+            "keyword.operator.nullable-type"
          ],
          "settings": {
             "foreground": "#7060eb"

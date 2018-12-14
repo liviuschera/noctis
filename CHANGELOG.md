@@ -1,8 +1,12 @@
 # Change Log
 
+## **4.16.0**
+
+-  **PHP** &rarr; nullable type operator is now highlighted in Cornflower Blue
+
 ## **4.15.0**
 
--  Julia &rarr; various improvements
+-  **Julia** &rarr; various improvements
 
 ## **4.14.0**
 
