@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.17.0**
+
+-  **Vala** &rarr; various tweaks
+
 ## **4.16.0**
 
 -  **PHP** &rarr; nullable type operator is now highlighted in Cornflower Blue

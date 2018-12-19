@@ -564,8 +564,8 @@
             "constant.other.symbol.ruby",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "support.type.julia",
-            "storage.type.generic.vala",
-            "entity.helper.apacheconf"
+            "entity.helper.apacheconf",
+            "source.vala storage.type",
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -732,8 +732,8 @@
             "source.scala entity.name.class.declaration",
             "constant.character.escape",
             "support.function.macro.julia",
-            "storage.type.vala",
-            "string.replacement.apacheconf"
+            "string.replacement.apacheconf",
+            "storage.modifier.using.vala"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -792,7 +792,8 @@
             "support.function.builtin.go",
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-            "constant.other.symbol.ruby"
+            "constant.other.symbol.ruby",
+            "source.vala storage.type.generic"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -897,7 +898,8 @@
             "storage.type.primitive.dart",
             "string.interpolated variable.parameter",
             "source.apacheconf keyword",
-            "keyword.other.julia"
+            "keyword.other.julia",
+            "storage.modifier.using.vala"
          ],
          "settings": {
             "fontStyle": ""
