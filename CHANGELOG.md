@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.17.1**
+
+-  `vscodecustom.css` &rarr; refactored
+
 ## **4.17.0**
 
 -  **Vala** &rarr; various tweaks

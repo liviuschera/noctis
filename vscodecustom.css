@@ -1,29 +1,20 @@
 /* /// OPTIONAL ///
+
 you can comment out this part if you don't want to change the default font for the UI
+
 */
+
 .monaco-shell {
    font-feature-settings: "ss01";
    font-family: "Cartograph Mono CF", monospace;
 }
 
 /* /// REQUIRED ///
+
 classes for italics
+
 */
-.mtk1.mtki,
-.mtk3.mtki,
-.mtk4.mtki,
-.mtk5.mtki,
-.mtk6.mtki,
-.mtk7.mtki,
-.mtk8.mtki,
-.mtk9.mtki,
-.mtk10.mtki,
-.mtk11.mtki,
-.mtk12.mtki,
-.mtk13.mtki,
-.mtk14.mtki,
-.mtk16.mtki,
-.mtk18.mtki {
+[class^="mtk"].mtki {
    font-feature-settings: "ss01";
    font-family: "Cartograph Mono CF";
 }
