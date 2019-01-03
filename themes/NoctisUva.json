@@ -563,7 +563,7 @@
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "support.type.julia",
             "entity.helper.apacheconf",
-            "source.vala storage.type",
+            "source.vala storage.type"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -835,7 +835,7 @@
             "punctuation.separator.hash.cs",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-            "meta.function.parameters.php"
+            "meta.function.parameters variable.other"
          ],
          "settings": {
             "fontStyle": "bold"
