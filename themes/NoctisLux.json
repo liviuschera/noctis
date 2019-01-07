@@ -564,7 +564,8 @@
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "support.type.julia",
             "entity.helper.apacheconf",
-            "source.vala storage.type"
+            "source.vala storage.type",
+            "source.haskell storage.type",
          ],
          "settings": {
             "foreground": "#b38600"
@@ -602,7 +603,8 @@
             "comment.block.documentation punctuation.definition.block.tag",
             "entity.tag.apacheconf",
             "keyword.other.julia",
-            "source.julia storage.modifier"
+            "source.julia storage.modifier",
+            "constant.language.empty-list.haskell",
          ],
          "settings": {
             "foreground": "#d13b00"
@@ -695,7 +697,9 @@
             "meta.symbol.namespace.clojure",
             "entity.name.type.namespace.cs",
             "support.class.dart",
-            "entity.mime-type.apacheconf"
+            "entity.mime-type.apacheconf",
+            "keyword.operator.function.infix.haskell",
+            "keyword.operator.function.infix.haskell punctuation.definition.entity.haskell"
          ],
          "settings": {
             "foreground": "#00bdd6"
@@ -731,7 +735,9 @@
             "source.scala entity.name.class.declaration",
             "constant.character.escape",
             "support.function.macro.julia",
-            "string.replacement.apacheconf"
+            "string.replacement.apacheconf",
+            "storage.modifier.using.vala",
+            "constant.other.haskell"
          ],
          "settings": {
             "foreground": "#0094f0"
@@ -897,7 +903,8 @@
             "string.interpolated variable.parameter",
             "source.apacheconf keyword",
             "keyword.other.julia",
-            "storage.modifier.using.vala"
+            "storage.modifier.using.vala",
+            "keyword.operator.function.infix.haskell"
          ],
          "settings": {
             "fontStyle": ""

@@ -42,6 +42,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
 -  Go
 -  Groovy
+-  Haskell (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension) &larr; **NEW**
 -  HTML
    -  EJS
    -  Handlebars
@@ -65,7 +66,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
 -  Visual Basic
 -  **Other**
-   -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension) &larr; **NEW**
+   -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
 
 I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 

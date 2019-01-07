@@ -455,7 +455,7 @@
             "punctuation.separator.hash.cs",
             "variable.parameter.rest.lua",
             "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
-            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css"
+            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
          ],
          "settings": {
             "foreground": "#df769b"
@@ -564,7 +564,8 @@
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "support.type.julia",
             "entity.helper.apacheconf",
-            "source.vala storage.type"
+            "source.vala storage.type",
+            "source.haskell storage.type",
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -602,7 +603,8 @@
             "comment.block.documentation punctuation.definition.block.tag",
             "entity.tag.apacheconf",
             "keyword.other.julia",
-            "source.julia storage.modifier"
+            "source.julia storage.modifier",
+            "constant.language.empty-list.haskell",
          ],
          "settings": {
             "foreground": "#e97749"
@@ -695,7 +697,9 @@
             "meta.symbol.namespace.clojure",
             "entity.name.type.namespace.cs",
             "support.class.dart",
-            "entity.mime-type.apacheconf"
+            "entity.mime-type.apacheconf",
+            "keyword.operator.function.infix.haskell",
+            "keyword.operator.function.infix.haskell punctuation.definition.entity.haskell"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -732,7 +736,8 @@
             "constant.character.escape",
             "support.function.macro.julia",
             "string.replacement.apacheconf",
-            "storage.modifier.using.vala"
+            "storage.modifier.using.vala",
+            "constant.other.haskell"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -792,7 +797,7 @@
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
-            "source.vala storage.type.generic"
+            "source.vala storage.type.generic",
          ],
          "settings": {
             "fontStyle": "italic"
@@ -898,7 +903,8 @@
             "string.interpolated variable.parameter",
             "source.apacheconf keyword",
             "keyword.other.julia",
-            "storage.modifier.using.vala"
+            "storage.modifier.using.vala",
+            "keyword.operator.function.infix.haskell"
          ],
          "settings": {
             "fontStyle": ""

@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.19.0**
+
+-  **Haskell** &rarr; added support (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension)
+-  updated README
+
 ## **4.18.0**
 
 -  **PHP** &rarr; fixed parameters
