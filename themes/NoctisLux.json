@@ -565,7 +565,7 @@
             "support.type.julia",
             "entity.helper.apacheconf",
             "source.vala storage.type",
-            "source.haskell storage.type",
+            "source.haskell storage.type"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -604,7 +604,7 @@
             "entity.tag.apacheconf",
             "keyword.other.julia",
             "source.julia storage.modifier",
-            "constant.language.empty-list.haskell",
+            "constant.language.empty-list.haskell"
          ],
          "settings": {
             "foreground": "#d13b00"
@@ -754,7 +754,6 @@
          "scope": [
             "comment",
             "storage.modifier",
-            "storage.type.function",
             "punctuation.definition.comment",
             "entity.other",
             "variable.language",

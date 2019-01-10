@@ -454,7 +454,7 @@
             "punctuation.separator.hash.cs",
             "variable.parameter.rest.lua",
             "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
-            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
+            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -564,7 +564,7 @@
             "support.type.julia",
             "entity.helper.apacheconf",
             "source.vala storage.type",
-            "source.haskell storage.type",
+            "source.haskell storage.type"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -603,7 +603,7 @@
             "entity.tag.apacheconf",
             "keyword.other.julia",
             "source.julia storage.modifier",
-            "constant.language.empty-list.haskell",
+            "constant.language.empty-list.haskell"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -753,7 +753,6 @@
          "scope": [
             "comment",
             "storage.modifier",
-            "storage.type.function",
             "punctuation.definition.comment",
             "entity.other",
             "variable.language",
@@ -796,7 +795,7 @@
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
-            "source.vala storage.type.generic",
+            "source.vala storage.type.generic"
          ],
          "settings": {
             "fontStyle": "italic"

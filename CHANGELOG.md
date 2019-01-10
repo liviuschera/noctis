@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.19.1**
+
+-  keyword `function` &rarr; is using now normal font style (was italic before). It will affect: PHP, JavaScript and derivates.
+
 ## **4.19.0**
 
 -  **Haskell** &rarr; added support (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension)
