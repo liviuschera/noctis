@@ -454,7 +454,7 @@
             "punctuation.separator.hash.cs",
             "variable.parameter.rest.lua",
             "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
-            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css"
+            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
          ],
          "settings": {
             "foreground": "#df769b"
@@ -496,7 +496,8 @@
             "source.powershell",
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
             "string.quoted.interpolated.vala constant.character.escape.vala",
-            "source.apacheconf"
+            "source.apacheconf",
+            "source.objc"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -564,7 +565,7 @@
             "support.type.julia",
             "entity.helper.apacheconf",
             "source.vala storage.type",
-            "source.haskell storage.type"
+            "source.haskell storage.type",
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -603,7 +604,8 @@
             "entity.tag.apacheconf",
             "keyword.other.julia",
             "source.julia storage.modifier",
-            "constant.language.empty-list.haskell"
+            "constant.language.empty-list.haskell",
+            "punctuation.definition.storage.type.objc"
          ],
          "settings": {
             "foreground": "#e97749"
@@ -736,7 +738,8 @@
             "support.function.macro.julia",
             "string.replacement.apacheconf",
             "storage.modifier.using.vala",
-            "constant.other.haskell"
+            "constant.other.haskell",
+            "source.objc entity.name.tag"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -795,7 +798,8 @@
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
-            "source.vala storage.type.generic"
+            "source.vala storage.type.generic",
+            "source.objc storage.type.c"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -902,7 +906,8 @@
             "source.apacheconf keyword",
             "keyword.other.julia",
             "storage.modifier.using.vala",
-            "keyword.operator.function.infix.haskell"
+            "keyword.operator.function.infix.haskell",
+            "source.objc keyword.other.property.attribute"
          ],
          "settings": {
             "fontStyle": ""

@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.20.0**
+
+-  **Ojective-C** &rarr; added support
+-  updated README
+
 ## **4.19.1**
 
 -  keyword `function` &rarr; is using now normal font style (was italic before). It will affect: PHP, JavaScript and derivates.

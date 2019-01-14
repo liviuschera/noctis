@@ -42,7 +42,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
 -  Go
 -  Groovy
--  Haskell (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension) &larr; **NEW**
+-  Haskell (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension)
 -  HTML
    -  EJS
    -  Handlebars
@@ -55,6 +55,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
 -  Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
 -  Markdown
+-  Objective-C &larr; **NEW**
 -  PHP
    -  Laravel Blade
 -  PowerShell
@@ -82,8 +83,8 @@ The walkthrough is for Windows. I assume that for Unix and MacOS you would have 
 1. IMPORTANT: _Run as aministrator_ VS Code
 2. install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 3. download or copy the content of [customvscode.css](https://github.com/liviuschera/noctis/blob/master/vscodecustom.css)
-4. copy the file in `Users\yourusername\customvscode.css`. This is what I have on my system `c:\Users\liviuschera\customvscode.css`
-5. In `settings.json` add:
+4. copy `customvscode.css` in `C:\Users\your-own-username`. As an example this is what I have on my system: `C:\Users\liviuschera\customvscode.css`
+5. in `settings.json` add:
    ```json
      "editor.fontFamily": "Hasklig",
      "vscode_custom_css.imports":
@@ -92,8 +93,8 @@ The walkthrough is for Windows. I assume that for Unix and MacOS you would have 
        ],
    ```
 6. press `F1`
-7. Select `Enable Custom CSS and JS`
-8. Reload VS Code (it doesn't have to be in administrator mode)
+7. select `Enable Custom CSS and JS`
+8. reload VS Code (it doesn't have to be in administrator mode)
 
 > NOTES:
 >
