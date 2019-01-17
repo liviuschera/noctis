@@ -55,7 +55,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
 -  Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
 -  Markdown
--  Objective-C &larr; **NEW**
+-  Objective-C
 -  PHP
    -  Laravel Blade
 -  PowerShell
@@ -64,6 +64,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Ruby
 -  Rust
 -  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
+-  SQL &larr; **NEW**
 -  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
 -  Visual Basic
 -  **Other**

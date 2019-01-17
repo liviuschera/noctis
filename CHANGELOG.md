@@ -1,5 +1,10 @@
 # Change Log
 
+## **4.21.0**
+
+-  **SQL** &rarr added support (embedded SQL in PHP as well)
+-  updated README
+
 ## **4.20.0**
 
 -  **Ojective-C** &rarr; added support

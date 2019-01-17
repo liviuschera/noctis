@@ -408,7 +408,9 @@
             "constant.other.description.jsdoc",
             "keyword.other.array.phpdoc.php",
             "keyword.operator.other.powershell",
-            "meta.link.inline punctuation.definition.string"
+            "meta.link.inline punctuation.definition.string",
+            "source.sql",
+            "constant.other.database-name"
          ],
          "settings": {
             "foreground": "#becfda"
@@ -455,7 +457,7 @@
             "punctuation.separator.hash.cs",
             "variable.parameter.rest.lua",
             "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
-            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
+            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -519,7 +521,8 @@
             "source.ruby variable.other.readwrite",
             "punctuation.definition.variable.ruby",
             "entity.other.attribute-name.id.css",
-            "entity.other.attribute-name.id.css punctuation.definition.entity.css"
+            "entity.other.attribute-name.id.css punctuation.definition.entity.css",
+            "constant.other.table-name"
          ],
          "settings": {
             "foreground": "#edc9af"
@@ -566,7 +569,7 @@
             "support.type.julia",
             "entity.helper.apacheconf",
             "source.vala storage.type",
-            "source.haskell storage.type",
+            "source.haskell storage.type"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -908,7 +911,8 @@
             "keyword.other.julia",
             "storage.modifier.using.vala",
             "keyword.operator.function.infix.haskell",
-            "source.objc keyword.other.property.attribute"
+            "source.objc keyword.other.property.attribute",
+            "source.sql keyword.other"
          ],
          "settings": {
             "fontStyle": ""
