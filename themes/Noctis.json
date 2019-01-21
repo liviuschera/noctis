@@ -193,7 +193,7 @@
       // Integrated Terminal Colors
       // ---------------------------
       "terminal.ansiBlack": "#6b797b",
-      "terminal.ansiRed": "#e97749",
+      "terminal.ansiRed": "#e66533",
       "terminal.ansiGreen": "#49e9a6",
       "terminal.ansiYellow": "#e4b781",
       "terminal.ansiBlue": "#49ace9",
@@ -613,7 +613,7 @@
             "punctuation.definition.storage.type.objc"
          ],
          "settings": {
-            "foreground": "#e97749"
+            "foreground": "#e66533"
          }
       },
       {

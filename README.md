@@ -2,19 +2,19 @@
 
 ## Noctis Uva &larr; **NEW**
 
-![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
+![Noctis Uva Screenshot](images/NoctisUva.png)
 
 ## Noctis
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
+![Noctis Screenshot](images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
+![Noctis Azureus Screenshot](images/noctisAzureus.png)
 
 ## Noctis Lux
 
-![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
+![Noctis Lux Screenshot](images/noctisLux.png)
 
 </div>
 
