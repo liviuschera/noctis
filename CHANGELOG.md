@@ -1,5 +1,9 @@
 # Change Log
 
+## **4.22.1**
+
+-  updated README with new color name
+
 ## **4.22.0**
 
 -  replaced Burnt Sienna(`#e97749`) with 5% darker Cinnabar(`#e66533`)
@@ -7,7 +11,7 @@
 
 ## **4.21.0**
 
--  **SQL** &rarr added support (embedded SQL in PHP as well)
+-  **SQL** &rarr; added support (embedded SQL in PHP as well)
 -  updated README
 
 ## **4.20.0**
