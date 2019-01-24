@@ -2,7 +2,7 @@
 
 ## Noctis Viola &larr; **NEW**
 
-![Noctis Viola Screenshot](images/NoctisViola.png)
+![Noctis Viola Screenshot](/images/NoctisViola.png)
 
 ## Noctis Uva
 
