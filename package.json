@@ -2,7 +2,7 @@
    "name": "noctis",
    "displayName": "Noctis",
    "description": "Noctis is a colection of light & dark themes with a well balanced blend of warm and cold colors",
-   "version": "4.21.0",
+   "version": "5.0.0",
    "publisher": "liviuschera",
    "icon": "images/logo.png",
    "engines": {
@@ -58,6 +58,11 @@
             "label": "Noctis Uva",
             "uiTheme": "vs-dark",
             "path": "./themes/NoctisUva.json"
+         },
+         {
+           "label": "Noctis Minimus",
+           "uiTheme": "vs-dark",
+           "path": "./themes/NoctisMinimus.json"
          }
       ]
    },

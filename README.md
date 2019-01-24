@@ -1,6 +1,10 @@
 <div align="center">
 
-## Noctis Uva &larr; **NEW**
+## Noctis Minimus &larr; **NEW**
+
+### MINIMUS SCREENSHOT NEEDED
+
+## Noctis Uva
 
 ![Noctis Uva Screenshot](images/NoctisUva.png)
 
@@ -27,7 +31,7 @@ The theme is designed to:
 
 Noctis comes in six versions. Five are dark and one is light.
 
-The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very saturated very dark cold bluish cyan, **Noctis Azureus'** is a very saturated very dark cold azure and **Noctis Uva's** is a unsaturated dark cold blue.<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.
+The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very saturated very dark cold bluish cyan, **Noctis Azureus'** is a very saturated very dark cold azure and **Noctis Uva's** is a unsaturated dark cold blue. For those with more spartan taste, **Noctis Minimus** offers a version of the **Azureus** palette with much lower saturation.<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.
 
 The **Noctis Lux** light theme's background is a very saturated very light warm orange.<br>Orange can increase oxygen supply to the brain to produce an invigorating effect.
 
