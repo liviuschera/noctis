@@ -1,5 +1,10 @@
 # Change Log
 
+## **5.0.0**
+
+-  introducing **_Noctis Viola_**
+-  updated README with new screenshot
+
 ## **4.22.1**
 
 -  updated README with new color name

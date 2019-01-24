@@ -9,7 +9,7 @@
       "vscode": "^1.29.0"
    },
    "galleryBanner": {
-      "color": "#292640",
+      "color": "#2e1e3e",
       "theme": "dark"
    },
    "repository": {
@@ -58,6 +58,11 @@
             "label": "Noctis Uva",
             "uiTheme": "vs-dark",
             "path": "./themes/NoctisUva.json"
+         },
+         {
+            "label": "Noctis Viola",
+            "uiTheme": "vs-dark",
+            "path": "./themes/NoctisViola.json"
          }
       ]
    },
