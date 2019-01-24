@@ -1,8 +1,13 @@
 # Change Log
 
-## **5.0.0**
+## **6.0.0**
 
 -  **NEW** theme variant &rarr; **_Noctis Minimus_**
+
+## **5.0.0**
+
+-  introducing **_Noctis Viola_**
+-  updated README with new screenshot
 
 ## **4.22.1**
 
