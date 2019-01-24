@@ -26,7 +26,7 @@
 
 </div>
 
-Noctis is a colection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
+Noctis is a collection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
 
 The theme is designed to:
 
@@ -80,7 +80,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  **Other**
    -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
 
-I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
+I plan on adding support for new languages in the upcoming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 
 ## **The Font** used in the screenshots
 
@@ -91,7 +91,7 @@ I think there is a beautiful synergy between the two fonts and they intertwine n
 
 The walkthrough is for Windows. I assume that for Unix and MacOS you would have to change only the path.
 
-1. IMPORTANT: _Run as aministrator_ VS Code
+1. IMPORTANT: _Run as administrator_ VS Code
 2. install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 3. download or copy the content of [customvscode.css](https://github.com/liviuschera/noctis/blob/master/vscodecustom.css)
 4. copy `customvscode.css` in `C:\Users\your-own-username`. As an example this is what I have on my system: `C:\Users\liviuschera\customvscode.css`
@@ -115,7 +115,7 @@ The walkthrough is for Windows. I assume that for Unix and MacOS you would have 
 
 ## Syntax colors
 
-The color names were matched to one of the following main color hues: Red, Yellow, Green, Blue, Brown and Grey using the excelent online tools [Color Name & Hue](http://www.color-blindness.com/color-name-hue/) and [Name that Color](http://chir.ag/projects/name-that-color).
+The color names were matched to one of the following main color hues: Red, Yellow, Green, Blue, Brown and Grey using the excellent online tools [Color Name & Hue](http://www.color-blindness.com/color-name-hue/) and [Name that Color](http://chir.ag/projects/name-that-color).
 
 | Color           | Hue    | Hex Code                                                           | Used for:                                      |
 | --------------- | ------ | ------------------------------------------------------------------ | ---------------------------------------------- |
