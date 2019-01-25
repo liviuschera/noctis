@@ -117,6 +117,8 @@ The walkthrough is for Windows. I assume that for Unix and MacOS you would have 
 
 The color names were matched to one of the following main color hues: Red, Yellow, Green, Blue, Brown and Grey using the excellent online tools [Color Name & Hue](http://www.color-blindness.com/color-name-hue/) and [Name that Color](http://chir.ag/projects/name-that-color).
 
+### Standard Colors
+
 | Color           | Hue    | Hex Code                                                           | Used for:                                      |
 | --------------- | ------ | ------------------------------------------------------------------ | ---------------------------------------------- |
 | Eucalyptus      | Green  | ![#49e9a6](https://placehold.it/15/49e9a6/000000?text=+) `#49e9a6` | Strings                                        |
@@ -131,6 +133,23 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Buddha Gold     | Yellow | ![#cc9900](https://placehold.it/15/cc9900/000000?text=+) `#cc9900` | Attributes, Constants & Type annotations       |
 | Gold Sand       | Yellow | ![#e4b781](https://placehold.it/15/e4b781/000000?text=+) `#e4b781` | Variables & Parameters                         |
 | Desert Sand     | Brown  | ![#edc9af](https://placehold.it/15/edc9af/000000?text=+) `#edc9af` | DOM Objects                                    |
+
+### Minimus Colors
+
+| Color         | Hue    | Hex Code                                                           | Used for:                                      |
+| ------------- | ------ | ------------------------------------------------------------------ | ---------------------------------------------- |
+| Silver Tree   | Green  | ![#70c27f](https://placehold.it/15/70c27f/000000?text=+) `#70c27f` | Strings                                        |
+| Viridian      | Green  | ![#3f8d6c](https://placehold.it/15/3f8d6c/000000?text=+) `#3f8d6c` | Interpolated Strings                           |
+| Hoki          | Blue   | ![#5e7887](https://placehold.it/15/5e7887/000000?text=+) `#5e7887` | Comments                                       |
+| Ming          | Blue   | ![#3f848d](https://placehold.it/15/3f848d/000000?text=+) `#3f848d` | Function Calls                                 |
+| Glacier       | Blue   | ![#72b7c0](https://placehold.it/15/72b7c0/000000?text=+) `#72b7c0` | Method Calls                                   |
+| Fountain Blue | Blue   | ![#5998c0](https://placehold.it/15/5998c0/000000?text=+) `#5998c0` | Code that needs to stand out                   |
+| Chetwode Blue | Blue   | ![#7068B1](https://placehold.it/15/7068B1/000000?text=+) `#7068B1` | Numbers & Booleans                             |
+| Viola         | Red    | ![#c88da2](https://placehold.it/15/c88da2/000000?text=+) `#c88da2` | Keywords & Operators                           |
+| Burning Sand  | Orange | ![#d18161](https://placehold.it/15/d18161/000000?text=+) `#d18161` | Function & Variable Declaration, Tags & `this` |
+| Husk          | Yellow | ![#b3994d](https://placehold.it/15/b3994d/000000?text=+) `#b3994d` | Attributes, Constants & Type annotations       |
+| Tan           | Brown  | ![#d3b692](https://placehold.it/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                         |
+| Dust Storm    | Orange | ![#e1cbbc](https://placehold.it/15/e1cbbc/000000?text=+) `#e1cbbc` | DOM Objects                                    |
 
 ## Installation
 
