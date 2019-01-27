@@ -1,5 +1,9 @@
 <div align="center">
 
+## Noctis Minimus &larr; **NEW**
+
+### MINIMUS SCREENSHOT NEEDED
+
 ## Noctis Viola &larr; **NEW**
 
 ![Noctis Viola Screenshot](images/noctisViola.png)
@@ -22,7 +26,7 @@
 
 </div>
 
-Noctis is a colection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
+Noctis is a collection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
 
 The theme is designed to:
 
@@ -31,7 +35,7 @@ The theme is designed to:
 
 Noctis comes in six versions. Five are dark and one is light.
 
-The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very saturated very dark cold bluish cyan, **Noctis Azureus'** is a very saturated very dark cold azure **Noctis Uva's** is a unsaturated dark cold blue.<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.<br>
+The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very saturated very dark cold bluish cyan, **Noctis Azureus'** is a very saturated very dark cold azure **Noctis Uva's** is a unsaturated dark cold blue. For those with more spartan taste, **Noctis Minimus** offers a version of the **Azureus** palette with much lower saturation.<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.<br>
 
 **Noctis Viola's** background is a saturated very dark cold violet.<br> Like blue, violet is a calming color that can help to make wise and thoughtful decisions and encourages creative pursuits.
 
@@ -76,7 +80,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  **Other**
    -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
 
-I plan on adding support for new languages in the upcomming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
+I plan on adding support for new languages in the upcoming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 
 ## **The Font** used in the screenshots
 
@@ -87,7 +91,7 @@ I think there is a beautiful synergy between the two fonts and they intertwine n
 
 The walkthrough is for Windows. I assume that for Unix and MacOS you would have to change only the path.
 
-1. IMPORTANT: _Run as aministrator_ VS Code
+1. IMPORTANT: _Run as administrator_ VS Code
 2. install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 3. download or copy the content of [customvscode.css](https://github.com/liviuschera/noctis/blob/master/vscodecustom.css)
 4. copy `customvscode.css` in `C:\Users\your-own-username`. As an example this is what I have on my system: `C:\Users\liviuschera\customvscode.css`
@@ -111,7 +115,9 @@ The walkthrough is for Windows. I assume that for Unix and MacOS you would have 
 
 ## Syntax colors
 
-The color names were matched to one of the following main color hues: Red, Yellow, Green, Blue, Brown and Grey using the excelent online tools [Color Name & Hue](http://www.color-blindness.com/color-name-hue/) and [Name that Color](http://chir.ag/projects/name-that-color).
+The color names were matched to one of the following main color hues: Red, Yellow, Green, Blue, Brown and Grey using the excellent online tools [Color Name & Hue](http://www.color-blindness.com/color-name-hue/) and [Name that Color](http://chir.ag/projects/name-that-color).
+
+### Standard Colors
 
 | Color           | Hue    | Hex Code                                                           | Used for:                                      |
 | --------------- | ------ | ------------------------------------------------------------------ | ---------------------------------------------- |
@@ -127,6 +133,23 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Buddha Gold     | Yellow | ![#cc9900](https://placehold.it/15/cc9900/000000?text=+) `#cc9900` | Attributes, Constants & Type annotations       |
 | Gold Sand       | Yellow | ![#e4b781](https://placehold.it/15/e4b781/000000?text=+) `#e4b781` | Variables & Parameters                         |
 | Desert Sand     | Brown  | ![#edc9af](https://placehold.it/15/edc9af/000000?text=+) `#edc9af` | DOM Objects                                    |
+
+### Minimus Colors
+
+| Color         | Hue    | Hex Code                                                           | Used for:                                      |
+| ------------- | ------ | ------------------------------------------------------------------ | ---------------------------------------------- |
+| Silver Tree   | Green  | ![#70c27f](https://placehold.it/15/70c27f/000000?text=+) `#70c27f` | Strings                                        |
+| Viridian      | Green  | ![#3f8d6c](https://placehold.it/15/3f8d6c/000000?text=+) `#3f8d6c` | Interpolated Strings                           |
+| Hoki          | Blue   | ![#5e7887](https://placehold.it/15/5e7887/000000?text=+) `#5e7887` | Comments                                       |
+| Ming          | Blue   | ![#3f848d](https://placehold.it/15/3f848d/000000?text=+) `#3f848d` | Function Calls                                 |
+| Glacier       | Blue   | ![#72b7c0](https://placehold.it/15/72b7c0/000000?text=+) `#72b7c0` | Method Calls                                   |
+| Fountain Blue | Blue   | ![#5998c0](https://placehold.it/15/5998c0/000000?text=+) `#5998c0` | Code that needs to stand out                   |
+| Chetwode Blue | Blue   | ![#7068B1](https://placehold.it/15/7068B1/000000?text=+) `#7068B1` | Numbers & Booleans                             |
+| Viola         | Red    | ![#c88da2](https://placehold.it/15/c88da2/000000?text=+) `#c88da2` | Keywords & Operators                           |
+| Burning Sand  | Orange | ![#d18161](https://placehold.it/15/d18161/000000?text=+) `#d18161` | Function & Variable Declaration, Tags & `this` |
+| Husk          | Yellow | ![#b3994d](https://placehold.it/15/b3994d/000000?text=+) `#b3994d` | Attributes, Constants & Type annotations       |
+| Tan           | Brown  | ![#d3b692](https://placehold.it/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                         |
+| Dust Storm    | Orange | ![#e1cbbc](https://placehold.it/15/e1cbbc/000000?text=+) `#e1cbbc` | DOM Objects                                    |
 
 ## Installation
 
