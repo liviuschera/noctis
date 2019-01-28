@@ -1,5 +1,9 @@
 # Change Log
 
+## **6.0.0**
+
+-  **NEW** theme variant &rarr; **_Noctis Minimus_** (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
+
 ## **5.0.0**
 
 -  introducing **_Noctis Viola_**
@@ -26,7 +30,7 @@
 
 ## **4.19.1**
 
--  keyword `function` &rarr; is using now normal font style (was italic before). It will affect: PHP, JavaScript and derivates.
+-  keyword `function` &rarr; is using now normal font style (was italic before). It will affect: PHP, JavaScript and derivatives.
 
 ## **4.19.0**
 
@@ -96,7 +100,7 @@
 ## **4.6.0**
 
 -  Noctis Uva &rarr; adjusted color of `editorCodeLens.foreground`
--  removed unnecesary code from all themes
+-  removed unnecessary code from all themes
 
 ## **4.5.0**
 
@@ -122,7 +126,7 @@
 ## **4.0.0**
 
 -  **NEW** theme variant &rarr; **_Noctis Uva_**
--  changed galery banner color to the new theme background
+-  changed gallery banner color to the new theme background
 -  updated README with the screenshot for the new theme
 
 ## **3.28.0**
@@ -145,7 +149,7 @@
 
 ## **3.26.0**
 
--  dark themes &rarr; adjusted editor hint color and git modified resoureces color
+-  dark themes &rarr; adjusted editor hint color and git modified resources color
 
 ## **3.25.0**
 
@@ -175,7 +179,7 @@
 
 ## **3.19.2**
 
--  **JavaScript** &rarr; partial fix for DOM properties higlighting [#4](https://github.com/liviuschera/noctis/issues/4)
+-  **JavaScript** &rarr; partial fix for DOM properties highlighting [#4](https://github.com/liviuschera/noctis/issues/4)
 
 ## **3.19.1**
 
@@ -469,7 +473,7 @@
 
 ## **2.4.0**
 
--  Added theme colors for the breadcrumbs and for the new edditor Settings
+-  Added theme colors for the breadcrumbs and for the new editor Settings
 
 ## **2.3.2**
 
@@ -486,11 +490,11 @@
 
 ## **2.2.4**
 
--  **PHP** &rarr; improved type declarations higligting
+-  **PHP** &rarr; improved type declarations highlighting
 
 ## **2.2.3**
 
--  **Java** &rarr; fixed wildcard and elipsis higligting
+-  **Java** &rarr; fixed wildcard and ellipsis highlighting
 
 ## **2.2.2**
 
@@ -713,8 +717,8 @@
 
 ## **0.2.0**
 
--  Adjustmented terminal colors.
--  Adjustmented Noctis Lux(light) variable and attribute colors.
+-  Adjusted terminal colors.
+-  Adjusted Noctis Lux(light) variable and attribute colors.
 
 ## **0.1.0**
 

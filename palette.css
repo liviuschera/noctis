@@ -1,9 +1,17 @@
 * {
    /* Dark Syntax Colors */
+   /* comments */
    color: #5b858b;
+   color: #507b95;
+   color: #716c93;
+   color: #7f659a;
+   /* comments  */
+   /* default text  */
    color: #b2cacd;
    color: #becfda;
-   color: #507b95;
+   color: #c5c2d6;
+   color: #ccbfd9;
+   /* default text  */
    color: #df769b;
    color: #edc9af;
    color: #e4b781;
@@ -16,17 +24,34 @@
    color: #49d6e9;
    color: #49ace9;
 
+   /* Minimus Syntax Colors */
+   color: #667c7f;
+   color: #b8c5c6;
+   color: #c5cdd3;
+   color: #5e7887;
+   color: #c88da2;
+   color: #e1cbbc;
+   color: #d3b692;
+   color: #b3994d;
+   color: #d18161;
+   color: #70c27f;
+   color: #3f8d6c;
+   color: #7068b1;
+   color: #3f848d;
+   color: #72b7c0;
+   color: #5998c0;
+
    /* Light Syntax Colors */
-   color: #8db4b4;
-   color: #18393e;
+   color: #8ca6a6;
+   color: #004d57;
    color: #ff5792;
    color: #5842ff;
-   color: #e67e00;
-   color: #a36538;
-   color: #bd8a00;
-   color: #e64100;
-   color: #00bd23;
-   color: #00991c;
+   color: #ee962b;
+   color: #a86615;
+   color: #b38600;
+   color: #d13b00;
+   color: #00b368;
+   color: #009456;
    color: #0095a8;
    color: #00bdd6;
    color: #0094f0;

@@ -1,75 +1,80 @@
 {
-   "name": "noctis",
-   "displayName": "Noctis",
-   "description": "Noctis is a colection of light & dark themes with a well balanced blend of warm and cold colors",
-   "version": "5.0.3",
-   "publisher": "liviuschera",
-   "icon": "images/logo.png",
-   "engines": {
-      "vscode": "^1.29.0"
-   },
-   "galleryBanner": {
-      "color": "#2e1e3e",
-      "theme": "dark"
-   },
-   "repository": {
-      "type": "git",
-      "url": "https://github.com/liviuschera/noctis"
-   },
-   "categories": [
-      "Themes",
-      "Other"
-   ],
-   "keywords": [
-      "noctis",
-      "blue",
-      "italic",
-      "bold",
-      "semantic"
-   ],
-   "contributes": {
-      "themes": [
-         {
-            "label": "Noctis Lux",
-            "uiTheme": "vs",
-            "path": "./themes/NoctisLux.json"
-         },
-         {
-            "label": "Noctis",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Noctis.json"
-         },
-         {
-            "label": "Noctis Azureus",
-            "uiTheme": "vs-dark",
-            "path": "./themes/NoctisAzureus.json"
-         },
-         {
-            "label": "Noctis Obscuro",
-            "uiTheme": "vs-dark",
-            "path": "./themes/NoctisObscuro.json"
-         },
-         {
-            "label": "Noctis Sereno",
-            "uiTheme": "vs-dark",
-            "path": "./themes/NoctisSereno.json"
-         },
-         {
-            "label": "Noctis Uva",
-            "uiTheme": "vs-dark",
-            "path": "./themes/NoctisUva.json"
-         },
-         {
-            "label": "Noctis Viola",
-            "uiTheme": "vs-dark",
-            "path": "./themes/NoctisViola.json"
-         }
-      ]
-   },
-   "dependencies": {},
-   "__metadata": {
-      "id": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813",
-      "publisherId": "676e5383-8870-48a9-80bb-67ae23e9228c",
-      "publisherDisplayName": "Liviu Schera"
-   }
+  "name": "noctis",
+  "displayName": "Noctis",
+  "description": "Noctis is a colection of light & dark themes with a well balanced blend of warm and cold colors",
+  "version": "6.0.0",
+  "publisher": "liviuschera",
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "galleryBanner": {
+    "color": "#2e1e3e",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liviuschera/noctis"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "noctis",
+    "blue",
+    "italic",
+    "bold",
+    "semantic"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noctis Lux",
+        "uiTheme": "vs",
+        "path": "./themes/NoctisLux.json"
+      },
+      {
+        "label": "Noctis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noctis.json"
+      },
+      {
+        "label": "Noctis Azureus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NoctisAzureus.json"
+      },
+      {
+        "label": "Noctis Obscuro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NoctisObscuro.json"
+      },
+      {
+        "label": "Noctis Sereno",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NoctisSereno.json"
+      },
+      {
+        "label": "Noctis Uva",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NoctisUva.json"
+      },
+      {
+        "label": "Noctis Viola",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NoctisViola.json"
+      },
+      {
+        "label": "Noctis Minimus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NoctisMinimus.json"
+      }
+    ]
+  },
+  "dependencies": {},
+  "__metadata": {
+    "id": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813",
+    "publisherId": "676e5383-8870-48a9-80bb-67ae23e9228c",
+    "publisherDisplayName": "Liviu Schera"
+  }
 }
