@@ -161,7 +161,7 @@ The color names were matched to one of the following main color hues: Red, Yello
 | ---------------- | ------ | ------------------------------------------------------------------ | ---------------------------------------------- |
 | Jade             | Green  | ![#00b368](https://placehold.it/15/00b368/000000?text=+) `#00b368` | Strings                                        |
 | Green Haze       | Green  | ![#009456](https://placehold.it/15/009456/000000?text=+) `#009456` | Interpolated Strings                           |
-| Sherpa Blue      | Blue   | ![#004d57](https://placehold.it/15/004d57/000000?text=+) `#004d57` | Comments                                       |
+| Cascade          | Green  | ![#8ca6a6](https://placehold.it/15/8ca6a6/000000?text=+) `#8ca6a6` | Comments                                       |
 | Bondi Blue       | Blue   | ![#0095a8](https://placehold.it/15/0095a8/000000?text=+) `#0095a8` | Function Calls                                 |
 | Robin's Egg Blue | Blue   | ![#00bdd6](https://placehold.it/15/00bdd6/000000?text=+) `#00bdd6` | Method Calls                                   |
 | Azure Radiance   | Blue   | ![#0094f0](https://placehold.it/15/0094f0/000000?text=+) `#0094f0` | Code that needs to stand out                   |

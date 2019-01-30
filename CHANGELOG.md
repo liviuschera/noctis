@@ -1,5 +1,9 @@
 # Change Log
 
+## **7.0.1**
+
+-  fixed **JSDoc**
+
 ## **6.0.0**
 
 -  **NEW** theme variant &rarr; **_Noctis Minimus_** (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))

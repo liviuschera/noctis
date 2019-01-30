@@ -604,6 +604,7 @@
             "source.scala keyword.declaration",
             "storage.type",
             "comment.block.documentation punctuation.definition.block.tag",
+            "comment.block.documentation punctuation.definition.inline.tag",
             "entity.tag.apacheconf",
             "keyword.other.julia",
             "source.julia storage.modifier",
