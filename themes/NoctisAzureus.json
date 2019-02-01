@@ -53,10 +53,10 @@
       "statusBar.noFolderForeground": "#879dab",
       "statusBar.noFolderBackground": "#07273b",
       "statusBar.noFolderBorder": "#07273b",
-      "statusBarItem.activeBackground": "#007ecc55",
-      "statusBarItem.hoverBackground": "#002f4d",
-      "statusBarItem.prominentBackground": "#07273b",
-      "statusBarItem.prominentHoverBackground": "#0c3f5f",
+      "statusBarItem.activeBackground": "#007ecc59",
+      "statusBarItem.hoverBackground": "#0a3652",
+      "statusBarItem.prominentBackground": "#051e2e",
+      "statusBarItem.prominentHoverBackground": "#002f4d",
       // ---------------------------
       // Button
       // ---------------------------

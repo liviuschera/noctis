@@ -1,5 +1,9 @@
 # Change Log
 
+## **7.1.0**
+
+-  improvements &rarr; status bar (all variants)
+
 ## **7.0.1**
 
 -  fixed **JSDoc**
