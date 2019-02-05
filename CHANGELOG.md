@@ -1,5 +1,9 @@
 # Change Log
 
+## **7.2.0**
+
+-  adding contributors section in README
+
 ## **7.1.0**
 
 -  improvements &rarr; status bar (all variants)

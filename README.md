@@ -1,12 +1,12 @@
 <div align="center">
 
-## Noctis Minimus &larr; **NEW**
-
-![Noctis Minimus Screenshot](images/noctisMinimus.png)
-
 ## Noctis Viola &larr; **NEW**
 
 ![Noctis Viola Screenshot](images/noctisViola.png)
+
+## Noctis Minimus &larr; **NEW**
+
+![Noctis Minimus Screenshot](images/noctisMinimus.png)
 
 ## Noctis Uva
 
@@ -175,6 +175,12 @@ The color names were matched to one of the following main color hues: Red, Yello
 ## Installation
 
 Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ + X on Mac and then searching for "Noctis".
+
+## Contributors
+
+| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) |
+| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+|                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 |
 
 ## Credits
 
