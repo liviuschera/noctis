@@ -320,6 +320,9 @@
       "list.inactiveSelectionForeground": "#ccbfd9",
       "list.errorForeground": "#e34e1c",
       "list.warningForeground": "#ffa857",
+      "listFilterWidget.background": "#302040",
+      "listFilterWidget.outline": "#49e9a6",
+      "listFilterWidget.noMatchesOutline": "#e34e1c",
       // ---------------------------
       // Settings Editor Colors
       // ---------------------------

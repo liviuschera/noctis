@@ -322,6 +322,9 @@
       "list.inactiveSelectionForeground": "#b2cacd",
       "list.errorForeground": "#e34e1c",
       "list.warningForeground": "#ffa487",
+      "listFilterWidget.background": "#00404d",
+      "listFilterWidget.outline": "#49e9a6",
+      "listFilterWidget.noMatchesOutline": "#e34e1c",
       // ---------------------------
       // Settings Editor Colors
       // ---------------------------

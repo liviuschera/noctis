@@ -1,8 +1,13 @@
 # Change Log
 
+## **7.3.0**
+
+-  added the new list widget colors introduced in v1.31
+-  bumped the min version requirement to 1.31
+
 ## **7.2.0**
 
--  adding contributors section in README
+-  added contributors section in README
 
 ## **7.1.0**
 
