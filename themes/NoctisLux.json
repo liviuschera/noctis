@@ -399,8 +399,6 @@
       },
       {
          "scope": [
-            "punctuation",
-            "meta.brace",
             "constant.character",
             "constant.escape",
             "text.html.markdown",
@@ -413,7 +411,10 @@
             "keyword.operator.other.powershell",
             "meta.link.inline punctuation.definition.string",
             "source.sql",
-            "constant.other.database-name"
+            "constant.other.database-name",
+            "source meta.brace",
+            "source punctuation",
+            "text.html punctuation"
          ],
          "settings": {
             "foreground": "#004d57"
@@ -511,14 +512,7 @@
       },
       {
          "scope": [
-            "support.variable.dom",
-            "meta.var.expr support.variable.property.dom",
-            "meta.function.expression support.variable.property.dom",
-            "meta.function-call support.variable.property.dom",
-            "switch-expression.expr support.variable.property.dom",
-            "meta.field.declaration support.variable.property.dom",
-            "meta.method.declaration meta.block meta.block support.variable.property.dom",
-            "meta.embedded.expression support.variable.property.dom",
+            "support.variable.property",
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "source.ruby variable.other.readwrite",
@@ -779,7 +773,6 @@
             "keyword.other.this.cs",
             "keyword.other.base.cs",
             "meta.type.annotation entity.name.type",
-            "support.variable.property.dom",
             "variable.other.member.c",
             "keyword.control.pseudo-method.ruby",
             "storage.class.std.rust",

@@ -1,5 +1,12 @@
 # Change Log
 
+## **7.4.0**
+
+-  as of VS Code v1.31 the syntax highlighting for DOM api have been removed. Desert Sand color will be used to highlight Object properties in JavaScript and ID selectors in CSS.
+-  removed DOM related syntax highlighting
+-  fixed punctuation highlighting
+-  updated screenshots
+
 ## **7.3.0**
 
 -  added the new list widget colors introduced in v1.31

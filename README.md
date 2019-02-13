@@ -136,7 +136,7 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Cinnabar        | Orange | ![#e66533](https://placehold.it/15/e66533/000000?text=+) `#e66533` | Function & Variable Declaration, Tags & `this` |
 | Buddha Gold     | Yellow | ![#cc9900](https://placehold.it/15/cc9900/000000?text=+) `#cc9900` | Attributes, Constants & Type annotations       |
 | Gold Sand       | Yellow | ![#e4b781](https://placehold.it/15/e4b781/000000?text=+) `#e4b781` | Variables & Parameters                         |
-| Desert Sand     | Brown  | ![#edc9af](https://placehold.it/15/edc9af/000000?text=+) `#edc9af` | DOM Objects                                    |
+| Desert Sand     | Brown  | ![#edc9af](https://placehold.it/15/edc9af/000000?text=+) `#edc9af` | Object properties, ID selectors in CSS         |
 
 ### Minimus Colors
 
@@ -153,7 +153,7 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Burning Sand  | Orange | ![#d18161](https://placehold.it/15/d18161/000000?text=+) `#d18161` | Function & Variable Declaration, Tags & `this` |
 | Husk          | Yellow | ![#b3994d](https://placehold.it/15/b3994d/000000?text=+) `#b3994d` | Attributes, Constants & Type annotations       |
 | Tan           | Brown  | ![#d3b692](https://placehold.it/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                         |
-| Dust Storm    | Orange | ![#e1cbbc](https://placehold.it/15/e1cbbc/000000?text=+) `#e1cbbc` | DOM Objects                                    |
+| Dust Storm    | Orange | ![#e1cbbc](https://placehold.it/15/e1cbbc/000000?text=+) `#e1cbbc` | Object properties, ID selectors in CSS         |
 
 ### Lux Colors
 
@@ -170,7 +170,7 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Grenadier        | Orange | ![#d13b00](https://placehold.it/15/d13b00/000000?text=+) `#d13b00` | Function & Variable Declaration, Tags & `this` |
 | Pirate Gold      | Yellow | ![#b38600](https://placehold.it/15/b38600/000000?text=+) `#b38600` | Attributes, Constants & Type annotations       |
 | Carrot Orange    | Orange | ![#ee962b](https://placehold.it/15/ee962b/000000?text=+) `#ee962b` | Variables & Parameters                         |
-| Reno Sand        | Brown  | ![#a86615](https://placehold.it/15/a86615/000000?text=+) `#a86615` | DOM Objects                                    |
+| Reno Sand        | Brown  | ![#a86615](https://placehold.it/15/a86615/000000?text=+) `#a86615` | Object properties, ID selectors in CSS         |
 
 ## Installation
 

@@ -24,8 +24,9 @@
       }
       var John = new Person("John", true);
       class Someone extends Person {}
-      console.log(Someone, John.about(), BROWSER);
+      console.log(John.about().length, BROWSER);
 
 
 
+      console.log(Someone);
       let a = () => {};
