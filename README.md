@@ -2,27 +2,27 @@
 
 ## Noctis Viola &larr; **NEW**
 
-![Noctis Viola Screenshot](images/noctisViola.png)
+![Noctis Viola Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisViola.png)
 
 ## Noctis Minimus &larr; **NEW**
 
-![Noctis Minimus Screenshot](images/noctisMinimus.png)
+![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](images/NoctisUva.png)
+![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
 
 ## Noctis
 
-![Noctis Screenshot](images/noctis.png)
+![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](images/noctisAzureus.png)
+![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
 
 ## Noctis Lux
 
-![Noctis Lux Screenshot](images/noctisLux.png)
+![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
 
 </div>
 
@@ -48,6 +48,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  C#
 -  Clojure
 -  CoffeeScript
+-  Crystal (requires [Crystal Language](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang) extension) &larr; **NEW**
 -  CSS
    -  Sass/SCSS
 -  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
@@ -75,7 +76,7 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  Ruby
 -  Rust
 -  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
--  SQL &larr; **NEW**
+-  SQL
 -  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
 -  Visual Basic
 -  **Other**

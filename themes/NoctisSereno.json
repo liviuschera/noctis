@@ -462,7 +462,8 @@
             "punctuation.separator.hash.cs",
             "variable.parameter.rest.lua",
             "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
-            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css"
+            "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
+            "punctuation.separator.method.crystal"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -505,7 +506,8 @@
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
             "string.quoted.interpolated.vala constant.character.escape.vala",
             "source.apacheconf",
-            "source.objc"
+            "source.objc",
+            "source.crystal"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -567,7 +569,8 @@
             "support.type.julia",
             "entity.helper.apacheconf",
             "source.vala storage.type",
-            "source.haskell storage.type"
+            "source.haskell storage.type",
+            "punctuation.definition.constant.crystal"
          ],
          "settings": {
             "foreground": "#cc9900"
@@ -617,8 +620,8 @@
       {
          "scope": [
             "string",
-            "constant.other.symbol",
-            "constant.other.key",
+            // "constant.other.symbol",
+            // "constant.other.key",
             "markup.inserted.git_gutter",
             "punctuation.definition.string",
             "source.css support.constant",
@@ -639,7 +642,9 @@
             "string.quoted.interpolated.vala punctuation.definition.string",
             "string.regexp.apacheconf",
             "markup.inline.raw.string",
-            "markup.inline.raw punctuation.definition.raw"
+            "markup.inline.raw punctuation.definition.raw",
+            "string.quoted.double.interpolated.crystal",
+            "string.quoted.double.interpolated.crystal punctuation.definition.string"
          ],
          "settings": {
             "foreground": "#16b673"
@@ -742,7 +747,10 @@
             "string.replacement.apacheconf",
             "storage.modifier.using.vala",
             "constant.other.haskell",
-            "source.objc entity.name.tag"
+            "source.objc entity.name.tag",
+            "string.quoted.other.literal.upper.crystal punctuation.definition.string",
+            "meta.embedded.line.crystal punctuation.section.embedded",
+            "meta.embedded.line.crystal punctuation.section.embedded source.crystal",
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -801,7 +809,8 @@
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
             "source.vala storage.type.generic",
-            "source.objc storage.type.c"
+            "source.objc storage.type.c",
+            "variable.other.crystal"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -845,7 +854,7 @@
             "punctuation.separator.hash.cs",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-            "meta.function.parameters variable.other"
+            "meta.function.parameters variable.other",
          ],
          "settings": {
             "fontStyle": "bold"
