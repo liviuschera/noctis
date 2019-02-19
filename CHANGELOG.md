@@ -1,5 +1,10 @@
 # Change Log
 
+## **7.5.1**
+
+-  fixed color names in README
+-  removed `pallete.css`
+
 ## **7.5.0**
 
 -  **Crystal** &rarr; added support (requires [Crystal Language](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang) extension)

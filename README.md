@@ -131,7 +131,7 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Trendy Pink     | Violet | ![#7f659a](https://placehold.it/15/7f659a/000000?text=+) `#7f659a` | Comments for _Viola_ variant                   |
 | Eastern Blue    | Blue   | ![#16a3b6](https://placehold.it/15/16a3b6/000000?text=+) `#16a3b6` | Function Calls                                 |
 | Turcoise        | Blue   | ![#49d6e9](https://placehold.it/15/49d6e9/000000?text=+) `#49d6e9` | Method Calls                                   |
-| Dodger Blue     | Blue   | ![#33b1ff](https://placehold.it/15/33b1ff/000000?text=+) `#33b1ff` | Code that needs to stand out                   |
+| Picton Blue     | Blue   | ![#49ace9](https://placehold.it/15/49ace9/000000?text=+) `#49ace9` | Code that needs to stand out                   |
 | Cornflower Blue | Blue   | ![#7060eb](https://placehold.it/15/7060eb/000000?text=+) `#7060eb` | Numbers & Booleans                             |
 | Pale Violet Red | Red    | ![#df769b](https://placehold.it/15/df769b/000000?text=+) `#df769b` | Keywords & Operators                           |
 | Cinnabar        | Orange | ![#e66533](https://placehold.it/15/e66533/000000?text=+) `#e66533` | Function & Variable Declaration, Tags & `this` |
@@ -151,7 +151,7 @@ The color names were matched to one of the following main color hues: Red, Yello
 | Fountain Blue | Blue   | ![#5998c0](https://placehold.it/15/5998c0/000000?text=+) `#5998c0` | Code that needs to stand out                   |
 | Chetwode Blue | Blue   | ![#7068B1](https://placehold.it/15/7068B1/000000?text=+) `#7068B1` | Numbers & Booleans                             |
 | Viola         | Red    | ![#c88da2](https://placehold.it/15/c88da2/000000?text=+) `#c88da2` | Keywords & Operators                           |
-| Burning Sand  | Orange | ![#d18161](https://placehold.it/15/d18161/000000?text=+) `#d18161` | Function & Variable Declaration, Tags & `this` |
+| Antique Brass | Orange | ![#c37455](https://placehold.it/15/c37455/000000?text=+) `#c37455` | Function & Variable Declaration, Tags & `this` |
 | Husk          | Yellow | ![#b3994d](https://placehold.it/15/b3994d/000000?text=+) `#b3994d` | Attributes, Constants & Type annotations       |
 | Tan           | Brown  | ![#d3b692](https://placehold.it/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                         |
 | Dust Storm    | Orange | ![#e1cbbc](https://placehold.it/15/e1cbbc/000000?text=+) `#e1cbbc` | Object properties, ID selectors in CSS         |
