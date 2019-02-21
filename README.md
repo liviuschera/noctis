@@ -185,4 +185,4 @@ Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ 
 
 ## Credits
 
-This theme was inspired by the themes VS Dark+, Solarized, Vue, Cobalt2, One Dark, Dracula, Pure Syntax and many others.
+This theme was inspired by the themes [VS Dark+](https://marketplace.visualstudio.com/items?itemName=dunstontc.dark-plus-syntax), [Solarized](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-better-solarized-dark-theme), [Vue](https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme), [Cobalt2](https://github.com/wesbos/cobalt2-vscode), [One Dark](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme), [Dracula](https://draculatheme.com/visual-studio-code/), [Pure Code](https://marketplace.visualstudio.com/items?itemName=liviuschera.pure-code) and many others.
