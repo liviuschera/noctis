@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="100" height="100" align="center" src="./images/logo.png" />
+   <img width="100" height="100" align="center" src="images/logo.png" />
 </p>
 
 Noctis is a collection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
