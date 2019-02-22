@@ -1,5 +1,12 @@
 # Change Log
 
+## **7.6.0**
+
+-  moved screenshots below introduction [#12](https://github.com/liviuschera/noctis/pull/12)
+-  add links to credits [#13](https://github.com/liviuschera/noctis/pull/13)
+-  add logo to README [#14](https://github.com/liviuschera/noctis/pull/14)
+-  fix contribution links
+
 ## **7.5.1**
 
 -  fixed color names in README

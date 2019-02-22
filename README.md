@@ -45,8 +45,6 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 
 </div>
 
-
-
 ## Supported Languages
 
 -  C/C++
@@ -184,10 +182,10 @@ Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ 
 
 ## Contributors
 
-| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-|                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 |
+| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) | [![Will Hoskings](https://avatars3.githubusercontent.com/u/43454318?s=85&v=4)](https://github.com/def14nt) |
+| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 |                                [Will Hoskings](https://github.com/def14nt)                                 |
 
 ## Credits
 
-This theme was inspired by the themes [VS Dark+](https://marketplace.visualstudio.com/items?itemName=dunstontc.dark-plus-syntax), [Solarized](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-better-solarized-dark-theme), [Vue](https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme), [Cobalt2](https://github.com/wesbos/cobalt2-vscode), [One Dark](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme), [Dracula](https://draculatheme.com/visual-studio-code/), [Pure Code](https://marketplace.visualstudio.com/items?itemName=liviuschera.pure-code) and many others.
+This theme was inspired by the themes [VS Dark](https://github.com/Microsoft/vscode/tree/master/extensions/theme-defaults/themes), [Solarized](https://ethanschoonover.com/solarized/), [Vue](https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme), [Cobalt2](https://github.com/wesbos/cobalt2-vscode), [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax), [Dracula](https://draculatheme.com/visual-studio-code/), [Pure Syntax](https://atom.io/packages/pure-syntax) and many others.
