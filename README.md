@@ -1,10 +1,6 @@
-<br>
-<div style="height: 100px; width:100px; margin: 0 auto">
-
-![Logo](images/logo.png)
-
-</div>
-<br>
+<p align="center">
+   <img width="100" height="100" align="center" src="https://github.com/liviuschera/noctis/blob/master/images/logo.png" />
+</p>
 
 Noctis is a collection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
 
@@ -21,7 +17,7 @@ The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very s
 
 The **Noctis Lux** light theme's background is a very saturated very light warm orange.<br>Orange can increase oxygen supply to the brain to produce an invigorating effect.
 
-<div style="margin: 0 auto;">
+<div align="center">
 
 ## Noctis Viola &larr; **NEW**
 
