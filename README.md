@@ -2,6 +2,21 @@
    <img width="100" height="100" align="center" src="./images/logo.png" />
 </p>
 
+Noctis is a collection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
+
+The theme is designed to:
+
+-  be easy on the eyes thus reducing the eye strain
+-  give semantic meaning to theme's colors
+
+Noctis comes in six versions. Five are dark and one is light.
+The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very saturated very dark cold bluish cyan, **Noctis Azureus'** is a very saturated very dark cold azure **Noctis Uva's** is a unsaturated dark cold blue. For those with more spartan taste, **Noctis Minimus** offers a version of the **Azureus** palette with _much lower saturation_. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
+<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.<br>
+
+**Noctis Viola's** background is a saturated very dark cold violet.<br> Like blue, violet is a calming color that can help to make wise and thoughtful decisions and encourages creative pursuits.
+
+The **Noctis Lux** light theme's background is a very saturated very light warm orange.<br>Orange can increase oxygen supply to the brain to produce an invigorating effect.
+
 <div align="center">
 
 ## Noctis Viola &larr; **NEW**
@@ -30,21 +45,7 @@
 
 </div>
 
-Noctis is a collection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
 
-The theme is designed to:
-
--  be easy on the eyes thus reducing the eye strain
--  give semantic meaning to theme's colors
-
-Noctis comes in six versions. Five are dark and one is light.
-
-The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very saturated very dark cold bluish cyan, **Noctis Azureus'** is a very saturated very dark cold azure **Noctis Uva's** is a unsaturated dark cold blue. For those with more spartan taste, **Noctis Minimus** offers a version of the **Azureus** palette with _much lower saturation_. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
-<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.<br>
-
-**Noctis Viola's** background is a saturated very dark cold violet.<br> Like blue, violet is a calming color that can help to make wise and thoughtful decisions and encourages creative pursuits.
-
-The **Noctis Lux** light theme's background is a very saturated very light warm orange.<br>Orange can increase oxygen supply to the brain to produce an invigorating effect.
 
 ## Supported Languages
 
