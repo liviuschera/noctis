@@ -1,5 +1,9 @@
 # Change Log
 
+## **7.6.5**
+
+-  fixed [#14](https://github.com/liviuschera/noctis/pull/14)
+
 ## **7.6.0**
 
 -  moved screenshots below introduction [#12](https://github.com/liviuschera/noctis/pull/12)

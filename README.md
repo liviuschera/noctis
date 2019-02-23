@@ -1,8 +1,11 @@
-<p align="center">
-   <img width="100" height="100" align="center" src="https://github.com/liviuschera/noctis/blob/master/images/logo.png" />
-</p>
+<div align="center">
 
-Noctis is a collection of light & dark themes with a well balanced blend of warm and cold _medium contrast_ colors.
+![Noctis Logo](images/logoSmall.png)
+
+</div>
+<br>
+
+Noctis is a collection of light & dark themes with a well balanced blend of warm and cold **medium contrast** colors.
 
 The theme is designed to:
 
@@ -10,20 +13,20 @@ The theme is designed to:
 -  give semantic meaning to theme's colors
 
 Noctis comes in six versions. Five are dark and one is light.
-The background of **Noctis**, **Noctis Sereno** & **Noctis Obscuro** is a very saturated very dark cold bluish cyan, **Noctis Azureus'** is a very saturated very dark cold azure **Noctis Uva's** is a unsaturated dark cold blue. For those with more spartan taste, **Noctis Minimus** offers a version of the **Azureus** palette with _much lower saturation_. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
+The background of _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ is a very saturated very dark cold bluish cyan, _Noctis Azureus'_ is a very saturated very dark cold azure _Noctis Uva's_ is a unsaturated dark cold blue. For those with more spartan taste, _Noctis Minimus_ offers a version of the _Azureus_ palette with **much lower saturation**. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
 <br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.<br>
 
-**Noctis Viola's** background is a saturated very dark cold violet.<br> Like blue, violet is a calming color that can help to make wise and thoughtful decisions and encourages creative pursuits.
+_Noctis Viola's_ background is a saturated very dark cold violet.<br> Like blue, violet is a calming color that can help to make wise and thoughtful decisions and encourages creative pursuits.
 
-The **Noctis Lux** light theme's background is a very saturated very light warm orange.<br>Orange can increase oxygen supply to the brain to produce an invigorating effect.
+The _Noctis Lux_ light theme's background is a very saturated very light warm orange.<br>Orange can increase oxygen supply to the brain to produce an invigorating effect.
 
 <div align="center">
 
-## Noctis Viola &larr; **NEW**
+## Noctis Viola &larr; \***\*NEW\*\***
 
 ![Noctis Viola Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisViola.png)
 
-## Noctis Minimus &larr; **NEW**
+## Noctis Minimus &larr; \***\*NEW\*\***
 
 ![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
 
@@ -82,12 +85,12 @@ The **Noctis Lux** light theme's background is a very saturated very light warm 
 -  SQL
 -  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
 -  Visual Basic
--  **Other**
+-  _Other_
    -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
 
 I plan on adding support for new languages in the upcoming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 
-## **The Font** used in the screenshots
+## _The Font_ used in the screenshots
 
 The font in the screenshots are actually 2 fonts glued together with [Custom CSS](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css). For normal style I used [Hasklig](https://github.com/i-tu/Hasklig) and for italics [Cartograph Mono CF](http://connary.com/cartograph.html).
 I think there is a beautiful synergy between the two fonts and they intertwine naturally together.
