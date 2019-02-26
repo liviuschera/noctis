@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img width="400" src="images/logotxt.png" />
+   <img width="400" src="https://raw.githubusercontent.com/liviuschera/noctis/master/images/logotxt.png" />
 </p>
 
 Noctis is a collection of light & dark themes with a well balanced blend of warm and cold **medium contrast** colors.
