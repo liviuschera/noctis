@@ -1,5 +1,10 @@
 # Change Log
 
+## **7.7.0**
+
+-  tweaked logo
+-  added text logo
+
 ## **7.6.5**
 
 -  fixed [#14](https://github.com/liviuschera/noctis/pull/14)

@@ -1,9 +1,10 @@
-<div align="center">
+<p align="center">
+   <img width="170" src="https://raw.githubusercontent.com/liviuschera/noctis/master/images/logo.png" />
+</p>
 
-![Noctis Logo](images/logoSmall.png)
-
-</div>
-<br>
+<p align="center">
+   <img width="400" src="images/logotxt.png" />
+</p>
 
 Noctis is a collection of light & dark themes with a well balanced blend of warm and cold **medium contrast** colors.
 
@@ -22,11 +23,11 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
 
 <div align="center">
 
-## Noctis Viola &larr; \***\*NEW\*\***
+## Noctis Viola &larr; **NEW**
 
 ![Noctis Viola Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisViola.png)
 
-## Noctis Minimus &larr; \***\*NEW\*\***
+## Noctis Minimus &larr; **NEW**
 
 ![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
 
