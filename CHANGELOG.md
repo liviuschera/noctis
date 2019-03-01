@@ -1,5 +1,9 @@
 # Change Log
 
+## **7.7.3**
+
+-  changed HTML id attribute to Desert Sand color and made it bold
+
 ## **7.7.0**
 
 -  tweaked logo

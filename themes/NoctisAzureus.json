@@ -521,7 +521,8 @@
             "punctuation.definition.variable.ruby",
             "entity.other.attribute-name.id.css",
             "entity.other.attribute-name.id.css punctuation.definition.entity.css",
-            "constant.other.table-name"
+            "constant.other.table-name",
+            "meta.attribute.id entity.other.attribute-name"
          ],
          "settings": {
             "foreground": "#edc9af"
@@ -749,7 +750,7 @@
             "source.objc entity.name.tag",
             "string.quoted.other.literal.upper.crystal punctuation.definition.string",
             "meta.embedded.line.crystal punctuation.section.embedded",
-            "meta.embedded.line.crystal punctuation.section.embedded source.crystal",
+            "meta.embedded.line.crystal punctuation.section.embedded source.crystal"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -853,7 +854,7 @@
             "punctuation.separator.hash.cs",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-            "meta.function.parameters variable.other",
+            "meta.function.parameters variable.other"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -884,7 +885,8 @@
             "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "keyword.other.special-method.ruby",
             "variable.other.readwrite.global.ruby",
-            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby"
+            "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
+            "meta.attribute.id entity.other.attribute-name"
          ],
          "settings": {
             "fontStyle": "bold italic"
