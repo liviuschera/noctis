@@ -295,6 +295,7 @@
       // ---------------------------
       // Git status colors in File Explorer
       // ---------------------------
+      "gitDecoration.addedResourceForeground": "#16b673",
       "gitDecoration.modifiedResourceForeground": "#49e9a6",
       "gitDecoration.deletedResourceForeground": "#e34e1c",
       "gitDecoration.untrackedResourceForeground": "#40d4e7",
@@ -316,6 +317,7 @@
       "list.highlightForeground": "#bf8ef1",
       "list.hoverBackground": "#6a448d",
       "list.hoverForeground": "#edebff",
+      "list.inactiveFocusBackground": "#362348",
       "list.inactiveSelectionBackground": "#3b264f",
       "list.inactiveSelectionForeground": "#ccbfd9",
       "list.errorForeground": "#e34e1c",

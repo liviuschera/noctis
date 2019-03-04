@@ -1,5 +1,9 @@
 # Change Log
 
+## **7.8.0**
+
+-  added colors for `gitDecoration.addedResourceForeground` and `list.inactiveFocusBackground`
+
 ## **7.7.3**
 
 -  changed HTML id attribute to Desert Sand color and made it bold
