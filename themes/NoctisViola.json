@@ -317,7 +317,7 @@
       "list.highlightForeground": "#bf8ef1",
       "list.hoverBackground": "#6a448d",
       "list.hoverForeground": "#edebff",
-      "list.inactiveFocusBackground": "#362348",
+      "list.inactiveFocusBackground": "#362546",
       "list.inactiveSelectionBackground": "#3b264f",
       "list.inactiveSelectionForeground": "#ccbfd9",
       "list.errorForeground": "#e34e1c",
@@ -555,7 +555,6 @@
             "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "support.variable.lua",
             "support.type.vb",
-            "source.scala entity.name.class",
             "storage.type.c",
             "storage.type.core.rust",
             "storage.type.primitive",
@@ -612,7 +611,8 @@
             "keyword.other.julia",
             "source.julia storage.modifier",
             "constant.language.empty-list.haskell",
-            "punctuation.definition.storage.type.objc"
+            "punctuation.definition.storage.type.objc",
+            "keyword.declaration.scala"
          ],
          "settings": {
             "foreground": "#e66533"
@@ -621,8 +621,6 @@
       {
          "scope": [
             "string",
-            // "constant.other.symbol",
-            // "constant.other.key",
             "markup.inserted.git_gutter",
             "punctuation.definition.string",
             "source.css support.constant",
@@ -751,7 +749,8 @@
             "source.objc entity.name.tag",
             "string.quoted.other.literal.upper.crystal punctuation.definition.string",
             "meta.embedded.line.crystal punctuation.section.embedded",
-            "meta.embedded.line.crystal punctuation.section.embedded source.crystal"
+            "meta.embedded.line.crystal punctuation.section.embedded source.crystal",
+            "source.scala entity.name.class"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -855,7 +854,8 @@
             "punctuation.separator.hash.cs",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-            "meta.function.parameters variable.other"
+            "meta.function.parameters variable.other",
+            "keyword.declaration.scala"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -921,7 +921,8 @@
             "storage.modifier.using.vala",
             "keyword.operator.function.infix.haskell",
             "source.objc keyword.other.property.attribute",
-            "source.sql keyword.other"
+            "source.sql keyword.other",
+            "keyword.other.using.vala"
          ],
          "settings": {
             "fontStyle": ""

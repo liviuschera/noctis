@@ -1,8 +1,13 @@
 # Change Log
 
+## **7.9.0**
+
+-  _Noctis Viola_ &rarr; `list.inactiveFocusBackground` tweaked
+-  **Vala** & **Scala** &rarr; small adjustments
+
 ## **7.8.0**
 
--  added colors for `gitDecoration.addedResourceForeground` and `list.inactiveFocusBackground`
+-  `gitDecoration.addedResourceForeground` and `list.inactiveFocusBackground` &rarr; added colors
 
 ## **7.7.3**
 
