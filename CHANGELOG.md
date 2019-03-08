@@ -1,5 +1,9 @@
 # Change Log
 
+## **7.9.1**
+
+-  fixed contributor link in README
+
 ## **7.9.0**
 
 -  _Noctis Viola_ &rarr; `list.inactiveFocusBackground` tweaked
