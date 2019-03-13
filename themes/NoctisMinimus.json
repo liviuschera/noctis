@@ -464,7 +464,9 @@
             "variable.parameter.rest.lua",
             "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
             "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
-            "punctuation.separator.method.crystal"
+            "punctuation.separator.method.crystal",
+            "source.kotlin storage.type.import",
+            "source.kotlin storage.type.package"
          ],
          "settings": {
             "foreground": "#c88da2"
@@ -508,7 +510,10 @@
             "string.quoted.interpolated.vala constant.character.escape.vala",
             "source.apacheconf",
             "source.objc",
-            "source.crystal"
+            "source.crystal",
+            "string.quoted.double.kotlin entity.string.template.element.kotlin",
+            "entity.name.package.kotlin",
+            "meta.template.expression.kotlin"
          ],
          "settings": {
             "foreground": "#d3b692"
@@ -524,7 +529,7 @@
             "entity.other.attribute-name.id.css",
             "entity.other.attribute-name.id.css punctuation.definition.entity.css",
             "constant.other.table-name",
-            "meta.attribute.id entity.other.attribute-name"
+            "entity.name.type.annotation.kotlin"
          ],
          "settings": {
             "foreground": "#e1cbbc"
@@ -571,7 +576,8 @@
             "entity.helper.apacheconf",
             "source.vala storage.type",
             "source.haskell storage.type",
-            "punctuation.definition.constant.crystal"
+            "punctuation.definition.constant.crystal",
+            "entity.name.type.kotlin"
          ],
          "settings": {
             "foreground": "#b3994d"
@@ -708,7 +714,8 @@
             "support.class.dart",
             "entity.mime-type.apacheconf",
             "keyword.operator.function.infix.haskell",
-            "keyword.operator.function.infix.haskell punctuation.definition.entity.haskell"
+            "keyword.operator.function.infix.haskell punctuation.definition.entity.haskell",
+            "entity.name.function.call.kotlin"
          ],
          "settings": {
             "foreground": "#72b7c0"
@@ -856,7 +863,9 @@
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "meta.function.parameters variable.other",
-            "keyword.declaration.scala"
+            "keyword.declaration.scala",
+            "entity.name.type.annotation.kotlin",
+            "storage.type.function.kotlin"
          ],
          "settings": {
             "fontStyle": "bold"

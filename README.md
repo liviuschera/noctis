@@ -55,7 +55,7 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
 -  C#
 -  Clojure
 -  CoffeeScript
--  Crystal (requires [Crystal Language](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang) extension) &larr; **NEW**
+-  Crystal (requires [Crystal Language](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang) extension)
 -  CSS
    -  Sass/SCSS
 -  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
@@ -72,6 +72,7 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
    -  React/JSX
    -  Typescript/TSX
 -  Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
+-  Kotlin (requires [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) extension) &larr; **NEW**
 -  Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
 -  Markdown
 -  Objective-C
@@ -186,9 +187,9 @@ Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ 
 
 ## Contributors
 
-| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) | [Will Hoskings](https://github.com/def14nt) |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------: |
-|                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 | [Will Hoskings](https://github.com/def14nt) |
+| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) | [Will Hoskings](https://github.com/def0x099) |
+| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------: |
+|                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 | [Will Hoskings](https://github.com/def0x099) |
 
 ## Credits
 

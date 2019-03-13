@@ -1,5 +1,10 @@
 # Change Log
 
+## **7.10.0**
+
+-  **Kotlin** &rarr; added support (requires [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) extension)
+-  updated README
+
 ## **7.9.1**
 
 -  fixed contributor link in README
