@@ -1,5 +1,9 @@
 # Change Log
 
+## **7.10.1**
+
+-  **TypeScript** &rarr; fixed punctuation decorator
+
 ## **7.10.0**
 
 -  **Kotlin** &rarr; added support (requires [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) extension)
