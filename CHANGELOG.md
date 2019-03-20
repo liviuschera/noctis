@@ -1,5 +1,20 @@
 # Change Log
 
+## **7.11.0**
+
+-  _Noctis Lux_
+   -  Carrot Orange `#ee962b` &rarr; Dark Orange
+      `#ff8c00` - changed
+   -  Reno Sand `#a86615` &rarr; Flame Pea
+      `#bf6440` - changed
+   -  Grenadier `#d13b00` &rarr; Tenne `#ff5b1a` - changed
+-  _Noctis Minimus_
+   -  Dust Storm `#e1cbbc` &rarr; Old Rose `#c38e79` - changed
+-  _Rest of the themes_
+   -  Desert Sand `#edc9af` &rarr; Japonica `#d67e5c` - changed
+   -  Buddha Gold `#cc9900` &rarr; Galliano `#d5971a` - changed
+-  **TypeScript** & **Python** &rarr; type annotation are now highlighted with Galliano/Old Rose/Flame Pea and normal font style
+
 ## **7.10.1**
 
 -  **TypeScript** &rarr; fixed punctuation decorator

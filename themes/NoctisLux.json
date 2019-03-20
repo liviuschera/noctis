@@ -516,7 +516,7 @@
             "meta.template.expression.kotlin"
          ],
          "settings": {
-            "foreground": "#ee962b"
+            "foreground": "#ff8c00"
          }
       },
       {
@@ -529,10 +529,15 @@
             "entity.other.attribute-name.id.css",
             "entity.other.attribute-name.id.css punctuation.definition.entity.css",
             "constant.other.table-name",
-            "entity.name.type.annotation.kotlin"
+            "entity.name.type.annotation.kotlin",
+            "support.type.primitive",
+            "meta.type.parameters entity.name.type",
+            "meta.type.annotation entity.name.type",
+            "punctuation.definition.typeparameters",
+            "source.python support.type.python"
          ],
          "settings": {
-            "foreground": "#a86615"
+            "foreground": "#bf6440"
          }
       },
       {
@@ -545,12 +550,7 @@
             "support.variable.magic",
             "entity.other.attribute-name",
             "markup.quote",
-            "source.python support.type.python",
             "keyword.type.cs",
-            "support.type.primitive",
-            "meta.type.parameters entity.name.type",
-            "meta.type.annotation entity.name.type",
-            "punctuation.definition.typeparameters",
             "entity.name.type.type-parameter.cs",
             "punctuation.bracket.angle",
             "entity.name.function.preprocessor.c",
@@ -622,7 +622,7 @@
             "keyword.declaration.scala"
          ],
          "settings": {
-            "foreground": "#d13b00"
+            "foreground": "#ff5b1a"
          }
       },
       {
@@ -687,7 +687,8 @@
             "support.other.variable",
             "meta.function-call.generic.python",
             "meta.method-call.groovy meta.method.groovy",
-            "meta.class.body.groovy meta.method.body.java storage.type.groovy"
+            "meta.class.body.groovy meta.method.body.java storage.type.groovy",
+            "punctuation.decorator.ts"
          ],
          "settings": {
             "foreground": "#0095a8"
@@ -780,7 +781,6 @@
             "variable.language",
             "support.type.vendored",
             "support.constant.vendored",
-            "source.python support.type.python",
             "markup.quote",
             "markup.italic",
             "tag.decorator.js entity.name.tag.js",
@@ -789,7 +789,6 @@
             "source.clojure meta.symbol.dynamic",
             "keyword.other.this.cs",
             "keyword.other.base.cs",
-            "meta.type.annotation entity.name.type",
             "variable.other.member.c",
             "keyword.control.pseudo-method.ruby",
             "storage.class.std.rust",
@@ -865,7 +864,9 @@
             "meta.function.parameters variable.other",
             "keyword.declaration.scala",
             "entity.name.type.annotation.kotlin",
-            "storage.type.function.kotlin"
+            "storage.type.function.kotlin",
+            "support.type.primitive",
+            "source.python support.type.python"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -881,7 +882,6 @@
             "markup.italic markup.bold string",
             "markup.quote markup.bold string",
             "text.html punctuation.section.embedded",
-            "support.type.primitive",
             "keyword.type.cs",
             "storage.type.primitive",
             "keyword.function.go",
