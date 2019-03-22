@@ -534,7 +534,9 @@
             "meta.type.parameters entity.name.type",
             "meta.type.annotation entity.name.type",
             "punctuation.definition.typeparameters",
-            "source.python support.type.python"
+            "source.python support.type.python",
+            "comment.block.documentation.phpdoc.php keyword.other.type.php",
+            "storage.type.php"
          ],
          "settings": {
             "foreground": "#c38e79"
@@ -558,7 +560,6 @@
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "comment.block.documentation entity.name.type",
-            "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "support.variable.lua",
             "support.type.vb",
             "storage.type.c",
@@ -566,7 +567,6 @@
             "storage.type.primitive",
             "source.java storage.type",
             "source.groovy storage.type",
-            "storage.type.php",
             "storage.type.scala",
             "storage.type.cs",
             "source.go storage.type",
@@ -576,7 +576,8 @@
             "entity.helper.apacheconf",
             "source.vala storage.type",
             "source.haskell storage.type",
-            "punctuation.definition.constant.crystal"
+            "punctuation.definition.constant.crystal",
+            "entity.name.type.kotlin"
          ],
          "settings": {
             "foreground": "#b3994d"

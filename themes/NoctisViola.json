@@ -533,7 +533,9 @@
             "meta.type.parameters entity.name.type",
             "meta.type.annotation entity.name.type",
             "punctuation.definition.typeparameters",
-            "source.python support.type.python"
+            "source.python support.type.python",
+            "comment.block.documentation.phpdoc.php keyword.other.type.php",
+            "storage.type.php"
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -557,7 +559,6 @@
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "comment.block.documentation entity.name.type",
-            "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "support.variable.lua",
             "support.type.vb",
             "storage.type.c",
@@ -565,7 +566,6 @@
             "storage.type.primitive",
             "source.java storage.type",
             "source.groovy storage.type",
-            "storage.type.php",
             "storage.type.scala",
             "storage.type.cs",
             "source.go storage.type",
@@ -865,7 +865,8 @@
             "entity.name.type.annotation.kotlin",
             "storage.type.function.kotlin",
             "support.type.primitive",
-            "source.python support.type.python"
+            "source.python support.type.python",
+            "storage.type.php"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -891,8 +892,8 @@
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "source.rust meta.attribute.rust",
-            "storage.type.php",
-            "comment.block.documentation.phpdoc.php keyword.other.type.php",
+            // "storage.type.php",
+            // "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "keyword.other.special-method.ruby",
             "variable.other.readwrite.global.ruby",
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",

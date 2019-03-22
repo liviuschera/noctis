@@ -1,5 +1,9 @@
 # Change Log
 
+**7.12.0** 
+
+-  **PHP** &rarr; type annotation are now highlighted with Galliano/Old Rose/Flame Pea
+
 ## **7.11.0**
 
 -  _Noctis Lux_
