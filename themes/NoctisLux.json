@@ -577,7 +577,8 @@
             "source.vala storage.type",
             "source.haskell storage.type",
             "punctuation.definition.constant.crystal",
-            "entity.name.type.kotlin"
+            "entity.name.type.kotlin",
+            "variable.language.crystal"
          ],
          "settings": {
             "foreground": "#b38600"
@@ -688,7 +689,8 @@
             "meta.function-call.generic.python",
             "meta.method-call.groovy meta.method.groovy",
             "meta.class.body.groovy meta.method.body.java storage.type.groovy",
-            "punctuation.decorator.ts"
+            "punctuation.decorator.ts",
+            "punctuation.definition.decorator"
          ],
          "settings": {
             "foreground": "#0095a8"
@@ -866,7 +868,9 @@
             "entity.name.type.annotation.kotlin",
             "storage.type.function.kotlin",
             "support.type.primitive",
-            "source.python support.type.python"
+            "source.python support.type.python",
+            "storage.type.php",
+            "punctuation.definition.variable.crystal"
          ],
          "settings": {
             "fontStyle": "bold"

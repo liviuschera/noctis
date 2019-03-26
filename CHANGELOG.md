@@ -1,8 +1,15 @@
 # Change Log
 
-**7.12.0** 
+**7.13.0**
 
--  **PHP** &rarr; type annotation are now highlighted with Galliano/Old Rose/Flame Pea
+-  **Crystal**
+   -  pseudo constants highlighted in Galliano/Husk/Pirate Gold
+   -  `punctuation.definition.variable` is now bold
+-  **Python** &rarr; fixed `punctuation.definition.decorator`
+
+**7.12.0**
+
+-  **PHP** &rarr; type annotation are now highlighted with Japonica/Old Rose/Flame Pea
 
 ## **7.11.0**
 
@@ -17,7 +24,7 @@
 -  _Rest of the themes_
    -  Desert Sand `#edc9af` &rarr; Japonica `#d67e5c` - changed
    -  Buddha Gold `#cc9900` &rarr; Galliano `#d5971a` - changed
--  **TypeScript** & **Python** &rarr; type annotation are now highlighted with Galliano/Old Rose/Flame Pea and normal font style
+-  **TypeScript** & **Python** &rarr; type annotation are now highlighted with Japonica/Old Rose/Flame Pea and normal font style
 
 ## **7.10.1**
 

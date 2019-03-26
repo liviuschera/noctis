@@ -576,7 +576,8 @@
             "source.vala storage.type",
             "source.haskell storage.type",
             "punctuation.definition.constant.crystal",
-            "entity.name.type.kotlin"
+            "entity.name.type.kotlin",
+            "variable.language.crystal"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -687,7 +688,8 @@
             "meta.function-call.generic.python",
             "meta.method-call.groovy meta.method.groovy",
             "meta.class.body.groovy meta.method.body.java storage.type.groovy",
-            "punctuation.decorator.ts"
+            "punctuation.decorator.ts",
+            "punctuation.definition.decorator"
          ],
          "settings": {
             "foreground": "#16a3b6"
@@ -866,7 +868,8 @@
             "storage.type.function.kotlin",
             "support.type.primitive",
             "source.python support.type.python",
-            "storage.type.php"
+            "storage.type.php",
+            "punctuation.definition.variable.crystal"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -892,8 +895,6 @@
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "source.rust meta.attribute.rust",
-            // "storage.type.php",
-            // "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "keyword.other.special-method.ruby",
             "variable.other.readwrite.global.ruby",
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
