@@ -535,7 +535,13 @@
             "punctuation.definition.typeparameters",
             "source.python support.type.python",
             "comment.block.documentation.phpdoc.php keyword.other.type.php",
-            "storage.type.php"
+            "storage.type.php",
+            "keyword.type.cs",
+            "storage.type.cs",
+            "storage.type.c",
+            "punctuation.separator.namespace",
+            "storage.type.objc",
+            "punctuation.definition.storage.type.objc"
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -551,7 +557,6 @@
             "support.variable.magic",
             "entity.other.attribute-name",
             "markup.quote",
-            "keyword.type.cs",
             "entity.name.type.type-parameter.cs",
             "punctuation.bracket.angle",
             "entity.name.function.preprocessor.c",
@@ -561,13 +566,11 @@
             "comment.block.documentation entity.name.type",
             "support.variable.lua",
             "support.type.vb",
-            "storage.type.c",
             "storage.type.core.rust",
             "storage.type.primitive",
             "source.java storage.type",
             "source.groovy storage.type",
             "storage.type.scala",
-            "storage.type.cs",
             "source.go storage.type",
             "constant.other.symbol.ruby",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
@@ -601,7 +604,6 @@
             "storage.modifier.super",
             "source.go keyword",
             "keyword.function.go",
-            "punctuation.separator.namespace",
             "keyword.other.rust",
             "meta.separator",
             "keyword.other.fn.rust",
@@ -618,7 +620,6 @@
             "keyword.other.julia",
             "source.julia storage.modifier",
             "constant.language.empty-list.haskell",
-            "punctuation.definition.storage.type.objc",
             "keyword.declaration.scala"
          ],
          "settings": {
@@ -817,7 +818,6 @@
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
             "source.vala storage.type.generic",
-            "source.objc storage.type.c",
             "variable.other.crystal"
          ],
          "settings": {
@@ -869,7 +869,9 @@
             "support.type.primitive",
             "source.python support.type.python",
             "storage.type.php",
-            "punctuation.definition.variable.crystal"
+            "punctuation.definition.variable.crystal",
+            "keyword.type.cs",
+            "storage.type.objc"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -885,7 +887,6 @@
             "markup.italic markup.bold string",
             "markup.quote markup.bold string",
             "text.html punctuation.section.embedded",
-            "keyword.type.cs",
             "storage.type.primitive",
             "keyword.function.go",
             "variable.other.c",
@@ -895,8 +896,6 @@
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
             "source.rust meta.attribute.rust",
-            // "storage.type.php",
-            // "comment.block.documentation.phpdoc.php keyword.other.type.php",
             "keyword.other.special-method.ruby",
             "variable.other.readwrite.global.ruby",
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",

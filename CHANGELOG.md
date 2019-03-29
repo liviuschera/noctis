@@ -1,5 +1,9 @@
 # Change Log
 
+**7.14.0**
+
+-  **C#**, **C/C++** & **Objective-C** &rarr; type annotations are now highlighted in Galliano/Husk/Pirate Gold
+
 **7.13.0**
 
 -  **Crystal**
