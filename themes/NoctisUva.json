@@ -465,7 +465,8 @@
             "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
             "punctuation.separator.method.crystal",
             "source.kotlin storage.type.import",
-            "source.kotlin storage.type.package"
+            "source.kotlin storage.type.package",
+            "punctuation.separator.method.elixir"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -512,7 +513,10 @@
             "source.crystal",
             "string.quoted.double.kotlin entity.string.template.element.kotlin",
             "entity.name.package.kotlin",
-            "meta.template.expression.kotlin"
+            "meta.template.expression.kotlin",
+            "parameter.variable.function",
+            "variable.other.constant.elixir",
+            "source.elixir.embedded.source"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -541,7 +545,7 @@
             "storage.type.c",
             "punctuation.separator.namespace",
             "storage.type.objc",
-            "punctuation.definition.storage.type.objc"
+            "punctuation.definition.storage.type.objc",
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -580,7 +584,8 @@
             "source.haskell storage.type",
             "punctuation.definition.constant.crystal",
             "entity.name.type.kotlin",
-            "variable.language.crystal"
+            "variable.language.crystal",
+            "punctuation.definition.constant"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -621,6 +626,7 @@
             "source.julia storage.modifier",
             "constant.language.empty-list.haskell",
             "keyword.declaration.scala"
+           
          ],
          "settings": {
             "foreground": "#e66533"
@@ -718,7 +724,7 @@
             "entity.mime-type.apacheconf",
             "keyword.operator.function.infix.haskell",
             "keyword.operator.function.infix.haskell punctuation.definition.entity.haskell",
-            "entity.name.function.call.kotlin"
+            "entity.name.function.call.kotlin",
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -746,10 +752,8 @@
             "punctuation.section.embedded.begin.ruby",
             "punctuation.section.embedded.end.ruby source.ruby",
             "support.constant.math",
-            "punctuation.section.embedded.coffee",
             "entity.namespace.r",
             "meta.method-call.groovy storage.type.groovy",
-            "punctuation.section.embedded.groovy",
             "entity.name.function-table.lua",
             "source.scala entity.name.class.declaration",
             "constant.character.escape",
@@ -761,7 +765,8 @@
             "string.quoted.other.literal.upper.crystal punctuation.definition.string",
             "meta.embedded.line.crystal punctuation.section.embedded",
             "meta.embedded.line.crystal punctuation.section.embedded source.crystal",
-            "source.scala entity.name.class"
+            "source.scala entity.name.class",
+            "punctuation.section.embedded"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -818,7 +823,7 @@
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
             "source.vala storage.type.generic",
-            "variable.other.crystal"
+            "variable.other.crystal",
          ],
          "settings": {
             "fontStyle": "italic"
@@ -871,7 +876,8 @@
             "storage.type.php",
             "punctuation.definition.variable.crystal",
             "keyword.type.cs",
-            "storage.type.objc"
+            "storage.type.objc",
+            "parameter.variable.function"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -899,7 +905,7 @@
             "keyword.other.special-method.ruby",
             "variable.other.readwrite.global.ruby",
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
-            "meta.attribute.id entity.other.attribute-name"
+            "meta.attribute.id entity.other.attribute-name",
          ],
          "settings": {
             "fontStyle": "bold italic"

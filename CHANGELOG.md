@@ -1,5 +1,11 @@
 # Change Log
 
+**7.15.0**
+
+-  **Elixir** &rarr; added support (requires [ElixirLS: Elixir support and debugger](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension)
+-  refactoring
+-  updated README  
+
 **7.14.0**
 
 -  **C#**, **C/C++** & **Objective-C** &rarr; type annotations are now highlighted in Galliano/Husk/Pirate Gold
