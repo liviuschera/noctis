@@ -4,7 +4,7 @@ you can comment out this part if you don't want to change the default font for t
 
 */
 
-.monaco-shell {
+.monaco-shell .windows {
    font-feature-settings: "ss01";
    font-family: "Cartograph Mono CF", monospace;
 }

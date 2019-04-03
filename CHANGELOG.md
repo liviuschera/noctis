@@ -1,10 +1,14 @@
 # Change Log
 
+**7.15.1**
+
+-  `vscodecustom.css` &rarr; fixed CSS selector for changing the default font for the UI
+
 **7.15.0**
 
 -  **Elixir** &rarr; added support (requires [ElixirLS: Elixir support and debugger](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension)
 -  refactoring
--  updated README  
+-  updated README
 
 **7.14.0**
 
