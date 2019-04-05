@@ -183,7 +183,7 @@
       "editorIndentGuide.activeBackground": "#405f72",
       "editorBracketMatch.background": "#496d8322",
       "editorBracketMatch.border": "#496d83",
-      "editorRuler.foreground": "#87FFE1",
+      "editorRuler.foreground": "#334652",
       // ---------------------------
       // Code Lens
       // ---------------------------
@@ -823,7 +823,7 @@
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
             "source.vala storage.type.generic",
-            "variable.other.crystal",
+            "variable.other.crystal"
          ],
          "settings": {
             "fontStyle": "italic"

@@ -1,5 +1,9 @@
 # Change Log
 
+**7.16.0**
+
+-  all themes &rarr; added `editorRuler.foreground`. To activate it edit `settings.json` and add `"editor.rulers": [80, 120]`
+
 **7.15.1**
 
 -  `vscodecustom.css` &rarr; fixed CSS selector for changing the default font for the UI

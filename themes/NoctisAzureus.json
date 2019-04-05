@@ -183,7 +183,7 @@
       "editorIndentGuide.activeBackground": "#28658a",
       "editorBracketMatch.background": "#1679b622",
       "editorBracketMatch.border": "#1679b6",
-      "editorRuler.foreground": "#87FFE1",
+      "editorRuler.foreground": "#1a425b",
       // ---------------------------
       // Code Lens
       // ---------------------------
@@ -546,7 +546,7 @@
             "storage.type.c",
             "punctuation.separator.namespace",
             "storage.type.objc",
-            "punctuation.definition.storage.type.objc",
+            "punctuation.definition.storage.type.objc"
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -627,7 +627,6 @@
             "source.julia storage.modifier",
             "constant.language.empty-list.haskell",
             "keyword.declaration.scala"
-           
          ],
          "settings": {
             "foreground": "#e66533"
@@ -725,7 +724,7 @@
             "entity.mime-type.apacheconf",
             "keyword.operator.function.infix.haskell",
             "keyword.operator.function.infix.haskell punctuation.definition.entity.haskell",
-            "entity.name.function.call.kotlin",
+            "entity.name.function.call.kotlin"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -824,7 +823,7 @@
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
             "source.vala storage.type.generic",
-            "variable.other.crystal",
+            "variable.other.crystal"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -906,7 +905,7 @@
             "keyword.other.special-method.ruby",
             "variable.other.readwrite.global.ruby",
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
-            "meta.attribute.id entity.other.attribute-name",
+            "meta.attribute.id entity.other.attribute-name"
          ],
          "settings": {
             "fontStyle": "bold italic"
