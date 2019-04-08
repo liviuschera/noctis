@@ -1,5 +1,10 @@
 # Change Log
 
+**7.17.0**
+
+-  **Markup** &rarr; tweaked
+-  refactoring
+
 **7.16.0**
 
 -  all themes &rarr; added `editorRuler.foreground`. To activate it edit `settings.json` and add `"editor.rulers": [80, 120]`

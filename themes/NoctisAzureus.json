@@ -416,7 +416,8 @@
             "constant.other.database-name",
             "source meta.brace",
             "source punctuation",
-            "text.html punctuation"
+            "text.html punctuation",
+            "markup meta punctuation.definition"
          ],
          "settings": {
             "foreground": "#becfda"
@@ -430,15 +431,11 @@
             "keyword.other.substitution",
             "storage.modifier",
             "meta.tag.sgml",
-            "text.html.markdown markup.inline.raw.markdown",
             "punctuation.accessor",
             "constant.other.color",
             "entity.name.section",
-            "markdown.heading",
-            "markup.deleted.git_gutter",
-            "markup.heading markup.heading entity.name",
-            "markup.heading punctuation.definition.heading",
             "markup.heading",
+            "markup.heading punctuation.definition",
             "entity.other.attribute-name.pseudo-class",
             "entity.other.attribute-name.pseudo-element",
             "tag.decorator.js entity.name.tag.js",
@@ -546,7 +543,8 @@
             "storage.type.c",
             "punctuation.separator.namespace",
             "storage.type.objc",
-            "punctuation.definition.storage.type.objc"
+            "punctuation.definition.storage.type.objc",
+            "markup punctuation.definition"
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -635,10 +633,8 @@
       {
          "scope": [
             "string",
-            "markup.inserted.git_gutter",
             "punctuation.definition.string",
             "source.css support.constant",
-            "markup.raw.block",
             "entity.name.import.go"
          ],
          "settings": {
@@ -844,8 +840,6 @@
             "markup.bold string",
             "markdown.heading",
             "markup.inline.raw punctuation.definition.raw",
-            "markup.heading markup.heading entity.name",
-            "markup.heading punctuation.definition.heading",
             "markup.heading",
             "storage.type.function.pug",
             "storage.type.function.python",
@@ -877,7 +871,8 @@
             "punctuation.definition.variable.crystal",
             "keyword.type.cs",
             "storage.type.objc",
-            "parameter.variable.function"
+            "parameter.variable.function",
+            "markup punctuation.definition"
          ],
          "settings": {
             "fontStyle": "bold"
