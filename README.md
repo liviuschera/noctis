@@ -39,8 +39,6 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
 
 ![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
 
-
-
 ## Noctis Uva
 
 ![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
@@ -81,6 +79,7 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
 -  Objective-C
 -  PHP
    -  Laravel Blade
+   -  Twig &rarr; (requires [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2) extension)
 -  PowerShell
 -  Python
 -  R

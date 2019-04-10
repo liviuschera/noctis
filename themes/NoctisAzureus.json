@@ -464,7 +464,8 @@
             "punctuation.separator.method.crystal",
             "source.kotlin storage.type.import",
             "source.kotlin storage.type.package",
-            "punctuation.separator.method.elixir"
+            "punctuation.separator.method.elixir",
+            "constant.string.documentation.powershell",
          ],
          "settings": {
             "foreground": "#df769b"
@@ -544,7 +545,8 @@
             "punctuation.separator.namespace",
             "storage.type.objc",
             "punctuation.definition.storage.type.objc",
-            "markup punctuation.definition"
+            "markup punctuation.definition",
+            "storage.type.powershell"
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -584,7 +586,8 @@
             "punctuation.definition.constant.crystal",
             "entity.name.type.kotlin",
             "variable.language.crystal",
-            "punctuation.definition.constant"
+            "punctuation.definition.constant",
+            "support.constant punctuation.definition.variable"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -624,7 +627,8 @@
             "keyword.other.julia",
             "source.julia storage.modifier",
             "constant.language.empty-list.haskell",
-            "keyword.declaration.scala"
+            "keyword.declaration.scala",
+            "meta.function.powershell storage.type.powershell",
          ],
          "settings": {
             "foreground": "#e66533"
@@ -667,7 +671,8 @@
             "keyword.operator.null-conditional.cs",
             "punctuation.separator.question-mark.cs",
             "constant.integer.apacheconf",
-            "keyword.operator.nullable-type"
+            "keyword.operator.nullable-type",
+            "constant.language punctuation.definition.variable"
          ],
          "settings": {
             "foreground": "#7060eb"
@@ -810,7 +815,6 @@
             "keyword.operator.documentation.powershell",
             "variable.other.table.property.lua",
             "storage.type.scala",
-            "meta.function.powershell storage.type.powershell",
             "variable.parameter.function.language.special",
             "comment.block.documentation.scala keyword",
             "comment.block.documentation.scala variable.parameter",

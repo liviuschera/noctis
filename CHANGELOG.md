@@ -1,5 +1,11 @@
 # Change Log
 
+**7.18.0**
+
+-  **Poweshell** &rarr; improvements
+-  **Twig** &rarr; added support (requires [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2) extension)
+-  updated README
+
 **7.17.0**
 
 -  **Markup** &rarr; tweaked
