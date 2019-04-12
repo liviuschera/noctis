@@ -25,23 +25,23 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
 
 ## Noctis Lux
 
-![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
+![Noctis Lux Screenshot](images/noctisLux.png)
 
 ## Noctis
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
+![Noctis Screenshot](images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
+![Noctis Azureus Screenshot](images/noctisAzureus.png)
 
 ## Noctis Minimus
 
-![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
+![Noctis Minimus Screenshot](images/noctisMinimus.png)
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
+![Noctis Uva Screenshot](images/NoctisUva.png)
 
 ## Noctis Viola
 
@@ -178,10 +178,10 @@ The color names were matched using the excellent online tools [Name that Color](
 | Azure Radiance   | ![#0094f0](https://placehold.it/15/0094f0/000000?text=+) `#0094f0` | Code that needs to stand out                              |
 | Electric Violet  | ![#5842ff](https://placehold.it/15/5842ff/000000?text=+) `#5842ff` | Numbers & Booleans                                        |
 | PBrink Pink      | ![#ff5792](https://placehold.it/15/ff5792/000000?text=+) `#ff5792` | Keywords & Operators                                      |
-| Tenne            | ![#ff5b1a](https://placehold.it/15/ff5b1a/000000?text=+) `#ff5b1a` | Function & Variable Declaration, Tags & `this`            |
-| Flame Pea        | ![#bf6440](https://placehold.it/15/bf6440/000000?text=+) `#bf6440` | Object properties, ID selectors in CSS & Type annotations |
-| Pirate Gold      | ![#b38600](https://placehold.it/15/b38600/000000?text=+) `#b38600` | Attributes, Constants                                     |
-| Dark Orange      | ![#ff8c00](https://placehold.it/15/ff8c00/000000?text=+) `#ff8c00` | Variables & Parameters                                    |
+| Trinidad         | ![#e64100](https://placehold.it/15/e64100/000000?text=+) `#e64100` | Function & Variable Declaration, Tags & `this`            |
+| Santa Fe         | ![#ba785e](https://placehold.it/15/ba785e/000000?text=+) `#ba785e` | Object properties, ID selectors in CSS & Type annotations |
+| Dark Goldenrod   | ![#a88c00](https://placehold.it/15/a88c00/000000?text=+) `#a88c00` | Attributes, Constants                                     |
+| Yellow Sea       | ![#f49725](https://placehold.it/15/f49725/000000?text=+) `#f49725` | Variables & Parameters                                    |
 
 ## Installation
 

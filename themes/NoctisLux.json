@@ -383,12 +383,6 @@
    },
    "tokenColors": [
       {
-         "settings": {
-            "foreground": "#eeffffff",
-            "background": "#263238ff"
-         }
-      },
-      {
          "scope": [
             "comment",
             "punctuation.definition.comment",
@@ -413,7 +407,6 @@
             "keyword.operator.other.powershell",
             "meta.link.inline punctuation.definition.string",
             "source.sql",
-            "constant.other.database-name",
             "source meta.brace",
             "source punctuation",
             "text.html punctuation",
@@ -465,7 +458,7 @@
             "source.kotlin storage.type.import",
             "source.kotlin storage.type.package",
             "punctuation.separator.method.elixir",
-            "constant.string.documentation.powershell",
+            "constant.string.documentation.powershell"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -515,10 +508,11 @@
             "meta.template.expression.kotlin",
             "parameter.variable.function",
             "variable.other.constant.elixir",
-            "source.elixir.embedded.source"
+            "source.elixir.embedded.source",
+            "source.sql.embedded"
          ],
          "settings": {
-            "foreground": "#ff8c00"
+            "foreground": "#f49725"
          }
       },
       {
@@ -530,7 +524,6 @@
             "punctuation.definition.variable.ruby",
             "entity.other.attribute-name.id.css",
             "entity.other.attribute-name.id.css punctuation.definition.entity.css",
-            "constant.other.table-name",
             "entity.name.type.annotation.kotlin",
             "support.type.primitive",
             "meta.type.parameters entity.name.type",
@@ -546,10 +539,11 @@
             "storage.type.objc",
             "punctuation.definition.storage.type.objc",
             "markup punctuation.definition",
-            "storage.type.powershell"
+            "storage.type.powershell",
+            "comment.block.documentation entity.name.type"
          ],
          "settings": {
-            "foreground": "#bf6440"
+            "foreground": "#ba785e"
          }
       },
       {
@@ -568,7 +562,6 @@
             "storage.class.std.rust",
             "storage.modifier.lifetime.rust",
             "storage.modifier.lifetime.rust entity.name.lifetime.rust",
-            "comment.block.documentation entity.name.type",
             "support.variable.lua",
             "support.type.vb",
             "storage.type.core.rust",
@@ -590,7 +583,7 @@
             "support.constant punctuation.definition.variable"
          ],
          "settings": {
-            "foreground": "#b38600"
+            "foreground": "#a88c00"
          }
       },
       {
@@ -628,10 +621,10 @@
             "source.julia storage.modifier",
             "constant.language.empty-list.haskell",
             "keyword.declaration.scala",
-            "meta.function.powershell storage.type.powershell",
+            "meta.function.powershell storage.type.powershell"
          ],
          "settings": {
-            "foreground": "#ff5b1a"
+            "foreground": "#e64100"
          }
       },
       {
@@ -823,7 +816,8 @@
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
             "constant.other.symbol.ruby",
             "source.vala storage.type.generic",
-            "variable.other.crystal"
+            "variable.other.crystal",
+            "constant.other.table-name"
          ],
          "settings": {
             "fontStyle": "italic"

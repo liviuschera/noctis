@@ -1,8 +1,19 @@
 # Change Log
 
+**7.19.0**
+
+-  _Noctis Lux_
+   -  Dark Orange `#ff8c00` &rarr; Yellow Sea `#f49725` - changed
+   -  Flame Pea `#bf6440` &rarr; Santa Fe `#ba785e`- changed
+   -  Tenne `#ff5b1a` &rarr; Trinidad `#e64100` - changed
+   -  Pirate Gold `#b38600` &rarr; Dark Goldenrod `#a88c00` - changed
+-  **PHP** &rarr; changed embedded SQL highlighting
+-  **JSDoc** &rarr; fixed type annotations
+-  updated README
+
 **7.18.0**
 
--  **Poweshell** &rarr; improvements
+-  **Powershell** &rarr; improvements
 -  **Twig** &rarr; added support (requires [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2) extension)
 -  updated README
 
@@ -43,10 +54,8 @@
 ## **7.11.0**
 
 -  _Noctis Lux_
-   -  Carrot Orange `#ee962b` &rarr; Dark Orange
-      `#ff8c00` - changed
-   -  Reno Sand `#a86615` &rarr; Flame Pea
-      `#bf6440` - changed
+   -  Carrot Orange `#ee962b` &rarr; Dark Orange `#ff8c00` - changed
+   -  Reno Sand `#a86615` &rarr; Flame Pea `#bf6440` - changed
    -  Grenadier `#d13b00` &rarr; Tenne `#ff5b1a` - changed
 -  _Noctis Minimus_
    -  Dust Storm `#e1cbbc` &rarr; Old Rose `#c38e79` - changed
