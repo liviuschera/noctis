@@ -540,7 +540,9 @@
             "punctuation.definition.storage.type.objc",
             "markup punctuation.definition",
             "storage.type.powershell",
-            "comment.block.documentation entity.name.type"
+            "comment.block.documentation entity.name.type",
+            "source.java storage.type",
+            "storage.type.primitive",
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -565,8 +567,6 @@
             "support.variable.lua",
             "support.type.vb",
             "storage.type.core.rust",
-            "storage.type.primitive",
-            "source.java storage.type",
             "source.groovy storage.type",
             "storage.type.scala",
             "source.go storage.type",
@@ -870,7 +870,8 @@
             "keyword.type.cs",
             "storage.type.objc",
             "parameter.variable.function",
-            "markup punctuation.definition"
+            "markup punctuation.definition",
+            "storage.type.primitive",
          ],
          "settings": {
             "fontStyle": "bold"
@@ -886,7 +887,6 @@
             "markup.italic markup.bold string",
             "markup.quote markup.bold string",
             "text.html punctuation.section.embedded",
-            "storage.type.primitive",
             "keyword.function.go",
             "variable.other.c",
             "meta.function.constructor.cpp entity.name.function.cpp",
@@ -898,7 +898,7 @@
             "keyword.other.special-method.ruby",
             "variable.other.readwrite.global.ruby",
             "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
-            "meta.attribute.id entity.other.attribute-name"
+            "meta.attribute.id entity.other.attribute-name",
          ],
          "settings": {
             "fontStyle": "bold italic"

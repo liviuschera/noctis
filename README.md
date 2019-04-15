@@ -25,23 +25,23 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
 
 ## Noctis Lux
 
-![Noctis Lux Screenshot](images/noctisLux.png)
+![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
 
 ## Noctis
 
-![Noctis Screenshot](images/noctis.png)
+![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](images/noctisAzureus.png)
+![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
 
 ## Noctis Minimus
 
-![Noctis Minimus Screenshot](images/noctisMinimus.png)
+![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](images/NoctisUva.png)
+![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
 
 ## Noctis Viola
 
@@ -162,8 +162,8 @@ The color names were matched using the excellent online tools [Name that Color](
 | Chetwode Blue | ![#7068B1](https://placehold.it/15/7068B1/000000?text=+) `#7068B1` | Numbers & Booleans                                        |
 | Viola         | ![#c88da2](https://placehold.it/15/c88da2/000000?text=+) `#c88da2` | Keywords & Operators                                      |
 | Antique Brass | ![#c37455](https://placehold.it/15/c37455/000000?text=+) `#c37455` | Function & Variable Declaration, Tags & `this`            |
-| Old Rose      | ![#c38e79](https://placehold.it/15/c38e79/000000?text=+) `#c38e79` | Object properties, ID selectors in CSS & Type annotations |
-| Husk          | ![#b3994d](https://placehold.it/15/b3994d/000000?text=+) `#b3994d` | Attributes, Constants                                     |
+| Contessa      | ![#be856f](https://placehold.it/15/be856f/000000?text=+) `#be856f` | Object properties, ID selectors in CSS & Type annotations |
+| Driftwood         | ![#b0904f](https://placehold.it/15/b0904f/000000?text=+) `#b0904f` | Attributes, Constants                                     |
 | Tan           | ![#d3b692](https://placehold.it/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                                    |
 
 ### Lux Colors
