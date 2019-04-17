@@ -1,5 +1,9 @@
 # Change Log
 
+**7.21.1**
+
+-  fixed a key naming error in `colors.mjs`
+
 **7.21.0**
 
 -  improved the build process of the Noctis Themes. See README for more details
