@@ -163,7 +163,7 @@ The color names were matched using the excellent online tools [Name that Color](
 | Viola         | ![#c88da2](https://placehold.it/15/c88da2/000000?text=+) `#c88da2` | Keywords & Operators                                      |
 | Antique Brass | ![#c37455](https://placehold.it/15/c37455/000000?text=+) `#c37455` | Function & Variable Declaration, Tags & `this`            |
 | Contessa      | ![#be856f](https://placehold.it/15/be856f/000000?text=+) `#be856f` | Object properties, ID selectors in CSS & Type annotations |
-| Driftwood         | ![#b0904f](https://placehold.it/15/b0904f/000000?text=+) `#b0904f` | Attributes, Constants                                     |
+| Driftwood     | ![#b0904f](https://placehold.it/15/b0904f/000000?text=+) `#b0904f` | Attributes, Constants                                     |
 | Tan           | ![#d3b692](https://placehold.it/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                                    |
 
 ### Lux Colors
@@ -186,6 +186,18 @@ The color names were matched using the excellent online tools [Name that Color](
 ## Installation
 
 Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ + X on Mac and then searching for "Noctis".
+
+## How to contribute
+
+Starting with v7.21.0 the contribution/theme building process has been simplified. This will allow me or any contributor to easily add/suggest new theme variants or changes to the existing ones. In `./src/` folder you will find:
+
+-  `syntax.mjs` &rarr; syntax tokens based on the language grammar installed
+-  `colors.mjs` &rarr; the colors used for syntax highlighting
+-  `./src/workbench/` &rarr; all 8 theme versions containing Workbench/UI colors
+
+After you make a change in any of the above files you need to use `npm run build` command. The build output folder is `./themes/`
+
+Happy hacking!
 
 ## Contributors
 

@@ -1,12 +1,16 @@
 # Change Log
 
+**7.21.0**
+
+-  improved the build process of the Noctis Themes. See README for more details
+
 **7.20.0**
 
 -  _Noctis Minimus_
    -  Old Rose `#c38e79` &rarr; Contessa `#be856f` - changed
-   - Husk `#b3994d` &rarr; Driftwood `#b0904f` - changed
+   -  Husk `#b3994d` &rarr; Driftwood `#b0904f` - changed
 -  **Java** &rarr; type annotations are now highlighted in Japonica/Contessa/Santa Fe
-- updated README
+-  updated README
 
 **7.19.0**
 
