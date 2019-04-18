@@ -26,7 +26,6 @@ export default [
          "keyword.operator.other.powershell",
          "meta.link.inline punctuation.definition.string",
          "source.sql",
-         "constant.other.database-name",
          "source meta.brace",
          "source punctuation",
          "text.html punctuation",
@@ -130,7 +129,8 @@ export default [
          "meta.template.expression.kotlin",
          "parameter.variable.function",
          "variable.other.constant.elixir",
-         "source.elixir.embedded.source"
+         "source.elixir.embedded.source",
+         "source.sql.embedded"
       ],
       settings: {
          foreground: "syntax_variable"
@@ -146,7 +146,6 @@ export default [
          "punctuation.definition.variable.ruby",
          "entity.other.attribute-name.id.css",
          "entity.other.attribute-name.id.css punctuation.definition.entity.css",
-         "constant.other.table-name",
          "entity.name.type.annotation.kotlin",
          "support.type.primitive",
          "meta.type.parameters entity.name.type",
@@ -162,7 +161,10 @@ export default [
          "storage.type.objc",
          "punctuation.definition.storage.type.objc",
          "markup punctuation.definition",
-         "storage.type.powershell"
+         "storage.type.powershell",
+         "comment.block.documentation entity.name.type",
+         "source.java storage.type",
+         "storage.type.primitive"
       ],
       settings: {
          foreground: "syntax_annotation"
@@ -185,12 +187,9 @@ export default [
          "storage.class.std.rust",
          "storage.modifier.lifetime.rust",
          "storage.modifier.lifetime.rust entity.name.lifetime.rust",
-         "comment.block.documentation entity.name.type",
          "support.variable.lua",
          "support.type.vb",
          "storage.type.core.rust",
-         "storage.type.primitive",
-         "source.java storage.type",
          "source.groovy storage.type",
          "storage.type.scala",
          "source.go storage.type",
@@ -449,7 +448,8 @@ export default [
          "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
          "constant.other.symbol.ruby",
          "source.vala storage.type.generic",
-         "variable.other.crystal"
+         "variable.other.crystal",
+         "constant.other.table-name"
       ],
       settings: {
          fontStyle: "italic"
@@ -502,7 +502,8 @@ export default [
          "keyword.type.cs",
          "storage.type.objc",
          "parameter.variable.function",
-         "markup punctuation.definition"
+         "markup punctuation.definition",
+         "storage.type.primitive"
       ],
       settings: {
          fontStyle: "bold"
@@ -518,7 +519,6 @@ export default [
          "markup.italic markup.bold string",
          "markup.quote markup.bold string",
          "text.html punctuation.section.embedded",
-         "storage.type.primitive",
          "keyword.function.go",
          "variable.other.c",
          "meta.function.constructor.cpp entity.name.function.cpp",

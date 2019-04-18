@@ -52,7 +52,7 @@ async function buildTheme(path, syntaxColors, themeWorkbench, themeName) {
 
    try {
       await writeFileAsync(path, JSON.stringify(theme));
-      console.log(`${themeName} theme built ✔`);
+      console.log(`✔  ${themeName} theme built`);
    } catch (error) {
       console.error(`❗  ${error}`);
    }

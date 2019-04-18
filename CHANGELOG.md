@@ -1,5 +1,10 @@
 # Change Log
 
+**7.21.2**
+
+-  when I developed the new theme theme generator in v7.21.0 I used an older version of the themes so now I had to implement again the changes from the prior two versions (v7.20.0 and v7.19.0)
+-  updated README
+
 **7.21.1**
 
 -  fixed a key naming error in `colors.mjs`

@@ -18,8 +18,8 @@
    },
    "scripts": {
       "build": "node --experimental-modules src/build.mjs",
-      "release:minor": "npm run build && git add . && git commit -m 🚀Noctis💪 && npm version minor & vsce publish && git push",
-      "release:patch": "npm run build && git add . && git commit -m 🚀Noctis💪 && npm version patch & vsce publish && git push"
+      "release:minor": "npm run build && git add . && git commit -m 🆕7.21.0✔ && npm version minor & vsce publish && git push",
+      "release:patch": "npm run build && git add . && git commit -m 🛠7.21.2✔ && npm version patch & vsce publish && git push"
    },
    "categories": [
       "Themes",

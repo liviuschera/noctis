@@ -13,9 +13,9 @@ The theme is designed to:
 -  be easy on the eyes thus reducing the eye strain
 -  give semantic meaning to theme's colors
 
-Noctis comes in six versions. Five are dark and one is light.
-The background of _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ is a very saturated very dark cold bluish cyan, _Noctis Azureus'_ is a very saturated very dark cold azure _Noctis Uva's_ is a unsaturated dark cold blue. For those with more spartan taste, _Noctis Minimus_ offers a version of the _Azureus_ palette with **much lower saturation**. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
-<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.<br>
+Noctis comes in eight versions. Seven are dark and one is light.
+The background of _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ is a very saturated very dark cold bluish cyan, _Noctis Azureus'_ is a very saturated very dark cold azure, _Noctis Uva's_ is a unsaturated dark cold blue. For those with more spartan taste, _Noctis Minimus_ offers a version of the _Azureus_ palette with **much lower saturation**. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
+<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.
 
 _Noctis Viola's_ background is a saturated very dark cold violet.<br> Like blue, violet is a calming color that can help to make wise and thoughtful decisions and encourages creative pursuits.
 
@@ -189,11 +189,11 @@ Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ 
 
 ## How to contribute
 
-Starting with v7.21.0 the contribution/theme building process has been simplified. This will allow me or any contributor to easily add/suggest new theme variants or changes to the existing ones. In `./src/` folder you will find:
+Beginning with v7.21.0 the theme building process has been simplified. I started off with the idea used in [Lucy](https://marketplace.visualstudio.com/items?itemName=juliettepretot.lucy-vscode) theme and came up with this theme generator powered by Node.js. This will allow me or any contributor to easily add/suggest new theme variants or changes to the existing ones. In `./src/` folder you will find:
 
 -  `syntax.mjs` &rarr; syntax tokens based on the language grammar installed
 -  `colors.mjs` &rarr; the colors used for syntax highlighting
--  `./src/workbench/` &rarr; all 8 theme versions containing Workbench/UI colors
+-  `./src/workbench/` &rarr; all eight theme versions containing Workbench/UI colors
 
 After you make a change in any of the above files you need to use `npm run build` command. The build output folder is `./themes/`
 
