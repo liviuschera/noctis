@@ -164,7 +164,10 @@ export default [
          "storage.type.powershell",
          "comment.block.documentation entity.name.type",
          "source.java storage.type",
-         "storage.type.primitive"
+         "storage.type.primitive",
+         "source.groovy storage.type",
+         "storage.type.r",
+         "source.haskell storage.type"
       ],
       settings: {
          foreground: "syntax_annotation"
@@ -190,7 +193,6 @@ export default [
          "support.variable.lua",
          "support.type.vb",
          "storage.type.core.rust",
-         "source.groovy storage.type",
          "storage.type.scala",
          "source.go storage.type",
          "constant.other.symbol.ruby",
@@ -198,7 +200,6 @@ export default [
          "support.type.julia",
          "entity.helper.apacheconf",
          "source.vala storage.type",
-         "source.haskell storage.type",
          "punctuation.definition.constant.crystal",
          "entity.name.type.kotlin",
          "variable.language.crystal",
@@ -345,8 +346,8 @@ export default [
          "entity.name.type.namespace.cs",
          "support.class.dart",
          "entity.mime-type.apacheconf",
-         "keyword.operator.function.infix.haskell",
-         "keyword.operator.function.infix.haskell punctuation.definition.entity.haskell",
+         "keyword.operator.function.infix",
+         "entity.name.function.infix",
          "entity.name.function.call.kotlin"
       ],
       settings: {
@@ -562,10 +563,10 @@ export default [
          "source.apacheconf keyword",
          "keyword.other.julia",
          "storage.modifier.using.vala",
-         "keyword.operator.function.infix.haskell",
          "source.objc keyword.other.property.attribute",
          "source.sql keyword.other",
-         "keyword.other.using.vala"
+         "keyword.other.using.vala",
+         "keyword.operator.function.infix"
       ],
       settings: {
          fontStyle: ""

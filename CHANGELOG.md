@@ -1,5 +1,9 @@
 # Change Log
 
+**7.22.0**
+
+-  **Groovy**, **R**, **Haskell** &rarr; type annotation changes
+
 **7.21.2**
 
 -  when I developed the new theme theme generator in v7.21.0 I used an older version of the themes so now I had to implement again the changes from the prior two versions (v7.20.0 and v7.19.0)
