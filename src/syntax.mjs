@@ -78,7 +78,8 @@ export default [
          "source.kotlin storage.type.import",
          "source.kotlin storage.type.package",
          "punctuation.separator.method.elixir",
-         "constant.string.documentation.powershell"
+         "constant.string.documentation.powershell",
+         "punctuation.section.directive"
       ],
       settings: {
          foreground: "syntax_keyword"
@@ -130,7 +131,8 @@ export default [
          "parameter.variable.function",
          "variable.other.constant.elixir",
          "source.elixir.embedded.source",
-         "source.sql.embedded"
+         "source.sql.embedded",
+         "punctuation.definition.placeholder"
       ],
       settings: {
          foreground: "syntax_variable"
@@ -167,7 +169,8 @@ export default [
          "storage.type.primitive",
          "source.groovy storage.type",
          "storage.type.r",
-         "source.haskell storage.type"
+         "source.haskell storage.type",
+         "punctuation.separator.clause-head-body"
       ],
       settings: {
          foreground: "syntax_annotation"
@@ -246,7 +249,9 @@ export default [
          "source.julia storage.modifier",
          "constant.language.empty-list.haskell",
          "keyword.declaration.scala",
-         "meta.function.powershell storage.type.powershell"
+         "meta.function.powershell storage.type.powershell",
+         "keyword.control.fun",
+         "punctuation.terminator.function"
       ],
       settings: {
          foreground: "syntax_tag"
@@ -450,7 +455,9 @@ export default [
          "constant.other.symbol.ruby",
          "source.vala storage.type.generic",
          "variable.other.crystal",
-         "constant.other.table-name"
+         "constant.other.table-name",
+         "constant.other.placeholder",
+         "variable.other.field"
       ],
       settings: {
          fontStyle: "italic"
@@ -504,7 +511,8 @@ export default [
          "storage.type.objc",
          "parameter.variable.function",
          "markup punctuation.definition",
-         "storage.type.primitive"
+         "storage.type.primitive",
+         "punctuation.section.directive"
       ],
       settings: {
          fontStyle: "bold"
@@ -566,7 +574,8 @@ export default [
          "source.objc keyword.other.property.attribute",
          "source.sql keyword.other",
          "keyword.other.using.vala",
-         "keyword.operator.function.infix"
+         "keyword.operator.function.infix",
+         "keyword.control.directive"
       ],
       settings: {
          fontStyle: ""

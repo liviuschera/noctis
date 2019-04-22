@@ -1,5 +1,10 @@
 # Change Log
 
+**7.23.0**
+
+-  **Erlang** &rarr; added support (requires [erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) extension)
+-  updated README
+
 **7.22.0**
 
 -  **Groovy**, **R**, **Haskell** &rarr; type annotation changes
