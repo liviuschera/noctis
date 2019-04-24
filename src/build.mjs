@@ -1,15 +1,15 @@
 import fs from "fs";
 import { promisify } from "util";
-import COLORS from "./colors";
-import SYNTAX from "./syntax";
-import noctis from "./workbench/noctis";
-import azureus from "./workbench/azureus";
-import lux from "./workbench/lux";
-import obscuro from "./workbench/obscuro";
-import sereno from "./workbench/sereno";
-import minimus from "./workbench/minimus";
-import uva from "./workbench/uva";
-import viola from "./workbench/viola";
+import COLORS from "./colors.mjs";
+import SYNTAX from "./syntax.mjs";
+import noctis from "./workbench/noctis.mjs";
+import azureus from "./workbench/azureus.mjs";
+import lux from "./workbench/lux.mjs";
+import obscuro from "./workbench/obscuro.mjs";
+import sereno from "./workbench/sereno.mjs";
+import minimus from "./workbench/minimus.mjs";
+import uva from "./workbench/uva.mjs";
+import viola from "./workbench/viola.mjs";
 
 const THEMES = [
    { noctis: noctis },

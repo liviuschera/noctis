@@ -79,7 +79,8 @@ export default [
          "source.kotlin storage.type.package",
          "punctuation.separator.method.elixir",
          "constant.string.documentation.powershell",
-         "punctuation.section.directive"
+         "punctuation.section.directive",
+         "storage.type.rust"
       ],
       settings: {
          foreground: "syntax_keyword"
@@ -170,7 +171,12 @@ export default [
          "source.groovy storage.type",
          "storage.type.r",
          "source.haskell storage.type",
-         "punctuation.separator.clause-head-body"
+         "punctuation.separator.clause-head-body",
+         "source.go storage.type",
+         "storage.type.core.rust",
+         "storage.class.std.rust",
+         "storage.modifier.lifetime.rust",
+         "entity.name.lifetime.rust"
       ],
       settings: {
          foreground: "syntax_annotation"
@@ -190,14 +196,9 @@ export default [
          "entity.name.type.type-parameter.cs",
          "punctuation.bracket.angle",
          "entity.name.function.preprocessor.c",
-         "storage.class.std.rust",
-         "storage.modifier.lifetime.rust",
-         "storage.modifier.lifetime.rust entity.name.lifetime.rust",
          "support.variable.lua",
          "support.type.vb",
-         "storage.type.core.rust",
          "storage.type.scala",
-         "source.go storage.type",
          "constant.other.symbol.ruby",
          "constant.other.symbol.ruby punctuation.definition.constant.ruby",
          "support.type.julia",
@@ -232,10 +233,8 @@ export default [
          "storage.modifier.super",
          "source.go keyword",
          "keyword.function.go",
-         "keyword.other.rust",
          "meta.separator",
          "keyword.other.fn.rust",
-         "storage.modifier.const.rust",
          "storage.modifier.static.rust",
          "source.r meta.function.r keyword.control.r",
          "storage.type.def",
@@ -251,7 +250,8 @@ export default [
          "keyword.declaration.scala",
          "meta.function.powershell storage.type.powershell",
          "keyword.control.fun",
-         "punctuation.terminator.function"
+         "punctuation.terminator.function",
+         "keyword.other.rust"
       ],
       settings: {
          foreground: "syntax_tag"
@@ -457,7 +457,9 @@ export default [
          "variable.other.crystal",
          "constant.other.table-name",
          "constant.other.placeholder",
-         "variable.other.field"
+         "variable.other.field",
+         "keyword.function.go",
+         "entity.alias.import.go"
       ],
       settings: {
          fontStyle: "italic"
@@ -491,10 +493,8 @@ export default [
          "punctuation.separator.namespace",
          "constant.other.symbol.ruby punctuation.definition.constant.ruby",
          "variable.parameter",
-         "support.constant.core.rust",
          "support.function.builtin.rust",
          "storage.type.function.coffee",
-         "constant.other.rune",
          "source.cs entity.name.variable.parameter",
          "punctuation.separator.hash.cs",
          "constant.other.symbol.ruby punctuation.definition.constant.ruby",
@@ -528,18 +528,17 @@ export default [
          "markup.italic markup.bold string",
          "markup.quote markup.bold string",
          "text.html punctuation.section.embedded",
-         "keyword.function.go",
          "variable.other.c",
          "meta.function.constructor.cpp entity.name.function.cpp",
          "meta.function.destructor.cpp entity.name.function.cpp",
-         "keyword.other.fn.rust",
          "storage.modifier.lifetime.rust",
-         "storage.modifier.lifetime.rust entity.name.lifetime.rust",
+         "entity.name.lifetime.rust",
          "source.rust meta.attribute.rust",
          "keyword.other.special-method.ruby",
          "variable.other.readwrite.global.ruby",
          "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
-         "meta.attribute.id entity.other.attribute-name"
+         "meta.attribute.id entity.other.attribute-name",
+         "keyword.other.fn.rust"
       ],
       settings: {
          fontStyle: "bold italic"
@@ -554,8 +553,6 @@ export default [
          "keyword.other.var.cs",
          "source.go keyword",
          "keyword.control.pseudo-method",
-         "keyword.other.rust",
-         "storage.modifier.const.rust",
          "storage.modifier.static.rust",
          "variable.parameter.r",
          "variable.parameter.handlebars",
@@ -575,7 +572,8 @@ export default [
          "source.sql keyword.other",
          "keyword.other.using.vala",
          "keyword.operator.function.infix",
-         "keyword.control.directive"
+         "keyword.control.directive",
+         "keyword.other.rust"
       ],
       settings: {
          fontStyle: ""

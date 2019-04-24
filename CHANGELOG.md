@@ -1,5 +1,9 @@
 # Change Log
 
+**7.24.0**
+
+-  **Go** and **Rust** &rarr; various tweaks
+
 **7.23.0**
 
 -  **Erlang** &rarr; added support (requires [erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) extension)
