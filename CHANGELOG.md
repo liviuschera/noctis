@@ -2,6 +2,11 @@
 
 **7.24.0**
 
+-  **Swift** &rarr; added support
+-  updated README
+
+**7.24.0**
+
 -  **Go** and **Rust** &rarr; various tweaks
 
 **7.23.0**

@@ -60,7 +60,7 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
    -  Sass/SCSS
 -  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
 -  Elixir (requires [ElixirLS: Elixir support and debugger](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension)
--  Erlang (requires [erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) extension) &larr; 🆕
+-  Erlang (requires [erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) extension)
 -  Go
 -  Groovy
 -  Haskell (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension)
@@ -88,6 +88,7 @@ The _Noctis Lux_ light theme's background is a very saturated very light warm or
 -  Rust
 -  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
 -  SQL
+-  🆕 Swift
 -  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
 -  Visual Basic
 -  _Other_

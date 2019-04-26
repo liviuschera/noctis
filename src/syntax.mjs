@@ -80,7 +80,9 @@ export default [
          "punctuation.separator.method.elixir",
          "constant.string.documentation.powershell",
          "punctuation.section.directive",
-         "storage.type.rust"
+         "storage.type.rust",
+         "punctuation.definition.attribute",
+         "punctuation.definition.preprocessor"
       ],
       settings: {
          foreground: "syntax_keyword"
@@ -133,7 +135,8 @@ export default [
          "variable.other.constant.elixir",
          "source.elixir.embedded.source",
          "source.sql.embedded",
-         "punctuation.definition.placeholder"
+         "punctuation.definition.placeholder",
+         "source.swift"
       ],
       settings: {
          foreground: "syntax_variable"
@@ -176,7 +179,8 @@ export default [
          "storage.type.core.rust",
          "storage.class.std.rust",
          "storage.modifier.lifetime.rust",
-         "entity.name.lifetime.rust"
+         "entity.name.lifetime.rust",
+         "support.type.swift"
       ],
       settings: {
          foreground: "syntax_annotation"
@@ -251,7 +255,8 @@ export default [
          "meta.function.powershell storage.type.powershell",
          "keyword.control.fun",
          "punctuation.terminator.function",
-         "keyword.other.rust"
+         "keyword.other.rust",
+         "keyword.other.declaration-specifier.swift"
       ],
       settings: {
          foreground: "syntax_tag"
@@ -324,7 +329,8 @@ export default [
          "meta.method-call.groovy meta.method.groovy",
          "meta.class.body.groovy meta.method.body.java storage.type.groovy",
          "punctuation.decorator.ts",
-         "punctuation.definition.decorator"
+         "punctuation.definition.decorator",
+         "support.function.any-method"
       ],
       settings: {
          foreground: "syntax_function"
@@ -397,7 +403,8 @@ export default [
          "meta.embedded.line.crystal punctuation.section.embedded source.crystal",
          "source.scala entity.name.class",
          "punctuation.section.embedded",
-         "punctuation.section.tag"
+         "punctuation.section.tag",
+         "punctuation.section.embedded source.swift"
       ],
       settings: {
          foreground: "syntax_misc"
@@ -459,7 +466,10 @@ export default [
          "constant.other.placeholder",
          "variable.other.field",
          "keyword.function.go",
-         "entity.alias.import.go"
+         "entity.alias.import.go",
+         "source.swift keyword.other.declaration-specifier",
+         "support.variable.swift",
+         "keyword.other.capture-specifier"
       ],
       settings: {
          fontStyle: "italic"
@@ -512,7 +522,8 @@ export default [
          "parameter.variable.function",
          "markup punctuation.definition",
          "storage.type.primitive",
-         "punctuation.section.directive"
+         "punctuation.section.directive",
+         "punctuation.definition.preprocessor"
       ],
       settings: {
          fontStyle: "bold"
@@ -573,7 +584,9 @@ export default [
          "keyword.other.using.vala",
          "keyword.operator.function.infix",
          "keyword.control.directive",
-         "keyword.other.rust"
+         "keyword.other.rust",
+         "keyword.other.declaration-specifier.swift",
+         "entity.name.function.swift"
       ],
       settings: {
          fontStyle: ""
