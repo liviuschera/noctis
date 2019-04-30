@@ -1,6 +1,11 @@
 # Change Log
 
-**7.24.0**
+**7.26.0**
+
+-  **Visual Basic**, **Lua**, **Kotlin**, **Julia**, **Ruby** &rarr;improvements
+-  refactoring
+
+**7.25.0**
 
 -  **Swift** &rarr; added support
 -  updated README

@@ -1,19 +1,18 @@
-export default [
-   {
-      name: "COMMENT",
-      scope: [
+export default [{
+      "name": "COMMENT",
+      "scope": [
          "comment",
          "punctuation.definition.comment",
          "punctuation.definition.tag",
-         "comment.block.documentation punctuation.definition.bracket"
+         "comment.block.documentation punctuation.definition.bracket",
       ],
-      settings: {
-         foreground: "syntax_comment"
+      "settings": {
+         "foreground": "#5b858b"
       }
    },
    {
-      name: "TEXT",
-      scope: [
+      "name": "TEXT",
+      "scope": [
          "constant.character",
          "constant.escape",
          "text.html.markdown",
@@ -29,15 +28,18 @@ export default [
          "source meta.brace",
          "source punctuation",
          "text.html punctuation",
-         "markup meta punctuation.definition"
+         "markup meta punctuation.definition",
+         "meta.bracket.julia",
+         "meta.array.julia",
+         "punctuation.separator.key-value",
       ],
-      settings: {
-         foreground: "syntax_text"
+      "settings": {
+         "foreground": "#b2cacd"
       }
    },
    {
-      name: "KEYWORD",
-      scope: [
+      "name": "KEYWORD",
+      "scope": [
          "keyword",
          "keyword.control",
          "keyword.other.template",
@@ -65,7 +67,6 @@ export default [
          "punctuation.definition.directive.c",
          "punctuation.separator.pointer-access",
          "punctuation.separator.other.ruby",
-         "source.ruby punctuation.separator.key-value",
          "keyword.package.go",
          "keyword.import.go",
          "punctuation.definition.keyword",
@@ -74,23 +75,23 @@ export default [
          "variable.parameter.rest.lua",
          "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
          "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
-         "punctuation.separator.method.crystal",
          "source.kotlin storage.type.import",
          "source.kotlin storage.type.package",
-         "punctuation.separator.method.elixir",
          "constant.string.documentation.powershell",
          "punctuation.section.directive",
          "storage.type.rust",
          "punctuation.definition.attribute",
-         "punctuation.definition.preprocessor"
+         "punctuation.definition.preprocessor",
+         "punctuation.separator.namespace",
+         "punctuation.separator.method"
       ],
-      settings: {
-         foreground: "syntax_keyword"
+      "settings": {
+         "foreground": "#df769b"
       }
    },
    {
-      name: "VARIABLE",
-      scope: [
+      "name": "VARIABLE",
+      "scope": [
          "variable",
          "variable.object",
          "variable.other",
@@ -123,7 +124,6 @@ export default [
          "source.groovy.embedded.source",
          "punctuation.definition.variable",
          "source.powershell",
-         "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
          "string.quoted.interpolated.vala constant.character.escape.vala",
          "source.apacheconf",
          "source.objc",
@@ -136,20 +136,19 @@ export default [
          "source.elixir.embedded.source",
          "source.sql.embedded",
          "punctuation.definition.placeholder",
-         "source.swift"
+         "source.swift",
+         "source.julia"
       ],
-      settings: {
-         foreground: "syntax_variable"
+      "settings": {
+         "foreground": "#e4b781"
       }
    },
    {
-      name: "ANNOTATION",
-      scope: [
+      "name": "ANNOTATION",
+      "scope": [
          "support.variable.property",
          "constant.other.symbol.hashkey.ruby",
          "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-         "source.ruby variable.other.readwrite",
-         "punctuation.definition.variable.ruby",
          "entity.other.attribute-name.id.css",
          "entity.other.attribute-name.id.css punctuation.definition.entity.css",
          "entity.name.type.annotation.kotlin",
@@ -163,7 +162,6 @@ export default [
          "keyword.type.cs",
          "storage.type.cs",
          "storage.type.c",
-         "punctuation.separator.namespace",
          "storage.type.objc",
          "punctuation.definition.storage.type.objc",
          "markup punctuation.definition",
@@ -180,15 +178,18 @@ export default [
          "storage.class.std.rust",
          "storage.modifier.lifetime.rust",
          "entity.name.lifetime.rust",
-         "support.type.swift"
+         "support.type.swift",
+         "support.type.vb",
+         "entity.name.type.kotlin",
+         "support.type.julia",
       ],
-      settings: {
-         foreground: "syntax_annotation"
+      "settings": {
+         "foreground": "#d67e5c"
       }
    },
    {
-      name: "CONSTANT",
-      scope: [
+      "name": "CONSTANT",
+      "scope": [
          "constant",
          "variable.other.constant",
          "support.constant",
@@ -201,26 +202,20 @@ export default [
          "punctuation.bracket.angle",
          "entity.name.function.preprocessor.c",
          "support.variable.lua",
-         "support.type.vb",
          "storage.type.scala",
-         "constant.other.symbol.ruby",
-         "constant.other.symbol.ruby punctuation.definition.constant.ruby",
-         "support.type.julia",
          "entity.helper.apacheconf",
          "source.vala storage.type",
-         "punctuation.definition.constant.crystal",
-         "entity.name.type.kotlin",
          "variable.language.crystal",
          "punctuation.definition.constant",
          "support.constant punctuation.definition.variable"
       ],
-      settings: {
-         foreground: "syntax_constant"
+      "settings": {
+         "foreground": "#d5971a"
       }
    },
    {
-      name: "TAG",
-      scope: [
+      "name": "TAG",
+      "scope": [
          "variable.language",
          "variable.parameter.function.language.special",
          "markup.bold",
@@ -256,27 +251,30 @@ export default [
          "keyword.control.fun",
          "punctuation.terminator.function",
          "keyword.other.rust",
-         "keyword.other.declaration-specifier.swift"
+         "keyword.other.declaration-specifier.swift",
+         "keyword.control.function-end.lua",
+         "keyword.control.class",
+         "keyword.control.def"
       ],
-      settings: {
-         foreground: "syntax_tag"
+      "settings": {
+         "foreground": "#e66533"
       }
    },
    {
-      name: "STRING",
-      scope: [
+      "name": "STRING",
+      "scope": [
          "string",
          "punctuation.definition.string",
          "source.css support.constant",
          "entity.name.import.go"
       ],
-      settings: {
-         foreground: "syntax_string"
+      "settings": {
+         "foreground": "#49e9a6"
       }
    },
    {
-      name: "STRINGINTERPOLATED",
-      scope: [
+      "name": "STRINGINTERPOLATED",
+      "scope": [
          "string.template",
          "punctuation.definition.string.template",
          "string.interpolated.python string.quoted.single.python",
@@ -289,13 +287,13 @@ export default [
          "string.quoted.double.interpolated.crystal",
          "string.quoted.double.interpolated.crystal punctuation.definition.string"
       ],
-      settings: {
-         foreground: "syntax_stringInterpolated"
+      "settings": {
+         "foreground": "#16b673"
       }
    },
    {
-      name: "NUMBER",
-      scope: [
+      "name": "NUMBER",
+      "scope": [
          "constant.numeric",
          "constant.language",
          "punctuation.separator.decimal.period.php",
@@ -305,13 +303,13 @@ export default [
          "keyword.operator.nullable-type",
          "constant.language punctuation.definition.variable"
       ],
-      settings: {
-         foreground: "syntax_number"
+      "settings": {
+         "foreground": "#7060eb"
       }
    },
    {
-      name: "FUNCTION",
-      scope: [
+      "name": "FUNCTION",
+      "scope": [
          "variable.function",
          "source.css support.type.property-name",
          "source.sass support.type.property-name",
@@ -332,13 +330,13 @@ export default [
          "punctuation.definition.decorator",
          "support.function.any-method"
       ],
-      settings: {
-         foreground: "syntax_function"
+      "settings": {
+         "foreground": "#16a3b6"
       }
    },
    {
-      name: "SUPPORT",
-      scope: [
+      "name": "SUPPORT",
+      "scope": [
          "entity.name",
          "entity.other",
          "support.orther.namespace.use.php",
@@ -361,13 +359,13 @@ export default [
          "entity.name.function.infix",
          "entity.name.function.call.kotlin"
       ],
-      settings: {
-         foreground: "syntax_support"
+      "settings": {
+         "foreground": "#49d6e9"
       }
    },
    {
-      name: "MISC",
-      scope: [
+      "name": "MISC",
+      "scope": [
          "source.js constant.other.object.key.js string.unquoted.label.js",
          "source.js punctuation.section.embedded",
          "punctuation.definition.template-expression",
@@ -406,20 +404,23 @@ export default [
          "punctuation.section.tag",
          "punctuation.section.embedded source.swift"
       ],
-      settings: {
-         foreground: "syntax_misc"
+      "settings": {
+         "foreground": "#49ace9"
       }
    },
    {
-      name: "INVALID",
-      scope: ["invalid", "invalid.illegal"],
-      settings: {
-         foreground: "syntax_invalid"
+      "name": "INVALID",
+      "scope": [
+         "invalid",
+         "invalid.illegal"
+      ],
+      "settings": {
+         "foreground": "#e3541c"
       }
    },
    {
-      name: "ITALIC",
-      scope: [
+      "name": "ITALIC",
+      "scope": [
          "comment",
          "storage.modifier",
          "punctuation.definition.comment",
@@ -436,7 +437,6 @@ export default [
          "keyword.other.this.cs",
          "keyword.other.base.cs",
          "variable.other.member.c",
-         "keyword.control.pseudo-method.ruby",
          "storage.class.std.rust",
          "support.type.core.rust",
          "variable.other.object.property",
@@ -471,15 +471,16 @@ export default [
          "support.variable.swift",
          "keyword.other.capture-specifier"
       ],
-      settings: {
-         fontStyle: "italic"
+      "settings": {
+         "fontStyle": "italic"
       }
    },
    {
-      name: "BOLD",
-      scope: [
+      "name": "BOLD",
+      "scope": [
          "keyword",
          "keyword.control",
+         "keyword.operator",
          "keyword.other.template",
          "keyword.other.substitution",
          "storage.type.function.arrow",
@@ -516,22 +517,23 @@ export default [
          "support.type.primitive",
          "source.python support.type.python",
          "storage.type.php",
-         "punctuation.definition.variable.crystal",
          "keyword.type.cs",
          "storage.type.objc",
          "parameter.variable.function",
          "markup punctuation.definition",
          "storage.type.primitive",
          "punctuation.section.directive",
-         "punctuation.definition.preprocessor"
+         "punctuation.definition.preprocessor",
+         "punctuation.definition.variable",
+         "punctuation.separator.method",
       ],
-      settings: {
-         fontStyle: "bold"
+      "settings": {
+         "fontStyle": "bold"
       }
    },
    {
-      name: "BOLD-ITALIC",
-      scope: [
+      "name": "BOLD-ITALIC",
+      "scope": [
          "markup.bold markup.italic",
          "markup.italic markup.bold",
          "markup.quote markup.bold",
@@ -545,25 +547,21 @@ export default [
          "storage.modifier.lifetime.rust",
          "entity.name.lifetime.rust",
          "source.rust meta.attribute.rust",
-         "keyword.other.special-method.ruby",
-         "variable.other.readwrite.global.ruby",
-         "variable.other.readwrite.global.ruby punctuation.definition.variable.ruby",
          "meta.attribute.id entity.other.attribute-name",
          "keyword.other.fn.rust"
       ],
-      settings: {
-         fontStyle: "bold italic"
+      "settings": {
+         "fontStyle": "bold italic"
       }
    },
    {
-      name: "NORMAL",
-      scope: [
+      "name": "NORMAL",
+      "scope": [
          "keyword.begin.tag.ejs",
          "source.python meta.function.decorator.python support.type.python",
          "source.cs keyword.other",
          "keyword.other.var.cs",
          "source.go keyword",
-         "keyword.control.pseudo-method",
          "storage.modifier.static.rust",
          "variable.parameter.r",
          "variable.parameter.handlebars",
@@ -586,10 +584,13 @@ export default [
          "keyword.control.directive",
          "keyword.other.rust",
          "keyword.other.declaration-specifier.swift",
-         "entity.name.function.swift"
+         "entity.name.function.swift",
+         "keyword.control.function-end.lua",
+         "keyword.control.class",
+         "keyword.control.def"
       ],
-      settings: {
-         fontStyle: ""
+      "settings": {
+         "fontStyle": ""
       }
    }
 ];
