@@ -1,5 +1,9 @@
 # Change Log
 
+**7.27.0**
+
+-  refactored theme generator
+
 **7.26.0**
 
 -  **Visual Basic**, **Lua**, **Kotlin**, **Julia**, **Ruby** &rarr;improvements
