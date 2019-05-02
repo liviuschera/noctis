@@ -6,8 +6,8 @@ export default syntax => ({
       // Editor Base Colors
       // ---------------------------
       "selection.background": "#2964a388",
-      descriptionForeground: "#6496b4",
-      errorForeground: "#b96346",
+      "descriptionForeground": "#6496b4",
+      "errorForeground": "#b96346",
       "widget.shadow": "#00000044",
       "editor.background": "#1b2932",
       "editor.foreground": "#c5cdd3",
@@ -95,7 +95,7 @@ export default syntax => ({
       // Editor Group Header
       // ---------------------------
       "editorGroupHeader.noTabsBackground": "#202e37",
-      "editorGroupHeader.tabsBackground": "#202e37",
+      "editorGroupHeader.tabsBackground": "#24333d",
       "editorGroupHeader.tabsBorder": "#202e37",
       // ---------------------------
       // Editor Tabs
@@ -104,11 +104,15 @@ export default syntax => ({
       "tab.activeForeground": "#5998c0",
       "tab.border": "#101213",
       "tab.inactiveBackground": "#202e37",
+      // "tab.inactiveBackground": "#24333d",
       "tab.inactiveForeground": "#96a8b6",
       "tab.unfocusedActiveForeground": "#96a8b6",
       "tab.unfocusedInactiveForeground": "#96a8b6",
       "tab.activeBorderTop": "#5998c0",
       "tab.activeModifiedBorder": "#72c09f",
+      "tab.activeBorder": "#1b2932",
+      "tab.unfocusedActiveBorder": "#1b2932",
+      "tab.unfocusedHoverBackground": "#5998c021",
       // ---------------------------
       // Text Colors
       // ---------------------------
@@ -254,8 +258,8 @@ export default syntax => ({
       "extensionButton.prominentBackground": "#28828a",
       "extensionButton.prominentForeground": "#e5f5f5",
       "extensionButton.prominentHoverBackground": "#39bac6",
-      focusBorder: "#202e37",
-      foreground: "#c5cdd3",
+      "focusBorder": "#202e37",
+      "foreground": "#c5cdd3",
       // ---------------------------
       // Panel
       // ---------------------------

@@ -6,8 +6,8 @@ export default syntax => ({
       // Editor Base Colors
       // ---------------------------
       "selection.background": "#0e6571c7",
-      descriptionForeground: "#929ea0",
-      errorForeground: "#e34e1c",
+      "descriptionForeground": "#929ea0",
+      "errorForeground": "#e34e1c",
       "widget.shadow": "#00000044",
       "editor.background": "#052529",
       "editor.foreground": "#b2cacd",
@@ -100,7 +100,7 @@ export default syntax => ({
       // ---------------------------
       // Editor Tabs
       // ---------------------------
-      "tab.activeBackground": "#041d20",
+      "tab.activeBackground": "#052529",
       "tab.activeForeground": "#40d4e7",
       "tab.border": "#0f1415",
       "tab.inactiveBackground": "#062e32",
@@ -109,6 +109,9 @@ export default syntax => ({
       "tab.unfocusedInactiveForeground": "#87a7ab",
       "tab.activeBorderTop": "#40d4e7",
       "tab.activeModifiedBorder": "#49e9a6",
+      "tab.activeBorder": "#052529",
+      "tab.unfocusedActiveBorder": "#052529",
+      "tab.unfocusedHoverBackground": "#169fb121",
       // ---------------------------
       // Text Colors
       // ---------------------------
@@ -119,7 +122,6 @@ export default syntax => ({
       "textLink.foreground": "#40d4e7",
       "textPreformat.foreground": "#e4b781",
       "textSeparator.foreground": "#041d20",
-
       // ---------------------------
       // Welcome Page
       // ---------------------------
@@ -255,8 +257,8 @@ export default syntax => ({
       "extensionButton.prominentBackground": "#099",
       "extensionButton.prominentForeground": "#e5f5f5",
       "extensionButton.prominentHoverBackground": "#0cc",
-      focusBorder: "#073940",
-      foreground: "#b2cacd",
+      "focusBorder": "#073940",
+      "foreground": "#b2cacd",
       // ---------------------------
       // Panel
       // ---------------------------
@@ -379,7 +381,7 @@ export default syntax => ({
       "editor.snippetTabstopHighlightBackground": "#03181b",
       "editor.snippetTabstopHighlightBorder": "#042124",
       "editor.snippetFinalTabstopHighlightBackground": "#03181b",
-      "editor.snippetFinalTabstopHighlightBorder": "#042124"
+      "editor.snippetFinalTabstopHighlightBorder": "#042124",
    },
    tokenColors: syntax
 });

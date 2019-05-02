@@ -6,8 +6,8 @@ export default syntax => ({
       // Editor Base Colors
       // ---------------------------
       "selection.background": "#0051a888",
-      descriptionForeground: "#61a6d1",
-      errorForeground: "#e34e1c",
+      "descriptionForeground": "#61a6d1",
+      "errorForeground": "#e34e1c",
       "widget.shadow": "#00000044",
       "editor.background": "#07273b",
       "editor.foreground": "#becfda",
@@ -109,6 +109,9 @@ export default syntax => ({
       "tab.unfocusedInactiveForeground": "#9fb6c6",
       "tab.activeBorderTop": "#49ace9",
       "tab.activeModifiedBorder": "#49e9a6",
+      "tab.activeBorder": "#07273b",
+      "tab.unfocusedActiveBorder": "#07273b",
+      "tab.unfocusedHoverBackground": "#1679b621",
       // ---------------------------
       // Text Colors
       // ---------------------------
@@ -254,8 +257,8 @@ export default syntax => ({
       "extensionButton.prominentBackground": "#008c99",
       "extensionButton.prominentForeground": "#e5f5f5",
       "extensionButton.prominentHoverBackground": "#00bbcc",
-      focusBorder: "#09334e",
-      foreground: "#becfda",
+      "focusBorder": "#09334e",
+      "foreground": "#becfda",
       // ---------------------------
       // Panel
       // ---------------------------
@@ -378,7 +381,7 @@ export default syntax => ({
       "editor.snippetTabstopHighlightBackground": "#051b29",
       "editor.snippetTabstopHighlightBorder": "#062132",
       "editor.snippetFinalTabstopHighlightBackground": "#051b29",
-      "editor.snippetFinalTabstopHighlightBorder": "#062132"
+      "editor.snippetFinalTabstopHighlightBorder": "#062132",
    },
    tokenColors: syntax
 });

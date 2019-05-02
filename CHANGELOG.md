@@ -1,5 +1,10 @@
 # Change Log
 
+**7.28.0**
+
+-  fixed [#15](https://github.com/liviuschera/noctis/issues/15)
+-  `tab.unfocusedHoverBackground` &rarr; added color
+
 **7.27.0**
 
 -  refactored theme generator
