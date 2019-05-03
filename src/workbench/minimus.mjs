@@ -83,7 +83,7 @@ export default syntax => ({
       "editorWarning.foreground": "#c09159",
       "editorInfo.border": "#1b2932",
       "editorInfo.foreground": "#5998c0",
-      "editorHint.border": "#72c09f80",
+      "editorHint.border": "#72c09f00",
       "editorHint.foreground": "#72c09f",
       // ---------------------------
       // Editor Groups and Tabs
@@ -217,7 +217,7 @@ export default syntax => ({
       // ---------------------------
       // Merge Conflicts
       // ---------------------------
-      "merge.border": "#1b2932",
+      "merge.border": "#1b293200",
       "merge.currentContentBackground": "#a6d7dd22",
       "merge.currentHeaderBackground": "#a6d7dd44",
       "merge.incomingContentBackground": "#aea8dc22",

@@ -1,9 +1,14 @@
 # Change Log
 
+**7.28.1**
+
+-  fixed [#16](https://github.com/liviuschera/noctis/issues/16)
+
+
 **7.28.0**
 
--  fixed [#15](https://github.com/liviuschera/noctis/issues/15)
 -  `tab.unfocusedHoverBackground` &rarr; added color
+-  fixed [#15](https://github.com/liviuschera/noctis/issues/15)
 
 **7.27.0**
 
