@@ -13,15 +13,22 @@ The theme is designed to:
 -  be easy on the eyes thus reducing the eye strain
 -  give semantic meaning to theme's colors
 
-Noctis comes in eight versions. Seven are dark and one is light.
-The background of _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ is a very saturated very dark cold bluish cyan, _Noctis Azureus'_ is a very saturated very dark cold azure, _Noctis Uva's_ is a unsaturated dark cold blue. For those with more spartan taste, _Noctis Minimus_ offers a version of the _Azureus_ palette with **much lower saturation**. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
-<br>Blue is a cool calming color that shows creativity and intelligence and has a calming effect on the psyche.
+Noctis comes in nine versions. Seven are dark and two are light.
 
-_Noctis Viola's_ background is a saturated very dark cold violet.<br> Like blue, violet is a calming color that can help to make wise and thoughtful decisions and encourages creative pursuits.
+-  _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ background is a very saturated very dark cold bluish cyan
+-  _Noctis Azureus'_ background is a very saturated very dark cold azure 
+-  _Noctis Uva's_ background is a unsaturated dark cold blue. For those with more spartan taste
+-  _Noctis Minimus'_ background offers a version of the _Azureus_ palette with **much lower saturation**. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
+-  _Noctis Viola's_ background is a saturated very dark cold violet
+-  _Noctis Lux'_ background is a very saturated very light warm orange
+-  _Noctis Hibernus'_ background is a very unsaturated very light cold bluish cyan
 
-The _Noctis Lux_ light theme's background is a very saturated very light warm orange.<br>Orange can increase oxygen supply to the brain to produce an invigorating effect.
 
 <div align="center">
+
+## 🆕❄Noctis Hibernus❄🆕
+
+![Noctis Hibernus Screenshot](images/noctisHibernus.png)
 
 ## Noctis Lux
 
@@ -168,7 +175,7 @@ The color names were matched using the excellent online tools [Name that Color](
 | Driftwood     | ![#b0904f](https://placehold.it/15/b0904f/000000?text=+) `#b0904f` | Attributes, Constants                                     |
 | Tan           | ![#d3b692](https://placehold.it/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                                    |
 
-### Lux Colors
+### Light Themes Colors
 
 | Color            | Hex Code                                                           | Used for:                                                 |
 | ---------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |

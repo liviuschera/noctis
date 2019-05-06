@@ -1,5 +1,10 @@
 # Change Log
 
+## **8.0.0**
+
+-  🆕 light theme variant &rarr; **_❄Noctis Nix❄_** 
+-  updated README
+
 **7.28.1**
 
 -  fixed [#16](https://github.com/liviuschera/noctis/issues/16)

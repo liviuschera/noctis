@@ -1,6 +1,7 @@
+import lux from "./workbench/lux.mjs";
+import hibernus from "./workbench/hibernus.mjs";
 import noctis from "./workbench/noctis.mjs";
 import azureus from "./workbench/azureus.mjs";
-import lux from "./workbench/lux.mjs";
 import obscuro from "./workbench/obscuro.mjs";
 import sereno from "./workbench/sereno.mjs";
 import minimus from "./workbench/minimus.mjs";
@@ -9,9 +10,10 @@ import viola from "./workbench/viola.mjs";
 import { buildAllThemes } from "./buildAllThemes.mjs";
 
 export const THEMES = [
+   { lux: lux },
+   { hibernus: hibernus },
    { noctis: noctis },
    { azureus: azureus },
-   { lux: lux },
    { obscuro: obscuro },
    { sereno: sereno },
    { minimus: minimus },
