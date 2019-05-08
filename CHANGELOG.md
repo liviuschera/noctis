@@ -1,5 +1,10 @@
 # Change Log
 
+## **8.1.0**
+
+-  _**Noctis Lux & Hibernus**_ &rarr; reworked Settings Editor Colors
+-  various fixes
+
 ## **8.0.0**
 
 -  🆕 light theme variant &rarr; **_❄Noctis Nix❄_** 
