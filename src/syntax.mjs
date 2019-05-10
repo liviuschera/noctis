@@ -137,7 +137,9 @@ export default [{
       "source.sql.embedded",
       "punctuation.definition.placeholder",
       "source.swift",
-      "source.julia"
+      "source.julia",
+      "source.shell",
+      "variable.other.normal punctuation.definition.variable.shell"
    ],
    "settings": {
       "foreground": "#e4b781"
@@ -402,7 +404,9 @@ export default [{
       "source.scala entity.name.class",
       "punctuation.section.embedded",
       "punctuation.section.tag",
-      "punctuation.section.embedded source.swift"
+      "punctuation.section.embedded source.swift",
+      "variable.other.bracket punctuation.definition.variable",
+      "string.interpolated.dollar punctuation.definition.string"
    ],
    "settings": {
       "foreground": "#49ace9"
@@ -469,7 +473,7 @@ export default [{
       "entity.alias.import.go",
       "source.swift keyword.other.declaration-specifier",
       "support.variable.swift",
-      "keyword.other.capture-specifier",
+      "keyword.other.capture-specifier"
    ],
    "settings": {
       "fontStyle": "italic"
@@ -587,7 +591,8 @@ export default [{
       "entity.name.function.swift",
       "keyword.control.function-end.lua",
       "keyword.control.class",
-      "keyword.control.def"
+      "keyword.control.def",
+      "punctuation.definition.variable",
    ],
    "settings": {
       "fontStyle": ""

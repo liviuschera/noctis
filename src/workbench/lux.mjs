@@ -108,7 +108,7 @@ export default syntax => ({
       "tab.activeBorderTop": "#00c6e0",
       "tab.activeModifiedBorder": "#00b368",
       "tab.activeBorder": "#fef8ec",
-      "tab.unfocusedActiveBorder": "#fef8ec",
+      "tab.unfocusedActiveBorder": "#fef8ec00",
       "tab.unfocusedHoverBackground": "#0099ad21",
       // ---------------------------
       // Text Colors
