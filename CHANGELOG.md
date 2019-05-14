@@ -1,5 +1,12 @@
 # Change Log
 
+## **8.3.0**
+
+- _Noctis Viola_ &rarr; tweaked
+  - 2% increased luminosity
+  - 10% decreased saturation
+- updated README
+
 ## **8.2.0**
 
 - **Shell Script** &rarr; added support

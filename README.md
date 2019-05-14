@@ -51,7 +51,7 @@ Noctis comes in nine versions. Seven are dark and two are light.
 
 ## Noctis Viola
 
-![Noctis Viola Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisViola.png)
+![Noctis Viola Screenshot](images/noctisViola.png)
 
 </div>
 
