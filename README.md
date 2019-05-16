@@ -82,7 +82,9 @@ Noctis comes in nine versions. Seven are dark and two are light.
 - Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
 - Kotlin (requires [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) extension)
 - Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
-- Markdown
+- Markup
+  - 🆕 LaTeX (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
+  - Markdown
 - Objective-C
 - PHP
   - Laravel Blade
@@ -94,7 +96,7 @@ Noctis comes in nine versions. Seven are dark and two are light.
 - Rust
 - Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
 - SQL
-- 🆕 Shell Script
+- Shell Script
 - Swift
 - Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
 - Visual Basic

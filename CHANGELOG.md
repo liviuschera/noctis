@@ -1,8 +1,13 @@
 # Change Log
 
+## **8.4.0**
+
+- **LaTeX** &rarr; added support [#19](https://github.com/liviuschera/noctis/issues/19) (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
+- updated README
+
 ## **8.3.0**
 
-- _Noctis Viola_ &rarr; tweaked
+- _Noctis Viola_ &rarr; reworked
   - 2% increased luminosity
   - 10% decreased saturation
 - updated README

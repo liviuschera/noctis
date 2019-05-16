@@ -32,6 +32,7 @@ export default [{
       "meta.bracket.julia",
       "meta.array.julia",
       "punctuation.separator.key-value",
+      "entity.name.footnote"
    ],
    "settings": {
       "foreground": "#b2cacd"
@@ -83,7 +84,8 @@ export default [{
       "punctuation.definition.attribute",
       "punctuation.definition.preprocessor",
       "punctuation.separator.namespace",
-      "punctuation.separator.method"
+      "punctuation.separator.method",
+      "keyword.control punctuation.definition.function"
    ],
    "settings": {
       "foreground": "#df769b"
@@ -184,6 +186,7 @@ export default [{
       "support.type.vb",
       "entity.name.type.kotlin",
       "support.type.julia",
+      "constant.other.reference"
    ],
    "settings": {
       "foreground": "#d67e5c"
@@ -209,7 +212,9 @@ export default [{
       "source.vala storage.type",
       "variable.language.crystal",
       "punctuation.definition.constant",
-      "support.constant punctuation.definition.variable"
+      "support.constant punctuation.definition.variable",
+      "constant.character.math",
+      "support.class.math"
    ],
    "settings": {
       "foreground": "#d5971a"
@@ -268,7 +273,8 @@ export default [{
       "string",
       "punctuation.definition.string",
       "source.css support.constant",
-      "entity.name.import.go"
+      "entity.name.import.go",
+      "markup.raw.texttt"
    ],
    "settings": {
       "foreground": "#49e9a6"
@@ -287,7 +293,8 @@ export default [{
       "markup.inline.raw.string",
       "markup.inline.raw punctuation.definition.raw",
       "string.quoted.double.interpolated.crystal",
-      "string.quoted.double.interpolated.crystal punctuation.definition.string"
+      "string.quoted.double.interpolated.crystal punctuation.definition.string",
+      "text.tex markup.raw"
    ],
    "settings": {
       "foreground": "#16b673"
@@ -330,7 +337,9 @@ export default [{
       "meta.class.body.groovy meta.method.body.java storage.type.groovy",
       "punctuation.decorator.ts",
       "punctuation.definition.decorator",
-      "support.function.any-method"
+      "support.function.any-method",
+      "text.tex support.function",
+      "text.tex punctuation.definition.function"
    ],
    "settings": {
       "foreground": "#16a3b6"
@@ -359,7 +368,9 @@ export default [{
       "entity.mime-type.apacheconf",
       "keyword.operator.function.infix",
       "entity.name.function.infix",
-      "entity.name.function.call.kotlin"
+      "entity.name.function.call.kotlin",
+      "text.tex support.function.verb",
+      "text.tex support.function.texttt",
    ],
    "settings": {
       "foreground": "#49d6e9"
@@ -406,7 +417,8 @@ export default [{
       "punctuation.section.tag",
       "punctuation.section.embedded source.swift",
       "variable.other.bracket punctuation.definition.variable",
-      "string.interpolated.dollar punctuation.definition.string"
+      "string.interpolated.dollar punctuation.definition.string",
+       "constant.character.escape punctuation.definition.keyword",
    ],
    "settings": {
       "foreground": "#49ace9"
@@ -473,7 +485,11 @@ export default [{
       "entity.alias.import.go",
       "source.swift keyword.other.declaration-specifier",
       "support.variable.swift",
-      "keyword.other.capture-specifier"
+      "keyword.other.capture-specifier",
+      "text.tex support.function.emph",
+      "constant.other.math",
+      "support.function.textit",
+      "entity.name.footnote"
    ],
    "settings": {
       "fontStyle": "italic"
@@ -530,6 +546,7 @@ export default [{
       "punctuation.definition.preprocessor",
       "source.ruby punctuation.definition.variable",
       "punctuation.separator.method",
+      "support.function.textbf",
    ],
    "settings": {
       "fontStyle": "bold"
@@ -593,6 +610,7 @@ export default [{
       "keyword.control.class",
       "keyword.control.def",
       "punctuation.definition.variable",
+      "entity.name.section.latex"
    ],
    "settings": {
       "fontStyle": ""
