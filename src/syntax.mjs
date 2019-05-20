@@ -32,7 +32,7 @@ export default [{
       "meta.bracket.julia",
       "meta.array.julia",
       "punctuation.separator.key-value",
-      "entity.name.footnote"
+      "entity.name.footnote",
    ],
    "settings": {
       "foreground": "#b2cacd"
@@ -141,7 +141,7 @@ export default [{
       "source.swift",
       "source.julia",
       "source.shell",
-      "variable.other.normal punctuation.definition.variable.shell"
+      "variable.other.normal punctuation.definition.variable.shell",
    ],
    "settings": {
       "foreground": "#e4b781"

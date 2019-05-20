@@ -1,5 +1,9 @@
 # Change Log
 
+## **8.4.1**
+
+- _Noctis Viola_ &rarr; decreased 1% editor's background luminosity
+
 ## **8.4.0**
 
 - **LaTeX** &rarr; added support [#19](https://github.com/liviuschera/noctis/issues/19) (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
