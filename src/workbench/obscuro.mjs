@@ -6,8 +6,8 @@ export default syntax => ({
       // Editor Base Colors
       // ---------------------------
       "selection.background": "#0e657177",
-      descriptionForeground: "#929ea0",
-      errorForeground: "#e34e1c",
+      "descriptionForeground": "#929ea0",
+      "errorForeground": "#e34e1c",
       "widget.shadow": "#00000044",
       "editor.background": "#041d20",
       "editor.foreground": "#b2cacd",
@@ -243,9 +243,7 @@ export default syntax => ({
       // Diff
       // ---------------------------
       "diffEditor.insertedTextBackground": "#b2f2bb17",
-      "diffEditor.insertedTextBorder": "#b2f2bb17",
-      "diffEditor.removedTextBackground": "#bb200533",
-      "diffEditor.removedTextBorder": "#bb200533",
+      "diffEditor.removedTextBackground": "#bb200517",
       // ---------------------------
       // Debug
       // ---------------------------
@@ -258,8 +256,8 @@ export default syntax => ({
       "extensionButton.prominentBackground": "#099",
       "extensionButton.prominentForeground": "#e5f5f5",
       "extensionButton.prominentHoverBackground": "#0cc",
-      focusBorder: "#062e32",
-      foreground: "#b2cacd",
+      "focusBorder": "#062e32",
+      "foreground": "#b2cacd",
       // ---------------------------
       // Panel
       // ---------------------------
