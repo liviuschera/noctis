@@ -10,18 +10,18 @@ Noctis is a collection of light & dark themes with a well balanced blend of warm
 
 The theme is designed to:
 
-- be easy on the eyes thus reducing the eye strain
-- give semantic meaning to theme's colors
+-  be easy on the eyes thus reducing the eye strain
+-  give semantic meaning to theme's colors
 
 Noctis comes in nine versions. Seven are dark and two are light.
 
-- _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ background is a very saturated very dark cold bluish cyan
-- _Noctis Azureus'_ background is a very saturated very dark cold azure
-- _Noctis Uva's_ background is a unsaturated dark cold blue. For those with more spartan taste
-- _Noctis Minimus'_ background offers a version of the _Azureus_ palette with **much lower saturation**. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
-- _Noctis Viola's_ background is a saturated very dark cold violet
-- _Noctis Lux'_ background is a very saturated very light warm orange
-- _Noctis Hibernus'_ background is a very unsaturated very light cold bluish cyan
+-  _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ background is a very saturated very dark cold bluish cyan
+-  _Noctis Azureus'_ background is a very saturated very dark cold azure
+-  _Noctis Uva's_ background is a unsaturated dark cold blue. For those with more spartan taste
+-  _Noctis Minimus'_ background offers a version of the _Azureus_ palette with **much lower saturation**. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
+-  _Noctis Viola's_ background is a saturated very dark cold violet
+-  _Noctis Lux'_ background is a very saturated very light warm orange
+-  _Noctis Hibernus'_ background is a very unsaturated very light cold bluish cyan
 
 <div align="center">
 
@@ -57,51 +57,52 @@ Noctis comes in nine versions. Seven are dark and two are light.
 
 ## Supported Languages
 
-- C/C++
-- C#
-- Clojure
-- CoffeeScript
-- Crystal (requires [Crystal Language](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang) extension)
-- CSS
-  - Sass/SCSS
-- Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
-- Elixir (requires [ElixirLS: Elixir support and debugger](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension)
-- Erlang (requires [erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) extension)
-- Go
-- Groovy
-- Haskell (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension)
-- HTML
-  - EJS
-  - Handlebars
-  - Pug/Jade
-- Java
-- JavaScript
-  - JSON
-  - React/JSX
-  - Typescript/TSX
-- Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
-- Kotlin (requires [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) extension)
-- Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
-- Markup
-  - 🆕 LaTeX (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
-  - Markdown
-- Objective-C
-- PHP
-  - Laravel Blade
-  - Twig &rarr; (requires [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2) extension)
-- PowerShell
-- Python
-- R
-- Ruby
-- Rust
-- Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
-- SQL
-- Shell Script
-- Swift
-- Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
-- Visual Basic
-- _Other_
-  - Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
+-  C/C++
+-  C#
+-  Clojure
+-  CoffeeScript
+-  Crystal (requires [Crystal Language](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang) extension)
+-  CSS
+   -  Sass/SCSS
+-  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
+-  Elixir (requires [ElixirLS: Elixir support and debugger](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension)
+-  Erlang (requires [erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) extension)
+-  Go
+-  🆕 GraphQL (requires [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) extension)
+-  Groovy
+-  Haskell (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension)
+-  HTML
+   -  EJS
+   -  Handlebars
+   -  Pug/Jade
+-  Java
+-  JavaScript
+   -  JSON
+   -  React/JSX
+   -  Typescript/TSX
+-  Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
+-  Kotlin (requires [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) extension)
+-  Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
+-  Markup
+   -  LaTeX (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
+   -  Markdown
+-  Objective-C
+-  PHP
+   -  Laravel Blade
+   -  Twig &rarr; (requires [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2) extension)
+-  PowerShell
+-  Python
+-  R
+-  Ruby
+-  Rust
+-  Scala (requires [Scala Syntax](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) extension)
+-  SQL
+-  Shell Script
+-  Swift
+-  Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
+-  Visual Basic
+-  _Other_
+   -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
 
 I plan on adding support for new languages in the upcoming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 
@@ -132,9 +133,9 @@ The walkthrough is for Windows. I assume that for Unix and MacOS you would have 
 
 > NOTES:
 >
-> - if VS Code complains about that it is corrupted, simply click “Don't show again”.
-> - every time after VS Code is updated or you change the configuration, please re-enable Custom CSS
-> - make sure that you comment out the optional CSS code if you don't want to change the UI's default font.
+> -  if VS Code complains about that it is corrupted, simply click “Don't show again”.
+> -  every time after VS Code is updated or you change the configuration, please re-enable Custom CSS
+> -  make sure that you comment out the optional CSS code if you don't want to change the UI's default font.
 
 ## Syntax colors
 
@@ -202,9 +203,9 @@ Noctis can be installed by clicking on Ctrl + Shift + X on Windows or ⇧ + ⌘ 
 
 Beginning with v7.21.0 the theme building process has been simplified. I started off with the idea used in [Lucy](https://marketplace.visualstudio.com/items?itemName=juliettepretot.lucy-vscode) theme and came up with this theme generator powered by Node.js. This will allow me or any contributor to easily add/suggest new theme variants or changes to the existing ones. In `./src/` folder you will find:
 
-- `syntax.mjs` &rarr; syntax tokens based on the language grammar installed
-- `colors.mjs` &rarr; the colors used for syntax highlighting
-- `./src/workbench/` &rarr; all eight theme versions containing Workbench/UI colors
+-  `syntax.mjs` &rarr; syntax tokens based on the language grammar installed
+-  `colors.mjs` &rarr; the colors used for syntax highlighting
+-  `./src/workbench/` &rarr; all eight theme versions containing Workbench/UI colors
 
 After you make a change in any of the above files you need to use `npm run build` command. The build output folder is `./themes/`
 

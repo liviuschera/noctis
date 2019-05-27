@@ -1,5 +1,10 @@
 # Change Log
 
+## **8.6.0**
+
+-  **GraphQL** &rarr; added support (requires [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) extension)
+-  updated README
+
 ## **8.5.0**
 
 -  diff editor colors &rarr; eliminated coloring for inserted and removed text border [#20](https://github.com/liviuschera/noctis/issues/20)

@@ -186,7 +186,8 @@ export default [{
       "support.type.vb",
       "entity.name.type.kotlin",
       "support.type.julia",
-      "constant.other.reference"
+      "constant.other.reference",
+      "source.graphql support.type"
    ],
    "settings": {
       "foreground": "#d67e5c"
@@ -214,7 +215,8 @@ export default [{
       "punctuation.definition.constant",
       "support.constant punctuation.definition.variable",
       "constant.character.math",
-      "support.class.math"
+      "support.class.math",
+      "source.graphql constant.character"
    ],
    "settings": {
       "foreground": "#d5971a"
@@ -418,7 +420,7 @@ export default [{
       "punctuation.section.embedded source.swift",
       "variable.other.bracket punctuation.definition.variable",
       "string.interpolated.dollar punctuation.definition.string",
-       "constant.character.escape punctuation.definition.keyword",
+      "constant.character.escape punctuation.definition.keyword",
    ],
    "settings": {
       "foreground": "#49ace9"
@@ -489,7 +491,9 @@ export default [{
       "text.tex support.function.emph",
       "constant.other.math",
       "support.function.textit",
-      "entity.name.footnote"
+      "entity.name.footnote",
+      "entity.name.function.directive.graphql",
+      "source.graphql support.type.enum"
    ],
    "settings": {
       "fontStyle": "italic"
@@ -547,6 +551,7 @@ export default [{
       "source.ruby punctuation.definition.variable",
       "punctuation.separator.method",
       "support.function.textbf",
+      "source.graphql support.type.builtin"
    ],
    "settings": {
       "fontStyle": "bold"
