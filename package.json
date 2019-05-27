@@ -47,6 +47,11 @@
             "path": "./themes/hibernus.json"
          },
          {
+            "label": "Noctis Susurrus",
+            "uiTheme": "vs",
+            "path": "./themes/susurrus.json"
+         },
+         {
             "label": "Noctis",
             "uiTheme": "vs-dark",
             "path": "./themes/noctis.json"
