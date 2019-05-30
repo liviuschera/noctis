@@ -5,6 +5,7 @@ export default [{
       "punctuation.definition.comment",
       "punctuation.definition.tag",
       "comment.block.documentation punctuation.definition.bracket",
+      "source.ocaml comment constant.regexp meta.separator"
    ],
    "settings": {
       "foreground": "#5b858b"
@@ -33,6 +34,10 @@ export default [{
       "meta.array.julia",
       "punctuation.separator.key-value",
       "entity.name.footnote",
+      "source.ocaml punctuation.definition.tag",
+      "source.ocaml entity.name.filename",
+      "source.reason entity.name.filename",
+      "entity.other.attribute-name strong"
    ],
    "settings": {
       "foreground": "#b2cacd"
@@ -85,7 +90,9 @@ export default [{
       "punctuation.definition.preprocessor",
       "punctuation.separator.namespace",
       "punctuation.separator.method",
-      "keyword.control punctuation.definition.function"
+      "keyword.control punctuation.definition.function",
+      "source.ocaml variable.interpolation string",
+      "source.reason variable.interpolation",
    ],
    "settings": {
       "foreground": "#df769b"
@@ -142,6 +149,8 @@ export default [{
       "source.julia",
       "source.shell",
       "variable.other.normal punctuation.definition.variable.shell",
+      "source.reason variable.language",
+      "source.reason variable.language string.other.link"
    ],
    "settings": {
       "foreground": "#e4b781"
@@ -187,7 +196,8 @@ export default [{
       "entity.name.type.kotlin",
       "support.type.julia",
       "constant.other.reference",
-      "source.graphql support.type"
+      "source.graphql support.type",
+      "source.reason support.type string",
    ],
    "settings": {
       "foreground": "#d67e5c"
@@ -216,7 +226,8 @@ export default [{
       "support.constant punctuation.definition.variable",
       "constant.character.math",
       "support.class.math",
-      "source.graphql constant.character"
+      "source.graphql constant.character",
+      "source.reason constant.language.list"
    ],
    "settings": {
       "foreground": "#d5971a"
@@ -263,7 +274,9 @@ export default [{
       "keyword.other.declaration-specifier.swift",
       "keyword.control.function-end.lua",
       "keyword.control.class",
-      "keyword.control.def"
+      "keyword.control.def",
+      "source.ocaml keyword markup.underline",
+      "source.ocaml storage.type markup.underline"
    ],
    "settings": {
       "foreground": "#e66533"
@@ -312,7 +325,7 @@ export default [{
       "punctuation.separator.question-mark.cs",
       "constant.integer.apacheconf",
       "keyword.operator.nullable-type",
-      "constant.language punctuation.definition.variable"
+      "constant.language punctuation.definition.variable",
    ],
    "settings": {
       "foreground": "#7060eb"
@@ -373,6 +386,9 @@ export default [{
       "entity.name.function.call.kotlin",
       "text.tex support.function.verb",
       "text.tex support.function.texttt",
+      "source.reason constant.language.unit",
+      "source.ocaml constant.language constant.numeric entity.other.attribute-name.id.css",
+      "source.reason entity.other.attribute-name constant.language constant.numeric",
    ],
    "settings": {
       "foreground": "#49d6e9"
@@ -421,6 +437,8 @@ export default [{
       "variable.other.bracket punctuation.definition.variable",
       "string.interpolated.dollar punctuation.definition.string",
       "constant.character.escape punctuation.definition.keyword",
+      "source.ocaml entity.name.class constant.numeric",
+      "source.reason entity.name.class",
    ],
    "settings": {
       "foreground": "#49ace9"
@@ -493,7 +511,9 @@ export default [{
       "support.function.textit",
       "entity.name.footnote",
       "entity.name.function.directive.graphql",
-      "source.graphql support.type.enum"
+      "source.graphql support.type.enum",
+      "source.ocaml entity.name.filename",
+      "source.reason entity.name.filename"
    ],
    "settings": {
       "fontStyle": "italic"
@@ -551,7 +571,8 @@ export default [{
       "source.ruby punctuation.definition.variable",
       "punctuation.separator.method",
       "support.function.textbf",
-      "source.graphql support.type.builtin"
+      "source.graphql support.type.builtin",
+      "source.ocaml variable.interpolation string",
    ],
    "settings": {
       "fontStyle": "bold"
@@ -574,7 +595,8 @@ export default [{
       "entity.name.lifetime.rust",
       "source.rust meta.attribute.rust",
       "meta.attribute.id entity.other.attribute-name",
-      "keyword.other.fn.rust"
+      "keyword.other.fn.rust",
+      "source.ocaml punctuation.definition.tag emphasis"
    ],
    "settings": {
       "fontStyle": "bold italic"
@@ -615,7 +637,10 @@ export default [{
       "keyword.control.class",
       "keyword.control.def",
       "punctuation.definition.variable",
-      "entity.name.section.latex"
+      "entity.name.section.latex",
+      "source.ocaml keyword markup.underline",
+      "source.ocaml constant.language constant.numeric entity.other.attribute-name.id.css",
+      "source.reason entity.other.attribute-name constant.language constant.numeric"
    ],
    "settings": {
       "fontStyle": ""

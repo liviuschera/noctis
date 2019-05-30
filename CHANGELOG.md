@@ -1,5 +1,10 @@
 # Change Log
 
+## **8.7.0**
+
+-  **Ocaml & Reason** &rarr; added support (requires [reason-vscode](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) extension)
+-  updated README
+
 ## **8.6.0**
 
 -  **GraphQL** &rarr; added support (requires [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) extension)
