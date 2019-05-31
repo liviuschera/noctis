@@ -1,5 +1,9 @@
 # Change Log
 
+## **8.8.0**
+
+- reworked terminal colors [#21](https://github.com/liviuschera/noctis/issues/21)
+
 ## **8.7.0**
 
 -  **Ocaml & Reason** &rarr; added support (requires [reason-vscode](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) extension)
