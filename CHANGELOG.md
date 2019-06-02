@@ -1,5 +1,9 @@
 # Change Log
 
+## **8.8.1**
+
+- tweaks [#21](https://github.com/liviuschera/noctis/issues/21)
+
 ## **8.8.0**
 
 - reworked terminal colors [#21](https://github.com/liviuschera/noctis/issues/21)

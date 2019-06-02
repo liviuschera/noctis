@@ -193,7 +193,7 @@ export default syntax => ({
       // ---------------------------
       // Integrated Terminal Colors
       // ---------------------------
-      "terminal.ansiBlack": "#324a4d",
+      "terminal.ansiBlack": "#362f3d",
       "terminal.ansiRed": "#e66533",
       "terminal.ansiGreen": "#49e9a6",
       "terminal.ansiYellow": "#e4b781",
@@ -201,7 +201,7 @@ export default syntax => ({
       "terminal.ansiMagenta": "#df769b",
       "terminal.ansiCyan": "#49d6e9",
       "terminal.ansiWhite": "#bfafcf",
-      "terminal.ansiBrightBlack": "#47686c",
+      "terminal.ansiBrightBlack": "#594e65",
       "terminal.ansiBrightRed": "#e97749",
       "terminal.ansiBrightGreen": "#60ebb1",
       "terminal.ansiBrightYellow": "#e69533",
