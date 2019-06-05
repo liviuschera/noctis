@@ -15,7 +15,7 @@ export async function buildTheme(path, syntaxColors, themeWorkbench, themeName) 
    const writeFileAsync = promisify(fs.writeFile);
    const theme = themeWorkbench(syntaxWithColors);
    try {
-      await writeFileAsync(path, JSON.stringify(theme));
+      await writeFileAsync(path, JSON.stringify(theme, null, 3));
       console.log(`✔  ${themeName} theme built`);
    }
    catch (error) {

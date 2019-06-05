@@ -1,3 +1,4 @@
+import fs from "fs";
 /**
  *
  *
@@ -7,7 +8,10 @@
 export function makeThemePath(themesArray) {
    const PATHS = [];
    themesArray.forEach(theme => {
-      PATHS.push(`./themes/${Object.keys(theme)}.json`);
+      let path = `./themes/${Object.keys(theme)}.json`;
+      fs.unlinkSync(path);
+      PATHS.push(path);
+
    });
    return PATHS;
 }
