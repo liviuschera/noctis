@@ -9,7 +9,9 @@ export function makeThemePath(themesArray) {
    const PATHS = [];
    themesArray.forEach(theme => {
       let path = `./themes/${Object.keys(theme)}.json`;
-      fs.unlinkSync(path);
+      if (fs.existsSync(path)) {
+         fs.unlinkSync(path);
+      }
       PATHS.push(path);
 
    });
