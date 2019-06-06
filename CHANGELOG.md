@@ -1,5 +1,9 @@
 # Change Log
 
+## **8.10.0**
+
+- improvements, fixes [#23](https://github.com/liviuschera/noctis/pull/23)
+
 ## **8.9.0**
 
 - improvement [#22](https://github.com/liviuschera/noctis/pull/22)
