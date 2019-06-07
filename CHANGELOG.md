@@ -1,5 +1,9 @@
 # Change Log
 
+## **8.10.1**
+
+- fixed the css selector for the workbench in `.vscodecustom.css` changed in VSCode v1.35.0
+
 ## **8.10.0**
 
 - improvements, fixes [#23](https://github.com/liviuschera/noctis/pull/23)
