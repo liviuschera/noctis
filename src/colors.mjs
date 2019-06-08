@@ -31,6 +31,22 @@ export default {
       misc: "#0094f0",
       invalid: "#ff530f"
    },
+   susurrus: {
+      comment: "#9995b7",
+      text: "#0b0061",
+      keyword: "#ff5792",
+      variable: "#f49725",
+      annotation: "#ba785e",
+      constant: "#a88c00",
+      tag: "#e64100",
+      string: "#00b368",
+      stringInterpolated: "#009456",
+      number: "#5842ff",
+      function: "#0095a8",
+      support: "#00bdd6",
+      misc: "#0094f0",
+      invalid: "#ff530f"
+   },
    minimus: {
       comment: "#5e7887",
       text: "#c5cdd3",
