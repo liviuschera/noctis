@@ -1,5 +1,10 @@
 # Change Log
 
+## **9.0.0**
+
+-  🆕 light theme variant &rarr; **_Noctis Lilac_**
+-  updated README
+
 ## **8.10.1**
 
 - fixed the css selector for the workbench in `.vscodecustom.css` changed in VSCode v1.35.0
@@ -64,7 +69,7 @@
 
 ## **8.0.0**
 
--  🆕 light theme variant &rarr; **_❄Noctis Nix❄_**
+-  🆕 light theme variant &rarr; **_❄Noctis Hibernus❄_**
 -  updated README
 
 **7.28.1**

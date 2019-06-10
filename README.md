@@ -25,13 +25,17 @@ Noctis comes in nine versions. Seven are dark and two are light.
 
 <div align="center">
 
-## 🆕❄Noctis Hibernus❄🆕
+## 🆕 Noctis Lilac 🆕
 
-![Noctis Hibernus Screenshot](images/noctisHibernus.png)
+![Noctis Lilac Screenshot](images/noctisLilac.png)
 
 ## Noctis Lux
 
 ![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
+
+## Noctis Hibernus
+
+![Noctis Hibernus Screenshot](images/noctisHibernus.png)
 
 ## Noctis
 
@@ -187,7 +191,8 @@ The color names were matched using the excellent online tools [Name that Color](
 | ---------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
 | Jade             | ![#00b368](https://placehold.it/15/00b368/000000?text=+) `#00b368` | Strings                                                   |
 | Green Haze       | ![#009456](https://placehold.it/15/009456/000000?text=+) `#009456` | Interpolated Strings                                      |
-| Cascade          | ![#8ca6a6](https://placehold.it/15/8ca6a6/000000?text=+) `#8ca6a6` | Comments                                                  |
+| Cascade          | ![#8ca6a6](https://placehold.it/15/8ca6a6/000000?text=+) `#8ca6a6` | Comments for _Lux_ & _Hibernus_ variant                   |
+| Amethyst Smoke   | ![#9995b7](https://placehold.it/15/9995b7/000000?text=+) `#9995b7` | Comments for _Lilac_ variant                              |
 | Bondi Blue       | ![#0095a8](https://placehold.it/15/0095a8/000000?text=+) `#0095a8` | Function Calls                                            |
 | Robin's Egg Blue | ![#00bdd6](https://placehold.it/15/00bdd6/000000?text=+) `#00bdd6` | Method Calls                                              |
 | Azure Radiance   | ![#0094f0](https://placehold.it/15/0094f0/000000?text=+) `#0094f0` | Code that needs to stand out                              |

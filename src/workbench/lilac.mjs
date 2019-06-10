@@ -1,5 +1,5 @@
 export default syntax => ({
-   name: "Noctis Susurrus",
+   name: "Noctis Lilac",
    type: "dark",
    colors: {
       // ---------------------------
@@ -10,7 +10,7 @@ export default syntax => ({
       "errorForeground": "#ff4000",
       "widget.shadow": "#00000055",
       "editor.background": "#f2f1f8",
-      "editor.foreground": "#0b0061",
+      "editor.foreground": "#0c006b",
       "editorLineNumber.foreground": "#9d9ab1",
       "editorLineNumber.activeForeground": "#7060eb",
       "editorCursor.foreground": "#5c49e9",
@@ -65,7 +65,7 @@ export default syntax => ({
       // ---------------------------
       "dropdown.background": "#f2f1f8",
       "dropdown.border": "#f2f1f8",
-      "dropdown.foreground": "#0b0061",
+      "dropdown.foreground": "#0c006b",
       // ---------------------------
       // Editor Marker Navigation
       // ---------------------------
@@ -194,26 +194,26 @@ export default syntax => ({
       // ---------------------------
       // Integrated Terminal Colors
       // ---------------------------
-      "terminal.ansiBlack": "#000000",
+      "terminal.ansiBlack": "#0c006b",
       "terminal.ansiRed": "#e34e1c",
-      "terminal.ansiGreen": "#00c724",
-      "terminal.ansiYellow": "#e9a149",
-      "terminal.ansiBlue": "#339be6",
-      "terminal.ansiMagenta": "#e94981",
-      "terminal.ansiCyan": "#1597a8",
-      "terminal.ansiWhite": "#bbc3c4",
-      "terminal.ansiBrightBlack": "#75718e",
+      "terminal.ansiGreen": "#00b368",
+      "terminal.ansiYellow": "#f49725",
+      "terminal.ansiBlue": "#0094f0",
+      "terminal.ansiMagenta": "#ff5792",
+      "terminal.ansiCyan": "#00bdd6",
+      "terminal.ansiWhite": "#8ca6a6",
+      "terminal.ansiBrightBlack": "#0f0080",
       "terminal.ansiBrightRed": "#ff4000",
-      "terminal.ansiBrightGreen": "#00e62a",
-      "terminal.ansiBrightYellow": "#ffbf00",
-      "terminal.ansiBrightBlue": "#0095ff",
-      "terminal.ansiBrightMagenta": "#ff337a",
-      "terminal.ansiBrightCyan": "#00c9db",
-      "terminal.ansiBrightWhite": "#dfffff",
+      "terminal.ansiBrightGreen": "#00d17a",
+      "terminal.ansiBrightYellow": "#ff8c00",
+      "terminal.ansiBrightBlue": "#0fa3ff",
+      "terminal.ansiBrightMagenta": "#ff6b9f",
+      "terminal.ansiBrightCyan": "#00cbe6",
+      "terminal.ansiBrightWhite": "#bbc3c4",
       "terminal.background": "#e2dff6",
-      "terminal.foreground": "#0b0061",
+      "terminal.foreground": "#0c006b",
       "terminalCursor.background": "#e2dff6",
-      "terminalCursor.foreground": "#0b0061",
+      "terminalCursor.foreground": "#0c006b",
       // ---------------------------
       // Merge
       // ---------------------------
@@ -232,13 +232,13 @@ export default syntax => ({
       // Notification Colors
       // ---------------------------
       "notificationCenter.border": "#dedbf5",
-      "notificationCenterHeader.foreground": "#0b0061",
+      "notificationCenterHeader.foreground": "#0c006b",
       "notificationCenterHeader.background": "#dedbf5",
       "notificationToast.border": "#dedbf5",
-      "notifications.foreground": "#0b0061",
+      "notifications.foreground": "#0c006b",
       "notifications.background": "#dedbf5",
       "notifications.border": "#dedbf5",
-      "notificationLink.foreground": "#0b0061",
+      "notificationLink.foreground": "#0c006b",
       // ---------------------------
       // Diff
       // ---------------------------
@@ -259,7 +259,7 @@ export default syntax => ({
       "extensionButton.prominentForeground": "#e4e2f9",
       "extensionButton.prominentHoverBackground": "#a599ff",
       "focusBorder": "#dedbf5",
-      "foreground": "#0b0061",
+      "foreground": "#0c006b",
       // ---------------------------
       // Panel
       // ---------------------------
@@ -314,13 +314,13 @@ export default syntax => ({
       // Lists and Trees
       // ---------------------------
       "list.activeSelectionBackground": "#bcb6e7",
-      "list.activeSelectionForeground": "#0b0061",
+      "list.activeSelectionForeground": "#0c006b",
       "list.dropBackground": "#afaad4aa",
       "list.focusBackground": "#c3beea",
-      "list.focusForeground": "#0b0061",
+      "list.focusForeground": "#0c006b",
       "list.highlightForeground": "#7060eb",
       "list.hoverBackground": "#d2ccff",
-      "list.hoverForeground": "#0b0061",
+      "list.hoverForeground": "#0c006b",
       "list.inactiveFocusBackground": "#cec9ed",
       "list.inactiveSelectionBackground": "#d7d3f3",
       "list.inactiveSelectionForeground": "#838099",
@@ -332,7 +332,7 @@ export default syntax => ({
       // ---------------------------
       // Settings Editor Colors
       // ---------------------------
-      "settings.headerForeground": "#0b0061",
+      "settings.headerForeground": "#0c006b",
       "settings.modifiedItemIndicator": "#00bd23",
       "settings.dropdownListBorder": "#b4adeb88",
       "settings.dropdownBackground": "#dedbf5",
@@ -353,14 +353,14 @@ export default syntax => ({
       "breadcrumb.foreground": "#75718e",
       "breadcrumb.background": "#f2f1f8",
       "breadcrumb.focusForeground": "#7060eb",
-      "breadcrumb.activeSelectionForeground": "#0b0061",
+      "breadcrumb.activeSelectionForeground": "#0c006b",
       "breadcrumbPicker.background": "#dedbf5",
       // ---------------------------
       // Title bar
       // Note: These colors are currently only supported on macOS.
       // ---------------------------
       "titleBar.activeBackground": "#eae9f7",
-      "titleBar.activeForeground": "#0b0061",
+      "titleBar.activeForeground": "#0c006b",
       "titleBar.inactiveBackground": "#eae9f7",
       "titleBar.inactiveForeground": "#75718e",
       // ---------------------------

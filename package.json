@@ -18,7 +18,7 @@
    },
    "scripts": {
       "build": "node --experimental-modules src/build.mjs",
-      "release:major---": "npm run build && git add . && git commit -m ❄8.0.0❄ && npm version major & vsce publish && git push",
+      "release:major---": "npm run build && git add . && git commit -m 🆕9.0.0🆕 && npm version major & vsce publish && git push",
       "release:minor": "npm run build && git add . && git commit -m 8.10.0 && npm version minor & vsce publish && git push",
       "release:patch": "npm run build && git add . && git commit -m 8.10.1 && npm version patch & vsce publish && git push"
    },
@@ -45,6 +45,11 @@
             "label": "Noctis Hibernus",
             "uiTheme": "vs",
             "path": "./themes/hibernus.json"
+         },
+         {
+            "label": "Noctis Lilac",
+            "uiTheme": "vs",
+            "path": "./themes/lilac.json"
          },
          {
             "label": "Noctis",

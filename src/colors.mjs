@@ -31,9 +31,9 @@ export default {
       misc: "#0094f0",
       invalid: "#ff530f"
    },
-   susurrus: {
+   lilac: {
       comment: "#9995b7",
-      text: "#0b0061",
+      text: "#0c006b",
       keyword: "#ff5792",
       variable: "#f49725",
       annotation: "#ba785e",
