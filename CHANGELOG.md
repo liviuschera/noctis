@@ -1,5 +1,10 @@
 # Change Log
 
+## **9.1.0**
+
+- light themes &rarr; improved contrast of annotation color: #ba785e &rarr; #b3694d
+- updated README
+
 ## **9.0.0**
 
 -  🆕 light theme variant &rarr; **_Noctis Lilac_**

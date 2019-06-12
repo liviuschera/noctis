@@ -31,7 +31,7 @@ Noctis comes in nine versions. Seven are dark and two are light.
 
 ## Noctis Lux
 
-![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
+![Noctis Lux Screenshot](images/noctisLux.png)
 
 ## Noctis Hibernus
 
@@ -199,7 +199,7 @@ The color names were matched using the excellent online tools [Name that Color](
 | Electric Violet  | ![#5842ff](https://placehold.it/15/5842ff/000000?text=+) `#5842ff` | Numbers & Booleans                                        |
 | PBrink Pink      | ![#ff5792](https://placehold.it/15/ff5792/000000?text=+) `#ff5792` | Keywords & Operators                                      |
 | Trinidad         | ![#e64100](https://placehold.it/15/e64100/000000?text=+) `#e64100` | Function & Variable Declaration, Tags & `this`            |
-| Santa Fe         | ![#ba785e](https://placehold.it/15/ba785e/000000?text=+) `#ba785e` | Object properties, ID selectors in CSS & Type annotations |
+| Santa Fe         | ![#b3694d](https://placehold.it/15/b3694d/000000?text=+) `#b3694d` | Object properties, ID selectors in CSS & Type annotations |
 | Dark Goldenrod   | ![#a88c00](https://placehold.it/15/a88c00/000000?text=+) `#a88c00` | Attributes, Constants                                     |
 | Yellow Sea       | ![#f49725](https://placehold.it/15/f49725/000000?text=+) `#f49725` | Variables & Parameters                                    |
 
