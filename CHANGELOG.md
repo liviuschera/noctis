@@ -1,5 +1,10 @@
 # Change Log
 
+## **9.2.0**
+
+-  **F#** &rarr; added support
+-  updated README
+
 ## **9.1.0**
 
 - light themes &rarr; improved contrast of annotation color: #ba785e &rarr; #b3694d

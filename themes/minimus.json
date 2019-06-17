@@ -308,7 +308,8 @@
             "source.ocaml punctuation.definition.tag",
             "source.ocaml entity.name.filename",
             "source.reason entity.name.filename",
-            "entity.other.attribute-name strong"
+            "entity.other.attribute-name strong",
+            "binding.fsharp keyword.symbol.fsharp"
          ],
          "settings": {
             "foreground": "#c5cdd3"
@@ -468,7 +469,8 @@
             "support.type.julia",
             "constant.other.reference",
             "source.graphql support.type",
-            "source.reason support.type string"
+            "source.reason support.type string",
+            "entity.name.type.fsharp"
          ],
          "settings": {
             "foreground": "#be856f"
@@ -547,7 +549,10 @@
             "keyword.control.class",
             "keyword.control.def",
             "source.ocaml keyword markup.underline",
-            "source.ocaml storage.type markup.underline"
+            "source.ocaml storage.type markup.underline",
+            "binding.fsharp keyword",
+            "function.anonymous keyword",
+            "function.anonymous keyword.symbol.fsharp"
          ],
          "settings": {
             "foreground": "#c37455"
@@ -596,7 +601,8 @@
             "punctuation.separator.question-mark.cs",
             "constant.integer.apacheconf",
             "keyword.operator.nullable-type",
-            "constant.language punctuation.definition.variable"
+            "constant.language punctuation.definition.variable",
+            "constant.others.fsharp"
          ],
          "settings": {
             "foreground": "#7068b1"
@@ -625,7 +631,8 @@
             "punctuation.definition.decorator",
             "support.function.any-method",
             "text.tex support.function",
-            "text.tex punctuation.definition.function"
+            "text.tex punctuation.definition.function",
+            "entity.name.section.fsharp entity.name.section.fsharp"
          ],
          "settings": {
             "foreground": "#3f848d"
@@ -659,7 +666,8 @@
             "text.tex support.function.texttt",
             "source.reason constant.language.unit",
             "source.ocaml constant.language constant.numeric entity.other.attribute-name.id.css",
-            "source.reason entity.other.attribute-name constant.language constant.numeric"
+            "source.reason entity.other.attribute-name constant.language constant.numeric",
+            "constant.language.unit.fsharp"
          ],
          "settings": {
             "foreground": "#72b7c0"
@@ -709,7 +717,8 @@
             "string.interpolated.dollar punctuation.definition.string",
             "constant.character.escape punctuation.definition.keyword",
             "source.ocaml entity.name.class constant.numeric",
-            "source.reason entity.name.class"
+            "source.reason entity.name.class",
+            "keyword.format.specifier.fsharp"
          ],
          "settings": {
             "foreground": "#5998c0"
@@ -784,7 +793,10 @@
             "entity.name.function.directive.graphql",
             "source.graphql support.type.enum",
             "source.ocaml entity.name.filename",
-            "source.reason entity.name.filename"
+            "source.reason entity.name.filename",
+            "abstract.definition.fsharp keyword",
+            "abstract.definition.fsharp entity",
+            "function.anonymous keyword"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -911,7 +923,16 @@
             "entity.name.section.latex",
             "source.ocaml keyword markup.underline",
             "source.ocaml constant.language constant.numeric entity.other.attribute-name.id.css",
-            "source.reason entity.other.attribute-name constant.language constant.numeric"
+            "source.reason entity.other.attribute-name constant.language constant.numeric",
+            "keyword.format.specifier.fsharp",
+            "entity.name.section.fsharp",
+            "binding.fsharp keyword",
+            "binding.fsharp keyword.symbol",
+            "record.fsharp keyword",
+            "keyword.symbol.fsharp",
+            "entity.name.section.fsharp keyword",
+            "namespace.open.fsharp keyword",
+            "namespace.open.fsharp entity"
          ],
          "settings": {
             "fontStyle": ""
