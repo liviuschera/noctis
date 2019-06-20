@@ -1,5 +1,9 @@
 # Change Log
 
+## **9.3.0**
+
+- added new color `tab.unfocusedActiveBackground` introduced in VSCode v1.35
+
 ## **9.2.0**
 
 -  **F#** &rarr; added support

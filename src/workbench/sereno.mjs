@@ -101,6 +101,7 @@ export default syntax => ({
       // Editor Tabs
       // ---------------------------
       "tab.activeBackground": "#062e32",
+      "tab.unfocusedActiveBackground":"#112527",
       "tab.activeForeground": "#40d4e7",
       "tab.border": "#0f1415",
       "tab.inactiveBackground": "#062e32",

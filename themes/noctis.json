@@ -65,6 +65,7 @@
       "editorGroupHeader.tabsBackground": "#062e32",
       "editorGroupHeader.tabsBorder": "#062e32",
       "tab.activeBackground": "#052529",
+      "tab.unfocusedActiveBackground": "#0e1e20",
       "tab.activeForeground": "#40d4e7",
       "tab.border": "#0f1415",
       "tab.inactiveBackground": "#062e32",
