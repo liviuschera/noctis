@@ -1,5 +1,10 @@
 # Change Log
 
+## **9.4.0**
+
+-  **Elm** &rarr; added support (requires [elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) extension)
+-  updated README
+
 ## **9.3.0**
 
 - added new color `tab.unfocusedActiveBackground` introduced in VSCode v1.35

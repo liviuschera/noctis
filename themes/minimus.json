@@ -310,7 +310,9 @@
             "source.ocaml entity.name.filename",
             "source.reason entity.name.filename",
             "entity.other.attribute-name strong",
-            "binding.fsharp keyword.symbol.fsharp"
+            "binding.fsharp keyword.symbol.fsharp",
+            "entity.name.record.field.elm",
+            "entity.name.record.field.accessor.elm"
          ],
          "settings": {
             "foreground": "#c5cdd3"
@@ -423,7 +425,9 @@
             "source.shell",
             "variable.other.normal punctuation.definition.variable.shell",
             "source.reason variable.language",
-            "source.reason variable.language string.other.link"
+            "source.reason variable.language string.other.link",
+            "source.elm meta.value",
+            "source.elm meta.declaration.module"
          ],
          "settings": {
             "foreground": "#d3b692"
@@ -471,7 +475,8 @@
             "constant.other.reference",
             "source.graphql support.type",
             "source.reason support.type string",
-            "entity.name.type.fsharp"
+            "entity.name.type.fsharp",
+            "source.elm storage.type"
          ],
          "settings": {
             "foreground": "#be856f"
@@ -719,7 +724,8 @@
             "constant.character.escape punctuation.definition.keyword",
             "source.ocaml entity.name.class constant.numeric",
             "source.reason entity.name.class",
-            "keyword.format.specifier.fsharp"
+            "keyword.format.specifier.fsharp",
+            "support.module.elm"
          ],
          "settings": {
             "foreground": "#5998c0"
@@ -797,7 +803,8 @@
             "source.reason entity.name.filename",
             "abstract.definition.fsharp keyword",
             "abstract.definition.fsharp entity",
-            "function.anonymous keyword"
+            "function.anonymous keyword",
+            "entity.name.record.field.accessor.elm"
          ],
          "settings": {
             "fontStyle": "italic"

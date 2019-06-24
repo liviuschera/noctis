@@ -38,7 +38,9 @@ export default [{
          "source.ocaml entity.name.filename",
          "source.reason entity.name.filename",
          "entity.other.attribute-name strong",
-         "binding.fsharp keyword.symbol.fsharp"
+         "binding.fsharp keyword.symbol.fsharp",
+         "entity.name.record.field.elm",
+         "entity.name.record.field.accessor.elm"
       ],
       "settings": {
          "foreground": "#b2cacd"
@@ -93,7 +95,7 @@ export default [{
          "punctuation.separator.method",
          "keyword.control punctuation.definition.function",
          "source.ocaml variable.interpolation string",
-         "source.reason variable.interpolation",
+         "source.reason variable.interpolation"
       ],
       "settings": {
          "foreground": "#df769b"
@@ -151,7 +153,9 @@ export default [{
          "source.shell",
          "variable.other.normal punctuation.definition.variable.shell",
          "source.reason variable.language",
-         "source.reason variable.language string.other.link"
+         "source.reason variable.language string.other.link",
+         "source.elm meta.value",
+         "source.elm meta.declaration.module",
       ],
       "settings": {
          "foreground": "#e4b781"
@@ -199,7 +203,8 @@ export default [{
          "constant.other.reference",
          "source.graphql support.type",
          "source.reason support.type string",
-         "entity.name.type.fsharp"
+         "entity.name.type.fsharp",
+         "source.elm storage.type",
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -229,7 +234,7 @@ export default [{
          "constant.character.math",
          "support.class.math",
          "source.graphql constant.character",
-         "source.reason constant.language.list"
+         "source.reason constant.language.list",
       ],
       "settings": {
          "foreground": "#d5971a"
@@ -331,7 +336,7 @@ export default [{
          "constant.integer.apacheconf",
          "keyword.operator.nullable-type",
          "constant.language punctuation.definition.variable",
-         "constant.others.fsharp"
+         "constant.others.fsharp",
       ],
       "settings": {
          "foreground": "#7060eb"
@@ -448,7 +453,7 @@ export default [{
          "source.ocaml entity.name.class constant.numeric",
          "source.reason entity.name.class",
          "keyword.format.specifier.fsharp",
-
+         "support.module.elm"
       ],
       "settings": {
          "foreground": "#49ace9"
@@ -527,6 +532,7 @@ export default [{
          "abstract.definition.fsharp keyword",
          "abstract.definition.fsharp entity",
          "function.anonymous keyword",
+         "entity.name.record.field.accessor.elm"
       ],
       "settings": {
          "fontStyle": "italic"
@@ -585,7 +591,7 @@ export default [{
          "punctuation.separator.method",
          "support.function.textbf",
          "source.graphql support.type.builtin",
-         "source.ocaml variable.interpolation string"
+         "source.ocaml variable.interpolation string",
       ],
       "settings": {
          "fontStyle": "bold"
@@ -662,7 +668,7 @@ export default [{
          "keyword.symbol.fsharp",
          "entity.name.section.fsharp keyword",
          "namespace.open.fsharp keyword",
-         "namespace.open.fsharp entity"
+         "namespace.open.fsharp entity",
       ],
       "settings": {
          "fontStyle": ""
