@@ -1,5 +1,10 @@
 # Change Log
 
+## **9.5.0**
+
+- _Noctis Hibernus_ &rarr; improved contrast for `list.inactiveSelectionBackground`
+- _Noctis Lilac_ &rarr; increased luminosity for panel and terminal background
+
 ## **9.4.0**
 
 -  **Elm** &rarr; added support (requires [elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) extension)

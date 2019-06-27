@@ -225,7 +225,7 @@
       "list.hoverBackground": "#d1eafa",
       "list.hoverForeground": "#005661",
       "list.inactiveFocusBackground": "#c9eaed",
-      "list.inactiveSelectionBackground": "#d5eef1",
+      "list.inactiveSelectionBackground": "#c6e7ec",
       "list.inactiveSelectionForeground": "#949384",
       "list.errorForeground": "#c9481d",
       "list.warningForeground": "#e07a52",

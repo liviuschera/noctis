@@ -99,7 +99,7 @@ export default syntax => ({
       // Editor Tabs
       // ---------------------------
       "tab.activeBackground": "#f2f1f8",
-      "tab.unfocusedActiveBackground":"#e6e3f7",
+      "tab.unfocusedActiveBackground": "#e6e3f7",
       "tab.activeForeground": "#7060eb",
       "tab.border": "#b5adeb",
       "tab.inactiveBackground": "#d2cef3",
@@ -211,9 +211,9 @@ export default syntax => ({
       "terminal.ansiBrightMagenta": "#ff6b9f",
       "terminal.ansiBrightCyan": "#00cbe6",
       "terminal.ansiBrightWhite": "#bbc3c4",
-      "terminal.background": "#e2dff6",
+      "terminal.background": "#e6e3f7",
       "terminal.foreground": "#0c006b",
-      "terminalCursor.background": "#e2dff6",
+      "terminalCursor.background": "#e6e3f7",
       "terminalCursor.foreground": "#0c006b",
       // ---------------------------
       // Merge
@@ -264,7 +264,7 @@ export default syntax => ({
       // ---------------------------
       // Panel
       // ---------------------------
-      "panel.background": "#e2dff6",
+      "panel.background": "#e6e3f7",
       "panel.border": "#aea4f4",
       "panelTitle.activeBorder": "#aea4f4",
       "panelTitle.activeForeground": "#7060eb",

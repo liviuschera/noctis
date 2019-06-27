@@ -99,7 +99,7 @@ export default syntax => ({
       // Editor Tabs
       // ---------------------------
       "tab.activeBackground": "#f4f6f6",
-      "tab.unfocusedActiveBackground":"#e3f5f7",
+      "tab.unfocusedActiveBackground": "#e3f5f7",
       "tab.activeForeground": "#0099ad",
       "tab.border": "#b2d2e6",
       "tab.inactiveBackground": "#caedf2",
@@ -321,7 +321,7 @@ export default syntax => ({
       "list.hoverBackground": "#d1eafa",
       "list.hoverForeground": "#005661",
       "list.inactiveFocusBackground": "#c9eaed",
-      "list.inactiveSelectionBackground": "#d5eef1",
+      "list.inactiveSelectionBackground": "#c6e7ec",
       "list.inactiveSelectionForeground": "#949384",
       "list.errorForeground": "#c9481d",
       "list.warningForeground": "#e07a52",
