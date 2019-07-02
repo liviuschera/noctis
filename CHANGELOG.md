@@ -1,5 +1,9 @@
 # Change Log
 
+## **9.6.0**
+
+- **C/C++** &rarr; various fixes
+
 ## **9.5.0**
 
 - _Noctis Hibernus_ &rarr; improved contrast for `list.inactiveSelectionBackground`

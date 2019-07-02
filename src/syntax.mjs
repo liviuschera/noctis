@@ -73,13 +73,11 @@ export default [{
          "punctuation.separator.question-mark.cs",
          "punctuation.definition.parameters.varargs",
          "source.go keyword.operator",
-         "punctuation.definition.directive.c",
          "punctuation.separator.pointer-access",
          "punctuation.separator.other.ruby",
          "keyword.package.go",
          "keyword.import.go",
          "punctuation.definition.keyword",
-         "storage.type.modifier.cpp",
          "punctuation.separator.hash.cs",
          "variable.parameter.rest.lua",
          "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
@@ -95,7 +93,9 @@ export default [{
          "punctuation.separator.method",
          "keyword.control punctuation.definition.function",
          "source.ocaml variable.interpolation string",
-         "source.reason variable.interpolation"
+         "source.reason variable.interpolation",
+         "punctuation.definition.directive",
+         "storage.type.modifier"
       ],
       "settings": {
          "foreground": "#df769b"
@@ -205,6 +205,8 @@ export default [{
          "source.reason support.type string",
          "entity.name.type.fsharp",
          "source.elm storage.type",
+         "storage.type.user-defined",
+         "storage.type.built-in"
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -234,7 +236,7 @@ export default [{
          "constant.character.math",
          "support.class.math",
          "source.graphql constant.character",
-         "source.reason constant.language.list",
+         "source.reason constant.language.list"
       ],
       "settings": {
          "foreground": "#d5971a"
@@ -337,6 +339,7 @@ export default [{
          "keyword.operator.nullable-type",
          "constant.language punctuation.definition.variable",
          "constant.others.fsharp",
+         "keyword.other.unit.hexadecimal"
       ],
       "settings": {
          "foreground": "#7060eb"
@@ -366,7 +369,7 @@ export default [{
          "support.function.any-method",
          "text.tex support.function",
          "text.tex punctuation.definition.function",
-         "entity.name.section.fsharp entity.name.section.fsharp",
+         "entity.name.section.fsharp entity.name.section.fsharp"
       ],
       "settings": {
          "foreground": "#16a3b6"
@@ -584,7 +587,6 @@ export default [{
          "storage.type.objc",
          "parameter.variable.function",
          "markup punctuation.definition",
-         "storage.type.primitive",
          "punctuation.section.directive",
          "punctuation.definition.preprocessor",
          "source.ruby punctuation.definition.variable",
@@ -669,6 +671,9 @@ export default [{
          "entity.name.section.fsharp keyword",
          "namespace.open.fsharp keyword",
          "namespace.open.fsharp entity",
+         "storage.type",
+         "source.cpp keyword.other",
+         "source.c keyword.other"
       ],
       "settings": {
          "fontStyle": ""
