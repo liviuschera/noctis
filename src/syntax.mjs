@@ -40,7 +40,8 @@ export default [{
          "entity.other.attribute-name strong",
          "binding.fsharp keyword.symbol.fsharp",
          "entity.name.record.field.elm",
-         "entity.name.record.field.accessor.elm"
+         "entity.name.record.field.accessor.elm",
+         "storage.modifier.array.bracket"
       ],
       "settings": {
          "foreground": "#b2cacd"
@@ -155,7 +156,7 @@ export default [{
          "source.reason variable.language",
          "source.reason variable.language string.other.link",
          "source.elm meta.value",
-         "source.elm meta.declaration.module",
+         "source.elm meta.declaration.module"
       ],
       "settings": {
          "foreground": "#e4b781"
@@ -236,7 +237,8 @@ export default [{
          "constant.character.math",
          "support.class.math",
          "source.graphql constant.character",
-         "source.reason constant.language.list"
+         "source.reason constant.language.list",
+         "source.cpp variable.other.enummember"
       ],
       "settings": {
          "foreground": "#d5971a"
@@ -288,7 +290,7 @@ export default [{
          "source.ocaml storage.type markup.underline",
          "binding.fsharp keyword",
          "function.anonymous keyword",
-         "function.anonymous keyword.symbol.fsharp",
+         "function.anonymous keyword.symbol.fsharp"
       ],
       "settings": {
          "foreground": "#e66533"
@@ -594,6 +596,8 @@ export default [{
          "support.function.textbf",
          "source.graphql support.type.builtin",
          "source.ocaml variable.interpolation string",
+         "meta.function.constructor entity.name.function",
+         "meta.function.destructor entity.name.function",
       ],
       "settings": {
          "fontStyle": "bold"
@@ -610,8 +614,6 @@ export default [{
          "markup.quote markup.bold string",
          "text.html punctuation.section.embedded",
          "variable.other.c",
-         "meta.function.constructor.cpp entity.name.function.cpp",
-         "meta.function.destructor.cpp entity.name.function.cpp",
          "storage.modifier.lifetime.rust",
          "entity.name.lifetime.rust",
          "source.rust meta.attribute.rust",
@@ -673,7 +675,9 @@ export default [{
          "namespace.open.fsharp entity",
          "storage.type",
          "source.cpp keyword.other",
-         "source.c keyword.other"
+         "source.c keyword.other",
+         "keyword.other.unit.hexadecimal",
+         "storage.modifier.array.bracket"
       ],
       "settings": {
          "fontStyle": ""

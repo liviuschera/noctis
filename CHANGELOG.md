@@ -1,5 +1,9 @@
 # Change Log
 
+## **9.7.0**
+
+- **C/C++** &rarr; more tweaks
+
 ## **9.6.0**
 
 - **C/C++** &rarr; various fixes
