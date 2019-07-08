@@ -1,5 +1,10 @@
 # Change Log
 
+## **9.8.0**
+
+- **TypeScript** &rarr; datatype annotations, import and export statements are now italicized [#25](https://github.com/liviuschera/noctis/issues/25)
+- updated screenshots in README
+
 ## **9.7.0**
 
 - **C/C++** &rarr; more tweaks

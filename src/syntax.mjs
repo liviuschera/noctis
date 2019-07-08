@@ -207,7 +207,8 @@ export default [{
          "entity.name.type.fsharp",
          "source.elm storage.type",
          "storage.type.user-defined",
-         "storage.type.built-in"
+         "storage.type.built-in",
+         "support.type.builtin"
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -537,7 +538,12 @@ export default [{
          "abstract.definition.fsharp keyword",
          "abstract.definition.fsharp entity",
          "function.anonymous keyword",
-         "entity.name.record.field.accessor.elm"
+         "entity.name.record.field.accessor.elm",
+         "support.type.primitive",
+         "keyword.control.import",
+         "keyword.control.export",
+         "keyword.control.from",
+         "support.type.builtin"
       ],
       "settings": {
          "fontStyle": "italic"
@@ -562,7 +568,6 @@ export default [{
          "markup.heading",
          "storage.type.function.pug",
          "storage.type.function.python",
-         "punctuation.definition.typeparameters",
          "storage.type.annotation",
          "punctuation.bracket.angle",
          "keyword.other.new",
@@ -582,7 +587,6 @@ export default [{
          "keyword.declaration.scala",
          "entity.name.type.annotation.kotlin",
          "storage.type.function.kotlin",
-         "support.type.primitive",
          "source.python support.type.python",
          "storage.type.php",
          "keyword.type.cs",
@@ -597,7 +601,7 @@ export default [{
          "source.graphql support.type.builtin",
          "source.ocaml variable.interpolation string",
          "meta.function.constructor entity.name.function",
-         "meta.function.destructor entity.name.function",
+         "meta.function.destructor entity.name.function"
       ],
       "settings": {
          "fontStyle": "bold"
@@ -677,7 +681,8 @@ export default [{
          "source.cpp keyword.other",
          "source.c keyword.other",
          "keyword.other.unit.hexadecimal",
-         "storage.modifier.array.bracket"
+         "storage.modifier.array.bracket",
+         "keyword.control.default",
       ],
       "settings": {
          "fontStyle": ""

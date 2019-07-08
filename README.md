@@ -39,19 +39,19 @@ Noctis comes in nine versions. Seven are dark and two are light.
 
 ## Noctis
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
+![Noctis Screenshot](images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
+![Noctis Azureus Screenshot](images/noctisAzureus.png)
 
 ## Noctis Minimus
 
-![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
+![Noctis Minimus Screenshot](images/noctisMinimus.png)
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
+![Noctis Uva Screenshot](images/NoctisUva.png)
 
 ## Noctis Viola
 
