@@ -1,5 +1,9 @@
 # Change Log
 
+## **9.9.0**
+
+- **C/C++**, **C#**, **Go**, **Java**, **Groovy**, **Kotlin**, **Scala**, **Python**, **Swift** &rarr; primitive datatype annotations are now italicized
+
 ## **9.8.0**
 
 - **TypeScript** &rarr; datatype annotations, import and export statements are now italicized [#25](https://github.com/liviuschera/noctis/issues/25)

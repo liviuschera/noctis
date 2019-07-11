@@ -156,7 +156,7 @@ export default [{
          "source.reason variable.language",
          "source.reason variable.language string.other.link",
          "source.elm meta.value",
-         "source.elm meta.declaration.module"
+         "source.elm meta.declaration.module",
       ],
       "settings": {
          "foreground": "#e4b781"
@@ -197,7 +197,6 @@ export default [{
          "storage.class.std.rust",
          "storage.modifier.lifetime.rust",
          "entity.name.lifetime.rust",
-         "support.type.swift",
          "support.type.vb",
          "entity.name.type.kotlin",
          "support.type.julia",
@@ -208,7 +207,8 @@ export default [{
          "source.elm storage.type",
          "storage.type.user-defined",
          "storage.type.built-in",
-         "support.type.builtin"
+         "support.type.builtin",
+         "source.swift support.type",
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -494,7 +494,6 @@ export default [{
          "keyword.other.this.cs",
          "keyword.other.base.cs",
          "variable.other.member.c",
-         "storage.class.std.rust",
          "support.type.core.rust",
          "variable.other.object.property",
          "variable.other.property",
@@ -543,7 +542,14 @@ export default [{
          "keyword.control.import",
          "keyword.control.export",
          "keyword.control.from",
-         "support.type.builtin"
+         "support.type.builtin",
+         "keyword.type.cs",
+         "storage.type.built-in.primitive",
+         "storage.type.primitive",
+         "source.python support.type.python",
+         "storage.type.core.rust",
+         "source.swift support.type",
+         "source.go storage.type",
       ],
       "settings": {
          "fontStyle": "italic"
@@ -587,9 +593,7 @@ export default [{
          "keyword.declaration.scala",
          "entity.name.type.annotation.kotlin",
          "storage.type.function.kotlin",
-         "source.python support.type.python",
          "storage.type.php",
-         "keyword.type.cs",
          "storage.type.objc",
          "parameter.variable.function",
          "markup punctuation.definition",
