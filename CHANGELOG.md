@@ -1,5 +1,11 @@
 # Change Log
 
+## **9.10.0**
+
+- **PHP** &rarr; fixed the highlighting of:
+   - function parameters
+   - the curly brackets in string interpolation
+
 ## **9.9.0**
 
 - **C/C++**, **C#**, **Go**, **Java**, **Groovy**, **Kotlin**, **Scala**, **Python**, **Swift** &rarr; primitive datatype annotations are now italicized

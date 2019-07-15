@@ -428,7 +428,8 @@
             "source.reason variable.language",
             "source.reason variable.language string.other.link",
             "source.elm meta.value",
-            "source.elm meta.declaration.module"
+            "source.elm meta.declaration.module",
+            "meta.embedded.block variable punctuation.definition.variable.php"
          ],
          "settings": {
             "foreground": "#f49725"
@@ -563,7 +564,8 @@
             "source.ocaml storage.type markup.underline",
             "binding.fsharp keyword",
             "function.anonymous keyword",
-            "function.anonymous keyword.symbol.fsharp"
+            "function.anonymous keyword.symbol.fsharp",
+            "meta.embedded.block variable.language punctuation.definition.variable.php"
          ],
          "settings": {
             "foreground": "#e64100"
@@ -731,7 +733,8 @@
             "source.ocaml entity.name.class constant.numeric",
             "source.reason entity.name.class",
             "keyword.format.specifier.fsharp",
-            "support.module.elm"
+            "support.module.elm",
+            "meta.embedded.block.php punctuation.definition.variable.php"
          ],
          "settings": {
             "foreground": "#0094f0"
@@ -821,7 +824,8 @@
             "source.python support.type.python",
             "storage.type.core.rust",
             "source.swift support.type",
-            "source.go storage.type"
+            "source.go storage.type",
+            "storage.type.php"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -865,7 +869,6 @@
             "keyword.declaration.scala",
             "entity.name.type.annotation.kotlin",
             "storage.type.function.kotlin",
-            "storage.type.php",
             "storage.type.objc",
             "parameter.variable.function",
             "markup punctuation.definition",
@@ -877,7 +880,8 @@
             "source.graphql support.type.builtin",
             "source.ocaml variable.interpolation string",
             "meta.function.constructor entity.name.function",
-            "meta.function.destructor entity.name.function"
+            "meta.function.destructor entity.name.function",
+            "meta.function.parameters variable punctuation.definition.variable.php"
          ],
          "settings": {
             "fontStyle": "bold"

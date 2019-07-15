@@ -157,6 +157,7 @@ export default [{
          "source.reason variable.language string.other.link",
          "source.elm meta.value",
          "source.elm meta.declaration.module",
+         "meta.embedded.block variable punctuation.definition.variable.php"
       ],
       "settings": {
          "foreground": "#e4b781"
@@ -291,7 +292,8 @@ export default [{
          "source.ocaml storage.type markup.underline",
          "binding.fsharp keyword",
          "function.anonymous keyword",
-         "function.anonymous keyword.symbol.fsharp"
+         "function.anonymous keyword.symbol.fsharp",
+         "meta.embedded.block variable.language punctuation.definition.variable.php"
       ],
       "settings": {
          "foreground": "#e66533"
@@ -459,7 +461,8 @@ export default [{
          "source.ocaml entity.name.class constant.numeric",
          "source.reason entity.name.class",
          "keyword.format.specifier.fsharp",
-         "support.module.elm"
+         "support.module.elm",
+         "meta.embedded.block.php punctuation.definition.variable.php"
       ],
       "settings": {
          "foreground": "#49ace9"
@@ -550,6 +553,7 @@ export default [{
          "storage.type.core.rust",
          "source.swift support.type",
          "source.go storage.type",
+         "storage.type.php",
       ],
       "settings": {
          "fontStyle": "italic"
@@ -593,7 +597,6 @@ export default [{
          "keyword.declaration.scala",
          "entity.name.type.annotation.kotlin",
          "storage.type.function.kotlin",
-         "storage.type.php",
          "storage.type.objc",
          "parameter.variable.function",
          "markup punctuation.definition",
@@ -605,7 +608,8 @@ export default [{
          "source.graphql support.type.builtin",
          "source.ocaml variable.interpolation string",
          "meta.function.constructor entity.name.function",
-         "meta.function.destructor entity.name.function"
+         "meta.function.destructor entity.name.function",
+         "meta.function.parameters variable punctuation.definition.variable.php",
       ],
       "settings": {
          "fontStyle": "bold"
