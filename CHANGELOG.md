@@ -1,5 +1,10 @@
 # Change Log
 
+## **9.11.0**
+
+- **Kotlin**, **Julia** &rarr; italicized primitive datatype annotations and `fun` keyword
+- **Lua** &rarr; fixed the highlighting of constants and libraries
+
 ## **9.10.0**
 
 - **PHP** &rarr; fixed the highlighting of:

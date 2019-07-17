@@ -501,7 +501,6 @@
             "entity.name.type.type-parameter.cs",
             "punctuation.bracket.angle",
             "entity.name.function.preprocessor.c",
-            "support.variable.lua",
             "storage.type.scala",
             "entity.helper.apacheconf",
             "source.vala storage.type",
@@ -512,7 +511,8 @@
             "support.class.math",
             "source.graphql constant.character",
             "source.reason constant.language.list",
-            "source.cpp variable.other.enummember"
+            "source.cpp variable.other.enummember",
+            "meta.table.lua variable.other"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -734,7 +734,8 @@
             "source.reason entity.name.class",
             "keyword.format.specifier.fsharp",
             "support.module.elm",
-            "meta.embedded.block.php punctuation.definition.variable.php"
+            "meta.embedded.block.php punctuation.definition.variable.php",
+            "support.variable.lua"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -825,7 +826,10 @@
             "storage.type.core.rust",
             "source.swift support.type",
             "source.go storage.type",
-            "storage.type.php"
+            "storage.type.php",
+            "storage.type.function.kotlin",
+            "entity.name.type.kotlin",
+            "support.type.julia"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -868,7 +872,6 @@
             "meta.function.parameters variable.other",
             "keyword.declaration.scala",
             "entity.name.type.annotation.kotlin",
-            "storage.type.function.kotlin",
             "storage.type.objc",
             "parameter.variable.function",
             "markup punctuation.definition",

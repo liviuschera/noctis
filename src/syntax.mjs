@@ -209,7 +209,7 @@ export default [{
          "storage.type.user-defined",
          "storage.type.built-in",
          "support.type.builtin",
-         "source.swift support.type",
+         "source.swift support.type"
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -229,7 +229,6 @@ export default [{
          "entity.name.type.type-parameter.cs",
          "punctuation.bracket.angle",
          "entity.name.function.preprocessor.c",
-         "support.variable.lua",
          "storage.type.scala",
          "entity.helper.apacheconf",
          "source.vala storage.type",
@@ -240,7 +239,8 @@ export default [{
          "support.class.math",
          "source.graphql constant.character",
          "source.reason constant.language.list",
-         "source.cpp variable.other.enummember"
+         "source.cpp variable.other.enummember",
+         "meta.table.lua variable.other"
       ],
       "settings": {
          "foreground": "#d5971a"
@@ -462,7 +462,8 @@ export default [{
          "source.reason entity.name.class",
          "keyword.format.specifier.fsharp",
          "support.module.elm",
-         "meta.embedded.block.php punctuation.definition.variable.php"
+         "meta.embedded.block.php punctuation.definition.variable.php",
+         "support.variable.lua"
       ],
       "settings": {
          "foreground": "#49ace9"
@@ -554,6 +555,9 @@ export default [{
          "source.swift support.type",
          "source.go storage.type",
          "storage.type.php",
+         "storage.type.function.kotlin",
+         "entity.name.type.kotlin",
+         "support.type.julia"
       ],
       "settings": {
          "fontStyle": "italic"
@@ -596,7 +600,6 @@ export default [{
          "meta.function.parameters variable.other",
          "keyword.declaration.scala",
          "entity.name.type.annotation.kotlin",
-         "storage.type.function.kotlin",
          "storage.type.objc",
          "parameter.variable.function",
          "markup punctuation.definition",
@@ -609,7 +612,7 @@ export default [{
          "source.ocaml variable.interpolation string",
          "meta.function.constructor entity.name.function",
          "meta.function.destructor entity.name.function",
-         "meta.function.parameters variable punctuation.definition.variable.php",
+         "meta.function.parameters variable punctuation.definition.variable.php"
       ],
       "settings": {
          "fontStyle": "bold"
@@ -690,7 +693,7 @@ export default [{
          "source.c keyword.other",
          "keyword.other.unit.hexadecimal",
          "storage.modifier.array.bracket",
-         "keyword.control.default",
+         "keyword.control.default"
       ],
       "settings": {
          "fontStyle": ""
