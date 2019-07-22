@@ -1,5 +1,12 @@
 # Change Log
 
+## **9.12.0**
+
+- **Crystal**, **C++**, **Dart**, **Vala** &rarr; fixed type annotation highlighting
+- **Go** &rarr; italicized import statements
+- **Objective C** &rarr; fixed floating point higlighting
+- various fixes and improvements
+
 ## **9.11.0**
 
 - **Kotlin**, **Julia** &rarr; italicized primitive datatype annotations and `fun` keyword

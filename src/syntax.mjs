@@ -76,8 +76,8 @@ export default [{
          "source.go keyword.operator",
          "punctuation.separator.pointer-access",
          "punctuation.separator.other.ruby",
-         "keyword.package.go",
-         "keyword.import.go",
+         "keyword.package",
+         "keyword.import",
          "punctuation.definition.keyword",
          "punctuation.separator.hash.cs",
          "variable.parameter.rest.lua",
@@ -209,7 +209,12 @@ export default [{
          "storage.type.user-defined",
          "storage.type.built-in",
          "support.type.builtin",
-         "source.swift support.type"
+         "source.swift support.type",
+         "support.class.crystal",
+         "storage.type.integral",
+         "source.cpp storage.type.cpp",
+         "source.vala storage.type",
+         // "support.class.dart"
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -231,7 +236,6 @@ export default [{
          "entity.name.function.preprocessor.c",
          "storage.type.scala",
          "entity.helper.apacheconf",
-         "source.vala storage.type",
          "variable.language.crystal",
          "punctuation.definition.constant",
          "support.constant punctuation.definition.variable",
@@ -293,7 +297,8 @@ export default [{
          "binding.fsharp keyword",
          "function.anonymous keyword",
          "function.anonymous keyword.symbol.fsharp",
-         "meta.embedded.block variable.language punctuation.definition.variable.php"
+         "meta.embedded.block variable.language punctuation.definition.variable.php",
+         "keyword.declaration.dart"
       ],
       "settings": {
          "foreground": "#e66533"
@@ -344,7 +349,7 @@ export default [{
          "keyword.operator.nullable-type",
          "constant.language punctuation.definition.variable",
          "constant.others.fsharp",
-         "keyword.other.unit.hexadecimal"
+         "keyword.other.unit"
       ],
       "settings": {
          "foreground": "#7060eb"
@@ -360,7 +365,6 @@ export default [{
          "source.less support.type.property-name",
          "source.stylus support.type.property-name",
          "source.postcss support.type.property-name",
-         "keyword.other.unit",
          "entity.name.function",
          "string.other.link",
          "markup.link",
@@ -399,7 +403,6 @@ export default [{
          "markup.underline",
          "meta.symbol.namespace.clojure",
          "entity.name.type.namespace.cs",
-         "support.class.dart",
          "entity.mime-type.apacheconf",
          "keyword.operator.function.infix",
          "entity.name.function.infix",
@@ -463,7 +466,8 @@ export default [{
          "keyword.format.specifier.fsharp",
          "support.module.elm",
          "meta.embedded.block.php punctuation.definition.variable.php",
-         "support.variable.lua"
+         "support.variable.lua",
+         "source.vala storage.type",
       ],
       "settings": {
          "foreground": "#49ace9"
@@ -521,7 +525,6 @@ export default [{
          "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
          "constant.other.symbol.ruby",
          "source.vala storage.type.generic",
-         "variable.other.crystal",
          "constant.other.table-name",
          "constant.other.placeholder",
          "variable.other.field",
@@ -557,7 +560,11 @@ export default [{
          "storage.type.php",
          "storage.type.function.kotlin",
          "entity.name.type.kotlin",
-         "support.type.julia"
+         "support.type.julia",
+         "variable.other.member",
+         "keyword.other.import",
+         "keyword.package",
+         "keyword.import"
       ],
       "settings": {
          "fontStyle": "italic"
@@ -658,7 +665,6 @@ export default [{
          "source.lua storage.type.function",
          "source.scala keyword.declaration",
          "source.css variable.parameter",
-         "storage.type.primitive.dart",
          "string.interpolated variable.parameter",
          "source.apacheconf keyword",
          "keyword.other.julia",
@@ -691,9 +697,11 @@ export default [{
          "storage.type",
          "source.cpp keyword.other",
          "source.c keyword.other",
-         "keyword.other.unit.hexadecimal",
+         "keyword.other.unit",
          "storage.modifier.array.bracket",
-         "keyword.control.default"
+         "keyword.control.default",
+         "meta.import.haskell keyword",
+         "keyword.declaration.dart"
       ],
       "settings": {
          "fontStyle": ""
