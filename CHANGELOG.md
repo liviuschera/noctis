@@ -1,5 +1,10 @@
 # Change Log
 
+## **9.13.0**
+
+-  **PlantUML** &rarr; added support (requires [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml) extension)
+-  updated README
+
 ## **9.12.0**
 
 - **Crystal**, **C++**, **Dart**, **Vala** &rarr; fixed type annotation highlighting

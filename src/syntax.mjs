@@ -96,7 +96,8 @@ export default [{
          "source.ocaml variable.interpolation string",
          "source.reason variable.interpolation",
          "punctuation.definition.directive",
-         "storage.type.modifier"
+         "storage.type.modifier",
+         "keyword.other.class.fileds"
       ],
       "settings": {
          "foreground": "#df769b"
@@ -157,7 +158,8 @@ export default [{
          "source.reason variable.language string.other.link",
          "source.elm meta.value",
          "source.elm meta.declaration.module",
-         "meta.embedded.block variable punctuation.definition.variable.php"
+         "meta.embedded.block variable punctuation.definition.variable.php",
+         "string.quoted.double.class.other"
       ],
       "settings": {
          "foreground": "#e4b781"
@@ -244,7 +246,8 @@ export default [{
          "source.graphql constant.character",
          "source.reason constant.language.list",
          "source.cpp variable.other.enummember",
-         "meta.table.lua variable.other"
+         "meta.table.lua variable.other",
+         "support.variable.class.hideshow"
       ],
       "settings": {
          "foreground": "#d5971a"
@@ -298,7 +301,10 @@ export default [{
          "function.anonymous keyword",
          "function.anonymous keyword.symbol.fsharp",
          "meta.embedded.block variable.language punctuation.definition.variable.php",
-         "keyword.declaration.dart"
+         "keyword.declaration.dart",
+         "source.wsd keyword.other.class",
+         "source.wsd keyword.other.linebegin",
+         "keyword.other.skinparam.keyword"
       ],
       "settings": {
          "foreground": "#e66533"
@@ -349,7 +355,8 @@ export default [{
          "keyword.operator.nullable-type",
          "constant.language punctuation.definition.variable",
          "constant.others.fsharp",
-         "keyword.other.unit"
+         "keyword.other.unit",
+         "string.quoted.double.skinparam.value"
       ],
       "settings": {
          "foreground": "#7060eb"
@@ -378,7 +385,8 @@ export default [{
          "support.function.any-method",
          "text.tex support.function",
          "text.tex punctuation.definition.function",
-         "entity.name.section.fsharp entity.name.section.fsharp"
+         "entity.name.section.fsharp entity.name.section.fsharp",
+         "support.variable.class.function",
       ],
       "settings": {
          "foreground": "#16a3b6"
@@ -412,7 +420,8 @@ export default [{
          "source.reason constant.language.unit",
          "source.ocaml constant.language constant.numeric entity.other.attribute-name.id.css",
          "source.reason entity.other.attribute-name constant.language constant.numeric",
-         "constant.language.unit.fsharp"
+         "constant.language.unit.fsharp",
+         "source.wsd support.class.preprocessings",
       ],
       "settings": {
          "foreground": "#49d6e9"
@@ -468,6 +477,7 @@ export default [{
          "meta.embedded.block.php punctuation.definition.variable.php",
          "support.variable.lua",
          "source.vala storage.type",
+         "support.variable.class.group"
       ],
       "settings": {
          "foreground": "#49ace9"
@@ -564,7 +574,8 @@ export default [{
          "variable.other.member",
          "keyword.other.import",
          "keyword.package",
-         "keyword.import"
+         "keyword.import",
+         "source.wsd keyword.control.diagram",
       ],
       "settings": {
          "fontStyle": "italic"
@@ -619,7 +630,8 @@ export default [{
          "source.ocaml variable.interpolation string",
          "meta.function.constructor entity.name.function",
          "meta.function.destructor entity.name.function",
-         "meta.function.parameters variable punctuation.definition.variable.php"
+         "meta.function.parameters variable punctuation.definition.variable.php",
+         "source.wsd keyword.other.activity",
       ],
       "settings": {
          "fontStyle": "bold"
@@ -701,7 +713,9 @@ export default [{
          "storage.modifier.array.bracket",
          "keyword.control.default",
          "meta.import.haskell keyword",
-         "keyword.declaration.dart"
+         "keyword.declaration.dart",
+         "source.wsd keyword.other",
+         "keyword.other.skinparam"
       ],
       "settings": {
          "fontStyle": ""

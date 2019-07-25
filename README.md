@@ -69,7 +69,7 @@ Noctis comes in nine versions. Seven are dark and two are light.
 -  CSS
    -  Sass/SCSS
 -  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
-- 🆕 Elm (requires [elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) extension)
+- Elm (requires [elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) extension)
 -  Elixir (requires [ElixirLS: Elixir support and debugger](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension)
 -  Erlang (requires [erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) extension)
 - F#
@@ -98,6 +98,7 @@ Noctis comes in nine versions. Seven are dark and two are light.
 -  PHP
    -  Laravel Blade
    -  Twig &rarr; (requires [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2) extension)
+-  🆕 PlantUML (requires [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml) extension)
 -  PowerShell
 -  Python
 -  R
