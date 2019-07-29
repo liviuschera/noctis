@@ -17,21 +17,28 @@ Noctis comes in nine versions. Seven are dark and two are light.
 
 -  _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ background is a very saturated very dark cold bluish cyan
 -  _Noctis Azureus'_ background is a very saturated very dark cold azure
+-  _Noctis Bordo's_ background is a very unsaturated very dark warm rose
 -  _Noctis Uva's_ background is a unsaturated dark cold blue. For those with more spartan taste
 -  _Noctis Minimus'_ background offers a version of the _Azureus_ palette with **much lower saturation**. (Thank you [Draevin](https://github.com/draevin) for your [contribution](https://github.com/liviuschera/noctis/pull/10))
 -  _Noctis Viola's_ background is a saturated very dark cold violet
 -  _Noctis Lux'_ background is a very saturated very light warm orange
 -  _Noctis Hibernus'_ background is a very unsaturated very light cold bluish cyan
+-  _Noctis Lilac's_ background is a very unsaturated very light cold blue
 
 <div align="center">
 
-## 🆕 Noctis Lilac 🆕
 
-![Noctis Lilac Screenshot](images/noctisLilac.png)
+## 🆕 Noctis Bordo 🆕
+
+![Noctis Bordo Screenshot](images/noctisBordo.png)
 
 ## Noctis Lux
 
 ![Noctis Lux Screenshot](images/noctisLux.png)
+
+## Noctis Lilac
+
+![Noctis Lilac Screenshot](images/noctisLilac.png)
 
 ## Noctis Hibernus
 
@@ -51,7 +58,7 @@ Noctis comes in nine versions. Seven are dark and two are light.
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](images/NoctisUva.png)
+![Noctis Uva Screenshot](images/noctisUva.png)
 
 ## Noctis Viola
 

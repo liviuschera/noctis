@@ -1,5 +1,10 @@
 # Change Log
 
+## **10.0.0**
+
+-  🆕 dark theme variant &rarr; **_Noctis Bordo_**
+-  updated README
+
 ## **9.13.0**
 
 -  **PlantUML** &rarr; added support (requires [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml) extension)
