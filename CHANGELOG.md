@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.1.0**
+
+- **CSS** &rarr; various improvements
+
 ## **10.0.0**
 
 -  🆕 dark theme variant &rarr; **_Noctis Bordo_**

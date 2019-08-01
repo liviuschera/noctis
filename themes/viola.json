@@ -312,7 +312,8 @@
             "binding.fsharp keyword.symbol.fsharp",
             "entity.name.record.field.elm",
             "entity.name.record.field.accessor.elm",
-            "storage.modifier.array.bracket"
+            "storage.modifier.array.bracket",
+            "source.css entity.other"
          ],
          "settings": {
             "foreground": "#ccbfd9"
@@ -383,7 +384,6 @@
             "variable.parameter",
             "support",
             "string constant.other.placeholder",
-            "source.css.scss variable",
             "entity.name.module",
             "variable.import.parameter",
             "variable.other.class",
@@ -442,8 +442,8 @@
             "support.variable.property",
             "constant.other.symbol.hashkey.ruby",
             "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-            "entity.other.attribute-name.id.css",
-            "entity.other.attribute-name.id.css punctuation.definition.entity.css",
+            "entity.other.attribute-name.id",
+            "entity.other.attribute-name.id punctuation.definition.entity",
             "entity.name.type.annotation.kotlin",
             "support.type.primitive",
             "meta.type.parameters entity.name.type",
@@ -501,7 +501,6 @@
             "punctuation.definition.entity",
             "constant.character.entity",
             "support.variable.magic",
-            "entity.other.attribute-name",
             "markup.quote",
             "entity.name.type.type-parameter.cs",
             "punctuation.bracket.angle",
@@ -517,7 +516,8 @@
             "source.reason constant.language.list",
             "source.cpp variable.other.enummember",
             "meta.table.lua variable.other",
-            "support.variable.class.hideshow"
+            "support.variable.class.hideshow",
+            "entity.other.attribute-name.class"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -636,12 +636,7 @@
          "name": "FUNCTION",
          "scope": [
             "variable.function",
-            "source.css support.type.property-name",
-            "source.sass support.type.property-name",
-            "source.scss support.type.property-name",
-            "source.less support.type.property-name",
-            "source.stylus support.type.property-name",
-            "source.postcss support.type.property-name",
+            "support.type.property-name",
             "entity.name.function",
             "string.other.link",
             "markup.link",
@@ -985,7 +980,9 @@
             "meta.import.haskell keyword",
             "keyword.declaration.dart",
             "source.wsd keyword.other",
-            "keyword.other.skinparam"
+            "keyword.other.skinparam",
+            "source.css keyword.control",
+            "source.css keyword.operator"
          ],
          "settings": {
             "fontStyle": ""

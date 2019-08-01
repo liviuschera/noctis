@@ -8,7 +8,7 @@ export default [{
          "source.ocaml comment constant.regexp meta.separator"
       ],
       "settings": {
-         "foreground": "#5b858b"
+         "foreground": "#8b747c"
       }
    },
    {
@@ -41,10 +41,11 @@ export default [{
          "binding.fsharp keyword.symbol.fsharp",
          "entity.name.record.field.elm",
          "entity.name.record.field.accessor.elm",
-         "storage.modifier.array.bracket"
+         "storage.modifier.array.bracket",
+         "source.css entity.other"
       ],
       "settings": {
-         "foreground": "#b2cacd"
+         "foreground": "#cbbec2"
       }
    },
    {
@@ -112,7 +113,6 @@ export default [{
          "variable.parameter",
          "support",
          "string constant.other.placeholder",
-         "source.css.scss variable",
          "entity.name.module",
          "variable.import.parameter",
          "variable.other.class",
@@ -171,8 +171,8 @@ export default [{
          "support.variable.property",
          "constant.other.symbol.hashkey.ruby",
          "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
-         "entity.other.attribute-name.id.css",
-         "entity.other.attribute-name.id.css punctuation.definition.entity.css",
+         "entity.other.attribute-name.id",
+         "entity.other.attribute-name.id punctuation.definition.entity",
          "entity.name.type.annotation.kotlin",
          "support.type.primitive",
          "meta.type.parameters entity.name.type",
@@ -215,8 +215,7 @@ export default [{
          "support.class.crystal",
          "storage.type.integral",
          "source.cpp storage.type.cpp",
-         "source.vala storage.type",
-         // "support.class.dart"
+         "source.vala storage.type"
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -231,7 +230,6 @@ export default [{
          "punctuation.definition.entity",
          "constant.character.entity",
          "support.variable.magic",
-         "entity.other.attribute-name",
          "markup.quote",
          "entity.name.type.type-parameter.cs",
          "punctuation.bracket.angle",
@@ -247,7 +245,8 @@ export default [{
          "source.reason constant.language.list",
          "source.cpp variable.other.enummember",
          "meta.table.lua variable.other",
-         "support.variable.class.hideshow"
+         "support.variable.class.hideshow",
+         "entity.other.attribute-name.class"
       ],
       "settings": {
          "foreground": "#d5971a"
@@ -366,12 +365,7 @@ export default [{
       "name": "FUNCTION",
       "scope": [
          "variable.function",
-         "source.css support.type.property-name",
-         "source.sass support.type.property-name",
-         "source.scss support.type.property-name",
-         "source.less support.type.property-name",
-         "source.stylus support.type.property-name",
-         "source.postcss support.type.property-name",
+         "support.type.property-name",
          "entity.name.function",
          "string.other.link",
          "markup.link",
@@ -386,7 +380,7 @@ export default [{
          "text.tex support.function",
          "text.tex punctuation.definition.function",
          "entity.name.section.fsharp entity.name.section.fsharp",
-         "support.variable.class.function",
+         "support.variable.class.function"
       ],
       "settings": {
          "foreground": "#16a3b6"
@@ -421,7 +415,7 @@ export default [{
          "source.ocaml constant.language constant.numeric entity.other.attribute-name.id.css",
          "source.reason entity.other.attribute-name constant.language constant.numeric",
          "constant.language.unit.fsharp",
-         "source.wsd support.class.preprocessings",
+         "source.wsd support.class.preprocessings"
       ],
       "settings": {
          "foreground": "#49d6e9"
@@ -631,7 +625,7 @@ export default [{
          "meta.function.constructor entity.name.function",
          "meta.function.destructor entity.name.function",
          "meta.function.parameters variable punctuation.definition.variable.php",
-         "source.wsd keyword.other.activity",
+         "source.wsd keyword.other.activity"
       ],
       "settings": {
          "fontStyle": "bold"
@@ -715,7 +709,9 @@ export default [{
          "meta.import.haskell keyword",
          "keyword.declaration.dart",
          "source.wsd keyword.other",
-         "keyword.other.skinparam"
+         "keyword.other.skinparam",
+         "source.css keyword.control",
+         "source.css keyword.operator"
       ],
       "settings": {
          "fontStyle": ""
