@@ -380,7 +380,8 @@ export default [{
          "text.tex support.function",
          "text.tex punctuation.definition.function",
          "entity.name.section.fsharp entity.name.section.fsharp",
-         "support.variable.class.function"
+         "support.variable.class.function",
+         "keyword.control.cucumber.table"
       ],
       "settings": {
          "foreground": "#16a3b6"
@@ -415,7 +416,8 @@ export default [{
          "source.ocaml constant.language constant.numeric entity.other.attribute-name.id.css",
          "source.reason entity.other.attribute-name constant.language constant.numeric",
          "constant.language.unit.fsharp",
-         "source.wsd support.class.preprocessings"
+         "source.wsd support.class.preprocessings",
+         "keyword.language.gherkin.feature.scenario"
       ],
       "settings": {
          "foreground": "#49d6e9"
@@ -570,6 +572,7 @@ export default [{
          "keyword.package",
          "keyword.import",
          "source.wsd keyword.control.diagram",
+         "keyword.language.gherkin.feature.step"
       ],
       "settings": {
          "fontStyle": "italic"
@@ -711,7 +714,9 @@ export default [{
          "source.wsd keyword.other",
          "keyword.other.skinparam",
          "source.css keyword.control",
-         "source.css keyword.operator"
+         "source.css keyword.operator",
+         "keyword.language.gherkin.feature.scenario",
+         "keyword.control.cucumber.table"
       ],
       "settings": {
          "fontStyle": ""
