@@ -13,7 +13,7 @@ The theme is designed to:
 -  be easy on the eyes thus reducing the eye strain
 -  give semantic meaning to theme's colors
 
-Noctis comes in nine versions. Seven are dark and two are light.
+Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 -  _Noctis_, _Noctis Sereno_ & _Noctis Obscuro_ background is a very saturated very dark cold bluish cyan
 -  _Noctis Azureus'_ background is a very saturated very dark cold azure
@@ -58,7 +58,7 @@ Noctis comes in nine versions. Seven are dark and two are light.
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](images/noctisUva.png)
+![Noctis Uva Screenshot](images/NoctisUva.png)
 
 ## Noctis Viola
 
@@ -232,7 +232,7 @@ Happy hacking!
 
 ## Contributors
 
-| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) | [Will Hoskings](https://github.com/def0x099) |
+| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) | [![Will Hoskings](https://avatars3.githubusercontent.com/u/43454318?s=85&v=4)](https://github.com/def0x099) |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------: |
 |                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 | [Will Hoskings](https://github.com/def0x099) |
 

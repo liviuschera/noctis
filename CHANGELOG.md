@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.2.1**
+
+- Updated README
+
 ## **10.2.0**
 
 -  **Cucumber (Gerkin)** &rarr; added support (requires [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocompletel) extension)
