@@ -234,6 +234,7 @@
       "listFilterWidget.background": "#d7d3f3",
       "listFilterWidget.outline": "#14b832",
       "listFilterWidget.noMatchesOutline": "#ff4000",
+      "tree.indentGuidesStroke": "#c3c1d7",
       "settings.headerForeground": "#0c006b",
       "settings.modifiedItemIndicator": "#00bd23",
       "settings.dropdownListBorder": "#b4adeb88",

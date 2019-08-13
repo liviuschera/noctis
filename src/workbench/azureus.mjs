@@ -327,6 +327,7 @@ export default syntax => ({
       "listFilterWidget.background": "#002a4d",
       "listFilterWidget.outline": "#49e9a6",
       "listFilterWidget.noMatchesOutline": "#e34e1c",
+      "tree.indentGuidesStroke": "#4d6c80",
       // ---------------------------
       // Settings Editor Colors
       // ---------------------------

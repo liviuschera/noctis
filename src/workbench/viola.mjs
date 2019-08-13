@@ -101,7 +101,7 @@ export default syntax => ({
       // Editor Tabs
       // ---------------------------
       "tab.activeBackground": "#30243d",
-      "tab.unfocusedActiveBackground":"#302b36",
+      "tab.unfocusedActiveBackground": "#302b36",
       "tab.activeForeground": "#bf8ef1",
       "tab.border": "#1c1226",
       "tab.inactiveBackground": "#3d2e4d",
@@ -326,6 +326,7 @@ export default syntax => ({
       "listFilterWidget.background": "#302040",
       "listFilterWidget.outline": "#49e9a6",
       "listFilterWidget.noMatchesOutline": "#e34e1c",
+      "tree.indentGuidesStroke": "#665973",
       // ---------------------------
       // Settings Editor Colors
       // ---------------------------
