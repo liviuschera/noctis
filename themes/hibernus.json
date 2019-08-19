@@ -371,7 +371,8 @@
             "source.reason variable.interpolation",
             "punctuation.definition.directive",
             "storage.type.modifier",
-            "keyword.other.class.fileds"
+            "keyword.other.class.fileds",
+            "source.toml entity.other.attribute-name"
          ],
          "settings": {
             "foreground": "#ff5792"
@@ -432,7 +433,8 @@
             "source.elm meta.value",
             "source.elm meta.declaration.module",
             "meta.embedded.block variable punctuation.definition.variable.php",
-            "string.quoted.double.class.other"
+            "string.quoted.double.class.other",
+            "source.toml keyword"
          ],
          "settings": {
             "foreground": "#f49725"
@@ -519,7 +521,9 @@
             "source.cpp variable.other.enummember",
             "meta.table.lua variable.other",
             "support.variable.class.hideshow",
-            "entity.other.attribute-name.class"
+            "entity.other.attribute-name.class",
+            "meta.attribute.id entity.other.attribute-name",
+            "text.html entity.other.attribute-name"
          ],
          "settings": {
             "foreground": "#a88c00"
@@ -628,7 +632,8 @@
             "constant.language punctuation.definition.variable",
             "constant.others.fsharp",
             "keyword.other.unit",
-            "string.quoted.double.skinparam.value"
+            "string.quoted.double.skinparam.value",
+            "source.toml constant"
          ],
          "settings": {
             "foreground": "#5842ff"
@@ -989,7 +994,9 @@
             "source.css keyword.control",
             "source.css keyword.operator",
             "keyword.language.gherkin.feature.scenario",
-            "keyword.control.cucumber.table"
+            "keyword.control.cucumber.table",
+            "source.toml entity.other.attribute-name",
+            "source.toml keyword"
          ],
          "settings": {
             "fontStyle": ""

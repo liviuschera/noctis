@@ -30,39 +30,39 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 ## 🆕 Noctis Bordo 🆕
 
-![Noctis Bordo Screenshot](images/noctisBordo.png)
+![Noctis Bordo Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisBordo.png)
 
 ## Noctis Lux
 
-![Noctis Lux Screenshot](images/noctisLux.png)
+![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
 
 ## Noctis Lilac
 
-![Noctis Lilac Screenshot](images/noctisLilac.png)
+![Noctis Lilac Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLilac.png)
 
 ## Noctis Hibernus
 
-![Noctis Hibernus Screenshot](images/noctisHibernus.png)
+![Noctis Hibernus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisHibernus.png)
 
 ## Noctis
 
-![Noctis Screenshot](images/noctis.png)
+![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](images/noctisAzureus.png)
+![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
 
 ## Noctis Minimus
 
-![Noctis Minimus Screenshot](images/noctisMinimus.png)
+![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](images/NoctisUva.png)
+![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
 
 ## Noctis Viola
 
-![Noctis Viola Screenshot](images/noctisViola.png)
+![Noctis Viola Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisViola.png)
 
 </div>
 
@@ -75,7 +75,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 -  Crystal (requires [Crystal Language](https://marketplace.visualstudio.com/items?itemName=faustinoaq.crystal-lang) extension)
 -  CSS
    -  Sass/SCSS
--  🆕 Cucumber (Gerkin) (requires [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocompletel) extension)
+-  Cucumber (Gerkin) (requires [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocompletel) extension)
 -  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
 - Elm (requires [elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) extension)
 -  Elixir (requires [ElixirLS: Elixir support and debugger](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension)
@@ -121,6 +121,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 -  Visual Basic
 -  _Other_
    -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
+   -  🆕 TOML (requires [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) extension)
 
 I plan on adding support for new languages in the upcoming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 

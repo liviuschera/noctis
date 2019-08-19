@@ -1,5 +1,11 @@
 # Change Log
 
+## **10.4.0**
+
+-  **TOML** &rarr; added support (requires [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) extension)
+-  **HTML** &rarr; fixes
+-  updated README
+
 ## **10.3.0**
 
 -  Added `tree.indentGuidesStroke` Tree Widget's stroke color for indent guides introduced in VS Code 1.36.0
