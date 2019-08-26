@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.5.0**
+
+- improvement [#27](https://github.com/liviuschera/noctis/pull/27)
+
 ## **10.4.0**
 
 -  **TOML** &rarr; added support (requires [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) extension)
