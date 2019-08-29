@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.6.0**
+
+- improvement [#28](https://github.com/liviuschera/noctis/pull/28)
+
 ## **10.5.0**
 
 - improvement [#27](https://github.com/liviuschera/noctis/pull/27)

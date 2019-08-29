@@ -242,8 +242,8 @@ export default syntax => ({
       // ---------------------------
       // Diff
       // ---------------------------
-      "diffEditor.insertedTextBackground": "#49e9a630",
-      "diffEditor.removedTextBackground": "#e6653345",
+      "diffEditor.insertedTextBackground": "#16b67327",
+      "diffEditor.removedTextBackground": "#e6653341",
       // ---------------------------
       // Debug
       // ---------------------------

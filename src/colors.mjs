@@ -112,7 +112,7 @@ export default {
       invalid: "#e3541c"
    },
    azureus: {
-      comment: "#507b95",
+      comment: "#5988a6",
       text: "#becfda",
       keyword: "#df769b",
       variable: "#e4b781",
