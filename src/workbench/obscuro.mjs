@@ -382,7 +382,11 @@ export default syntax => ({
       "editor.snippetTabstopHighlightBackground": "#06292d",
       "editor.snippetTabstopHighlightBorder": "#073136",
       "editor.snippetFinalTabstopHighlightBackground": "#06292d",
-      "editor.snippetFinalTabstopHighlightBorder": "#073136"
+      "editor.snippetFinalTabstopHighlightBorder": "#073136",
+      // ---------------------------
+      // Minimap
+      // ---------------------------
+      "minimap.findMatchHighlight": "#49d6e9ee"
    },
    tokenColors: syntax
 });

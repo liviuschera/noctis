@@ -268,7 +268,8 @@
       "editor.snippetTabstopHighlightBackground": "#abe4ed77",
       "editor.snippetTabstopHighlightBorder": "#d6f1f5",
       "editor.snippetFinalTabstopHighlightBackground": "#abe4ed77",
-      "editor.snippetFinalTabstopHighlightBorder": "#d6f1f5"
+      "editor.snippetFinalTabstopHighlightBorder": "#d6f1f5",
+      "minimap.findMatchHighlight": "#0099adaa"
    },
    "tokenColors": [
       {

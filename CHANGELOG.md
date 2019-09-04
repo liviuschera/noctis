@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.7.0**
+
+- added `minimap.findMatchHighlight` &rarr; highlight color for matches from search within files introduced in VS Code 1.37.0
+
 ## **10.6.0**
 
 - improvement [#28](https://github.com/liviuschera/noctis/pull/28)
@@ -16,7 +20,7 @@
 
 ## **10.3.0**
 
--  Added `tree.indentGuidesStroke` Tree Widget's stroke color for indent guides introduced in VS Code 1.36.0
+-  added `tree.indentGuidesStroke` &rarr; tree Widget's stroke color for indent guides introduced in VS Code 1.36.0
 
 ## **10.2.1**
 
