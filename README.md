@@ -85,6 +85,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 -  GraphQL (requires [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) extension)
 -  Groovy
 -  Haskell (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension)
+-  🆕 HLSL
 -  HTML
    -  EJS
    -  Handlebars
@@ -121,7 +122,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 -  Visual Basic
 -  _Other_
    -  Apache Conf (requires [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) extension)
-   -  🆕 TOML (requires [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) extension)
+   -  TOML (requires [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) extension)
 
 I plan on adding support for new languages in the upcoming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
 

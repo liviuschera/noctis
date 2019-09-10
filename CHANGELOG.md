@@ -1,5 +1,10 @@
 # Change Log
 
+## **10.8.0**
+
+-  **HLSL** &rarr; added support
+-  updated README
+
 ## **10.7.0**
 
 - added `minimap.findMatchHighlight` &rarr; highlight color for matches from search within files introduced in VS Code 1.37.0

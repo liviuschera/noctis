@@ -491,7 +491,9 @@
             "support.class.crystal",
             "storage.type.integral",
             "source.cpp storage.type.cpp",
-            "source.vala storage.type"
+            "source.vala storage.type",
+            "source.hlsl storage.type.basic",
+            "source.hlsl support.type.other"
          ],
          "settings": {
             "foreground": "#b3694d"
@@ -851,7 +853,8 @@
             "keyword.package",
             "keyword.import",
             "source.wsd keyword.control.diagram",
-            "keyword.language.gherkin.feature.step"
+            "keyword.language.gherkin.feature.step",
+            "source.hlsl storage.type.basic"
          ],
          "settings": {
             "fontStyle": "italic"

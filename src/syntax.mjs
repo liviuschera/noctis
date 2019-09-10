@@ -8,7 +8,7 @@ export default [{
          "source.ocaml comment constant.regexp meta.separator"
       ],
       "settings": {
-         "foreground": "#8b747c"
+         "foreground": "#5988a6"
       }
    },
    {
@@ -45,7 +45,7 @@ export default [{
          "source.css entity.other"
       ],
       "settings": {
-         "foreground": "#cbbec2"
+         "foreground": "#becfda"
       }
    },
    {
@@ -217,7 +217,9 @@ export default [{
          "support.class.crystal",
          "storage.type.integral",
          "source.cpp storage.type.cpp",
-         "source.vala storage.type"
+         "source.vala storage.type",
+         "source.hlsl storage.type.basic",
+         "source.hlsl support.type.other"
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -577,7 +579,8 @@ export default [{
          "keyword.package",
          "keyword.import",
          "source.wsd keyword.control.diagram",
-         "keyword.language.gherkin.feature.step"
+         "keyword.language.gherkin.feature.step",
+         "source.hlsl storage.type.basic",
       ],
       "settings": {
          "fontStyle": "italic"
