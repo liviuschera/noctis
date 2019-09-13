@@ -315,7 +315,8 @@
             "entity.name.record.field.elm",
             "entity.name.record.field.accessor.elm",
             "storage.modifier.array.bracket",
-            "source.css entity.other"
+            "source.css entity.other",
+            "meta.attribute-selector punctuation.definition.entity"
          ],
          "settings": {
             "foreground": "#c5c2d6"
@@ -372,7 +373,8 @@
             "punctuation.definition.directive",
             "storage.type.modifier",
             "keyword.other.class.fileds",
-            "source.toml entity.other.attribute-name"
+            "source.toml entity.other.attribute-name",
+            "source.css entity.name.tag.custom"
          ],
          "settings": {
             "foreground": "#df769b"
@@ -525,7 +527,8 @@
             "support.variable.class.hideshow",
             "entity.other.attribute-name.class",
             "meta.attribute.id entity.other.attribute-name",
-            "text.html entity.other.attribute-name"
+            "text.html entity.other.attribute-name",
+            "meta.tag.attributes entity.other.attribute-name"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -654,14 +657,14 @@
             "meta.function-call.generic.python",
             "meta.method-call.groovy meta.method.groovy",
             "meta.class.body.groovy meta.method.body.java storage.type.groovy",
-            "punctuation.decorator.ts",
             "punctuation.definition.decorator",
             "support.function.any-method",
             "text.tex support.function",
             "text.tex punctuation.definition.function",
             "entity.name.section.fsharp entity.name.section.fsharp",
             "support.variable.class.function",
-            "keyword.control.cucumber.table"
+            "keyword.control.cucumber.table",
+            "punctuation.decorator"
          ],
          "settings": {
             "foreground": "#16a3b6"

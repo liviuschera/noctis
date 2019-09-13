@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.9.0**
+
+- **JSX**, **TSX**, **CSS** &rarr; fixes
+
 ## **10.8.0**
 
 -  **HLSL** &rarr; added support
