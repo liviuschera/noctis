@@ -101,7 +101,8 @@ export default [{
          "storage.type.modifier",
          "keyword.other.class.fileds",
          "source.toml entity.other.attribute-name",
-         "source.css entity.name.tag.custom"
+         "source.css entity.name.tag.custom",
+         "sharing.modifier"
       ],
       "settings": {
          "foreground": "#df769b"
@@ -123,7 +124,7 @@ export default [{
          "source.json meta.structure.dictionary.json support.type.property-name.json",
          "markup.list",
          "meta.var.clojure",
-         "source.cs entity.name.variable",
+         "entity.name.variable",
          "source.java meta.class.body.java",
          "entity.name.package.go",
          "source.c",
@@ -185,7 +186,7 @@ export default [{
          "source.python support.type.python",
          "comment.block.documentation.phpdoc.php keyword.other.type.php",
          "storage.type.php",
-         "keyword.type.cs",
+         "keyword.type",
          "storage.type.cs",
          "storage.type.c",
          "storage.type.objc",
@@ -221,7 +222,8 @@ export default [{
          "source.cpp storage.type.cpp",
          "source.vala storage.type",
          "source.hlsl storage.type.basic",
-         "source.hlsl support.type.other"
+         "source.hlsl support.type.other",
+         "source.apex storage.type",
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -312,7 +314,7 @@ export default [{
          "keyword.declaration.dart",
          "source.wsd keyword.other.class",
          "source.wsd keyword.other.linebegin",
-         "keyword.other.skinparam.keyword"
+         "keyword.other.skinparam.keyword",
       ],
       "settings": {
          "foreground": "#e66533"
@@ -584,6 +586,8 @@ export default [{
          "source.wsd keyword.control.diagram",
          "keyword.language.gherkin.feature.step",
          "source.hlsl storage.type.basic",
+         "source.apex keyword.type",
+         "sharing.modifier"
       ],
       "settings": {
          "fontStyle": "italic"
@@ -619,7 +623,7 @@ export default [{
          "variable.parameter",
          "support.function.builtin.rust",
          "storage.type.function.coffee",
-         "source.cs entity.name.variable.parameter",
+         "entity.name.variable.parameter",
          "punctuation.separator.hash.cs",
          "constant.other.symbol.ruby punctuation.definition.constant.ruby",
          "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",

@@ -1,5 +1,11 @@
 # Change Log
 
+
+## **10.10.0**
+
+-  **Apex** &rarr; added support (requires [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) extension)
+-  updated README
+
 ## **10.9.0**
 
 - **JSX**, **TSX**, **CSS** &rarr; fixes

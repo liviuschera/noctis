@@ -68,6 +68,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 ## Supported Languages
 
+-  🆕 Apex (requires [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) extension)
 -  C/C++
 -  C#
 -  Clojure
