@@ -1,6 +1,10 @@
 # Change Log
 
 
+## **10.10.1**
+
+-  **XML** &rarr; fixed atribute name highlighting
+
 ## **10.10.0**
 
 -  **Apex** &rarr; added support (requires [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) extension)

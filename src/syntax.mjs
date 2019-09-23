@@ -257,7 +257,8 @@ export default [{
          "entity.other.attribute-name.class",
          "meta.attribute.id entity.other.attribute-name",
          "text.html entity.other.attribute-name",
-         "meta.tag.attributes entity.other.attribute-name"
+         "meta.tag.attributes entity.other.attribute-name",
+         "text.xml entity.other.attribute-name",
       ],
       "settings": {
          "foreground": "#d5971a"
