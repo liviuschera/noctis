@@ -68,7 +68,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 ## Supported Languages
 
--  🆕 Apex (requires [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) extension)
+-  Apex (requires [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) extension)
 -  C/C++
 -  C#
 -  Clojure
@@ -86,7 +86,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 -  GraphQL (requires [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) extension)
 -  Groovy
 -  Haskell (requires [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) extension)
--  🆕 HLSL
+-  HLSL
 -  HTML
    -  EJS
    -  Handlebars
@@ -103,11 +103,12 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
    -  AsciiDoc (requires [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode) extension)
    -  LaTeX (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
    -  Markdown
+-  🆕 Nim (requires [Nim](https://marketplace.visualstudio.com/items?itemName=kosz78.nim) extension)
 -  Objective-C
 -  Ocaml (requires [reason-vscode](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) extension)
 -  PHP
    -  Laravel Blade
-   -  Twig &rarr; (requires [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2) extension)
+   -  Twig (requires [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2) extension)
 -  PlantUML (requires [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml) extension)
 -  PowerShell
 -  Python

@@ -164,7 +164,8 @@ export default [{
          "source.elm meta.declaration.module",
          "meta.embedded.block variable punctuation.definition.variable.php",
          "string.quoted.double.class.other",
-         "source.toml keyword"
+         "source.toml keyword",
+         "support.type.nim",
       ],
       "settings": {
          "foreground": "#e4b781"
@@ -224,6 +225,7 @@ export default [{
          "source.hlsl storage.type.basic",
          "source.hlsl support.type.other",
          "source.apex storage.type",
+         "source.nim storage.type",
       ],
       "settings": {
          "foreground": "#d67e5c"
@@ -316,6 +318,7 @@ export default [{
          "source.wsd keyword.other.class",
          "source.wsd keyword.other.linebegin",
          "keyword.other.skinparam.keyword",
+         "keyword.other.nim"
       ],
       "settings": {
          "foreground": "#e66533"
@@ -430,7 +433,8 @@ export default [{
          "source.reason entity.other.attribute-name constant.language constant.numeric",
          "constant.language.unit.fsharp",
          "source.wsd support.class.preprocessings",
-         "keyword.language.gherkin.feature.scenario"
+         "keyword.language.gherkin.feature.scenario",
+         "source.nim keyword.other.common.function"
       ],
       "settings": {
          "foreground": "#49d6e9"
@@ -486,7 +490,7 @@ export default [{
          "meta.embedded.block.php punctuation.definition.variable.php",
          "support.variable.lua",
          "source.vala storage.type",
-         "support.variable.class.group"
+         "support.variable.class.group",
       ],
       "settings": {
          "foreground": "#49ace9"
@@ -588,7 +592,9 @@ export default [{
          "keyword.language.gherkin.feature.step",
          "source.hlsl storage.type.basic",
          "source.apex keyword.type",
-         "sharing.modifier"
+         "sharing.modifier",
+         "source.nim storage.type.concrete",
+         "meta.preprocessor.pragma.nim",
       ],
       "settings": {
          "fontStyle": "italic"
@@ -644,7 +650,7 @@ export default [{
          "meta.function.constructor entity.name.function",
          "meta.function.destructor entity.name.function",
          "meta.function.parameters variable punctuation.definition.variable.php",
-         "source.wsd keyword.other.activity"
+         "source.wsd keyword.other.activity",
       ],
       "settings": {
          "fontStyle": "bold"
@@ -666,7 +672,7 @@ export default [{
          "source.rust meta.attribute.rust",
          "meta.attribute.id entity.other.attribute-name",
          "keyword.other.fn.rust",
-         "source.ocaml punctuation.definition.tag emphasis"
+         "source.ocaml punctuation.definition.tag emphasis",
       ],
       "settings": {
          "fontStyle": "bold italic"
@@ -734,7 +740,10 @@ export default [{
          "keyword.language.gherkin.feature.scenario",
          "keyword.control.cucumber.table",
          "source.toml entity.other.attribute-name",
-         "source.toml keyword"
+         "source.toml keyword",
+         "keyword.other.nim",
+         "source.nim keyword.other.common.function",
+         "source.nim keyword.other"
       ],
       "settings": {
          "fontStyle": ""

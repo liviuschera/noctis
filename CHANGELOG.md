@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.11.0**
+
+-  **Nim** &rarr; added support (requires [Nim](https://marketplace.visualstudio.com/items?itemName=kosz78.nim) extension)
+-  updated README
 
 ## **10.10.1**
 

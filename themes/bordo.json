@@ -437,7 +437,8 @@
             "source.elm meta.declaration.module",
             "meta.embedded.block variable punctuation.definition.variable.php",
             "string.quoted.double.class.other",
-            "source.toml keyword"
+            "source.toml keyword",
+            "support.type.nim"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -496,7 +497,8 @@
             "source.vala storage.type",
             "source.hlsl storage.type.basic",
             "source.hlsl support.type.other",
-            "source.apex storage.type"
+            "source.apex storage.type",
+            "source.nim storage.type"
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -588,7 +590,8 @@
             "keyword.declaration.dart",
             "source.wsd keyword.other.class",
             "source.wsd keyword.other.linebegin",
-            "keyword.other.skinparam.keyword"
+            "keyword.other.skinparam.keyword",
+            "keyword.other.nim"
          ],
          "settings": {
             "foreground": "#e66533"
@@ -703,7 +706,8 @@
             "source.reason entity.other.attribute-name constant.language constant.numeric",
             "constant.language.unit.fsharp",
             "source.wsd support.class.preprocessings",
-            "keyword.language.gherkin.feature.scenario"
+            "keyword.language.gherkin.feature.scenario",
+            "source.nim keyword.other.common.function"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -861,7 +865,9 @@
             "keyword.language.gherkin.feature.step",
             "source.hlsl storage.type.basic",
             "source.apex keyword.type",
-            "sharing.modifier"
+            "sharing.modifier",
+            "source.nim storage.type.concrete",
+            "meta.preprocessor.pragma.nim"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -1007,7 +1013,10 @@
             "keyword.language.gherkin.feature.scenario",
             "keyword.control.cucumber.table",
             "source.toml entity.other.attribute-name",
-            "source.toml keyword"
+            "source.toml keyword",
+            "keyword.other.nim",
+            "source.nim keyword.other.common.function",
+            "source.nim keyword.other"
          ],
          "settings": {
             "fontStyle": ""
