@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.12.0**
+
+-  improved [#29](https://github.com/liviuschera/noctis/issues/29)
+
 ## **10.11.0**
 
 -  **Nim** &rarr; added support (requires [Nim](https://marketplace.visualstudio.com/items?itemName=kosz78.nim) extension)
@@ -16,7 +20,7 @@
 
 ## **10.9.0**
 
-- **JSX**, **TSX**, **CSS** &rarr; fixes
+-  **JSX**, **TSX**, **CSS** &rarr; fixes
 
 ## **10.8.0**
 
@@ -25,15 +29,15 @@
 
 ## **10.7.0**
 
-- added `minimap.findMatchHighlight` &rarr; highlight color for matches from search within files introduced in VS Code 1.37.0
+-  added `minimap.findMatchHighlight` &rarr; highlight color for matches from search within files introduced in VS Code 1.37.0
 
 ## **10.6.0**
 
-- improvement [#28](https://github.com/liviuschera/noctis/pull/28)
+-  improved [#28](https://github.com/liviuschera/noctis/pull/28)
 
 ## **10.5.0**
 
-- improvement [#27](https://github.com/liviuschera/noctis/pull/27)
+-  improved [#27](https://github.com/liviuschera/noctis/pull/27)
 
 ## **10.4.0**
 
@@ -47,7 +51,7 @@
 
 ## **10.2.1**
 
-- Updated README
+-  Updated README
 
 ## **10.2.0**
 
@@ -56,7 +60,7 @@
 
 ## **10.1.0**
 
-- **CSS** &rarr; various improvements
+-  **CSS** &rarr; various improvements
 
 ## **10.0.0**
 
@@ -70,43 +74,43 @@
 
 ## **9.12.0**
 
-- **Crystal**, **C++**, **Dart**, **Vala** &rarr; fixed type annotation highlighting
-- **Go** &rarr; italicized import statements
-- **Objective C** &rarr; fixed floating point higlighting
-- various fixes and improvements
+-  **Crystal**, **C++**, **Dart**, **Vala** &rarr; fixed type annotation highlighting
+-  **Go** &rarr; italicized import statements
+-  **Objective C** &rarr; fixed floating point higlighting
+-  various fixes and improvements
 
 ## **9.11.0**
 
-- **Kotlin**, **Julia** &rarr; italicized primitive datatype annotations and `fun` keyword
-- **Lua** &rarr; fixed the highlighting of constants and libraries
+-  **Kotlin**, **Julia** &rarr; italicized primitive datatype annotations and `fun` keyword
+-  **Lua** &rarr; fixed the highlighting of constants and libraries
 
 ## **9.10.0**
 
-- **PHP** &rarr; fixed the highlighting of:
-   - function parameters
-   - the curly brackets in string interpolation
+-  **PHP** &rarr; fixed the highlighting of:
+   -  function parameters
+   -  the curly brackets in string interpolation
 
 ## **9.9.0**
 
-- **C/C++**, **C#**, **Go**, **Java**, **Groovy**, **Kotlin**, **Scala**, **Python**, **Swift** &rarr; primitive datatype annotations are now italicized
+-  **C/C++**, **C#**, **Go**, **Java**, **Groovy**, **Kotlin**, **Scala**, **Python**, **Swift** &rarr; primitive datatype annotations are now italicized
 
 ## **9.8.0**
 
-- **TypeScript** &rarr; datatype annotations, import and export statements are now italicized [#25](https://github.com/liviuschera/noctis/issues/25)
-- updated screenshots in README
+-  **TypeScript** &rarr; datatype annotations, import and export statements are now italicized [#25](https://github.com/liviuschera/noctis/issues/25)
+-  updated screenshots in README
 
 ## **9.7.0**
 
-- **C/C++** &rarr; more tweaks
+-  **C/C++** &rarr; more tweaks
 
 ## **9.6.0**
 
-- **C/C++** &rarr; various fixes
+-  **C/C++** &rarr; various fixes
 
 ## **9.5.0**
 
-- _Noctis Hibernus_ &rarr; improved contrast for `list.inactiveSelectionBackground`
-- _Noctis Lilac_ &rarr; increased luminosity for panel and terminal background
+-  _Noctis Hibernus_ &rarr; improved contrast for `list.inactiveSelectionBackground`
+-  _Noctis Lilac_ &rarr; increased luminosity for panel and terminal background
 
 ## **9.4.0**
 
@@ -115,7 +119,7 @@
 
 ## **9.3.0**
 
-- added new color `tab.unfocusedActiveBackground` introduced in VSCode v1.35
+-  added new color `tab.unfocusedActiveBackground` introduced in VSCode v1.35
 
 ## **9.2.0**
 
@@ -124,8 +128,8 @@
 
 ## **9.1.0**
 
-- light themes &rarr; improved contrast of annotation color: #ba785e &rarr; #b3694d
-- updated README
+-  light themes &rarr; improved contrast of annotation color: #ba785e &rarr; #b3694d
+-  updated README
 
 ## **9.0.0**
 
@@ -134,23 +138,23 @@
 
 ## **8.10.1**
 
-- fixed the css selector for the workbench in `.vscodecustom.css` changed in VSCode v1.35.0
+-  fixed the css selector for the workbench in `.vscodecustom.css` changed in VSCode v1.35.0
 
 ## **8.10.0**
 
-- improvements, fixes [#23](https://github.com/liviuschera/noctis/pull/23)
+-  improvements, fixes [#23](https://github.com/liviuschera/noctis/pull/23)
 
 ## **8.9.0**
 
-- improvement [#22](https://github.com/liviuschera/noctis/pull/22)
+-  improvement [#22](https://github.com/liviuschera/noctis/pull/22)
 
 ## **8.8.1**
 
-- tweaks [#21](https://github.com/liviuschera/noctis/issues/21)
+-  tweaks [#21](https://github.com/liviuschera/noctis/issues/21)
 
 ## **8.8.0**
 
-- reworked terminal colors [#21](https://github.com/liviuschera/noctis/issues/21)
+-  reworked terminal colors [#21](https://github.com/liviuschera/noctis/issues/21)
 
 ## **8.7.0**
 
