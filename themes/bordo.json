@@ -389,7 +389,6 @@
             "variable.other",
             "variable.parameter",
             "support",
-            "string constant.other.placeholder",
             "entity.name.module",
             "variable.import.parameter",
             "variable.other.class",
@@ -498,7 +497,8 @@
             "source.hlsl storage.type.basic",
             "source.hlsl support.type.other",
             "source.apex storage.type",
-            "source.nim storage.type"
+            "source.nim storage.type",
+            "source.cpp entity.name.type"
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -533,7 +533,10 @@
             "meta.attribute.id entity.other.attribute-name",
             "text.html entity.other.attribute-name",
             "meta.tag.attributes entity.other.attribute-name",
-            "text.xml entity.other.attribute-name"
+            "text.xml entity.other.attribute-name",
+            "source.cs entity.other.attribute-name",
+            "constant.character.format.placeholder",
+            "constant.other.placeholder"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -694,7 +697,6 @@
             "markup.underline.link.image",
             "markup.underline",
             "meta.symbol.namespace.clojure",
-            "entity.name.type.namespace.cs",
             "entity.mime-type.apacheconf",
             "keyword.operator.function.infix",
             "entity.name.function.infix",
@@ -707,7 +709,9 @@
             "constant.language.unit.fsharp",
             "source.wsd support.class.preprocessings",
             "keyword.language.gherkin.feature.scenario",
-            "source.nim keyword.other.common.function"
+            "source.nim keyword.other.common.function",
+            "entity.name.type.namespace",
+            "entity.name.scope-resolution.function.call"
          ],
          "settings": {
             "foreground": "#49d6e9"
@@ -728,11 +732,8 @@
             "source.clojure punctuation.section.metadata",
             "entity.global.clojure",
             "source.python meta.function-call.python support.type.python",
-            "constant.character.format.placeholder.other.python",
             "entity.other.inherited-class.python",
             "punctuation.definition.interpolation",
-            "constant.other.placeholder.go",
-            "constant.other.placeholder.c",
             "punctuation.section.embedded.begin.ruby",
             "punctuation.section.embedded.end.ruby source.ruby",
             "support.constant.math",
@@ -763,7 +764,8 @@
             "meta.embedded.block.php punctuation.definition.variable.php",
             "support.variable.lua",
             "source.vala storage.type",
-            "support.variable.class.group"
+            "support.variable.class.group",
+            "entity.name.type.class"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -847,7 +849,7 @@
             "keyword.control.from",
             "support.type.builtin",
             "keyword.type.cs",
-            "storage.type.built-in.primitive",
+            "storage.type.built-in",
             "storage.type.primitive",
             "source.python support.type.python",
             "storage.type.core.rust",
@@ -867,7 +869,9 @@
             "source.apex keyword.type",
             "sharing.modifier",
             "source.nim storage.type.concrete",
-            "meta.preprocessor.pragma.nim"
+            "meta.preprocessor.pragma.nim",
+            "storage.type.integral",
+            "entity.name.scope-resolution.function.call"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -920,8 +924,8 @@
             "support.function.textbf",
             "source.graphql support.type.builtin",
             "source.ocaml variable.interpolation string",
-            "meta.function.constructor entity.name.function",
-            "meta.function.destructor entity.name.function",
+            "entity.name.function.definition.special.constructor",
+            "entity.name.function.definition.special.member.destructor.",
             "meta.function.parameters variable punctuation.definition.variable.php",
             "source.wsd keyword.other.activity"
          ],

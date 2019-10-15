@@ -1,5 +1,11 @@
 # Change Log
 
+## **10.13.0**
+
+-  **C/C++**, **Go**, **Python** &rarr; strings placeholders are now highligted with `#d5971a` for dark themes, `#b0904f` for Minimus, `#a88c00` for light themes
+-  **C++** &rarr; fixed types highlighting
+-  **C#** &rarr; fixed atribute name highlighting
+
 ## **10.12.0**
 
 -  improved [#29](https://github.com/liviuschera/noctis/issues/29)
