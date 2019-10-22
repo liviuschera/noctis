@@ -27,7 +27,6 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 <div align="center">
 
-
 ## 🆕 Noctis Bordo 🆕
 
 ![Noctis Bordo Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisBordo.png)
@@ -78,10 +77,10 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
    -  Sass/SCSS
 -  Cucumber (Gerkin) (requires [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocompletel) extension)
 -  Dart (requires [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) extension)
-- Elm (requires [elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) extension)
+-  Elm (requires [elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) extension)
 -  Elixir (requires [ElixirLS: Elixir support and debugger](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) extension)
 -  Erlang (requires [erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) extension)
-- F#
+-  F#
 -  Go
 -  GraphQL (requires [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) extension)
 -  Groovy
@@ -236,9 +235,9 @@ Happy hacking!
 
 ## Contributors
 
-| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) | [![Will Hoskings](https://avatars3.githubusercontent.com/u/43454318?s=85&v=4)](https://github.com/def0x099) |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------: |
-|                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 | [Will Hoskings](https://github.com/def0x099) |
+| [![Matteo Campinoti](https://avatars0.githubusercontent.com/u/5142004?s=85&v=4)](https://github.com/MatteoCampinoti94) | [![Draevin](https://avatars2.githubusercontent.com/u/25379577?s=85&v=4)](https://github.com/draevin) | [![Will Hoskings](https://avatars0.githubusercontent.com/u/49915996?s=85&v=4)](https://github.com/resynth1943) |
+| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+|                                [Matteo Campinoti](https://github.com/MatteoCampinoti94)                                |                                [Draevin](https://github.com/draevin)                                 |                                [Will Hoskings](https://github.com/resynth1943)                                 |
 
 ## Credits
 
