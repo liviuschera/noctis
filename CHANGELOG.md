@@ -1,5 +1,13 @@
 # Change Log
 
+## **10.14.0**
+
+-  fixed [#30](https://github.com/liviuschera/noctis/issues/30)
+
+## **10.13.1**
+
+-  updated README
+
 ## **10.13.0**
 
 -  **C/C++**, **Go**, **Python** &rarr; strings placeholders are now highligted with `#d5971a` for dark themes, `#b0904f` for Minimus, `#a88c00` for light themes
