@@ -1,5 +1,10 @@
 # Change Log
 
+## **10.15.0**
+
+-  **JavaScript** &rarr; types are now highlighted in Mongoose schemas
+-  **Markdown** &rarr; added syntax highlighting for diff code
+
 ## **10.14.0**
 
 -  fixed [#30](https://github.com/liviuschera/noctis/issues/30)

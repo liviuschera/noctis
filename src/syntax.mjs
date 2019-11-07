@@ -226,7 +226,8 @@ export default [
          'source.hlsl support.type.other',
          'source.apex storage.type',
          'source.nim storage.type',
-         'source.cpp entity.name.type'
+         'source.cpp entity.name.type',
+         'support.class.builtin'
       ],
       settings: {
          foreground: '#d67e5c'
@@ -322,7 +323,8 @@ export default [
          'source.wsd keyword.other.class',
          'source.wsd keyword.other.linebegin',
          'keyword.other.skinparam.keyword',
-         'keyword.other.nim'
+         'keyword.other.nim',
+         'markup.deleted.diff'
       ],
       settings: {
          foreground: '#e66533'
@@ -335,7 +337,8 @@ export default [
          'punctuation.definition.string',
          'source.css support.constant',
          'entity.name.import.go',
-         'markup.raw.texttt'
+         'markup.raw.texttt',
+         'markup.inserted.diff'
       ],
       settings: {
          foreground: '#49e9a6'
@@ -598,7 +601,8 @@ export default [
          'source.nim storage.type.concrete',
          'meta.preprocessor.pragma.nim',
          'storage.type.integral',
-         'entity.name.scope-resolution.function.call'
+         'entity.name.scope-resolution.function.call',
+         'support.class.builtin'
       ],
       settings: {
          fontStyle: 'italic'
