@@ -6,8 +6,8 @@ export default syntax => ({
       // Editor Base Colors
       // ---------------------------
       "selection.background": "#2964a388",
-      "descriptionForeground": "#6496b4",
-      "errorForeground": "#b96346",
+      descriptionForeground: "#6496b4",
+      errorForeground: "#b96346",
       "widget.shadow": "#00000044",
       "editor.background": "#1b2932",
       "editor.foreground": "#c5cdd3",
@@ -174,7 +174,7 @@ export default syntax => ({
       "editor.inactiveSelectionBackground": "#496d8333",
       "editor.wordHighlightStrongBackground": "#b3994d33",
       "editor.wordHighlightBackground": "#d3b69233",
-      "editor.findMatchBackground": "#72c09f55",
+      "editor.findMatchBackground": "#72c09f25",
       "editor.findMatchHighlightBackground": "#0e667179",
       "editor.findRangeHighlightBackground": "#72c09f22",
       "editor.hoverHighlightBackground": "#496d833f",
@@ -258,8 +258,8 @@ export default syntax => ({
       "extensionButton.prominentBackground": "#28828a",
       "extensionButton.prominentForeground": "#e5f5f5",
       "extensionButton.prominentHoverBackground": "#39bac6",
-      "focusBorder": "#202e37",
-      "foreground": "#c5cdd3",
+      focusBorder: "#202e37",
+      foreground: "#c5cdd3",
       // ---------------------------
       // Panel
       // ---------------------------

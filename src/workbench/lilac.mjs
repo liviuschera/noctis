@@ -6,8 +6,8 @@ export default syntax => ({
       // Editor Base Colors
       // ---------------------------
       "selection.background": "#b4adeb88",
-      "descriptionForeground": "#908ea4",
-      "errorForeground": "#ff4000",
+      descriptionForeground: "#908ea4",
+      errorForeground: "#ff4000",
       "widget.shadow": "#00000055",
       "editor.background": "#f2f1f8",
       "editor.foreground": "#0c006b",
@@ -257,8 +257,8 @@ export default syntax => ({
       "extensionButton.prominentBackground": "#8e80ff",
       "extensionButton.prominentForeground": "#e4e2f9",
       "extensionButton.prominentHoverBackground": "#a599ff",
-      "focusBorder": "#dedbf5",
-      "foreground": "#0c006b",
+      focusBorder: "#dedbf5",
+      foreground: "#0c006b",
       // ---------------------------
       // Panel
       // ---------------------------
