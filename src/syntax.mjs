@@ -103,7 +103,9 @@ export default [
          'keyword.other.class.fileds',
          'source.toml entity.other.attribute-name',
          'source.css entity.name.tag.custom',
-         'sharing.modifier'
+         'sharing.modifier',
+         'keyword.control.class.ruby',
+         'keyword.control.def.ruby'
       ],
       settings: {
          foreground: '#df769b'
@@ -658,7 +660,9 @@ export default [
          'entity.name.function.definition.special.constructor',
          'entity.name.function.definition.special.member.destructor.',
          'meta.function.parameters variable punctuation.definition.variable.php',
-         'source.wsd keyword.other.activity'
+         'source.wsd keyword.other.activity',
+         'keyword.control.class.ruby',
+         'keyword.control.def.ruby'
       ],
       settings: {
          fontStyle: 'bold'
