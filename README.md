@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img width="400" src="https://raw.githubusercontent.com/liviuschera/noctis/master/images/logotxt.png" />
+   <img width="400" src="images/noctisLogo.png" />
 </p>
 
 Noctis is a collection of light & dark themes with a well balanced blend of warm and cold **medium contrast** colors.
@@ -27,41 +27,41 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 <div align="center">
 
-## 🆕 Noctis Bordo 🆕
-
-![Noctis Bordo Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisBordo.png)
-
-## Noctis Lux
-
-![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
-
-## Noctis Lilac
-
-![Noctis Lilac Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLilac.png)
-
-## Noctis Hibernus
-
-![Noctis Hibernus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisHibernus.png)
-
 ## Noctis
 
-![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
+![Noctis Screenshot](images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
+![Noctis Azureus Screenshot](images/noctisAzureus.png)
+
+## Noctis Bordo
+
+![Noctis Bordo Screenshot](images/noctisBordo.png)
 
 ## Noctis Minimus
 
-![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
+![Noctis Minimus Screenshot](images/noctisMinimus.png)
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
+![Noctis Uva Screenshot](images/NoctisUva.png)
 
 ## Noctis Viola
 
-![Noctis Viola Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisViola.png)
+![Noctis Viola Screenshot](images/noctisViola.png)
+
+## Noctis Lux
+
+![Noctis Lux Screenshot](images/noctisLux.png)
+
+## Noctis Lilac
+
+![Noctis Lilac Screenshot](images/noctisLilac.png)
+
+## Noctis Hibernus
+
+![Noctis Hibernus Screenshot](images/noctisHibernus.png)
 
 </div>
 

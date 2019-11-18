@@ -1,5 +1,12 @@
 # Change Log
 
+## **10.18.0**
+
+- new screenshots featuring version 2.0 of the [_Cartograph CF_](https://connary.com/cartograph.html) font &rarr; _"This update includes redrawn glyphs for better legibility, expressive new italics, an expanded set of glyphs, custom code-friendly ligatures, Greek and Katakana support, and much more"_
+- fonts in the screenshots: Hasklig for regular and Cartograph CF for italics
+- updated logo using the new version of the font
+- **JSDoc** &rarr; fix
+
 ## **10.17.0**
 
 - improvement [#33](https://github.com/liviuschera/noctis/issues/33)

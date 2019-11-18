@@ -878,7 +878,8 @@
             "meta.preprocessor.pragma.nim",
             "storage.type.integral",
             "entity.name.scope-resolution.function.call",
-            "support.class.builtin"
+            "support.class.builtin",
+            "comment.block.documentation storage.type.class"
          ],
          "settings": {
             "fontStyle": "italic"
