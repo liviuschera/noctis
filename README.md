@@ -65,6 +65,12 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 </div>
 
+---
+
+> ## The font used in screenshots &rarr; [Cartograph Mono CF](http://connary.com/cartograph.html)
+
+---
+
 ## Supported Languages
 
 - Apex (requires [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode) extension)
@@ -126,37 +132,6 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
   - TOML (requires [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) extension)
 
 I plan on adding support for new languages in the upcoming releases. Please feel free to open an issue if you'd like a new language supported or if you think something is off.
-
-## _The Font_ used in the screenshots
-
-The font in the screenshots are actually 2 fonts glued together with [Custom CSS](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css). For normal style I used [Hasklig](https://github.com/i-tu/Hasklig) and for italics [Cartograph Mono CF](http://connary.com/cartograph.html).
-I think there is a beautiful synergy between the two fonts and they intertwine naturally together.
-
-### "How did you do it?" [#2](https://github.com/liviuschera/noctis/issues/2)
-
-The walkthrough is for Windows. I assume that for Unix and MacOS you would have to change only the path.
-
-1. IMPORTANT: _Run as administrator_ VS Code
-2. install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
-3. download or copy the content of [customvscode.css](https://github.com/liviuschera/noctis/blob/master/vscodecustom.css)
-4. copy `customvscode.css` in `C:\Users\your-own-username`. As an example this is what I have on my system: `C:\Users\liviuschera\customvscode.css`
-5. in `settings.json` add:
-   ```json
-     "editor.fontFamily": "Hasklig",
-     "vscode_custom_css.imports":
-       [
-         "file://C:/Users/yourusername/vscodecustom.css"
-       ],
-   ```
-6. press `F1`
-7. select `Enable Custom CSS and JS`
-8. reload VS Code (it doesn't have to be in administrator mode)
-
-> NOTES:
->
-> - if VS Code complains about that it is corrupted, simply click “Don't show again”.
-> - every time after VS Code is updated or you change the configuration, please re-enable Custom CSS
-> - make sure that you comment out the optional CSS code if you don't want to change the UI's default font.
 
 ## Syntax colors
 

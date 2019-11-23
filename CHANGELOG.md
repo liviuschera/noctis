@@ -1,5 +1,10 @@
 # Change Log
 
+## **10.19.0**
+
+- _Noctis Obscuro_ &rarr; increased background contrast
+- new screenshots featuring version 2.0 of the [_Cartograph CF_](https://connary.com/cartograph.html) font for both regular and italics styles. Cartograph CF all the way!
+
 ## **10.18.0**
 
 - new screenshots featuring version 2.0 of the [_Cartograph CF_](https://connary.com/cartograph.html) font &rarr; _"This update includes redrawn glyphs for better legibility, expressive new italics, an expanded set of glyphs, custom code-friendly ligatures, Greek and Katakana support, and much more"_
