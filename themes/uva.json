@@ -20,6 +20,8 @@
       "activityBar.inactiveForeground": "#6e67a877",
       "activityBarBadge.background": "#998ef1",
       "activityBarBadge.foreground": "#171523",
+      "activityBar.activeBackground": "#998ef133",
+      "activityBar.activeBorder": "#998ef1",
       "sideBar.background": "#232136",
       "sideBar.dropBackground": "#232136",
       "sideBar.border": "#171523",

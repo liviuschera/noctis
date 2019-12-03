@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.20.0**
+
+- added new color token &rarr; `activityBar.activeBorder` and background color for the active element &rarr;`activityBar.activeBackground` introduced in VS Code 1.40.0
+
 ## **10.19.0**
 
 - _Noctis Obscuro_ &rarr; increased background contrast
