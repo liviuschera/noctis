@@ -340,7 +340,9 @@ export default [
       "source.css support.constant",
       "entity.name.import.go",
       "markup.raw.texttt",
-      "markup.inserted.diff"
+      "markup.inserted.diff",
+      "source.scala punctuation.definition.character",
+      "constant.character.literal.scala"
     ],
     settings: {
       foreground: "#49e9a6"
