@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.21.0**
+
+- improvement [#34](https://github.com/liviuschera/noctis/issues/34)
+
 ## **10.20.0**
 
 - added new color token &rarr; `activityBar.activeBorder` and background color for the active element &rarr;`activityBar.activeBackground` introduced in VS Code 1.40.0
