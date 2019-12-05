@@ -306,7 +306,6 @@ export default [
       "keyword.other.julia",
       "source.julia storage.modifier",
       "constant.language.empty-list.haskell",
-      "keyword.declaration.scala",
       "meta.function.powershell storage.type.powershell",
       "keyword.control.fun",
       "punctuation.terminator.function",
@@ -340,7 +339,9 @@ export default [
       "source.css support.constant",
       "entity.name.import.go",
       "markup.raw.texttt",
-      "markup.inserted.diff"
+      "markup.inserted.diff",
+      "source.scala punctuation.definition.character",
+      "constant.character.literal.scala"
     ],
     settings: {
       foreground: "#49e9a6"
@@ -646,7 +647,7 @@ export default [
       "constant.other.symbol.ruby punctuation.definition.constant.ruby",
       "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
       "meta.function.parameters variable.other",
-      "keyword.declaration.scala",
+      "source.scala keyword.declaration",
       "entity.name.type.annotation.kotlin",
       "storage.type.objc",
       "parameter.variable.function",
@@ -707,7 +708,6 @@ export default [
       "meta.class.identifier storage.modifier",
       "keyword.operator.other.powershell",
       "source.lua storage.type.function",
-      "source.scala keyword.declaration",
       "source.css variable.parameter",
       "string.interpolated variable.parameter",
       "source.apacheconf keyword",
