@@ -167,7 +167,8 @@ export default [
       "meta.embedded.block variable punctuation.definition.variable.php",
       "string.quoted.double.class.other",
       "source.toml keyword",
-      "support.type.nim"
+      "support.type.nim",
+      "source.tf meta.template.expression"
     ],
     settings: {
       foreground: "#e4b781"
@@ -229,7 +230,9 @@ export default [
       "source.apex storage.type",
       "source.nim storage.type",
       "source.cpp entity.name.type",
-      "support.class.builtin"
+      "support.class.builtin",
+      "source.tf meta.keyword.string",
+      "source.tf meta.keyword.number"
     ],
     settings: {
       foreground: "#d67e5c"
@@ -325,7 +328,8 @@ export default [
       "source.wsd keyword.other.linebegin",
       "keyword.other.skinparam.keyword",
       "keyword.other.nim",
-      "markup.deleted.diff"
+      "markup.deleted.diff",
+      "source.tf support.class.variable"
     ],
     settings: {
       foreground: "#e66533"
@@ -341,7 +345,8 @@ export default [
       "markup.raw.texttt",
       "markup.inserted.diff",
       "source.scala punctuation.definition.character",
-      "constant.character.literal.scala"
+      "constant.character.literal.scala",
+      "source.tf entity.name"
     ],
     settings: {
       foreground: "#49e9a6"
@@ -407,7 +412,8 @@ export default [
       "entity.name.section.fsharp entity.name.section.fsharp",
       "support.variable.class.function",
       "keyword.control.cucumber.table",
-      "punctuation.decorator"
+      "punctuation.decorator",
+      "source.tf support.class"
     ],
     settings: {
       foreground: "#16a3b6"
@@ -468,8 +474,6 @@ export default [
       "source.python meta.function-call.python support.type.python",
       "entity.other.inherited-class.python",
       "punctuation.definition.interpolation",
-      // "constant.other.placeholder.go",
-      // "constant.other.placeholder.c",
       "punctuation.section.embedded.begin.ruby",
       "punctuation.section.embedded.end.ruby source.ruby",
       "support.constant.math",
@@ -501,7 +505,9 @@ export default [
       "support.variable.lua",
       "source.vala storage.type",
       "support.variable.class.group",
-      "entity.name.type.class"
+      "entity.name.type.class",
+      "source.tf meta.keyword.list",
+      "source.tf meta.keyword.map"
     ],
     settings: {
       foreground: "#49ace9"
@@ -606,7 +612,9 @@ export default [
       "storage.type.integral",
       "entity.name.scope-resolution.function.call",
       "support.class.builtin",
-      "comment.block.documentation storage.type.class"
+      "comment.block.documentation storage.type.class",
+      "source.tf meta.keyword.string",
+      "source.tf meta.keyword.number"
     ],
     settings: {
       fontStyle: "italic"
@@ -686,7 +694,8 @@ export default [
       "source.rust meta.attribute.rust",
       "meta.attribute.id entity.other.attribute-name",
       "keyword.other.fn.rust",
-      "source.ocaml punctuation.definition.tag emphasis"
+      "source.ocaml punctuation.definition.tag emphasis",
+      "source.tf entity.name"
     ],
     settings: {
       fontStyle: "bold italic"

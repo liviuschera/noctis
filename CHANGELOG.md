@@ -1,5 +1,10 @@
 # Change Log
 
+## **10.22.0**
+
+- **Terraform** &rarr; added support (requires [Terraform](https://marketplace.visualstudio.com/items?itemName=4ops.terraform) extension)
+- updated README
+
 ## **10.21.0**
 
 - improvement [#34](https://github.com/liviuschera/noctis/issues/34)

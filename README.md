@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img width="400" src="images/noctisLogo.png" />
+   <img width="400" src="https://github.com/liviuschera/noctis/raw/master/images/noctisLogo.png" />
 </p>
 
 Noctis is a collection of light & dark themes with a well balanced blend of warm and cold **medium contrast** colors.
@@ -29,39 +29,39 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 ## Noctis
 
-![Noctis Screenshot](images/noctis.png)
+![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
 
 ## Noctis Azureus
 
-![Noctis Azureus Screenshot](images/noctisAzureus.png)
+![Noctis Azureus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisAzureus.png)
 
 ## Noctis Bordo
 
-![Noctis Bordo Screenshot](images/noctisBordo.png)
+![Noctis Bordo Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisBordo.png)
 
 ## Noctis Minimus
 
-![Noctis Minimus Screenshot](images/noctisMinimus.png)
+![Noctis Minimus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisMinimus.png)
 
 ## Noctis Uva
 
-![Noctis Uva Screenshot](images/NoctisUva.png)
+![Noctis Uva Screenshot](https://github.com/liviuschera/noctis/raw/master/images/NoctisUva.png)
 
 ## Noctis Viola
 
-![Noctis Viola Screenshot](images/noctisViola.png)
+![Noctis Viola Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisViola.png)
 
 ## Noctis Lux
 
-![Noctis Lux Screenshot](images/noctisLux.png)
+![Noctis Lux Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLux.png)
 
 ## Noctis Lilac
 
-![Noctis Lilac Screenshot](images/noctisLilac.png)
+![Noctis Lilac Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisLilac.png)
 
 ## Noctis Hibernus
 
-![Noctis Hibernus Screenshot](images/noctisHibernus.png)
+![Noctis Hibernus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisHibernus.png)
 
 </div>
 
@@ -108,7 +108,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
   - AsciiDoc (requires [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode) extension)
   - LaTeX (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
   - Markdown
-- 🆕 Nim (requires [Nim](https://marketplace.visualstudio.com/items?itemName=kosz78.nim) extension)
+- Nim (requires [Nim](https://marketplace.visualstudio.com/items?itemName=kosz78.nim) extension)
 - Objective-C
 - Ocaml (requires [reason-vscode](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) extension)
 - PHP
@@ -125,6 +125,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 - SQL
 - Shell Script
 - Swift
+- 🆕 Terraform (requires [Terraform](https://marketplace.visualstudio.com/items?itemName=4ops.terraform) extension)
 - Vala (requires [Vala Code](https://marketplace.visualstudio.com/items?itemName=thiagoabreu.vala) extension)
 - Visual Basic
 - _Other_
