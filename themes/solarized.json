@@ -127,7 +127,7 @@
       "editor.hoverHighlightBackground": "#169fb13f",
       "editor.lineHighlightBackground": "#073642ee",
       "editor.lineHighlightBorder": "#073642",
-      "editor.rangeHighlightBackground": "#083d44a1",
+      "editor.rangeHighlightBackground": "#073642a1",
       "editorLink.activeForeground": "#14a5ff",
       "editorWhitespace.foreground": "#ffffff21",
       "editorIndentGuide.background": "#223b3f",
