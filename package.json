@@ -57,6 +57,11 @@
             "path": "./themes/noctis.json"
          },
          {
+            "label": "Noctis Solarized",
+            "uiTheme": "vs-dark",
+            "path": "./themes/solarized.json"
+         },
+         {
             "label": "Noctis Azureus",
             "uiTheme": "vs-dark",
             "path": "./themes/azureus.json"
