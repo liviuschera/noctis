@@ -389,7 +389,12 @@ export default syntax => ({
     // ---------------------------
     // Minimap
     // ---------------------------
-    "minimap.findMatchHighlight": "#5998c0ee"
+    "minimap.findMatchHighlight": "#5998c0ee",
+    "minimap.errorHighlight": "#b96346ee",
+    "minimap.warningHighlight": "#c09159ee",
+    "minimapGutter.addedBackground": "#3f8d6c",
+    "minimapGutter.modifiedBackground": "#72c09f",
+    "minimapGutter.deletedBackground": "#b96346"
   },
   tokenColors: syntax
 });

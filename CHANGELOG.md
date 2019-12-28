@@ -1,5 +1,14 @@
 # Change Log
 
+## **10.23.0**
+
+- added minimap decorations for errors, warnings, and content changes introduced in VS Code 1.41.0:
+  - `minimap.warningHighlight`
+  - `minimap.errorHighlight`
+  - `minimapGutter.addedBackground`
+  - `minimapGutter.modifiedBackground`
+  - `minimapGutter.deletedBackground`
+
 ## **10.22.0**
 
 - **Terraform** &rarr; added support (requires [Terraform](https://marketplace.visualstudio.com/items?itemName=4ops.terraform) extension)

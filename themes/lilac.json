@@ -271,7 +271,12 @@
       "editor.snippetTabstopHighlightBorder": "#dad6f5",
       "editor.snippetFinalTabstopHighlightBackground": "#b3abed77",
       "editor.snippetFinalTabstopHighlightBorder": "#dad6f5",
-      "minimap.findMatchHighlight": "#7060ebaa"
+      "minimap.findMatchHighlight": "#7060ebaa",
+      "minimap.errorHighlight": "#ff4000ee",
+      "minimap.warningHighlight": "#e69533ee",
+      "minimapGutter.addedBackground": "#009456",
+      "minimapGutter.modifiedBackground": "#14b832",
+      "minimapGutter.deletedBackground": "#ff4000"
    },
    "tokenColors": [
       {
