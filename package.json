@@ -6,7 +6,7 @@
    "publisher": "liviuschera",
    "icon": "images/logo.png",
    "engines": {
-      "vscode": "^1.36.0"
+      "vscode": "^1.41.0"
    },
    "galleryBanner": {
       "color": "#052529",
@@ -19,7 +19,7 @@
    "scripts": {
       "build": "node --experimental-modules src/build.mjs",
       "release:major---": "npm run build && git add . && git commit -m 🆕10.0.0🆕 && npm version major & vsce publish && git push",
-      "release:minor": "npm run build && git add . && git commit -m 10.23.0 && npm version minor & vsce publish && git push",
+      "release:minor": "npm run build && git add . && git commit -m 10.24.0 && npm version minor & vsce publish && git push",
       "release:patch": "npm run build && git add . && git commit -m 10.13.1 && npm version patch & vsce publish && git push"
    },
    "categories": [

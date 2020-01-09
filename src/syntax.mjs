@@ -168,7 +168,8 @@ export default [
       "string.quoted.double.class.other",
       "source.toml keyword",
       "support.type.nim",
-      "source.tf meta.template.expression"
+      "source.tf meta.template.expression",
+      "source.scala entity.name.import"
     ],
     settings: {
       foreground: "#e4b781"
@@ -232,7 +233,8 @@ export default [
       "source.cpp entity.name.type",
       "support.class.builtin",
       "source.tf meta.keyword.string",
-      "source.tf meta.keyword.number"
+      "source.tf meta.keyword.number",
+      "source.scala entity.name.class"
     ],
     settings: {
       foreground: "#d67e5c"
@@ -490,7 +492,6 @@ export default [
       "string.quoted.other.literal.upper.crystal punctuation.definition.string",
       "meta.embedded.line.crystal punctuation.section.embedded",
       "meta.embedded.line.crystal punctuation.section.embedded source.crystal",
-      "source.scala entity.name.class",
       "punctuation.section.embedded",
       "punctuation.section.tag",
       "punctuation.section.embedded source.swift",
@@ -614,7 +615,8 @@ export default [
       "support.class.builtin",
       "comment.block.documentation storage.type.class",
       "source.tf meta.keyword.string",
-      "source.tf meta.keyword.number"
+      "source.tf meta.keyword.number",
+      "source.scala entity.name.class"
     ],
     settings: {
       fontStyle: "italic"
@@ -655,7 +657,6 @@ export default [
       "constant.other.symbol.ruby punctuation.definition.constant.ruby",
       "constant.other.symbol.hashkey.ruby punctuation.definition.constant.ruby",
       "meta.function.parameters variable.other",
-      "source.scala keyword.declaration",
       "entity.name.type.annotation.kotlin",
       "storage.type.objc",
       "parameter.variable.function",
@@ -765,7 +766,9 @@ export default [
       "source.toml keyword",
       "keyword.other.nim",
       "source.nim keyword.other.common.function",
-      "source.nim keyword.other"
+      "source.nim keyword.other",
+      "source.scala keyword.declaration",
+      "source.scala entity.name.class.declaration"
     ],
     settings: {
       fontStyle: ""

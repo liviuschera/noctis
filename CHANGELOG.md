@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.24.0**
+
+- **Scala** &rarr; fixed type annotation highlighting
+
 ## **10.23.0**
 
 - added minimap decorations for errors, warnings, and content changes introduced in VS Code 1.41.0:
@@ -59,7 +63,7 @@
 
 - **C/C++**, **Go**, **Python** &rarr; strings placeholders are now highligted with `#d5971a` for dark themes, `#b0904f` for Minimus, `#a88c00` for light themes
 - **C++** &rarr; fixed types highlighting
-- **C#** &rarr; fixed atribute name highlighting
+- **C#** &rarr; fixed attribute name highlighting
 
 ## **10.12.0**
 
@@ -72,7 +76,7 @@
 
 ## **10.10.1**
 
-- **XML** &rarr; fixed atribute name highlighting
+- **XML** &rarr; fixed attribute name highlighting
 
 ## **10.10.0**
 
