@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.25.0**
+
+- bug fix [#38](https://github.com/liviuschera/noctis/issues/38)
+
 ## **10.24.0**
 
 - **Scala** &rarr; fixed type annotation highlighting

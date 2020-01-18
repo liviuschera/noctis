@@ -584,9 +584,6 @@ export default [
       "function.anonymous keyword",
       "entity.name.record.field.accessor.elm",
       "support.type.primitive",
-      "keyword.control.import",
-      "keyword.control.export",
-      "keyword.control.from",
       "support.type.builtin",
       "keyword.type.cs",
       "storage.type.built-in",
@@ -616,7 +613,8 @@ export default [
       "comment.block.documentation storage.type.class",
       "source.tf meta.keyword.string",
       "source.tf meta.keyword.number",
-      "source.scala entity.name.class"
+      "source.scala entity.name.class",
+      "meta.import keyword.control"
     ],
     settings: {
       fontStyle: "italic"
