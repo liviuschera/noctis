@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.26.0**
+
+- bug fix &rarr; `export` keyword
+
 ## **10.25.0**
 
 - bug fix [#38](https://github.com/liviuschera/noctis/issues/38)

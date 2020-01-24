@@ -896,7 +896,8 @@
             "source.tf meta.keyword.string",
             "source.tf meta.keyword.number",
             "source.scala entity.name.class",
-            "meta.import keyword.control"
+            "meta.import keyword.control",
+            "keyword.control.export"
          ],
          "settings": {
             "fontStyle": "italic"
