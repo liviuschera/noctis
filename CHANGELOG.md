@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.27.0**
+
+- `selection.background` &rarr; improved contrast
+
 ## **10.26.0**
 
 - bug fix &rarr; `export` keyword

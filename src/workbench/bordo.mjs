@@ -5,7 +5,7 @@ export default syntax => ({
     // ---------------------------
     // Editor Base Colors
     // ---------------------------
-    "selection.background": "#88445c88",
+    "selection.background": "#88445cbb",
     descriptionForeground: "#bb778f",
     errorForeground: "#e34e1c",
     "widget.shadow": "#00000044",

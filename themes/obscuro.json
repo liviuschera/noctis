@@ -2,7 +2,7 @@
    "name": "Noctis Obscuro",
    "type": "dark",
    "colors": {
-      "selection.background": "#0e657177",
+      "selection.background": "#0e6571",
       "descriptionForeground": "#929ea0",
       "errorForeground": "#e34e1c",
       "widget.shadow": "#00000044",
