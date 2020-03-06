@@ -1,16 +1,20 @@
 # Change Log
 
+## **10.28.0**
+
+- fix [#41](https://github.com/liviuschera/noctis/issues/41)
+
 ## **10.27.0**
 
 - `selection.background` &rarr; improved contrast
 
 ## **10.26.0**
 
-- bug fix &rarr; `export` keyword
+- fix &rarr; `export` keyword
 
 ## **10.25.0**
 
-- bug fix [#38](https://github.com/liviuschera/noctis/issues/38)
+- fix [#38](https://github.com/liviuschera/noctis/issues/38)
 
 ## **10.24.0**
 
