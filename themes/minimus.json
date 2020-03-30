@@ -276,7 +276,8 @@
       "minimap.warningHighlight": "#c09159ee",
       "minimapGutter.addedBackground": "#3f8d6c",
       "minimapGutter.modifiedBackground": "#72c09f",
-      "minimapGutter.deletedBackground": "#b96346"
+      "minimapGutter.deletedBackground": "#b96346",
+      "minimap.background": "#1b293299"
    },
    "tokenColors": [
       {

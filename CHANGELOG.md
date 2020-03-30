@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.29.0**
+
+- added new color token &rarr; `minimapSlider.background` introduced in VS Code 1.43.0
+
 ## **10.28.0**
 
 - fix [#41](https://github.com/liviuschera/noctis/issues/41)

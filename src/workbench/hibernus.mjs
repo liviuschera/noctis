@@ -1,5 +1,5 @@
 export default syntax => ({
-  name: "Noctis Nix",
+  name: "Noctis Hibernus",
   type: "light",
   colors: {
     // ---------------------------
@@ -392,7 +392,8 @@ export default syntax => ({
     "minimap.warningHighlight": "#e69533ee",
     "minimapGutter.addedBackground": "#009456",
     "minimapGutter.modifiedBackground": "#14b832",
-    "minimapGutter.deletedBackground": "#ff4000"
+    "minimapGutter.deletedBackground": "#ff4000",
+    "minimap.background": "#f4f6f699"
   },
   tokenColors: syntax
 });

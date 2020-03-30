@@ -391,7 +391,8 @@ export default syntax => ({
     "minimap.warningHighlight": "#e69533ee",
     "minimapGutter.addedBackground": "#16b673",
     "minimapGutter.modifiedBackground": "#49e9a6",
-    "minimapGutter.deletedBackground": "#e34e1c"
+    "minimapGutter.deletedBackground": "#e34e1c",
+    "minimap.background": "#29264099"
   },
   tokenColors: syntax
 });
