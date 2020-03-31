@@ -2,7 +2,7 @@
 
 ## **10.29.0**
 
-- added new color token &rarr; `minimapSlider.background` introduced in VS Code 1.43.0
+- added new color token &rarr; `minimap.background` introduced in VS Code 1.43.0
 
 ## **10.28.0**
 
