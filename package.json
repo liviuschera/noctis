@@ -8,6 +8,9 @@
    "engines": {
       "vscode": "^1.43.0"
    },
+   "extensionKind": [
+      "ui"
+   ],
    "galleryBanner": {
       "color": "#052529",
       "theme": "dark"
