@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.33.0**
+
+-  fix [#44](https://github.com/liviuschera/noctis/pull/44)
+
 ## **10.30.0**
 
 -  **VueJS** &rarr; fixed directives highlighting
