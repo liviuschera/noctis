@@ -274,6 +274,7 @@ export default [
          'constant.character.format.placeholder',
          'constant.other.placeholder',
          'source.vue entity.other.attribute-name',
+         'entity.other.attribute-name.mjml',
       ],
       settings: {
          foreground: '#d5971a',

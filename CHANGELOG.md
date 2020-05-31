@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.34.0**
+
+-  **MJML** &rarr; added support
+
 ## **10.33.0**
 
 -  fix [#44](https://github.com/liviuschera/noctis/pull/44)
