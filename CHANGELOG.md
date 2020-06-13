@@ -1,5 +1,11 @@
 # Change Log
 
+## **10.35.0**
+
+-  added new contributor
+-  **VueJS** &rarr; fixed highlighting of the directives punctuation
+-  _Noctis_ base variants &rarr; improved contrast of the `selection.background` colors
+
 ## **10.34.0**
 
 -  **MJML** &rarr; added support
