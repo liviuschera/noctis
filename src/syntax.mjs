@@ -275,6 +275,7 @@ export default [
          'constant.other.placeholder',
          'source.vue entity.other.attribute-name',
          'entity.other.attribute-name.mjml',
+         'source.vue meta.directive punctuation.separator.key-value',
       ],
       settings: {
          foreground: '#d5971a',
@@ -618,6 +619,7 @@ export default [
          'source.scala entity.name.class',
          'meta.import keyword.control',
          'keyword.control.export',
+         'source.vue meta.directive punctuation.separator.key-value',
       ],
       settings: {
          fontStyle: 'italic',

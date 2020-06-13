@@ -554,7 +554,8 @@
             "constant.character.format.placeholder",
             "constant.other.placeholder",
             "source.vue entity.other.attribute-name",
-            "entity.other.attribute-name.mjml"
+            "entity.other.attribute-name.mjml",
+            "source.vue meta.directive punctuation.separator.key-value"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -900,7 +901,8 @@
             "source.tf meta.keyword.number",
             "source.scala entity.name.class",
             "meta.import keyword.control",
-            "keyword.control.export"
+            "keyword.control.export",
+            "source.vue meta.directive punctuation.separator.key-value"
          ],
          "settings": {
             "fontStyle": "italic"
