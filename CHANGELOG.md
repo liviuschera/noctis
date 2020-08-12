@@ -1,5 +1,10 @@
 # Change Log
 
+## **10.36.0**
+
+-  **Rust**, **Go**, **Lua** &rarr; updated highlighting
+-  Updated `README`
+
 ## **10.35.0**
 
 -  added new contributor

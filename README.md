@@ -103,12 +103,12 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
    -  Typescript/TSX
 -  Julia (requires [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) extension)
 -  Kotlin (requires [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) extension)
--  Lua (requires [Lua Plus](https://marketplace.visualstudio.com/items?itemName=jep-a.lua-plus) extension)
+-  Lua (requires [Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) extension)
 -  Markup
    -  AsciiDoc (requires [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode) extension)
    -  LaTeX (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
    -  Markdown
-   -  🆕 MJML (requires [MJML](https://marketplace.visualstudio.com/items?itemName=attilabuti.vscode-mjml) extension)
+   -  MJML (requires [MJML](https://marketplace.visualstudio.com/items?itemName=attilabuti.vscode-mjml) extension)
 -  Nim (requires [Nim](https://marketplace.visualstudio.com/items?itemName=kosz78.nim) extension)
 -  Objective-C
 -  Ocaml (requires [reason-vscode](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) extension)

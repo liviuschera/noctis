@@ -364,7 +364,6 @@
             "keyword.import",
             "punctuation.definition.keyword",
             "punctuation.separator.hash.cs",
-            "variable.parameter.rest.lua",
             "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
             "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
             "source.kotlin storage.type.import",
@@ -544,7 +543,6 @@
             "source.graphql constant.character",
             "source.reason constant.language.list",
             "source.cpp variable.other.enummember",
-            "meta.table.lua variable.other",
             "support.variable.class.hideshow",
             "entity.other.attribute-name.class",
             "meta.attribute.id entity.other.attribute-name",
@@ -600,7 +598,6 @@
             "punctuation.terminator.function",
             "keyword.other.rust",
             "keyword.other.declaration-specifier.swift",
-            "keyword.control.function-end.lua",
             "keyword.control.class",
             "keyword.control.def",
             "source.ocaml keyword markup.underline",
@@ -615,7 +612,8 @@
             "keyword.other.skinparam.keyword",
             "keyword.other.nim",
             "markup.deleted.diff",
-            "source.tf support.class.variable"
+            "source.tf support.class.variable",
+            "meta.function.lua keyword.control.lua"
          ],
          "settings": {
             "foreground": "#e66533"
@@ -765,7 +763,6 @@
             "support.constant.math",
             "entity.namespace.r",
             "meta.method-call.groovy storage.type.groovy",
-            "entity.name.function-table.lua",
             "source.scala entity.name.class.declaration",
             "constant.character.escape",
             "support.function.macro.julia",
@@ -787,12 +784,12 @@
             "keyword.format.specifier.fsharp",
             "support.module.elm",
             "meta.embedded.block.php punctuation.definition.variable.php",
-            "support.variable.lua",
             "source.vala storage.type",
             "support.variable.class.group",
             "entity.name.type.class",
             "source.tf meta.keyword.list",
-            "source.tf meta.keyword.map"
+            "source.tf meta.keyword.map",
+            "entity.name.class.lua"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -840,7 +837,6 @@
             "comment.block.javadoc.java keyword",
             "comment.block.javadoc.java variable.parameter.java",
             "keyword.operator.documentation.powershell",
-            "variable.other.table.property.lua",
             "storage.type.scala",
             "variable.parameter.function.language.special",
             "comment.block.documentation.scala keyword",
@@ -853,7 +849,6 @@
             "constant.other.table-name",
             "constant.other.placeholder",
             "variable.other.field",
-            "keyword.function.go",
             "entity.alias.import.go",
             "source.swift keyword.other.declaration-specifier",
             "support.variable.swift",
@@ -903,7 +898,8 @@
             "source.scala entity.name.class",
             "meta.import keyword.control",
             "keyword.control.export",
-            "source.vue meta.directive punctuation.separator.key-value"
+            "source.vue meta.directive punctuation.separator.key-value",
+            "keyword.local.lua"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -960,7 +956,9 @@
             "meta.function.parameters variable punctuation.definition.variable.php",
             "source.wsd keyword.other.activity",
             "keyword.control.class.ruby",
-            "keyword.control.def.ruby"
+            "keyword.control.def.ruby",
+            "keyword.function.go",
+            "keyword.other.fn.rust"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -981,7 +979,6 @@
             "entity.name.lifetime.rust",
             "source.rust meta.attribute.rust",
             "meta.attribute.id entity.other.attribute-name",
-            "keyword.other.fn.rust",
             "source.ocaml punctuation.definition.tag emphasis",
             "source.tf entity.name"
          ],
@@ -1004,7 +1001,6 @@
             "storage.modifier.package",
             "meta.class.identifier storage.modifier",
             "keyword.operator.other.powershell",
-            "source.lua storage.type.function",
             "source.css variable.parameter",
             "string.interpolated variable.parameter",
             "source.apacheconf keyword",
@@ -1018,7 +1014,6 @@
             "keyword.other.rust",
             "keyword.other.declaration-specifier.swift",
             "entity.name.function.swift",
-            "keyword.control.function-end.lua",
             "keyword.control.class",
             "keyword.control.def",
             "punctuation.definition.variable",
@@ -1055,7 +1050,8 @@
             "source.nim keyword.other.common.function",
             "source.nim keyword.other",
             "source.scala keyword.declaration",
-            "source.scala entity.name.class.declaration"
+            "source.scala entity.name.class.declaration",
+            "keyword.control.lua"
          ],
          "settings": {
             "fontStyle": ""
