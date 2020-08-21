@@ -286,7 +286,10 @@
             "punctuation.definition.comment",
             "punctuation.definition.tag",
             "comment.block.documentation punctuation.definition.bracket",
-            "source.ocaml comment constant.regexp meta.separator"
+            "source.ocaml comment constant.regexp meta.separator",
+            "markup.other.anchor support.constant",
+            "markup.fenced_code",
+            "markup.fenced_code punctuation.definition"
          ],
          "settings": {
             "foreground": "#716c93"
@@ -324,7 +327,8 @@
             "entity.name.record.field.accessor.elm",
             "storage.modifier.array.bracket",
             "source.css entity.other",
-            "meta.attribute-selector punctuation.definition.entity"
+            "meta.attribute-selector punctuation.definition.entity",
+            "markup.other.anchor string"
          ],
          "settings": {
             "foreground": "#c5c2d6"
@@ -403,7 +407,6 @@
             "variable.other.class",
             "meta.toc-list.id.html",
             "source.json meta.structure.dictionary.json support.type.property-name.json",
-            "markup.list",
             "meta.var.clojure",
             "entity.name.variable",
             "source.java meta.class.body.java",
@@ -448,7 +451,8 @@
             "source.toml keyword",
             "support.type.nim",
             "source.tf meta.template.expression",
-            "source.scala entity.name.import"
+            "source.scala entity.name.import",
+            "markup.code"
          ],
          "settings": {
             "foreground": "#e4b781"
@@ -513,7 +517,10 @@
             "support.class.builtin",
             "source.tf meta.keyword.string",
             "source.tf meta.keyword.number",
-            "source.scala entity.name.class"
+            "source.scala entity.name.class",
+            "markup.raw.monospace",
+            "markup.mark",
+            "markup.meta.attribute-list"
          ],
          "settings": {
             "foreground": "#d67e5c"
@@ -553,7 +560,8 @@
             "constant.other.placeholder",
             "source.vue entity.other.attribute-name",
             "entity.other.attribute-name.mjml",
-            "source.vue meta.directive punctuation.separator.key-value"
+            "source.vue meta.directive punctuation.separator.key-value",
+            "meta.definition.attribute-entry punctuation.separator"
          ],
          "settings": {
             "foreground": "#d5971a"
@@ -612,7 +620,10 @@
             "keyword.other.nim",
             "markup.deleted.diff",
             "source.tf support.class.variable",
-            "meta.function.lua keyword.control.lua"
+            "meta.function.lua keyword.control.lua",
+            "markup.italic punctuation.definition",
+            "markup.bold punctuation.definition",
+            "markup.block entity.name.tag"
          ],
          "settings": {
             "foreground": "#e66533"
@@ -788,7 +799,8 @@
             "entity.name.type.class",
             "source.tf meta.keyword.list",
             "source.tf meta.keyword.map",
-            "entity.name.class.lua"
+            "entity.name.class.lua",
+            "markup.substitution"
          ],
          "settings": {
             "foreground": "#49ace9"
@@ -898,7 +910,10 @@
             "meta.import keyword.control",
             "keyword.control.export",
             "source.vue meta.directive punctuation.separator.key-value",
-            "keyword.local.lua"
+            "keyword.local.lua",
+            "markup.list",
+            "markup.mark.constrained markup.mark",
+            "markup.block.open"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -957,7 +972,10 @@
             "keyword.control.class.ruby",
             "keyword.control.def.ruby",
             "keyword.function.go",
-            "keyword.other.fn.rust"
+            "keyword.other.fn.rust",
+            "markup.other.anchor",
+            "markup.list.bullet",
+            "markup.list punctuation.definition"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -979,7 +997,10 @@
             "source.rust meta.attribute.rust",
             "meta.attribute.id entity.other.attribute-name",
             "source.ocaml punctuation.definition.tag emphasis",
-            "source.tf entity.name"
+            "source.tf entity.name",
+            "markup.quote punctuation.definition",
+            "markup.fenced_code punctuation.definition",
+            "fenced_code.block.language"
          ],
          "settings": {
             "fontStyle": "bold italic"
