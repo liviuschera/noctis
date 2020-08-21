@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.37.0**
+
+-  updated AsciiDoc recommended extension [#45](https://github.com/liviuschera/noctis/issues/45)
+
 ## **10.36.0**
 
 -  **Rust**, **Go**, **Lua** &rarr; updated highlighting

@@ -105,7 +105,7 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 -  Kotlin (requires [Kotlin](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin) extension)
 -  Lua (requires [Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) extension)
 -  Markup
-   -  AsciiDoc (requires [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode) extension)
+   -  AsciiDoc (requires [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) extension)
    -  LaTeX (requires [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension)
    -  Markdown
    -  MJML (requires [MJML](https://marketplace.visualstudio.com/items?itemName=attilabuti.vscode-mjml) extension)
