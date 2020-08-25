@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.38.0**
+
+-  tweaked _Noctis Obscuro_
+
 ## **10.37.1**
 
 -  reworked **AsciiDoc** and **Markdown**
