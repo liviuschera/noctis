@@ -1,5 +1,10 @@
 # Change Log
 
+## **10.39.0**
+
+-  tweaked _Noctis Lux_ and _Noctis Lilac_
+-  improved contrast for variables in light themes [#46](https://github.com/liviuschera/noctis/issues/46)
+
 ## **10.38.0**
 
 -  tweaked _Noctis Obscuro_

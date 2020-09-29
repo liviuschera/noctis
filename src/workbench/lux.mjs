@@ -1,4 +1,4 @@
-export default syntax => ({
+export default (syntax) => ({
   name: "Noctis Lux",
   type: "light",
   colors: {
@@ -33,25 +33,25 @@ export default syntax => ({
     // ---------------------------
     // Sidebar
     // ---------------------------
-    "sideBar.background": "#f8efdd",
+    "sideBar.background": "#f9f1e1",
     "sideBar.foreground": "#888477",
     "sideBar.border": "#ece2c600",
-    "sideBar.dropBackground": "#f8efdd",
+    "sideBar.dropBackground": "#f9f1e1",
     "sideBarTitle.foreground": "#888477",
-    "sideBarSectionHeader.background": "#f0e3c2",
+    "sideBarSectionHeader.background": "#f2e7ca",
     "sideBarSectionHeader.foreground": "#888477",
     // ---------------------------
     // Status Bar
     // ---------------------------
-    "statusBar.background": "#ebe4d1",
+    "statusBar.background": "#f0e9d6",
     "statusBar.foreground": "#0099ad",
     "statusBar.border": "#ece2c600",
-    "statusBar.debuggingBackground": "#f8efdd",
+    "statusBar.debuggingBackground": "#f9f1e1",
     "statusBar.debuggingForeground": "#e9498150",
     "statusBar.debuggingBorder": "#e94981af",
     "statusBar.noFolderForeground": "#87a7ab",
-    "statusBar.noFolderBackground": "#f8efdd",
-    "statusBar.noFolderBorder": "#f8efdd",
+    "statusBar.noFolderBackground": "#f9f1e1",
+    "statusBar.noFolderBorder": "#f9f1e1",
     "statusBarItem.activeBackground": "#dfeff1",
     "statusBarItem.hoverBackground": "#d1e8eb",
     "statusBarItem.prominentBackground": "#c1d4d7",
@@ -94,9 +94,9 @@ export default syntax => ({
     // ---------------------------
     // Editor Group Header
     // ---------------------------
-    "editorGroupHeader.noTabsBackground": "#ebe4d1",
-    "editorGroupHeader.tabsBackground": "#ebe4d1",
-    "editorGroupHeader.tabsBorder": "#ebe4d100",
+    "editorGroupHeader.noTabsBackground": "#f0e9d6",
+    "editorGroupHeader.tabsBackground": "#f0e9d6",
+    "editorGroupHeader.tabsBorder": "#f0e9d600",
     // ---------------------------
     // Editor Tabs
     // ---------------------------
@@ -104,7 +104,7 @@ export default syntax => ({
     "tab.unfocusedActiveBackground": "#f7f2e3",
     "tab.activeForeground": "#0099ad",
     "tab.border": "#e6d7b2",
-    "tab.inactiveBackground": "#ebe4d1",
+    "tab.inactiveBackground": "#f0e9d6",
     "tab.inactiveForeground": "#888477",
     "tab.unfocusedActiveForeground": "#888477",
     "tab.unfocusedInactiveForeground": "#888477",
@@ -116,18 +116,18 @@ export default syntax => ({
     // ---------------------------
     // Text Colors
     // ---------------------------
-    "textBlockQuote.background": "#f8efdd",
+    "textBlockQuote.background": "#f9f1e1",
     "textBlockQuote.border": "#00899e",
-    "textCodeBlock.background": "#f8efdd",
+    "textCodeBlock.background": "#f9f1e1",
     "textLink.activeForeground": "#00c6e0",
     "textLink.foreground": "#00c6e0",
     "textPreformat.foreground": "#e9a149",
-    "textSeparator.foreground": "#f8efdd",
+    "textSeparator.foreground": "#f9f1e1",
     // ---------------------------
     // Welcome Page
     // ---------------------------
-    "walkThrough.embeddedEditorBackground": "#f8efdd",
-    "welcomePage.buttonBackground": "#f8efdd",
+    "walkThrough.embeddedEditorBackground": "#f9f1e1",
+    "welcomePage.buttonBackground": "#f9f1e1",
     "welcomePage.buttonHoverBackground": "#e1e0d0",
     // ---------------------------
     // Input Control
@@ -213,9 +213,9 @@ export default syntax => ({
     "terminal.ansiBrightMagenta": "#ff6b9f",
     "terminal.ansiBrightCyan": "#00cbe6",
     "terminal.ansiBrightWhite": "#bbc3c4",
-    "terminal.background": "#f6ebd5",
+    "terminal.background": "#f6edda",
     "terminal.foreground": "#005661",
-    "terminalCursor.background": "#f6ebd5",
+    "terminalCursor.background": "#f6edda",
     "terminalCursor.foreground": "#005661",
     // ---------------------------
     // Merge
@@ -250,8 +250,8 @@ export default syntax => ({
     // ---------------------------
     // Debug
     // ---------------------------
-    "debugToolBar.background": "#f8efdd",
-    "debugExceptionWidget.background": "#f8efdd",
+    "debugToolBar.background": "#f9f1e1",
+    "debugExceptionWidget.background": "#f9f1e1",
     "debugExceptionWidget.border": "#00899e",
     // ---------------------------
     // Extensions
@@ -264,7 +264,7 @@ export default syntax => ({
     // ---------------------------
     // Panel
     // ---------------------------
-    "panel.background": "#f6ebd5",
+    "panel.background": "#f6edda",
     "panel.border": "#00c6e0",
     "panelTitle.activeBorder": "#00c6e0",
     "panelTitle.activeForeground": "#0099ad",
@@ -277,13 +277,13 @@ export default syntax => ({
     "peekViewEditor.matchHighlightBackground": "#148f9f33",
     "peekViewEditor.matchHighlightBorder": "#148f9f79",
     "peekViewEditorGutter.background": "#fff7e5",
-    "peekViewResult.background": "#f8efdd",
+    "peekViewResult.background": "#f9f1e1",
     "peekViewResult.fileForeground": "#e9a149",
     "peekViewResult.lineForeground": "#87a7ab",
     "peekViewResult.matchHighlightBackground": "#f2edde",
     "peekViewResult.selectionBackground": "#f2edde",
     "peekViewResult.selectionForeground": "#6a7a7c",
-    "peekViewTitle.background": "#f8efdd",
+    "peekViewTitle.background": "#f9f1e1",
     "peekViewTitleDescription.foreground": "#87a7ab",
     "peekViewTitleLabel.foreground": "#e9a149",
     // ---------------------------
@@ -361,9 +361,9 @@ export default syntax => ({
     // Title bar
     // Note: These colors are currently only supported on macOS.
     // ---------------------------
-    "titleBar.activeBackground": "#f8efdd",
+    "titleBar.activeBackground": "#f9f1e1",
     "titleBar.activeForeground": "#005661",
-    "titleBar.inactiveBackground": "#f8efdd",
+    "titleBar.inactiveBackground": "#f9f1e1",
     "titleBar.inactiveForeground": "#888477",
     // ---------------------------
     // Custom title bar and menus
@@ -393,7 +393,7 @@ export default syntax => ({
     "minimapGutter.addedBackground": "#009456",
     "minimapGutter.modifiedBackground": "#14b832",
     "minimapGutter.deletedBackground": "#ff4000",
-    "minimap.background": "#fef8ec99"
+    "minimap.background": "#fef8ec99",
   },
-  tokenColors: syntax
+  tokenColors: syntax,
 });
