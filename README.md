@@ -27,6 +27,12 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 
 <div align="center">
 
+---
+
+> ## The font used in screenshots is called [Cartograph CF](http://connary.com/cartograph.html)
+
+---
+
 ## Noctis
 
 ![Noctis Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctis.png)
@@ -64,12 +70,6 @@ Noctis comes in 11 versions, 8 are dark and 3 are light.
 ![Noctis Hibernus Screenshot](https://github.com/liviuschera/noctis/raw/master/images/noctisHibernus.png)
 
 </div>
-
----
-
-> ## The font used in screenshots &rarr; [Cartograph Mono CF](http://connary.com/cartograph.html)
-
----
 
 ## Supported Languages
 

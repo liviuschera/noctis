@@ -1,5 +1,9 @@
 # Change Log
 
+## **10.39.1**
+
+-  updated README
+
 ## **10.39.0**
 
 -  tweaked _Noctis Lux_ and _Noctis Lilac_
