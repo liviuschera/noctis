@@ -9,7 +9,8 @@
       "vscode": "^1.43.0"
    },
    "extensionKind": [
-      "ui"
+      "ui",
+      "workspace"
    ],
    "galleryBanner": {
       "color": "#052529",
@@ -22,7 +23,7 @@
    "scripts": {
       "build": "node src/build.mjs",
       "release:major---": "npm run build && git add . && git commit -m 🆕10.0.0🆕 && npm version major & vsce publish && git push",
-      "release:minor": "npm run build && git add . && git commit -m 10.39.0 && npm version minor & vsce publish && git push",
+      "release:minor": "npm run build && git add . && git commit -m 10.40.0 && npm version minor & vsce publish && git push",
       "release:patch": "npm run build && git add . && git commit -m 10.39.1 && npm version patch & vsce publish && git push"
    },
    "categories": [

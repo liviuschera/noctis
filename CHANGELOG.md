@@ -1,5 +1,10 @@
 # Change Log
 
+
+## **10.40.0**
+
+-  fix [#54](https://github.com/liviuschera/noctis/issues/54)
+
 ## **10.39.1**
 
 -  updated README
