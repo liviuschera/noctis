@@ -143,56 +143,56 @@ The color names were matched using the excellent online tools [Name that Color](
 
 | Color           | Hex Code                                                           | Used for:                                                 |
 | --------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
-| Eucalyptus      | ![#49e9a6](https://placehold.it/15/49e9a6/000000?text=+) `#49e9a6` | Strings                                                   |
-| Mountain Meadow | ![#16b673](https://placehold.it/15/16b673/000000?text=+) `#16b673` | Interpolated Strings                                      |
-| Horizon         | ![#5b858b](https://placehold.it/15/5b858b/000000?text=+) `#5b858b` | Comments for default theme                                |
-| Smalt Blue      | ![#507b95](https://placehold.it/15/507b95/000000?text=+) `#507b95` | Comments for _Azureus_ variant                            |
-| Kimberly        | ![#716c93](https://placehold.it/15/716c93/000000?text=+) `#716c93` | Comments for _Uva_ variant                                |
-| Trendy Pink     | ![#7f659a](https://placehold.it/15/7f659a/000000?text=+) `#7f659a` | Comments for _Viola_ variant                              |
-| Eastern Blue    | ![#16a3b6](https://placehold.it/15/16a3b6/000000?text=+) `#16a3b6` | Function Calls                                            |
-| Turcoise        | ![#49d6e9](https://placehold.it/15/49d6e9/000000?text=+) `#49d6e9` | Method Calls                                              |
-| Picton Blue     | ![#49ace9](https://placehold.it/15/49ace9/000000?text=+) `#49ace9` | Code that needs to stand out                              |
-| Cornflower Blue | ![#7060eb](https://placehold.it/15/7060eb/000000?text=+) `#7060eb` | Numbers & Booleans                                        |
-| Pale Violet Red | ![#df769b](https://placehold.it/15/df769b/000000?text=+) `#df769b` | Keywords & Operators                                      |
-| Cinnabar        | ![#e66533](https://placehold.it/15/e66533/000000?text=+) `#e66533` | Function & Variable Declaration, Tags & `this`            |
-| Japonica        | ![#d67e5c](https://placehold.it/15/d67e5c/000000?text=+) `#d67e5c` | Object properties, ID selectors in CSS & Type annotations |
-| Galliano        | ![#d5971a](https://placehold.it/15/d5971a/000000?text=+) `#d5971a` | Attributes, Constants                                     |
-| Gold Sand       | ![#e4b781](https://placehold.it/15/e4b781/000000?text=+) `#e4b781` | Variables & Parameters                                    |
+| Eucalyptus      | ![#49e9a6](https://via.placeholder.com/15/49e9a6/000000?text=+) `#49e9a6` | Strings                                                   |
+| Mountain Meadow | ![#16b673](https://via.placeholder.com/15/16b673/000000?text=+) `#16b673` | Interpolated Strings                                      |
+| Horizon         | ![#5b858b](https://via.placeholder.com/15/5b858b/000000?text=+) `#5b858b` | Comments for default theme                                |
+| Smalt Blue      | ![#507b95](https://via.placeholder.com/15/507b95/000000?text=+) `#507b95` | Comments for _Azureus_ variant                            |
+| Kimberly        | ![#716c93](https://via.placeholder.com/15/716c93/000000?text=+) `#716c93` | Comments for _Uva_ variant                                |
+| Trendy Pink     | ![#7f659a](https://via.placeholder.com/15/7f659a/000000?text=+) `#7f659a` | Comments for _Viola_ variant                              |
+| Eastern Blue    | ![#16a3b6](https://via.placeholder.com/15/16a3b6/000000?text=+) `#16a3b6` | Function Calls                                            |
+| Turcoise        | ![#49d6e9](https://via.placeholder.com/15/49d6e9/000000?text=+) `#49d6e9` | Method Calls                                              |
+| Picton Blue     | ![#49ace9](https://via.placeholder.com/15/49ace9/000000?text=+) `#49ace9` | Code that needs to stand out                              |
+| Cornflower Blue | ![#7060eb](https://via.placeholder.com/15/7060eb/000000?text=+) `#7060eb` | Numbers & Booleans                                        |
+| Pale Violet Red | ![#df769b](https://via.placeholder.com/15/df769b/000000?text=+) `#df769b` | Keywords & Operators                                      |
+| Cinnabar        | ![#e66533](https://via.placeholder.com/15/e66533/000000?text=+) `#e66533` | Function & Variable Declaration, Tags & `this`            |
+| Japonica        | ![#d67e5c](https://via.placeholder.com/15/d67e5c/000000?text=+) `#d67e5c` | Object properties, ID selectors in CSS & Type annotations |
+| Galliano        | ![#d5971a](https://via.placeholder.com/15/d5971a/000000?text=+) `#d5971a` | Attributes, Constants                                     |
+| Gold Sand       | ![#e4b781](https://via.placeholder.com/15/e4b781/000000?text=+) `#e4b781` | Variables & Parameters                                    |
 
 ### Minimus Colors
 
 | Color         | Hex Code                                                           | Used for:                                                 |
 | ------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
-| Silver Tree   | ![#70c27f](https://placehold.it/15/70c27f/000000?text=+) `#70c27f` | Strings                                                   |
-| Viridian      | ![#3f8d6c](https://placehold.it/15/3f8d6c/000000?text=+) `#3f8d6c` | Interpolated Strings                                      |
-| Hoki          | ![#5e7887](https://placehold.it/15/5e7887/000000?text=+) `#5e7887` | Comments                                                  |
-| Ming          | ![#3f848d](https://placehold.it/15/3f848d/000000?text=+) `#3f848d` | Function Calls                                            |
-| Glacier       | ![#72b7c0](https://placehold.it/15/72b7c0/000000?text=+) `#72b7c0` | Method Calls                                              |
-| Fountain Blue | ![#5998c0](https://placehold.it/15/5998c0/000000?text=+) `#5998c0` | Code that needs to stand out                              |
-| Chetwode Blue | ![#7068B1](https://placehold.it/15/7068B1/000000?text=+) `#7068B1` | Numbers & Booleans                                        |
-| Viola         | ![#c88da2](https://placehold.it/15/c88da2/000000?text=+) `#c88da2` | Keywords & Operators                                      |
-| Antique Brass | ![#c37455](https://placehold.it/15/c37455/000000?text=+) `#c37455` | Function & Variable Declaration, Tags & `this`            |
-| Contessa      | ![#be856f](https://placehold.it/15/be856f/000000?text=+) `#be856f` | Object properties, ID selectors in CSS & Type annotations |
-| Driftwood     | ![#b0904f](https://placehold.it/15/b0904f/000000?text=+) `#b0904f` | Attributes, Constants                                     |
-| Tan           | ![#d3b692](https://placehold.it/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                                    |
+| Silver Tree   | ![#70c27f](https://via.placeholder.com/15/70c27f/000000?text=+) `#70c27f` | Strings                                                   |
+| Viridian      | ![#3f8d6c](https://via.placeholder.com/15/3f8d6c/000000?text=+) `#3f8d6c` | Interpolated Strings                                      |
+| Hoki          | ![#5e7887](https://via.placeholder.com/15/5e7887/000000?text=+) `#5e7887` | Comments                                                  |
+| Ming          | ![#3f848d](https://via.placeholder.com/15/3f848d/000000?text=+) `#3f848d` | Function Calls                                            |
+| Glacier       | ![#72b7c0](https://via.placeholder.com/15/72b7c0/000000?text=+) `#72b7c0` | Method Calls                                              |
+| Fountain Blue | ![#5998c0](https://via.placeholder.com/15/5998c0/000000?text=+) `#5998c0` | Code that needs to stand out                              |
+| Chetwode Blue | ![#7068B1](https://via.placeholder.com/15/7068B1/000000?text=+) `#7068B1` | Numbers & Booleans                                        |
+| Viola         | ![#c88da2](https://via.placeholder.com/15/c88da2/000000?text=+) `#c88da2` | Keywords & Operators                                      |
+| Antique Brass | ![#c37455](https://via.placeholder.com/15/c37455/000000?text=+) `#c37455` | Function & Variable Declaration, Tags & `this`            |
+| Contessa      | ![#be856f](https://via.placeholder.com/15/be856f/000000?text=+) `#be856f` | Object properties, ID selectors in CSS & Type annotations |
+| Driftwood     | ![#b0904f](https://via.placeholder.com/15/b0904f/000000?text=+) `#b0904f` | Attributes, Constants                                     |
+| Tan           | ![#d3b692](https://via.placeholder.com/15/d3b692/000000?text=+) `#d3b692` | Variables & Parameters                                    |
 
 ### Light Themes Colors
 
 | Color            | Hex Code                                                           | Used for:                                                 |
 | ---------------- | ------------------------------------------------------------------ | --------------------------------------------------------- |
-| Jade             | ![#00b368](https://placehold.it/15/00b368/000000?text=+) `#00b368` | Strings                                                   |
-| Green Haze       | ![#009456](https://placehold.it/15/009456/000000?text=+) `#009456` | Interpolated Strings                                      |
-| Cascade          | ![#8ca6a6](https://placehold.it/15/8ca6a6/000000?text=+) `#8ca6a6` | Comments for _Lux_ & _Hibernus_ variant                   |
-| Amethyst Smoke   | ![#9995b7](https://placehold.it/15/9995b7/000000?text=+) `#9995b7` | Comments for _Lilac_ variant                              |
-| Bondi Blue       | ![#0095a8](https://placehold.it/15/0095a8/000000?text=+) `#0095a8` | Function Calls                                            |
-| Robin's Egg Blue | ![#00bdd6](https://placehold.it/15/00bdd6/000000?text=+) `#00bdd6` | Method Calls                                              |
-| Azure Radiance   | ![#0094f0](https://placehold.it/15/0094f0/000000?text=+) `#0094f0` | Code that needs to stand out                              |
-| Electric Violet  | ![#5842ff](https://placehold.it/15/5842ff/000000?text=+) `#5842ff` | Numbers & Booleans                                        |
-| PBrink Pink      | ![#ff5792](https://placehold.it/15/ff5792/000000?text=+) `#ff5792` | Keywords & Operators                                      |
-| Trinidad         | ![#e64100](https://placehold.it/15/e64100/000000?text=+) `#e64100` | Function & Variable Declaration, Tags & `this`            |
-| Santa Fe         | ![#b3694d](https://placehold.it/15/b3694d/000000?text=+) `#b3694d` | Object properties, ID selectors in CSS & Type annotations |
-| Dark Goldenrod   | ![#a88c00](https://placehold.it/15/a88c00/000000?text=+) `#a88c00` | Attributes, Constants                                     |
-| Yellow Sea       | ![#f49725](https://placehold.it/15/f49725/000000?text=+) `#f49725` | Variables & Parameters                                    |
+| Jade             | ![#00b368](https://via.placeholder.com/15/00b368/000000?text=+) `#00b368` | Strings                                                   |
+| Green Haze       | ![#009456](https://via.placeholder.com/15/009456/000000?text=+) `#009456` | Interpolated Strings                                      |
+| Cascade          | ![#8ca6a6](https://via.placeholder.com/15/8ca6a6/000000?text=+) `#8ca6a6` | Comments for _Lux_ & _Hibernus_ variant                   |
+| Amethyst Smoke   | ![#9995b7](https://via.placeholder.com/15/9995b7/000000?text=+) `#9995b7` | Comments for _Lilac_ variant                              |
+| Bondi Blue       | ![#0095a8](https://via.placeholder.com/15/0095a8/000000?text=+) `#0095a8` | Function Calls                                            |
+| Robin's Egg Blue | ![#00bdd6](https://via.placeholder.com/15/00bdd6/000000?text=+) `#00bdd6` | Method Calls                                              |
+| Azure Radiance   | ![#0094f0](https://via.placeholder.com/15/0094f0/000000?text=+) `#0094f0` | Code that needs to stand out                              |
+| Electric Violet  | ![#5842ff](https://via.placeholder.com/15/5842ff/000000?text=+) `#5842ff` | Numbers & Booleans                                        |
+| PBrink Pink      | ![#ff5792](https://via.placeholder.com/15/ff5792/000000?text=+) `#ff5792` | Keywords & Operators                                      |
+| Trinidad         | ![#e64100](https://via.placeholder.com/15/e64100/000000?text=+) `#e64100` | Function & Variable Declaration, Tags & `this`            |
+| Santa Fe         | ![#b3694d](https://via.placeholder.com/15/b3694d/000000?text=+) `#b3694d` | Object properties, ID selectors in CSS & Type annotations |
+| Dark Goldenrod   | ![#a88c00](https://via.placeholder.com/15/a88c00/000000?text=+) `#a88c00` | Attributes, Constants                                     |
+| Yellow Sea       | ![#f49725](https://via.placeholder.com/15/f49725/000000?text=+) `#f49725` | Variables & Parameters                                    |
 
 ## Installation
 
