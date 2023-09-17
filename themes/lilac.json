@@ -290,7 +290,10 @@
             "source.ocaml comment constant.regexp meta.separator",
             "markup.other.anchor support.constant",
             "markup.fenced_code",
-            "markup.fenced_code punctuation.definition"
+            "markup.fenced_code punctuation.definition",
+            "punctuation.definition.heading",
+            "punctuation.definition.bold.markdown",
+            "punctuation.definition.italic.markdown"
          ],
          "settings": {
             "foreground": "#9995b7"
@@ -317,7 +320,6 @@
             "markup meta punctuation.definition",
             "meta.bracket.julia",
             "meta.array.julia",
-            "punctuation.separator.key-value",
             "entity.name.footnote",
             "source.ocaml punctuation.definition.tag",
             "source.ocaml entity.name.filename",
@@ -329,7 +331,9 @@
             "storage.modifier.array.bracket",
             "source.css entity.other",
             "meta.attribute-selector punctuation.definition.entity",
-            "markup.other.anchor string"
+            "markup.other.anchor string",
+            "punctuation.separator",
+            "punctuation.section"
          ],
          "settings": {
             "foreground": "#0c006b"
@@ -453,7 +457,8 @@
             "support.type.nim",
             "source.tf meta.template.expression",
             "source.scala entity.name.import",
-            "markup.code"
+            "markup.code",
+            "markup.fenced_code.block"
          ],
          "settings": {
             "foreground": "#fa8900"
@@ -521,7 +526,8 @@
             "source.scala entity.name.class",
             "markup.raw.monospace",
             "markup.mark",
-            "markup.meta.attribute-list"
+            "entity.name.type.primitive",
+            "entity.name.type.numeric"
          ],
          "settings": {
             "foreground": "#b3694d"
@@ -573,8 +579,6 @@
          "scope": [
             "variable.language",
             "variable.parameter.function.language.special",
-            "markup.bold",
-            "markup.italic",
             "punctuation.definition.italic",
             "punctuation.definition.bold",
             "entity.name.tag",
@@ -622,9 +626,11 @@
             "markup.deleted.diff",
             "source.tf support.class.variable",
             "meta.function.lua keyword.control.lua",
-            "markup.italic punctuation.definition",
-            "markup.bold punctuation.definition",
-            "markup.block entity.name.tag"
+            "markup.block entity.name.tag",
+            "markup.meta.attribute-list",
+            "markup.strikethrough",
+            "punctuation.definition.strikethrough.markdown",
+            "markup.strikethrough punctuation.definition.strikethrough"
          ],
          "settings": {
             "foreground": "#e64100"
@@ -759,7 +765,6 @@
             "source.js punctuation.section.embedded",
             "punctuation.definition.template-expression",
             "support.class",
-            "entity.name.type",
             "storage.type.string.python",
             "string.interpolated.pug",
             "support.constant.handlebars",
@@ -912,9 +917,10 @@
             "keyword.control.export",
             "source.vue meta.directive punctuation.separator.key-value",
             "keyword.local.lua",
-            "markup.list",
             "markup.mark.constrained markup.mark",
-            "markup.block.open"
+            "markup.block.open",
+            "entity.name.type.primitive",
+            "entity.name.type.numeric"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -932,8 +938,6 @@
             "constant.other.color",
             "punctuation.accessor",
             "entity.name.section",
-            "markup.bold",
-            "markup.bold string",
             "markdown.heading",
             "markup.inline.raw punctuation.definition.raw",
             "markup.heading",
@@ -942,10 +946,8 @@
             "storage.type.annotation",
             "punctuation.bracket.angle",
             "keyword.other.new",
-            "punctuation.separator.question-mark.cs",
             "storage.type.generic.wildcard",
             "source.go keyword.operator",
-            "punctuation.separator.namespace",
             "constant.other.symbol.ruby punctuation.definition.constant.ruby",
             "variable.parameter",
             "support.function.builtin.rust",
@@ -962,7 +964,6 @@
             "punctuation.section.directive",
             "punctuation.definition.preprocessor",
             "source.ruby punctuation.definition.variable",
-            "punctuation.separator.method",
             "support.function.textbf",
             "source.graphql support.type.builtin",
             "source.ocaml variable.interpolation string",
@@ -976,7 +977,12 @@
             "keyword.other.fn.rust",
             "markup.other.anchor",
             "markup.list.bullet",
-            "markup.list punctuation.definition"
+            "markup.list punctuation.definition",
+            "keyword.control.default",
+            "punctuation.section",
+            "punctuation.separator",
+            "punctuation.terminator",
+            "markup.bold.markdown"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -985,12 +991,7 @@
       {
          "name": "BOLD-ITALIC",
          "scope": [
-            "markup.bold markup.italic",
-            "markup.italic markup.bold",
             "markup.quote markup.bold",
-            "markup.bold markup.italic string",
-            "markup.italic markup.bold string",
-            "markup.quote markup.bold string",
             "text.html punctuation.section.embedded",
             "variable.other.c",
             "storage.modifier.lifetime.rust",
@@ -1056,7 +1057,6 @@
             "source.c keyword.other",
             "keyword.other.unit",
             "storage.modifier.array.bracket",
-            "keyword.control.default",
             "meta.import.haskell keyword",
             "keyword.declaration.dart",
             "source.wsd keyword.other",
@@ -1072,10 +1072,20 @@
             "source.nim keyword.other",
             "source.scala keyword.declaration",
             "source.scala entity.name.class.declaration",
-            "keyword.control.lua"
+            "keyword.control.lua",
+            "source.css punctuation`.section.property-list"
          ],
          "settings": {
             "fontStyle": ""
+         }
+      },
+      {
+         "name": "STRIKETHROUGH",
+         "scope": [
+            "markup.strikethrough"
+         ],
+         "settings": {
+            "fontStyle": "strikethrough"
          }
       }
    ]

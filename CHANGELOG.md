@@ -1,5 +1,12 @@
 # Change Log
 
+## **10.41.0**
+
+-  bolded punctuation in various languages
+-  fix [#63](https://github.com/liviuschera/noctis/issues/63)
+-  fix [#69](https://github.com/liviuschera/noctis/issues/69)
+-  fix [#74](https://github.com/liviuschera/noctis/issues/74)
+
 
 ## **10.40.0**
 
