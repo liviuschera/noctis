@@ -12,7 +12,8 @@ export default [
          "markup.fenced_code punctuation.definition",
          "punctuation.definition.heading",
          "punctuation.definition.bold.markdown",
-         "punctuation.definition.italic.markdown"
+         "punctuation.definition.italic.markdown",
+         "punctuation.definition.strikethrough.markdown"
       ],
       "settings": {
          "foreground": "#5b858b"
@@ -346,10 +347,7 @@ export default [
          "source.tf support.class.variable",
          "meta.function.lua keyword.control.lua",
          "markup.block entity.name.tag",
-         "markup.meta.attribute-list",
-         "markup.strikethrough",
-         "punctuation.definition.strikethrough.markdown",
-         "markup.strikethrough punctuation.definition.strikethrough"
+         "markup.meta.attribute-list"
       ],
       "settings": {
          "foreground": "#e66533"
@@ -792,7 +790,7 @@ export default [
          "source.scala keyword.declaration",
          "source.scala entity.name.class.declaration",
          "keyword.control.lua",
-         "source.css punctuation`.section.property-list"
+         "source.css punctuation.section"
       ],
       "settings": {
          "fontStyle": ""

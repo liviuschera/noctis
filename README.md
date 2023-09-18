@@ -178,7 +178,6 @@ Happy hacking!
 |---|---|
 | [![Matteo Campinoti](https://avatars.githubusercontent.com/u/5142004?s=85)](https://github.com/MatteoCampinoti94) | [Matteo Campinoti](https://github.com/MatteoCampinoti94) |
 | [![Draevin](https://avatars.githubusercontent.com/u/25379577?s=85)](https://github.com/draevin) | [Draevin](https://github.com/draevin) |
-| <a href="https://github.com/resynth1943"><img width="85" src="https://avatars.githubusercontent.com/u/49915996" alt="Will Hoskings" /></a> | [Will Hoskings](https://github.com/resynth1943) |
 | [![Dang Trung Kien](https://avatars.githubusercontent.com/u/6521018?s=85)](https://github.com/kiendang) | [Dang Trung Kien](https://github.com/kiendang) |
 | [![CertainLach](https://avatars.githubusercontent.com/u/6235312?s=85)](https://github.com/CertainLach) | [CertainLach](https://github.com/CertainLach) |
 | [![Dustin Beecher](https://avatars.githubusercontent.com/u/65888560?s=85)](https://github.com/dustinbeecher) | [Dustin Beecher](https://github.com/dustinbeecher) |
