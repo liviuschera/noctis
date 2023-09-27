@@ -2,6 +2,10 @@
 
 ## **10.41.2**
 
+-  normalized embeded punctuation
+
+## **10.41.1**
+
 -  fix [#69](https://github.com/liviuschera/noctis/issues/69)
 
 ## **10.41.0**

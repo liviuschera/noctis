@@ -1071,7 +1071,8 @@
             "source.scala keyword.declaration",
             "source.scala entity.name.class.declaration",
             "keyword.control.lua",
-            "source.css punctuation.section"
+            "source.css punctuation.section",
+            "punctuation.section.embedded"
          ],
          "settings": {
             "fontStyle": ""
