@@ -334,7 +334,8 @@
             "meta.attribute-selector punctuation.definition.entity",
             "markup.other.anchor string",
             "punctuation.separator",
-            "punctuation.section"
+            "punctuation.section",
+            "punctuation.terminator"
          ],
          "settings": {
             "foreground": "#c5cdd3"
@@ -628,7 +629,9 @@
             "source.tf support.class.variable",
             "meta.function.lua keyword.control.lua",
             "markup.block entity.name.tag",
-            "markup.meta.attribute-list"
+            "markup.meta.attribute-list",
+            "source.zig keyword.default",
+            "source.zig keyword.structure"
          ],
          "settings": {
             "foreground": "#c37455"
@@ -685,7 +688,9 @@
             "constant.others.fsharp",
             "keyword.other.unit",
             "string.quoted.double.skinparam.value",
-            "source.toml constant"
+            "source.toml constant",
+            "source.zig keyword.constant.bool",
+            "source.zig keyword.constant.default"
          ],
          "settings": {
             "foreground": "#7068b1"
@@ -918,7 +923,10 @@
             "markup.mark.constrained markup.mark",
             "markup.block.open",
             "entity.name.type.primitive",
-            "entity.name.type.numeric"
+            "entity.name.type.numeric",
+            "source.zig keyword.type",
+            "source.zig keyword.storage",
+            "source.zig keyword.structure"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -980,7 +988,8 @@
             "punctuation.section",
             "punctuation.separator",
             "punctuation.terminator",
-            "markup.bold.markdown"
+            "markup.bold.markdown",
+            "source.zig storage.type.function"
          ],
          "settings": {
             "fontStyle": "bold"
@@ -1072,7 +1081,20 @@
             "source.scala entity.name.class.declaration",
             "keyword.control.lua",
             "source.css punctuation.section",
-            "punctuation.section.embedded"
+            "punctuation.section.embedded",
+            "source.c punctuation.section",
+            "source.cpp punctuation.section",
+            "source.java punctuation.section",
+            "source.php punctuation.section",
+            "source.powershell punctuation.section",
+            "source.r punctuation.section",
+            "source.ruby punctuation.section",
+            "source.swift punctuation.section",
+            "source.objc punctuation.section",
+            "source.zig keyword.constant.bool",
+            "source.zig keyword.default",
+            "source.zig keyword.statement",
+            "source.zig keyword.constant.default"
          ],
          "settings": {
             "fontStyle": ""
