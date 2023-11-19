@@ -1,5 +1,10 @@
 # Change Log
 
+## **10.43**
+
+- fix [#79](https://github.com/liviuschera/noctis/issues/79)
+- tweaked types highlighting in various languages
+
 ## **10.42**
 
 - **Zig** &rarr; added support (requires [Zig Language](https://marketplace.visualstudio.com/items?itemName=ziglang.vscode-zig) extension)

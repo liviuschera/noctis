@@ -502,12 +502,10 @@
             "storage.modifier.lifetime.rust",
             "entity.name.lifetime.rust",
             "support.type.vb",
-            "entity.name.type.kotlin",
             "support.type.julia",
             "constant.other.reference",
             "source.graphql support.type",
             "source.reason support.type string",
-            "entity.name.type.fsharp",
             "source.elm storage.type",
             "storage.type.user-defined",
             "storage.type.built-in",
@@ -521,15 +519,13 @@
             "source.hlsl support.type.other",
             "source.apex storage.type",
             "source.nim storage.type",
-            "source.cpp entity.name.type",
             "support.class.builtin",
             "source.tf meta.keyword.string",
             "source.tf meta.keyword.number",
             "source.scala entity.name.class",
             "markup.raw.monospace",
             "markup.mark",
-            "entity.name.type.primitive",
-            "entity.name.type.numeric"
+            "entity.name.type"
          ],
          "settings": {
             "foreground": "#be856f"
@@ -754,7 +750,6 @@
             "source.wsd support.class.preprocessings",
             "keyword.language.gherkin.feature.scenario",
             "source.nim keyword.other.common.function",
-            "entity.name.type.namespace",
             "entity.name.scope-resolution.function.call"
          ],
          "settings": {
@@ -989,7 +984,8 @@
             "punctuation.separator",
             "punctuation.terminator",
             "markup.bold.markdown",
-            "source.zig storage.type.function"
+            "source.zig storage.type.function",
+            "entity.name.type"
          ],
          "settings": {
             "fontStyle": "bold"
