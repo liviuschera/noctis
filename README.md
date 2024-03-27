@@ -183,7 +183,7 @@ Happy hacking!
 | [![CertainLach](https://avatars.githubusercontent.com/u/6235312?s=85)](https://github.com/CertainLach)            | [CertainLach](https://github.com/CertainLach)            |
 | [![Dustin Beecher](https://avatars.githubusercontent.com/u/65888560?s=85)](https://github.com/dustinbeecher)      | [Dustin Beecher](https://github.com/dustinbeecher)       |
 | [![Jatin Sanghvi](https://avatars.githubusercontent.com/u/20547963?s=85)](https://github.com/JatinSanghvi)        | [Jatin Sanghvi](https://github.com/JatinSanghvi)         |
-| [![Zane D. Purvis](https://avatars.githubusercontent.com/u/295055?v=4)](https://github.com/zanedp)                | [Zane D. Purvis](https://github.com/zanedp)              |
+| [![Zane D. Purvis](https://avatars.githubusercontent.com/u/295055?s=85)](https://github.com/zanedp)               | [Zane D. Purvis](https://github.com/zanedp)              |
 
 ## Credits
 

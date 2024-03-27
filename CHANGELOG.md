@@ -1,6 +1,10 @@
 # Change Log
 
-## **10.43.1**
+## **10.43.3**
+
+-   fix readme
+
+## **10.43.2**
 
 -   fix [#87](https://github.com/liviuschera/noctis/pull/88)
 -   add contributor
