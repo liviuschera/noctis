@@ -153,7 +153,7 @@ export default syntax => ({
     // ---------------------------
     "editorWidget.background": "#09334e",
     "editorWidget.border": "#0f1315",
-    "editorHoverWidget.background": "#002942",
+    "editorHoverWidget.background": "#0b3c5b",
     "editorHoverWidget.border": "#0f1315",
     "editorSuggestWidget.background": "#002942",
     "editorSuggestWidget.border": "#0f1315",
