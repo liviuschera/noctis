@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#EE962BFF",
+        "font" : "System",
+        "color" : "#8CA6A6FF"
+      },
+      "shortcut" : {
+        "size" : 20,
+        "colorSelected" : "#0E2232FF",
+        "font" : "System",
+        "color" : "#EE962BFF"
+      },
+      "backgroundSelected" : "#8CA6A63F",
+      "text" : {
+        "size" : 19,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#787878FF"
+      },
+      "iconPaddingHorizontal" : 7,
+      "paddingVertical" : 8,
+      "iconSize" : 36
+    },
+    "search" : {
+      "paddingVertical" : 11,
+      "background" : "#00000000",
+      "spacing" : 0,
+      "text" : {
+        "size" : 30,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#EE962BFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#F9EFDDFF",
+      "paddingHorizontal" : 9,
+      "width" : 560,
+      "borderPadding" : 0,
+      "borderColor" : "#F3C600FF",
+      "blur" : 0,
+      "roundness" : -16,
+      "paddingVertical" : 0
+    },
+    "credit" : "Liviu Schera",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#B2B2B2FF",
+      "thickness" : 0
+    },
+    "name" : "Noctis Lux"
+  }
+}
