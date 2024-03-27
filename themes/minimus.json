@@ -804,7 +804,8 @@
             "source.tf meta.keyword.list",
             "source.tf meta.keyword.map",
             "entity.name.class.lua",
-            "markup.substitution"
+            "markup.substitution",
+            "source.cs entity.name.type"
          ],
          "settings": {
             "foreground": "#5998c0"
@@ -882,7 +883,6 @@
             "entity.name.record.field.accessor.elm",
             "support.type.primitive",
             "support.type.builtin",
-            "keyword.type.cs",
             "storage.type.built-in",
             "storage.type.primitive",
             "source.python support.type.python",
@@ -921,7 +921,8 @@
             "entity.name.type.numeric",
             "source.zig keyword.type",
             "source.zig keyword.storage",
-            "source.zig keyword.structure"
+            "source.zig keyword.structure",
+            "source.cs keyword.type"
          ],
          "settings": {
             "fontStyle": "italic"
@@ -984,8 +985,7 @@
             "punctuation.separator",
             "punctuation.terminator",
             "markup.bold.markdown",
-            "source.zig storage.type.function",
-            "entity.name.type"
+            "source.zig storage.type.function"
          ],
          "settings": {
             "fontStyle": "bold"
