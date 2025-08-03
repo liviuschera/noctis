@@ -1,105 +1,111 @@
 {
-    "name": "noctis",
-    "displayName": "Noctis",
-    "description": "Noctis is a collection of light & dark themes with a well balanced blend of warm and cold colors",
-    "version": "10.43.3",
-    "publisher": "liviuschera",
-    "icon": "images/logo.png",
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "extensionKind": [
-        "ui",
-        "workspace"
-    ],
-    "galleryBanner": {
-        "color": "#052529",
-        "theme": "dark"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/liviuschera/noctis"
-    },
-    "scripts": {
-        "build": "node src/build.mjs",
-        "release:major---": "npm run build && git add . && git commit -m 🆕10.0.0🆕 && npm version major & vsce publish && git push",
-        "release:minor": "npm run build && git add . && git commit -m 10.43.0 && npm version minor & vsce publish && git push",
-        "release:patch": "npm run build && git add . && git commit -m 10.43.3 && npm version patch & vsce publish && git push"
-    },
-    "categories": [
-        "Themes",
-        "Other"
-    ],
-    "keywords": [
-        "noctis",
-        "blue",
-        "azure",
-        "semantic",
-        "italic",
-        "bold"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Noctis Lux",
-                "uiTheme": "vs",
-                "path": "./themes/lux.json"
-            },
-            {
-                "label": "Noctis Hibernus",
-                "uiTheme": "vs",
-                "path": "./themes/hibernus.json"
-            },
-            {
-                "label": "Noctis Lilac",
-                "uiTheme": "vs",
-                "path": "./themes/lilac.json"
-            },
-            {
-                "label": "Noctis",
-                "uiTheme": "vs-dark",
-                "path": "./themes/noctis.json"
-            },
-            {
-                "label": "Noctis Azureus",
-                "uiTheme": "vs-dark",
-                "path": "./themes/azureus.json"
-            },
-            {
-                "label": "Noctis Bordo",
-                "uiTheme": "vs-dark",
-                "path": "./themes/bordo.json"
-            },
-            {
-                "label": "Noctis Obscuro",
-                "uiTheme": "vs-dark",
-                "path": "./themes/obscuro.json"
-            },
-            {
-                "label": "Noctis Sereno",
-                "uiTheme": "vs-dark",
-                "path": "./themes/sereno.json"
-            },
-            {
-                "label": "Noctis Uva",
-                "uiTheme": "vs-dark",
-                "path": "./themes/uva.json"
-            },
-            {
-                "label": "Noctis Viola",
-                "uiTheme": "vs-dark",
-                "path": "./themes/viola.json"
-            },
-            {
-                "label": "Noctis Minimus",
-                "uiTheme": "vs-dark",
-                "path": "./themes/minimus.json"
-            }
-        ]
-    },
-    "__metadata": {
-        "id": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813",
-        "publisherId": "676e5383-8870-48a9-80bb-67ae23e9228c",
-        "publisherDisplayName": "Liviu Schera"
-    }
+  "name": "noctis",
+  "displayName": "Noctis",
+  "description": "Noctis is a collection of light & dark themes with a well balanced blend of warm and cold colors",
+  "version": "10.43.3",
+  "publisher": "liviuschera",
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "galleryBanner": {
+    "color": "#052529",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liviuschera/noctis"
+  },
+  "scripts": {
+    "build": "ts-node --transpile-only src/build.ts",
+    "build:tsc": "tsc -p tsconfig.json && node dist/build.js",
+    "release:major---": "npm run build && git add . && git commit -m 🆕10.0.0🆕 && npm version major & vsce publish && git push",
+    "release:minor": "npm run build && git add . && git commit -m 10.43.0 && npm version minor & vsce publish && git push",
+    "release:patch": "npm run build && git add . && git commit -m 10.43.3 && npm version patch & vsce publish && git push"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "noctis",
+    "blue",
+    "azure",
+    "semantic",
+    "italic",
+    "bold"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noctis Lux",
+        "uiTheme": "vs",
+        "path": "./themes/lux.json"
+      },
+      {
+        "label": "Noctis Hibernus",
+        "uiTheme": "vs",
+        "path": "./themes/hibernus.json"
+      },
+      {
+        "label": "Noctis Lilac",
+        "uiTheme": "vs",
+        "path": "./themes/lilac.json"
+      },
+      {
+        "label": "Noctis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctis.json"
+      },
+      {
+        "label": "Noctis Azureus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/azureus.json"
+      },
+      {
+        "label": "Noctis Bordo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bordo.json"
+      },
+      {
+        "label": "Noctis Obscuro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/obscuro.json"
+      },
+      {
+        "label": "Noctis Sereno",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sereno.json"
+      },
+      {
+        "label": "Noctis Uva",
+        "uiTheme": "vs-dark",
+        "path": "./themes/uva.json"
+      },
+      {
+        "label": "Noctis Viola",
+        "uiTheme": "vs-dark",
+        "path": "./themes/viola.json"
+      },
+      {
+        "label": "Noctis Minimus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/minimus.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813",
+    "publisherId": "676e5383-8870-48a9-80bb-67ae23e9228c",
+    "publisherDisplayName": "Liviu Schera"
+  }
 }
