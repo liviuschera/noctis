@@ -226,7 +226,8 @@
         "source.tf meta.template.expression",
         "source.scala entity.name.import",
         "markup.code",
-        "markup.fenced_code.block"
+        "markup.fenced_code.block",
+        "meta.interpolation.rust"
       ],
       "settings": {
         "foreground": "#e4b781"
