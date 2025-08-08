@@ -226,7 +226,8 @@
         "source.tf meta.template.expression",
         "source.scala entity.name.import",
         "markup.code",
-        "markup.fenced_code.block"
+        "markup.fenced_code.block",
+        "meta.interpolation.rust"
       ],
       "settings": {
         "foreground": "#e4b781"
@@ -332,7 +333,8 @@
         "source.vue entity.other.attribute-name",
         "entity.other.attribute-name.mjml",
         "source.vue meta.directive punctuation.separator.key-value",
-        "meta.definition.attribute-entry punctuation.separator"
+        "meta.definition.attribute-entry punctuation.separator",
+        "meta.interpolation.rust"
       ],
       "settings": {
         "foreground": "#d5971a"
@@ -579,10 +581,7 @@
     },
     {
       "name": "INVALID",
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#e3541c"
       }

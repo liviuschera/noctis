@@ -178,6 +178,7 @@ export const SYNTAX_RULES = [
       "source.scala entity.name.import",
       "markup.code",
       "markup.fenced_code.block",
+      "meta.interpolation.rust",
     ],
   },
   {
