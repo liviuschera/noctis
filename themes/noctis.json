@@ -581,7 +581,10 @@
     },
     {
       "name": "INVALID",
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "foreground": "#e3541c"
       }
