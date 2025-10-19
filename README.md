@@ -150,7 +150,7 @@ The color names were matched using the excellent online tools [Name that Color](
 | Eastern Blue    | ![#16a3b6](https://www.colorbook.io/imagecreator.php?hex=16a3b6&width=15&height=15) `#16a3b6` | Function Calls                                            |
 | Turcoise        | ![#49d6e9](https://www.colorbook.io/imagecreator.php?hex=49d6e9&width=15&height=15) `#49d6e9` | Method Calls                                              |
 | Picton Blue     | ![#49ace9](https://www.colorbook.io/imagecreator.php?hex=49ace9&width=15&height=15) `#49ace9` | Code that needs to stand out                              |
-| Cornflower Blue | ![#7060eb](https://www.colorbook.io/imagecreator.php?hex=df769b&width=15&height=15) `#7060eb` | Numbers & Booleans                                        |
+| Cornflower Blue | ![#7060eb](https://www.colorbook.io/imagecreator.php?hex=7060eb&width=15&height=15) `#7060eb` | Numbers & Booleans                                        |
 | Pale Violet Red | ![#df769b](https://www.colorbook.io/imagecreator.php?hex=df769b&width=15&height=15) `#df769b` | Keywords & Operators                                      |
 | Cinnabar        | ![#e66533](https://www.colorbook.io/imagecreator.php?hex=e66533&width=15&height=15) `#e66533` | Function & Variable Declaration, Tags & `this`            |
 | Japonica        | ![#d67e5c](https://www.colorbook.io/imagecreator.php?hex=d67e5c&width=15&height=15) `#d67e5c` | Object properties, ID selectors in CSS & Type annotations |
